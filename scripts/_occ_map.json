@@ -1,0 +1,46 @@
+{
+  "ceviche": {
+    "url": "/occasions/ceviche.jpg",
+    "credit": "Photo: Capitán Bahía"
+  },
+  "cocktails": {
+    "url": "/occasions/cocktails.jpg",
+    "credit": "Photo: Finca del Mar"
+  },
+  "specialty-coffee": {
+    "url": "/occasions/specialty-coffee.jpg",
+    "credit": "Photo: @durancoffeestore"
+  },
+  "outdoor": {
+    "url": "/occasions/outdoor.jpg",
+    "credit": "Photo: @lesmecspty"
+  },
+  "family-friendly": {
+    "url": "/occasions/family-friendly.jpg",
+    "credit": "Photo: @athenspanama"
+  },
+  "vegetarian": {
+    "url": "/occasions/vegetarian.jpg",
+    "credit": "Photo: @salva_rest"
+  },
+  "dog-friendly": {
+    "url": "/occasions/dog-friendly.jpg",
+    "credit": "Photo: @paloemangogardenspot"
+  },
+  "date-night": {
+    "url": "/occasions/date-night.jpg",
+    "credit": ""
+  },
+  "cheap-eats": {
+    "url": "/occasions/cheap-eats.jpg",
+    "credit": ""
+  },
+  "with-a-view": {
+    "url": "/occasions/with-a-view.jpg",
+    "credit": ""
+  },
+  "brunch": {
+    "url": "/occasions/brunch.jpg",
+    "credit": ""
+  }
+}

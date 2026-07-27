@@ -1,0 +1,1100 @@
+[
+ {
+  "id": "paitilla-coffee-max",
+  "slug": "coffee-max",
+  "name": "Coffee Max",
+  "cuisine_en": [
+   "Cafe"
+  ],
+  "cuisine_es": [],
+  "price_tier": 2,
+  "neighborhood_slug": "paitilla",
+  "address": "C. Tomas Gabriel Duque, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.977493899999999,
+  "lng": -79.51103839999999,
+  "phones": {
+   "call": "+507 445-0000"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "7:30 AM",
+    "close": "10:30 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "7:30 AM",
+    "close": "10:30 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "7:30 AM",
+    "close": "10:30 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "7:30 AM",
+    "close": "10:30 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "7:30 AM",
+    "close": "10:30 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "8:00 AM",
+    "close": "10:30 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "8:00 AM",
+    "close": "10:30 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/coffee-max.jpg",
+    "alt_en": "Mango frappe at Coffee Max, Punta Paitilla, Panama City",
+    "alt_es": "Frappé de mango en Coffee Max, Punta Paitilla, Ciudad de Panamá",
+    "credit_en": "Photo: @coffeemaxpanama",
+    "credit_url": "https://www.instagram.com/coffeemaxpanama/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Cafe",
+   "Brunch"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Salmon Teriyaki a la parrilla",
+    "description_en": "Grilled teriyaki-glazed salmon main",
+    "price": 24.5,
+    "popular": false,
+    "description_es": "Salmón a la parrilla glaseado con teriyaki"
+   },
+   {
+    "name": "Shnitzel",
+    "description_en": "Breaded cutlet main",
+    "price": 17.95,
+    "popular": false,
+    "description_es": "Milanesa empanizada"
+   },
+   {
+    "name": "Club sandwich",
+    "description_en": "Layered club sandwich with sides",
+    "price": 13.5,
+    "popular": false,
+    "description_es": "Club sándwich en capas con acompañantes"
+   },
+   {
+    "name": "Huevos benedictinos",
+    "description_en": "Eggs Benedict-style breakfast",
+    "price": 13.5,
+    "popular": false,
+    "description_es": "Desayuno estilo huevos Benedict"
+   },
+   {
+    "name": "Shakshuka loca",
+    "description_en": "Eggs poached in spiced tomato",
+    "price": 11.95,
+    "popular": false,
+    "description_es": "Huevos escalfados en salsa de tomate especiada"
+   },
+   {
+    "name": "Emparedado Tuna Max",
+    "description_en": "House tuna sandwich",
+    "price": 10.95,
+    "popular": false,
+    "description_es": "Sándwich de atún de la casa"
+   }
+  ],
+  "about_en": "Coffee Max is a cafe in the Paitilla neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Salmon Teriyaki a la parrilla"
+  ],
+  "whats_good_en": [
+   "Broad menu spanning breakfast, sandwiches and grilled mains",
+   "Italian-style coffee",
+   "Generous portions"
+  ],
+  "typical_spend_en": "$11 to $24 a main",
+  "dataset_comparison_en": "One of the few Cafe kitchens in Paitilla",
+  "attributes_en": [
+   "Card accepted",
+   "Full menu",
+   "All-day breakfast",
+   "Delivery"
+  ],
+  "best_time_en": "Open 7:30am-10:30pm daily; good for breakfast or a long lunch",
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/coffeemaxpanama/",
+   "https://coffeemax.com.pa/",
+   "https://www.degustapanama.com/panama/restaurante/coffee-max-paitilla_106704/menu"
+  ],
+  "best_time": {
+   "busiest": "Sat-Sun, 9 AM-12 PM",
+   "busiest_note_en": "Weekend brunch is the peak",
+   "easy": "Weekday mornings",
+   "easy_note_en": "Calm, easy to get a table",
+   "sweet": "Sun, 8:30-9:30 AM",
+   "sweet_note_en": "Fresh and unhurried before the brunch wave"
+  },
+  "price_source": "menu",
+  "social": {
+   "instagram": "https://www.instagram.com/coffeemaxpanama/"
+  },
+  "social_proof": "IG bio reads 'Food. People. Coffee. Paitilla, Panama' and posts cite 'Paitilla - G&G Plaza', matching the venue's Punta Paitilla location (Calle Tomas Gabriel Duque, G&G Plaza per Degusta/Infoguia)",
+  "typical_spend_es": "Entre $11 y $24 por plato principal",
+  "dataset_comparison_es": "Una de las pocas cocinas tipo café en Paitilla",
+  "best_time_es": "Abierto de 7:30am a 10:30pm todos los días; ideal para el desayuno o un almuerzo con calma",
+  "highlights_es": [
+   "Reconocido por su Salmon Teriyaki a la parrilla"
+  ],
+  "whats_good_es": [
+   "Menú amplio que va desde desayunos hasta sándwiches y platos a la parrilla",
+   "Café estilo italiano",
+   "Porciones generosas"
+  ],
+  "attributes_es": [
+   "Aceptan tarjeta",
+   "Menú completo",
+   "Desayuno todo el día",
+   "Servicio a domicilio"
+  ],
+  "about_es": "Coffee Max es un café en el barrio de Paitilla, en la Ciudad de Panamá."
+ },
+ {
+  "id": "paitilla-mamba-by-diana",
+  "slug": "mamba-by-diana",
+  "name": "Mamba by Diana",
+  "cuisine_en": [
+   "Healthy"
+  ],
+  "cuisine_es": [],
+  "price_tier": 2,
+  "neighborhood_slug": "paitilla",
+  "address": "local 22, Plaza Bal Harbour, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.977039,
+  "lng": -79.5145136,
+  "phones": {
+   "call": "+507 6781-3447"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "7:00 AM",
+    "close": "6:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "7:00 AM",
+    "close": "6:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "7:00 AM",
+    "close": "6:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "7:00 AM",
+    "close": "6:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "7:00 AM",
+    "close": "4:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "Closed",
+    "close": ""
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "7:30 AM",
+    "close": "5:00 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/mamba-by-diana.jpg",
+    "alt_en": "Acai bowl at Mamba by Diana, Punta Paitilla, Panama City",
+    "alt_es": "Bowl de açaí en Mamba by Diana, Punta Paitilla, Ciudad de Panamá",
+    "credit_en": "Photo: @mambabydiana",
+    "credit_url": "https://www.instagram.com/mambabydiana/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Healthy"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Seared Tuna Salad",
+    "description_en": "Salad topped with seared tuna",
+    "price": 20.5,
+    "popular": false,
+    "description_es": "Ensalada coronada con atún sellado"
+   },
+   {
+    "name": "Go Green Salad",
+    "description_en": "Green vegetable-forward salad",
+    "price": 20,
+    "popular": false,
+    "description_es": "Ensalada protagonizada por vegetales verdes"
+   },
+   {
+    "name": "Poke Bowl",
+    "description_en": "Rice bowl with fish and toppings",
+    "price": 18.5,
+    "popular": true,
+    "description_es": "Bowl de arroz con pescado y acompañantes"
+   },
+   {
+    "name": "Teriyaki Bowl",
+    "description_en": "Teriyaki-glazed bowl (weekly special)",
+    "price": 18.5,
+    "popular": false,
+    "description_es": "Bowl glaseado con teriyaki (especial de la semana)"
+   },
+   {
+    "name": "Tuna Wrap",
+    "description_en": "Wrap filled with tuna",
+    "price": 16.5,
+    "popular": false,
+    "description_es": "Wrap relleno de atún"
+   },
+   {
+    "name": "Very Berry Smoothie",
+    "description_en": "Mixed-berry blended smoothie",
+    "price": 7.5,
+    "popular": false,
+    "description_es": "Smoothie licuado de mezcla de berries"
+   }
+  ],
+  "about_en": "Mamba by Diana is a Healthy health cafe in the Paitilla neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Poke Bowl"
+  ],
+  "whats_good_en": [
+   "Fresh, health-focused bowls and salads",
+   "Kosher parve (no meat or dairy)",
+   "Smoothies and lighter fare"
+  ],
+  "typical_spend_en": "$17 to $21 a bowl or salad",
+  "dataset_comparison_en": "One of the few Healthy kitchens in Paitilla",
+  "attributes_en": [
+   "Kosher (parve)",
+   "Health food",
+   "Card accepted",
+   "Advance order (45 min)"
+  ],
+  "best_time_en": "Breakfast and lunch; closes by 6pm (earlier Fridays), advance orders advised",
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://mambabydiana.com/",
+   "https://www.gokosherpanama.com/mamba-by-diana",
+   "https://www.instagram.com/mambabydiana/"
+  ],
+  "best_time": {
+   "busiest": "Fri-Sat, 8-10 PM",
+   "busiest_note_en": "Weekend dinner is busiest",
+   "easy": "Mon-Tue evenings",
+   "easy_note_en": "Relaxed, easy to seat",
+   "sweet": "Thu, 7 PM",
+   "sweet_note_en": "Dinner buzz without the wait"
+  },
+  "price_source": "menu",
+  "social": {
+   "instagram": "https://www.instagram.com/mambabydiana/"
+  },
+  "social_proof": "Instagram link taken from the venue's own website mambabydiana.com (header and footer), which matches the row's website; +507 phone on site",
+  "about_es": "Mamba by Diana es una cafetería saludable en el barrio de Paitilla, en la Ciudad de Panamá.",
+  "typical_spend_es": "Entre $17 y $21 por bowl o ensalada",
+  "dataset_comparison_es": "Una de las pocas cocinas saludables en Paitilla",
+  "best_time_es": "Abren para desayuno y almuerzo; cierran a las 6pm (más temprano los viernes), se recomienda ordenar con anticipación",
+  "highlights_es": [
+   "Reconocido por su Poke Bowl"
+  ],
+  "whats_good_es": [
+   "Bowls y ensaladas frescas con enfoque saludable",
+   "Kosher parve (sin carne ni lácteos)",
+   "Batidos y opciones más ligeras"
+  ],
+  "attributes_es": [
+   "Kosher (parve)",
+   "Comida saludable",
+   "Aceptan tarjeta",
+   "Pedido con anticipación (45 min)"
+  ]
+ },
+ {
+  "id": "paitilla-sohot-paitilla",
+  "slug": "sohot-paitilla",
+  "name": "SoHot Paitilla",
+  "cuisine_en": [
+   "Chinese"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "paitilla",
+  "address": "PH, Blvd. Pacífica, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.978182499999999,
+  "lng": -79.5102399,
+  "phones": {
+   "call": "+507 6103-9393"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "11:30 AM",
+    "close": "10:30 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "11:30 AM",
+    "close": "10:30 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "11:30 AM",
+    "close": "10:30 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "11:30 AM",
+    "close": "10:30 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "11:30 AM",
+    "close": "10:30 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "11:30 AM",
+    "close": "10:30 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "11:30 AM",
+    "close": "10:30 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/sohot-paitilla.jpg",
+    "alt_en": "Hot pot side dish at SoHot Paitilla, Punta Paitilla, Panama City",
+    "alt_es": "Plato de hot pot en SoHot Paitilla, Punta Paitilla, Ciudad de Panamá",
+    "credit_en": "Photo: @sohot.pty",
+    "credit_url": "https://www.instagram.com/sohot.pty/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Chinese",
+   "Groups"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Hot pot broths",
+    "description_en": "Choice of broths cooked at the table, from mild to Sichuan-spicy",
+    "price": null,
+    "popular": true,
+    "description_es": "Variedad de caldos que se cocinan en la mesa, desde suaves hasta picantes estilo Sichuan"
+   },
+   {
+    "name": "Premium beef cuts",
+    "description_en": "Wagyu, Angus, sukiyaki and Argentinian-Angus slices for the pot",
+    "price": null,
+    "popular": true,
+    "description_es": "Cortes de wagyu, Angus, sukiyaki y Angus argentino para la olla"
+   },
+   {
+    "name": "Seafood for the pot",
+    "description_en": "Razor clams, shrimp and other seafood to cook in broth",
+    "price": null,
+    "popular": false,
+    "description_es": "Almejas navaja, camarones y otros mariscos para cocinar en el caldo"
+   },
+   {
+    "name": "Meatballs and casseroles",
+    "description_en": "House meatballs plus rice and noodle casseroles",
+    "price": null,
+    "popular": false,
+    "description_es": "Albóndigas de la casa junto con cazuelas de arroz y fideos"
+   },
+   {
+    "name": "Sauce and ingredient station",
+    "description_en": "Build-your-own bar with minced ginger, cilantro, chili and house sauces",
+    "price": null,
+    "popular": true,
+    "description_es": "Barra para armar tu plato con jengibre picado, cilantro, chile y salsas de la casa"
+   }
+  ],
+  "about_en": "SoHot Paitilla is a Chinese restaurant in the Paitilla neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Hot pot broths"
+  ],
+  "whats_good_en": [
+   "Interactive Sichuan hot pot with a wide ingredient selection",
+   "Good range of premium beef cuts",
+   "Build-your-own sauce and seasoning bar"
+  ],
+  "typical_spend_en": null,
+  "dataset_comparison_en": "One of the few Chinese kitchens in Paitilla",
+  "attributes_en": [
+   "Plaza Pacifica, Local 5, Paitilla",
+   "Self-cook hot pot format; good for groups",
+   "Online ordering via sohot.pidepaya.com"
+  ],
+  "best_time_en": "Dinner; better shared with a group",
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/sohot.pty/",
+   "https://www.degustapanama.com/panama/restaurante/so-hot-paitilla_108699.html",
+   "https://www.facebook.com/sohot.pty/",
+   "https://www.tripadvisor.com/Restaurant_Review-g294480-d19741970-Reviews-So_Hot-Panama_City_Panama_Province.html"
+  ],
+  "best_time": {
+   "busiest": "Fri-Sat, 8-10 PM",
+   "busiest_note_en": "Weekend dinner is busiest",
+   "easy": "Mon-Tue evenings",
+   "easy_note_en": "Relaxed, easy to seat",
+   "sweet": "Thu, 7 PM",
+   "sweet_note_en": "Dinner buzz without the wait"
+  },
+  "social": {
+   "instagram": "https://www.instagram.com/sohot.pty/"
+  },
+  "social_proof": "IG bio lists the Paitilla branch and posts announce 'nuestra nueva sucursal en Paitilla' / 'Plaza Pacifica Paitilla'; chopstick sleeves in photos read 'Restaurante So Hot'",
+  "about_es": "SoHot Paitilla es un restaurante chino en el barrio de Paitilla, en la Ciudad de Panamá.",
+  "dataset_comparison_es": "Una de las pocas cocinas chinas en Paitilla",
+  "best_time_es": "Cena; mejor para compartir en grupo",
+  "highlights_es": [
+   "Reconocido por sus caldos para hot pot"
+  ],
+  "whats_good_es": [
+   "Hot pot sichuanés interactivo con una amplia selección de ingredientes",
+   "Buena variedad de cortes de res premium",
+   "Barra de salsas y condimentos para armar al gusto"
+  ],
+  "attributes_es": [
+   "Plaza Pacífica, Local 5, Paitilla",
+   "Formato de hot pot para cocinar en la mesa; ideal para grupos",
+   "Pedidos en línea a través de sohot.pidepaya.com"
+  ]
+ },
+ {
+  "id": "paitilla-yoss-burger-bar",
+  "slug": "yoss-burger-bar",
+  "name": "Yoss Burger Bar",
+  "cuisine_en": [
+   "Burgers"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "paitilla",
+  "address": "Av. 8 Sur 8201-02, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9784419,
+  "lng": -79.5124642,
+  "phones": {
+   "call": "+507 373-3801"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "12:00",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "12:00",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "12:00",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "12:00",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "11:00 AM",
+    "close": "4:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "8:00 PM",
+    "close": "12:00 AM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "12:00",
+    "close": "11:00 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/yoss-burger-bar.jpg",
+    "alt_en": "Beef bowl with fried egg and guacamole at Yoss Burger Bar, Punta Paitilla, Panama City",
+    "alt_es": "Bowl de carne con huevo frito y guacamole en Yoss Burger Bar, Punta Paitilla, Ciudad de Panamá",
+    "credit_en": "Photo: @yossburgerbar",
+    "credit_url": "https://www.instagram.com/yossburgerbar/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Burgers",
+   "Casual",
+   "Family",
+   "Wings"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Argentinian Burger",
+    "description_en": "Grilled beef burger, a house favorite",
+    "price": null,
+    "popular": true,
+    "description_es": "Hamburguesa de carne a la parrilla, un favorito de la casa"
+   },
+   {
+    "name": "French Burger",
+    "description_en": "Beef burger finished with the kitchen's signature sauces",
+    "price": null,
+    "popular": true,
+    "description_es": "Hamburguesa de carne terminada con las salsas insignia de la cocina"
+   },
+   {
+    "name": "Teriyaki chicken wings",
+    "description_en": "Wings glazed in teriyaki",
+    "price": null,
+    "popular": false,
+    "description_es": "Alitas glaseadas con teriyaki"
+   },
+   {
+    "name": "Hummus Yoss",
+    "description_en": "Hummus with olive oil, pickled lemon, onion and parsley, served with falafel",
+    "price": null,
+    "popular": true,
+    "description_es": "Hummus con aceite de oliva, limón encurtido, cebolla y perejil, servido con falafel"
+   },
+   {
+    "name": "Israeli salad",
+    "description_en": "Chopped fresh salad, a standard side",
+    "price": null,
+    "popular": false,
+    "description_es": "Ensalada fresca picada, un acompañante clásico"
+   },
+   {
+    "name": "Sides",
+    "description_en": "Fries, baked potato, plantain chips and coleslaw",
+    "price": null,
+    "popular": false,
+    "description_es": "Papas fritas, papa al horno, chips de plátano y coleslaw"
+   }
+  ],
+  "about_en": "Yoss Burger Bar is a Burgers bar in the Paitilla neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Argentinian Burger"
+  ],
+  "whats_good_en": [
+   "Kosher (glatt) beef burgers - a rarity in the city",
+   "Israeli and Middle Eastern sides like hummus and falafel",
+   "Casual burger-bar setting"
+  ],
+  "typical_spend_en": null,
+  "dataset_comparison_en": "One of the few Burgers kitchens in Paitilla",
+  "attributes_en": [
+   "Paitilla Mall, Calle Ramon H. Jurado, Paitilla",
+   "Kosher (glatt meat) kitchen under supervision",
+   "Instagram: @yossburgerbar"
+  ],
+  "best_time_en": "Dinner",
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/yossburgerbar/",
+   "https://www.yossburgerbar.com/",
+   "https://www.gokosherpanama.com/yoss-burger-bar",
+   "https://www.degustapanama.com/panama/restaurante/yoss-burger-bar_107597.html"
+  ],
+  "best_time": {
+   "busiest": "Thu-Sat, 9 PM-late",
+   "busiest_note_en": "Late-evening weekend buzz",
+   "easy": "Tue-Wed nights",
+   "easy_note_en": "Quieter, easy seat at the bar",
+   "sweet": "Fri, 7-8 PM",
+   "sweet_note_en": "Lively but before the late rush"
+  },
+  "social": {
+   "instagram": "https://www.instagram.com/yossburgerbar/"
+  },
+  "social_proof": "IG bio reads 'Paitilla Mall, +507 6759-5410', kosher burger bar in Panama City - matches the venue (kosherpanama.org lists it at Edificio Paitilla); row website is dead (redirects to a pharmacy)",
+  "about_es": "Yoss Burger Bar es un bar de hamburguesas en el barrio de Paitilla, en la Ciudad de Panamá.",
+  "dataset_comparison_es": "Una de las pocas cocinas de hamburguesas en Paitilla",
+  "best_time_es": "Cena",
+  "highlights_es": [
+   "Reconocido por su Argentinian Burger"
+  ],
+  "whats_good_es": [
+   "Hamburguesas de res kosher (glatt), toda una rareza en la ciudad",
+   "Acompañamientos israelíes y de Medio Oriente como hummus y falafel",
+   "Ambiente informal de bar de hamburguesas"
+  ],
+  "attributes_es": [
+   "Paitilla Mall, Calle Ramón H. Jurado, Paitilla",
+   "Cocina kosher (carne glatt) bajo supervisión",
+   "Instagram: @yossburgerbar"
+  ]
+ },
+ {
+  "id": "paitilla-aroma-gourmet",
+  "slug": "aroma-gourmet",
+  "name": "Aroma Gourmet",
+  "cuisine_en": [
+   "International"
+  ],
+  "cuisine_es": [],
+  "price_tier": 2,
+  "neighborhood_slug": "paitilla",
+  "address": "C. 56 D Este, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.977899599999999,
+  "lng": -79.51258639999999,
+  "phones": {
+   "call": "6281-8133",
+   "whatsapp": "https://api.whatsapp.com/send?phone=50762818133"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "11:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "11:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "11:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "11:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "11:00 AM",
+    "close": "4:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "8:00 PM",
+    "close": "12:00 AM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "9:00 AM",
+    "close": "11:00 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/aroma-gourmet.jpg",
+    "alt_en": "Crumb-crusted plated dish with grated cheese and cream sauce at Aroma Gourmet, Paitilla, Panama City",
+    "alt_es": "Plato empanizado con queso rallado y salsa cremosa en Aroma Gourmet, Paitilla, Ciudad de Panama",
+    "credit_en": "Photo: @aromagourmetpa",
+    "credit_url": "https://www.instagram.com/aromagourmetpa/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "International"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Aroma Gourmet is a restaurant in Paitilla, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [
+   "A kosher dairy kitchen, which is uncommon enough in the city that people travel for it.",
+   "Fish is the strongest part of the menu, treated several different ways.",
+   "Stays busy and lively late into the evening, even midweek."
+  ],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://linktr.ee/aromagourmetpa",
+   "https://www.google.com/maps/place/?q=place_id:ChIJTc-sYR6prI8RhpGOY8I16dM"
+  ],
+  "import_wave": "W1 flagship",
+  "social": {
+   "instagram": "https://www.instagram.com/aromagourmetpa/",
+   "facebook": "https://www.facebook.com/AromaGourmetP/"
+  },
+  "about_es": "Aroma Gourmet es un restaurante en Paitilla, Ciudad de Panamá.",
+  "whats_good_es": [
+   "Una cocina láctea kosher, algo tan poco común en la ciudad que hay gente que viene desde lejos solo por eso.",
+   "El pescado es lo más destacado del menú, preparado de varias formas distintas.",
+   "Se mantiene animado y lleno hasta tarde, incluso a mitad de semana."
+  ]
+ },
+ {
+  "id": "paitilla-pita-pan",
+  "slug": "pita-pan",
+  "name": "Pita Pan",
+  "cuisine_en": [
+   "International"
+  ],
+  "cuisine_es": [],
+  "price_tier": 2,
+  "neighborhood_slug": "paitilla",
+  "address": "Bal Harbour, Av. Italia, Panama City, Panamá Province, Panama",
+  "address_note_en": "",
+  "lat": 8.9773529,
+  "lng": -79.5143156,
+  "phones": {
+   "call": "6493-2435"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "7:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "7:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "7:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "7:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "7:00 AM",
+    "close": "4:30 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "Closed",
+    "close": ""
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "8:00 AM",
+    "close": "8:00 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/pita-pan.jpg",
+    "alt_en": "Hummus with falafel, pita bread and chopped salad at Pita Pan, Paitilla, Panama City",
+    "alt_es": "Hummus con falafel, pan pita y ensalada picada en Pita Pan, Paitilla, Ciudad de Panama",
+    "credit_en": "Photo: @pitapanpanama",
+    "credit_url": "https://www.instagram.com/pitapanpanama/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "International"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Pita Pan is a restaurant in Paitilla, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [
+   "Hummus topped with ful (stewed fava beans) is what people seek out, served with pita baked on site.",
+   "One of the owners tends to be on the floor, stopping by tables to talk."
+  ],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "http://pitapankosher.com/",
+   "https://www.google.com/maps/place/?q=place_id:ChIJw2pNOR6prI8Ra-o1xdBgxgg"
+  ],
+  "import_wave": "W1 flagship",
+  "social": {
+   "instagram": "https://www.instagram.com/pitapanpanama/",
+   "facebook": "https://www.facebook.com/pitapankosher/"
+  },
+  "about_es": "Pita Pan es un restaurante en Paitilla, Ciudad de Panamá.",
+  "whats_good_es": [
+   "El hummus cubierto con ful (habas guisadas) es lo que la gente busca, servido con pita horneada en el local.",
+   "Uno de los dueños suele estar en el salón, pasando por las mesas para conversar."
+  ]
+ },
+ {
+  "id": "paitilla-fuego-bar-bistro",
+  "slug": "fuego-bar-bistro",
+  "name": "Fuego bar & bistro",
+  "cuisine_en": [
+   "International"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "paitilla",
+  "address": "Panama City, Panamá Province, Panama",
+  "address_note_en": "",
+  "lat": 8.977990199999999,
+  "lng": -79.5125772,
+  "phones": {
+   "call": "6876-6025"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "12:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "12:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "12:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "12:00",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "12:00",
+    "close": "4:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "8:00 PM",
+    "close": "12:00 AM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "12:00",
+    "close": "10:00 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/fuego-bar-bistro.jpg",
+    "alt_en": "Steak subs with fries at Fuego Bar & Bistro, Paitilla, Panama City",
+    "alt_es": "Sandwiches de bistec con papas en Fuego Bar & Bistro, Paitilla, Ciudad de Panamá",
+    "credit_en": "Photo: @fuegobarandbistro",
+    "credit_url": "https://www.instagram.com/fuegobarandbistro/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "International"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Fuego bar & bistro is a restaurant in Paitilla, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/fuegobarandbistro/",
+   "http://fuegobarandbistro.com/",
+   "https://www.google.com/maps/place/?q=place_id:ChIJO4gl6hSprI8ROqaECk95miE"
+  ],
+  "import_wave": "W2 established",
+  "social": {
+   "instagram": "https://www.instagram.com/fuegobarandbistro/"
+  },
+  "social_proof": "The row's website fuegobarandbistro.com links to this handle; bio 'Bistro dining & handcrafted drinks, Kosher', Panama City, located Paitilla Mall (matches the venue and Paitilla neighborhood).",
+  "about_es": "Fuego bar & bistro es un restaurante en Paitilla, Ciudad de Panamá."
+ },
+ {
+  "id": "paitilla-yoss-bakery",
+  "slug": "yoss-bakery",
+  "name": "Yoss bakery",
+  "cuisine_en": [
+   "Bakery"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "paitilla",
+  "address": "C. Ramon H. Jurado, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9778988,
+  "lng": -79.5125685,
+  "phones": {
+   "call": "6217-6666"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "7:00 AM",
+    "close": "6:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "7:00 AM",
+    "close": "6:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "7:00 AM",
+    "close": "6:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "7:00 AM",
+    "close": "6:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "7:00 AM",
+    "close": "4:30 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "Closed",
+    "close": ""
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "7:00 AM",
+    "close": "6:00 PM"
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Bakery"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Yoss bakery is a bakery in Paitilla, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/yoss_bakery/",
+   "https://www.google.com/maps/place/?q=place_id:ChIJ_WJxYgCprI8RTUjk7DsxZHU"
+  ],
+  "import_wave": "W2 established",
+  "social": {
+   "instagram": "https://www.instagram.com/yoss_bakery/"
+  },
+  "social_proof": "Profile 'Yoss Bakery | Panaderia Kosher'; listings place it at Paitilla Mall, Calle Ramon H. Jurado, Panama City (matches the venue and Paitilla neighborhood).",
+  "about_es": "Yoss bakery es una panadería en Paitilla, Ciudad de Panamá."
+ }
+]

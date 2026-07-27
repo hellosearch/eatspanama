@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>EatsPanama - fill the band</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet" />
+<style>
+  :root{--ink:#101014;--ink-soft:#3A3A42;--gray:#62626B;--paper:#FFFFFF;--line:#E7E7E2;--canvas:#E9E9E5;--fog:#F6F6F3;--accent:#FF5A1F;--accent-deep:#E14A10;--accent-tint:#FFF0E9;--disp:"Space Grotesk",sans-serif;--body:"Inter",sans-serif}
+  *{box-sizing:border-box}
+  body{margin:0;font-family:var(--body);color:var(--ink);background:var(--canvas);-webkit-font-smoothing:antialiased}
+  a{color:inherit;text-decoration:none}
+  .lab{position:sticky;top:0;z-index:50;background:#141b30;color:#fff;padding:10px 20px;display:flex;gap:12px;align-items:center;flex-wrap:wrap;border-bottom:3px solid var(--accent)}
+  .lab b{font-family:var(--disp);font-weight:700;font-size:14px}.lab .sp{flex:1}
+  .lab button{font-family:var(--disp);font-weight:600;font-size:13px;color:#fff;background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.18);padding:7px 13px;border-radius:999px;cursor:pointer}
+  .lab button.on{background:var(--accent);border-color:var(--accent)}
+  .lab .hint{font-size:12px;color:#b9c0d6}
+  .shell{max-width:1240px;margin:0 auto;background:var(--paper);padding:0 40px 60px}
+  /* trimmed hero for context */
+  .minihero{display:grid;grid-template-columns:1fr 1fr;gap:38px;padding:34px 0 26px;align-items:start;border-bottom:1px dashed var(--line)}
+  .minihero h1{font-family:var(--disp);font-weight:700;font-size:44px;line-height:1.02;letter-spacing:-.02em;margin:6px 0 0}
+  .minihero h1 .a{color:var(--accent)}
+  .minihero .sub{color:var(--ink-soft);font-size:15px;margin-top:12px;max-width:44ch}
+  .minihero .r{border-radius:16px;background:linear-gradient(135deg,#2a2a30,#15151a);min-height:220px;position:relative;overflow:hidden}
+  .minihero .r::after{content:"editors' picks carousel";position:absolute;inset:0;display:flex;align-items:center;justify-content:center;color:#6a6a74;font-family:var(--disp);font-size:13px}
+  .ctx{font-family:var(--disp);font-weight:700;font-size:10px;letter-spacing:.14em;text-transform:uppercase;color:#c9c9c2;text-align:center;padding:10px 0}
+
+  .view{display:none;padding:26px 0 8px}
+  body[data-v="a"] #a,body[data-v="b"] #b,body[data-v="c"] #c{display:block}
+
+  /* A: trust cards */
+  .trust{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+  .tcard{border:1px solid var(--line);border-radius:16px;padding:20px 22px;background:var(--paper)}
+  .tcard .ic{width:38px;height:38px;border-radius:10px;background:var(--accent-tint);color:var(--accent-deep);display:flex;align-items:center;justify-content:center;font-size:19px;margin-bottom:13px}
+  .tcard h3{font-family:var(--disp);font-weight:700;font-size:16px;margin:0 0 6px}
+  .tcard p{font-size:13.5px;line-height:1.5;color:var(--gray);margin:0}
+
+  /* B: stat bar */
+  .statbar{border:1px solid var(--line);border-radius:16px;padding:22px 26px;display:flex;align-items:center;gap:10px;flex-wrap:wrap;background:var(--fog)}
+  .stat{display:flex;flex-direction:column;padding:0 22px;border-left:1px solid var(--line)}
+  .stat:first-child{border-left:0;padding-left:0}
+  .stat .n{font-family:var(--disp);font-weight:700;font-size:30px;line-height:1;color:var(--ink)}
+  .stat .n .u{color:var(--accent)}
+  .stat .l{font-size:12px;color:var(--gray);margin-top:5px;font-weight:500}
+  .statbar .say{margin-left:auto;font-family:var(--disp);font-weight:700;font-size:15px;color:var(--ink);max-width:22ch;text-align:right;line-height:1.25}
+
+  /* C: editorial promise band */
+  .promise{background:#141419;color:#eee;border-radius:18px;padding:30px 34px;display:grid;grid-template-columns:1.5fr 1fr;gap:30px;align-items:center}
+  .promise .ek{font-family:var(--disp);font-weight:700;font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:#ffb499}
+  .promise h3{font-family:var(--disp);font-weight:700;font-size:25px;line-height:1.12;margin:9px 0 0}
+  .promise p{color:#a9a9b0;font-size:14px;line-height:1.55;margin:12px 0 0;max-width:52ch}
+  .promise .links{display:flex;flex-direction:column;gap:10px}
+  .promise .links a{display:flex;justify-content:space-between;border-bottom:1px solid #2a2a32;padding:9px 0;font-weight:600;font-size:14px}
+  .promise .links a .ar{color:var(--accent)}
+  .promise .links a:hover{color:#fff}
+
+  .nextsec{padding:34px 0 0;opacity:.45}
+  .nextsec .eye{font-family:var(--disp);font-weight:700;font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--accent-deep)}
+  .nextsec h2{font-family:var(--disp);font-weight:700;font-size:26px;margin:4px 0 0}
+  .note{background:var(--accent-tint);border:1px solid #ffcdb6;border-radius:12px;padding:13px 18px;font-size:14px;line-height:1.5;color:var(--ink-soft);margin:22px 0 0}
+  .note b{color:var(--ink)}
+  @media(max-width:900px){.minihero,.promise{grid-template-columns:1fr}.trust{grid-template-columns:1fr}.statbar .say{margin-left:0;text-align:left}}
+</style>
+</head>
+<body data-v="a">
+<div class="lab">
+  <b>Fill the band under the hero</b>
+  <button data-b="a" class="on">A - Trust cards</button>
+  <button data-b="b">B - Stat bar</button>
+  <button data-b="c">C - Editorial promise</button>
+  <span class="sp"></span><span class="hint">Shown between the hero and "Browse by occasion".</span>
+</div>
+<div class="shell">
+  <div class="minihero">
+    <div>
+      <div style="display:flex;gap:8px"><span style="background:#fff;border:1px solid var(--line);border-radius:999px;padding:4px 11px;font-size:12px;font-weight:600">● 15 neighborhoods</span><span style="background:#fff;border:1px solid var(--line);border-radius:999px;padding:4px 11px;font-size:12px;font-weight:600">● 3 guides</span></div>
+      <h1>Where Panama <span class="a">actually</span> eats.</h1>
+      <p class="sub">Independent coverage, in English y en español. No paid placements, no tourist traps.</p>
+    </div>
+    <div class="r"></div>
+  </div>
+  <div class="ctx">▼ the empty band ▼</div>
+
+  <!-- A: TRUST CARDS -->
+  <section id="a" class="view">
+    <div class="trust">
+      <div class="tcard"><div class="ic">✦</div><h3>No paid rankings, ever</h3><p>Restaurants can't buy their way up, and there are no sponsored spots hiding in the list. What you see is what we'd actually recommend.</p></div>
+      <div class="tcard"><div class="ic">✓</div><h3>Checked, not scraped once</h3><p>Every listing is built from public sources and menus, with hours dated and refreshed - so a place that closed isn't still sending you across town.</p></div>
+      <div class="tcard"><div class="ic">☺</div><h3>Independent &amp; bilingual</h3><p>An editorial layer on top of the directory, written for locals, expats and visitors alike - todo en English y en español.</p></div>
+    </div>
+    <p class="note"><b>A - Trust cards.</b> Three promise cards state the differentiator the page only implies today. On-brand (your "no pay-to-rank" rule), no data to maintain, balances the short carousel column. My pick.</p>
+  </section>
+
+  <!-- B: STAT BAR -->
+  <section id="b" class="view">
+    <div class="statbar">
+      <div class="stat"><span class="n">775</span><span class="l">places mapped</span></div>
+      <div class="stat"><span class="n">15</span><span class="l">neighborhoods</span></div>
+      <div class="stat"><span class="n">24</span><span class="l">cuisines</span></div>
+      <div class="stat"><span class="n">3</span><span class="l">guides</span></div>
+      <div class="stat"><span class="n"><span class="u">0</span></span><span class="l">paid rankings</span></div>
+      <div class="say">The whole city, checked by hand.</div>
+    </div>
+    <p class="note"><b>B - Stat bar.</b> One elegant row of real numbers + a line. Smallest footprint, quickest to build, reinforces scale + the zero-pay promise. Reads a touch corporate versus the cards.</p>
+  </section>
+
+  <!-- C: EDITORIAL PROMISE -->
+  <section id="c" class="view">
+    <div class="promise">
+      <div>
+        <div class="ek">How EatsPanama works</div>
+        <h3>Every place is here on merit, not because it paid.</h3>
+        <p>We build each listing from public sources and menus, check the hours by hand, and add an editorial layer on top - guides and picks written by people who actually eat here. No restaurant can pay to rank, and sponsored content is always labelled.</p>
+      </div>
+      <div class="links">
+        <a href="/how-we-review/">How we review <span class="ar">→</span></a>
+        <a href="/how-we-review/">Meet the editors <span class="ar">→</span></a>
+        <a href="/guides/">Read the guides <span class="ar">→</span></a>
+      </div>
+    </div>
+    <p class="note"><b>C - Editorial promise.</b> A darker statement band that leans into the editorial/trust identity and routes to How-we-review + the team + guides. Most distinctive, a bit heavier; pairs well with the editorial bet.</p>
+  </section>
+
+  <div class="nextsec">
+    <p class="eye">Browse by occasion</p>
+    <h2>What are you in the mood for?</h2>
+  </div>
+</div>
+<script>
+  var bs=document.querySelectorAll('[data-b]');
+  bs.forEach(function(b){b.addEventListener('click',function(){document.body.setAttribute('data-v',b.getAttribute('data-b'));bs.forEach(function(x){x.classList.toggle('on',x===b)})})});
+</script>
+</body>
+</html>

@@ -1,0 +1,179 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>EatsPanama - Spotlight carousel</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet" />
+<style>
+  :root{--ink:#101014;--ink-soft:#3A3A42;--gray:#62626B;--paper:#FFFFFF;--line:#E7E7E2;--canvas:#E9E9E5;--accent:#FF5A1F;--accent-deep:#E14A10;--accent-tint:#FFF0E9;--disp:"Space Grotesk",sans-serif;--body:"Inter",sans-serif}
+  *{box-sizing:border-box}
+  body{margin:0;font-family:var(--body);color:var(--ink);background:var(--canvas);-webkit-font-smoothing:antialiased}
+  a{color:inherit;text-decoration:none}img{max-width:100%;display:block}
+  .lab{position:sticky;top:0;z-index:50;background:#141b30;color:#fff;padding:10px 20px;display:flex;gap:12px;align-items:center;flex-wrap:wrap;border-bottom:3px solid var(--accent)}
+  .lab b{font-family:var(--disp);font-weight:700;font-size:14px}.lab .sp{flex:1}.lab .hint{font-size:12px;color:#b9c0d6}
+  .shell{max-width:1240px;margin:0 auto;background:var(--paper);min-height:100vh;padding:0 40px 50px}
+  .nav{display:flex;align-items:center;gap:30px;padding:18px 0;border-bottom:1px solid var(--line)}
+  .logo{font-family:var(--disp);font-weight:700;font-size:22px}.logo .o{color:var(--accent)}
+  .nav .links{display:flex;gap:24px;font-family:var(--disp);font-weight:600;font-size:15px}
+  .nav .links span::after{content:" \25be";color:var(--gray);font-size:11px}
+  .nav .sp{flex:1}.nav .pill{border:1.5px solid var(--ink);border-radius:999px;padding:6px 12px;font-family:var(--disp);font-weight:700;font-size:12px}
+  h1.hero-h{font-family:var(--disp);font-weight:700;font-size:52px;line-height:1.02;letter-spacing:-.02em;margin:0}
+  h1.hero-h .a{color:var(--accent)}
+  .kick{display:flex;gap:8px;margin-bottom:16px;flex-wrap:wrap}
+  .kick .k{background:var(--paper);border:1px solid var(--line);border-radius:999px;padding:5px 12px;font-size:12.5px;font-weight:600}
+  .kick .k .dot{color:var(--accent)}
+  .sub{font-size:16px;line-height:1.5;color:var(--ink-soft);max-width:44ch;margin:16px 0 0}.sub b{color:var(--ink)}
+  .search{display:flex;align-items:center;gap:10px;background:var(--paper);border:2px solid var(--ink);border-radius:14px;padding:6px 6px 6px 16px;box-shadow:0 6px 0 rgba(255,90,31,.12);max-width:520px}
+  .search input{flex:1;border:0;outline:0;font-family:var(--body);font-size:15px;padding:8px 0;background:none}
+  .search .go{background:var(--accent);color:#fff;font-family:var(--disp);font-weight:700;font-size:14px;border:0;border-radius:9px;padding:11px 20px;cursor:pointer}
+  .browse{margin-top:20px}
+  .browse-lbl{font-family:var(--disp);font-weight:700;font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--gray);margin:0 0 10px}
+  .btabs{display:flex;gap:4px;background:#f3f3ef;border-radius:11px;padding:4px;width:max-content;max-width:100%;flex-wrap:wrap}
+  .btabs span{font-family:var(--disp);font-weight:600;font-size:13.5px;color:var(--ink-soft);padding:8px 15px;border-radius:8px}
+  .btabs span.on{background:var(--paper);color:var(--ink);box-shadow:0 1px 4px rgba(0,0,0,.08)}
+  .chips{display:flex;flex-wrap:wrap;gap:9px;margin-top:14px}
+  .chips a{display:flex;align-items:center;gap:9px;background:var(--paper);border:1px solid var(--line);border-radius:999px;padding:5px 15px 5px 5px;font-size:13.5px;font-weight:600}
+  .chips a img{width:30px;height:30px;border-radius:50%;object-fit:cover}
+  .chips a .c{color:var(--gray);font-weight:500;font-size:12px}
+
+  .heroWrap{display:grid;grid-template-columns:1.02fr 1.08fr;gap:38px;align-items:start;padding-top:32px}
+
+  /* CAROUSEL */
+  .caro{position:relative}
+  .caro-head{display:flex;align-items:center;gap:10px;margin-bottom:11px}
+  .caro-head .ek{font-family:var(--disp);font-weight:700;font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--accent-deep)}
+  .caro-head .count{font-family:var(--disp);font-weight:600;font-size:12px;color:var(--gray)}
+  .caro-head .sp{flex:1}
+  .caro-head .arw{width:34px;height:34px;border-radius:50%;border:1px solid var(--line);background:var(--paper);cursor:pointer;font-size:15px;color:var(--ink);display:inline-flex;align-items:center;justify-content:center}
+  .caro-head .arw:hover{border-color:var(--ink)}
+  .stage{position:relative;border-radius:18px;overflow:hidden;min-height:326px}
+  .slide{position:absolute;inset:0;opacity:0;transition:opacity .45s ease;display:flex;align-items:flex-end;pointer-events:none}
+  .slide.on{opacity:1;pointer-events:auto}
+  .slide img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+  .slide .ov{position:absolute;inset:0;background:linear-gradient(180deg,rgba(16,16,20,.02) 26%,rgba(16,16,20,.86) 100%)}
+  .slide .b{position:relative;padding:22px 24px;color:#fff;width:100%}
+  .slide .pk{display:inline-flex;align-items:center;gap:6px;background:var(--accent);color:#fff;font-family:var(--disp);font-weight:700;font-size:10.5px;letter-spacing:.05em;text-transform:uppercase;padding:5px 10px;border-radius:999px;margin-bottom:10px}
+  .slide h3{font-family:var(--disp);font-weight:700;font-size:26px;line-height:1.05;margin:0 0 6px}
+  .slide .meta{font-size:13px;opacity:.92}.slide .meta b{color:#fff}
+  .slide .q{font-size:13.5px;line-height:1.5;opacity:.92;margin:9px 0 0;max-width:46ch}
+  .thumbs{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin-top:12px}
+  .thumb{position:relative;border-radius:12px;overflow:hidden;height:70px;cursor:pointer;border:2px solid transparent;opacity:.6;transition:.18s}
+  .thumb img{width:100%;height:100%;object-fit:cover}
+  .thumb .nm{position:absolute;left:7px;right:7px;bottom:5px;color:#fff;font-family:var(--disp);font-weight:700;font-size:11px;line-height:1.1;text-shadow:0 1px 4px rgba(0,0,0,.7)}
+  .thumb .tov{position:absolute;inset:0;background:linear-gradient(180deg,rgba(0,0,0,0) 40%,rgba(0,0,0,.55))}
+  .thumb.on{opacity:1;border-color:var(--accent)}
+  .thumb:hover{opacity:1}
+
+  .fold{position:relative;border-top:2px dashed #d6a58c;margin:18px -40px 0;height:0}
+  .fold span{position:absolute;right:8px;top:-9px;background:var(--accent-tint);color:var(--accent-deep);font-family:var(--disp);font-weight:700;font-size:10px;letter-spacing:.08em;padding:2px 8px;border-radius:999px}
+  .note{background:var(--accent-tint);border:1px solid #ffcdb6;border-radius:12px;padding:14px 18px;font-size:14px;line-height:1.55;color:var(--ink-soft);margin:22px 0}
+  .note b{color:var(--ink)}
+  @media(max-width:960px){.heroWrap{grid-template-columns:1fr}h1.hero-h{font-size:40px}}
+</style>
+</head>
+<body>
+<div class="lab">
+  <b>Hero - Editors' picks carousel</b>
+  <span class="sp"></span>
+  <span class="hint">Auto-advances; click a thumbnail or the arrows to change. Cards link to the real venue.</span>
+</div>
+<div class="shell">
+  <div class="nav">
+    <div class="logo">Eats<span class="o">Panama</span></div>
+    <div class="links"><span>Neighborhoods</span><span>Cuisines</span><span>Guides</span><span style="color:var(--accent)">New</span></div>
+    <div class="sp"></div><div class="pill">EN / ES</div><div class="pill">Search</div>
+  </div>
+
+  <div class="heroWrap">
+    <!-- fixed hybrid-browse left -->
+    <div class="left">
+      <div class="kick"><span class="k"><span class="dot">&bull;</span> 792 places</span><span class="k"><span class="dot">&bull;</span> 15 neighborhoods</span><span class="k"><span class="dot">&bull;</span> 3 guides</span></div>
+      <h1 class="hero-h">Where Panama <span class="a">actually</span> eats.</h1>
+      <p class="sub"><b>Independent coverage, in English y en espanol.</b> No paid placements, no tourist traps.</p>
+      <div class="search" style="margin-top:20px"><span style="color:var(--gray)">&#128269;</span><input placeholder="Dish, place, or craving" /><button class="go">Search</button></div>
+      <div class="browse">
+        <p class="browse-lbl">Or start browsing</p>
+        <div class="btabs"><span class="on">Cravings</span><span>Neighborhoods</span><span>Cuisines</span><span>Dishes</span></div>
+        <div class="chips">
+          <a href="/panama-city/good-for/cocktails/"><img src="/occasions/cocktails.jpg" alt="">Cocktail bars<span class="c">89</span></a>
+          <a href="/panama-city/good-for/brunch/"><img src="/occasions/brunch.jpg" alt="">Brunch<span class="c">136</span></a>
+          <a href="/panama-city/good-for/outdoor/"><img src="/occasions/outdoor.jpg" alt="">Outdoor<span class="c">110</span></a>
+          <a href="/panama-city/good-for/specialty-coffee/"><img src="/occasions/specialty-coffee.jpg" alt="">Coffee<span class="c">61</span></a>
+        </div>
+      </div>
+    </div>
+
+    <!-- carousel right -->
+    <div class="right">
+      <div class="caro" id="caro">
+        <div class="caro-head">
+          <span class="ek">Editors' picks this week</span>
+          <span class="count" id="cnt">1 / 4</span>
+          <span class="sp"></span>
+          <button class="arw" id="prev" aria-label="Previous">&#8249;</button>
+          <button class="arw" id="next" aria-label="Next">&#8250;</button>
+        </div>
+        <div class="stage" id="stage">
+          <a class="slide on" href="/panama-city/afrodisiaco-italian-modern-kitchen/">
+            <img src="/venues/afrodisiaco-italian-modern-kitchen.jpg" alt="">
+            <div class="ov"></div>
+            <div class="b"><span class="pk">&#9733; Editors' pick</span><h3>Afrodisiaco Italian Modern Kitchen</h3><div class="meta"><b>Italian</b> &middot; Casco Viejo</div><p class="q">Modern Italian in a restored Casco Viejo townhouse - one of the rooms we point people to first.</p></div>
+          </a>
+          <a class="slide" href="/panama-city/al-alma-cafe-restaurante-casa-lefevre-plaza-catedral/">
+            <img src="/venues/al-alma-cafe-restaurante-casa-lefevre-plaza-catedral.jpg" alt="">
+            <div class="ov"></div>
+            <div class="b"><span class="pk">&#9733; Editors' pick</span><h3>Al Alma Cafe</h3><div class="meta"><b>Cafe</b> &middot; Casco Viejo</div><p class="q">All-day cafe inside Casa Lefevre on Plaza Catedral - coffee, courtyard, slow mornings.</p></div>
+          </a>
+          <a class="slide" href="/panama-city/a-banda-restaurante/">
+            <img src="/venues/a-banda-restaurante.jpg" alt="">
+            <div class="ov"></div>
+            <div class="b"><span class="pk">&#9733; Editors' pick</span><h3>A-Banda Restaurante</h3><div class="meta"><b>Spanish</b> &middot; Bella Vista</div><p class="q">A Spanish kitchen in the middle of Bella Vista, good for a long table and a bottle.</p></div>
+          </a>
+          <a class="slide" href="/panama-city/al-vecchio-forno/">
+            <img src="/venues/al-vecchio-forno.jpg" alt="">
+            <div class="ov"></div>
+            <div class="b"><span class="pk">&#9733; Editors' pick</span><h3>Al Vecchio Forno</h3><div class="meta"><b>Italian</b> &middot; San Francisco &middot; $$</div><p class="q">Wood-oven pizza and pasta in San Francisco, the kind of neighborhood Italian you go back to.</p></div>
+          </a>
+        </div>
+        <div class="thumbs" id="thumbs">
+          <div class="thumb on" data-i="0"><img src="/venues/afrodisiaco-italian-modern-kitchen.jpg" alt=""><div class="tov"></div><div class="nm">Afrodisiaco</div></div>
+          <div class="thumb" data-i="1"><img src="/venues/al-alma-cafe-restaurante-casa-lefevre-plaza-catedral.jpg" alt=""><div class="tov"></div><div class="nm">Al Alma Cafe</div></div>
+          <div class="thumb" data-i="2"><img src="/venues/a-banda-restaurante.jpg" alt=""><div class="tov"></div><div class="nm">A-Banda</div></div>
+          <div class="thumb" data-i="3"><img src="/venues/al-vecchio-forno.jpg" alt=""><div class="tov"></div><div class="nm">Al Vecchio Forno</div></div>
+        </div>
+      </div>
+      <p class="note"><b>Editors' picks carousel.</b> The spotlight now rotates through this week's picks - big card auto-advances, the thumbnail strip lets you jump, arrows step through. Every card is a real, human-chosen venue linking to its profile. This is the trust signal that sets EatsPanama apart from a plain directory; upkeep is a short weekly list of picks.</p>
+    </div>
+  </div>
+  <div class="fold"><span>FOLD &darr;</span></div>
+</div>
+<script>
+  (function () {
+    var slides = [].slice.call(document.querySelectorAll('#stage .slide'));
+    var thumbs = [].slice.call(document.querySelectorAll('#thumbs .thumb'));
+    var cnt = document.getElementById('cnt');
+    var i = 0, timer = null;
+    function show(n) {
+      i = (n + slides.length) % slides.length;
+      slides.forEach(function (s, k) { s.classList.toggle('on', k === i); });
+      thumbs.forEach(function (t, k) { t.classList.toggle('on', k === i); });
+      cnt.textContent = (i + 1) + ' / ' + slides.length;
+    }
+    function start() { timer = setInterval(function () { show(i + 1); }, 4000); }
+    function stop() { if (timer) { clearInterval(timer); timer = null; } }
+    document.getElementById('next').addEventListener('click', function () { show(i + 1); stop(); start(); });
+    document.getElementById('prev').addEventListener('click', function () { show(i - 1); stop(); start(); });
+    thumbs.forEach(function (t) {
+      t.addEventListener('click', function () { show(parseInt(t.getAttribute('data-i'), 10)); stop(); start(); });
+    });
+    var caro = document.getElementById('caro');
+    caro.addEventListener('mouseenter', stop);
+    caro.addEventListener('mouseleave', start);
+    start();
+  })();
+</script>
+</body>
+</html>

@@ -1,0 +1,5471 @@
+[
+ {
+  "id": "calidonia-burger-post-office",
+  "slug": "burger-post-office",
+  "name": "Burger Post Office",
+  "cuisine_en": [
+   "Burgers"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "calidonia",
+  "address": "piso RT, ph sands, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9614808,
+  "lng": -79.536907,
+  "phones": {
+   "call": "+507 6307-1772"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "12:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "12:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "12:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "12:00 PM",
+    "close": "12:00 AM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "12:00 PM",
+    "close": "12:00 AM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "12:00 PM",
+    "close": "12:00 AM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "12:00",
+    "close": "10:00 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/burger-post-office.jpg",
+    "alt_en": "Smash burger served in a lunchbox at Burger Post Office, Avenida Balboa, Panama City",
+    "alt_es": "Smash burger servida en lonchera en Burger Post Office, Avenida Balboa, Ciudad de Panama",
+    "credit_en": "Photo: @burgerpostoffice",
+    "credit_url": "https://www.instagram.com/burgerpostoffice/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Burgers",
+   "Casual",
+   "Family",
+   "Rooftop"
+  ],
+  "tags_es": [
+   "Azotea"
+  ],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Burger Post Office is a Burgers restaurant in the Calidonia neighborhood of Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [
+   "Internationally themed 'postcard' burger concept",
+   "Rooftop setting"
+  ],
+  "typical_spend_en": null,
+  "dataset_comparison_en": "One of the few Burgers kitchens in Calidonia",
+  "attributes_en": [
+   "Rooftop",
+   "Evening-only (5pm-11pm daily)"
+  ],
+  "best_time_en": "Evenings; open 5pm-11pm every day",
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/burgerpostoffice/",
+   "https://www.burgerpostoffice.com/"
+  ],
+  "best_time": {
+   "busiest": "Fri-Sat evenings",
+   "busiest_note_en": "Weekend nights draw the crowd",
+   "easy": "Weekday lunch",
+   "easy_note_en": "Quick, easy seat",
+   "sweet": "Thu, 6-7 PM",
+   "sweet_note_en": "Early dinner before it fills"
+  },
+  "social": {
+   "instagram": "https://www.instagram.com/burgerpostoffice/"
+  },
+  "social_proof": "bio reads 'Hamburguesas del mundo a tu boca - The Sands, Av Balboa piso 37' and posts give 'Ave. Balboa, PH The Sands'; account name matches the row's website burgerpostoffice.com",
+  "about_es": "Burger Post Office es un restaurante de hamburguesas en el barrio de Calidonia, en la Ciudad de Panamá.",
+  "dataset_comparison_es": "Una de las pocas cocinas de Burgers en Calidonia",
+  "best_time_es": "Noches; abierto de 5pm a 11pm todos los días",
+  "whats_good_es": [
+   "Concepto de hamburguesas 'postal' con temática internacional",
+   "Ambiente en rooftop"
+  ],
+  "attributes_es": [
+   "Terraza",
+   "Solo en la noche (5pm-11pm todos los días)"
+  ]
+ },
+ {
+  "id": "calidonia-ceviche-la-solucion",
+  "slug": "ceviche-la-solucion",
+  "name": "Ceviche la solucion",
+  "cuisine_en": [
+   "Seafood"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "calidonia",
+  "address": "XF57+F4R, Panama City, Panamá Province, Panama",
+  "address_note_en": "",
+  "lat": 8.9586806,
+  "lng": -79.5371767,
+  "phones": {},
+  "hours": [],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Seafood",
+   "Ceviche"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Ceviche",
+    "description_en": "Traditional Panamanian ceviche prepared to order at the market",
+    "price": null,
+    "popular": true,
+    "description_es": "Ceviche panameño tradicional, preparado al momento en el mercado"
+   }
+  ],
+  "about_en": "Ceviche la solucion is a Seafood restaurant in the Calidonia neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Ceviche"
+  ],
+  "whats_good_en": [
+   "Chef-driven traditional ceviche at the fish market"
+  ],
+  "typical_spend_en": null,
+  "dataset_comparison_en": "One of 5 Seafood spots in Calidonia",
+  "attributes_en": [
+   "Ceviche stand inside the Mercado del Marisco",
+   "Casual / grab-and-go"
+  ],
+  "best_time_en": "Daytime, with the market",
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/restaurantelasolucion/",
+   "https://www.tripadvisor.com/Restaurants-g294480-zfd10883-Panama_City_Panama_Province-Ceviche.html"
+  ],
+  "best_time": {
+   "busiest": "Fri-Sun, 1-3 PM",
+   "busiest_note_en": "Weekend lunch is busiest",
+   "easy": "Weekday lunch",
+   "easy_note_en": "Easy midday seat",
+   "sweet": "Fri, 12:30 PM",
+   "sweet_note_en": "Lunch peak freshness, ahead of the rush"
+  },
+  "social": {
+   "instagram": "https://www.instagram.com/restaurantelasolucion/"
+  },
+  "social_proof": "bio: 'Gastronomia Caribena... Ubicados en el Mercadeo de Mariscos' - the venue is the 'Restaurante Ceviche La Solucion' stall at the Mercado de Mariscos (third-party post OCR shows that exact sign at the market)",
+  "about_es": "Ceviche la solucion es un restaurante de mariscos en el barrio de Calidonia, en la Ciudad de Panamá.",
+  "dataset_comparison_es": "Uno de los 5 lugares de Seafood en Calidonia",
+  "best_time_es": "De día, junto al mercado",
+  "highlights_es": [
+   "Conocido por su Ceviche"
+  ],
+  "whats_good_es": [
+   "Ceviche tradicional con toque de chef, en el mercado de mariscos"
+  ],
+  "attributes_es": [
+   "Puesto de ceviche dentro del Mercado del Marisco",
+   "Informal / para llevar"
+  ]
+ },
+ {
+  "id": "calidonia-cielo-rooftop-bar",
+  "slug": "cielo-rooftop-bar",
+  "name": "Cielo Rooftop Bar",
+  "cuisine_en": [
+   "Bar"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "calidonia",
+  "address": "Ph Sands, Piso RT, Av. Vasco Nuñez de Balboa, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.961224099999999,
+  "lng": -79.5369893,
+  "phones": {
+   "whatsapp": "+507 6369-6458",
+   "call": "+507 6199-4709"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "5:00 PM",
+    "close": "12:00 AM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "5:00 PM",
+    "close": "12:00 AM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "5:00 PM",
+    "close": "12:00 AM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "5:00 PM",
+    "close": "1:00 AM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "5:00 PM",
+    "close": "1:00 AM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "3:00 PM",
+    "close": "1:00 AM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "3:00 PM",
+    "close": "12:00 AM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/cielo-rooftop-bar.jpg",
+    "alt_en": "Tuna tartare at Cielo Rooftop Bar, Avenida Balboa, Panama City",
+    "alt_es": "Tartar de atun en Cielo Rooftop Bar, Avenida Balboa, Ciudad de Panama",
+    "credit_en": "Photo: @cielorooftopbar",
+    "credit_url": "https://www.instagram.com/cielorooftopbar/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Bar",
+   "Date-night",
+   "View",
+   "Rooftop",
+   "Cocktails"
+  ],
+  "tags_es": [
+   "Azotea"
+  ],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Cielo Rooftop Bar is a Bar rooftop in the Calidonia neighborhood of Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [
+   "Sunset and skyline views from the rooftop",
+   "Signature cocktail program",
+   "Upscale lounge atmosphere for celebrations and private events"
+  ],
+  "typical_spend_en": null,
+  "dataset_comparison_en": "One of the few Bar kitchens in Calidonia",
+  "attributes_en": [
+   "Rooftop",
+   "Reservations available",
+   "Private events and birthday packages",
+   "Open-bar promotions",
+   "Evening-only (opens 5pm weekdays, 3pm weekends)"
+  ],
+  "best_time_en": "Late afternoon into the evening for sunset; opens 5pm Mon-Wed, 3pm Sat-Sun",
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/cielorooftopbar/",
+   "http://www.cielopanama.com/"
+  ],
+  "best_time": {
+   "busiest": "Thu-Sat, 7-11 PM",
+   "busiest_note_en": "Sunset and weekend crowd fills the terrace",
+   "easy": "Tue-Wed evenings",
+   "easy_note_en": "Walk-ins usually fine before 8 PM",
+   "sweet": "Fri, 6-7 PM",
+   "sweet_note_en": "Golden-hour views, still an easy table"
+  },
+  "social": {
+   "instagram": "https://www.instagram.com/cielorooftopbar/"
+  },
+  "social_proof": "row website cielopanama.com links @cielorooftopbar in its footer; IG bio gives 'Av. Balboa, edificio Sands al lado de Point, piso 37' matching the site's address 'PH The Sands, Piso RT, Ave. Balboa, Panama City'",
+  "about_es": "Cielo Rooftop Bar es un rooftop de Bar en el barrio de Calidonia, en la Ciudad de Panamá.",
+  "dataset_comparison_es": "Una de las pocas cocinas de Bar en Calidonia",
+  "best_time_es": "Desde el final de la tarde hasta la noche para ver el atardecer; abre a las 5pm de lunes a miércoles y a las 3pm sábado y domingo",
+  "whats_good_es": [
+   "Vistas al atardecer y al skyline desde el rooftop",
+   "Programa de cócteles de la casa",
+   "Ambiente de lounge exclusivo para celebraciones y eventos privados"
+  ],
+  "attributes_es": [
+   "Terraza",
+   "Reservas disponibles",
+   "Eventos privados y paquetes de cumpleaños",
+   "Promociones de barra libre",
+   "Solo en la noche (abre 5pm en días de semana, 3pm los fines de semana)"
+  ]
+ },
+ {
+  "id": "calidonia-delicias-del-mar-sur",
+  "slug": "delicias-del-mar-sur",
+  "name": "Delicias Del Mar Sur",
+  "cuisine_en": [
+   "Seafood"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "calidonia",
+  "address": "XF57+C8R Mercado de mariscos, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9586004,
+  "lng": -79.5367412,
+  "phones": {},
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "10:30 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "10:30 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "10:30 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "10:30 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "10:30 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "10:30 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "10:30 AM",
+    "close": "10:00 PM"
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Seafood"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Camarones con tocino (shrimp with bacon)",
+    "description_en": "Shrimp wrapped or cooked with bacon, a house favorite among diners",
+    "price": null,
+    "popular": true,
+    "description_es": "Camarones envueltos o cocinados con tocino, uno de los favoritos de la casa"
+   },
+   {
+    "name": "Camarones empalizada",
+    "description_en": "Grilled skewer-style shrimp preparation",
+    "price": null,
+    "popular": false,
+    "description_es": "Brochetas de camarón a la parrilla"
+   },
+   {
+    "name": "Filete de pescado (fish fillet)",
+    "description_en": "Fresh local fish fillet served with sides",
+    "price": null,
+    "popular": false,
+    "description_es": "Filete de pescado fresco local, servido con acompañantes"
+   }
+  ],
+  "about_en": "Delicias Del Mar Sur is a Seafood restaurant in the Calidonia neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Camarones con tocino (shrimp with bacon)"
+  ],
+  "whats_good_en": [
+   "Fresh seafood sourced from the adjacent market",
+   "Attentive service and well-plated dishes"
+  ],
+  "typical_spend_en": null,
+  "dataset_comparison_en": "One of 5 Seafood spots in Calidonia",
+  "attributes_en": [
+   "Located at the Mercado del Marisco",
+   "Casual seafood dining"
+  ],
+  "best_time_en": null,
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.facebook.com/deliciasdelmarpty",
+   "https://www.tripadvisor.com/Restaurant_Review-g294480-d1235054-Reviews-Mercado_de_Mariscos-Panama_City_Panama_Province.html"
+  ],
+  "best_time": {
+   "busiest": "Fri-Sun, 1-3 PM",
+   "busiest_note_en": "Weekend lunch is busiest",
+   "easy": "Weekday lunch",
+   "easy_note_en": "Easy midday seat",
+   "sweet": "Fri, 12:30 PM",
+   "sweet_note_en": "Lunch peak freshness, ahead of the rush"
+  },
+  "about_es": "Delicias Del Mar Sur es un restaurante de mariscos en el barrio de Calidonia, en la Ciudad de Panamá.",
+  "dataset_comparison_es": "Uno de los 5 lugares de Seafood en Calidonia",
+  "highlights_es": [
+   "Conocido por sus Camarones con tocino"
+  ],
+  "whats_good_es": [
+   "Mariscos frescos que vienen directo del mercado de al lado",
+   "Servicio atento y platos bien presentados"
+  ],
+  "attributes_es": [
+   "Ubicado en el Mercado del Marisco",
+   "Comida de mar informal"
+  ]
+ },
+ {
+  "id": "calidonia-mercado-de-mariscos-cinta-costera",
+  "slug": "mercado-de-mariscos-cinta-costera",
+  "name": "Mercado De Mariscos Cinta Costera",
+  "cuisine_en": [
+   "Seafood"
+  ],
+  "cuisine_es": [],
+  "price_tier": 2,
+  "neighborhood_slug": "calidonia",
+  "address": "Ciclovía Cinta Costera, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9589594,
+  "lng": -79.5375159,
+  "phones": {},
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "5:00 AM",
+    "close": "5:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "5:00 AM",
+    "close": "5:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "5:00 AM",
+    "close": "5:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "5:00 AM",
+    "close": "5:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "5:00 AM",
+    "close": "5:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "5:00 AM",
+    "close": "5:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "5:00 AM",
+    "close": "5:00 PM"
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Seafood",
+   "Cheap-eats",
+   "High-traffic",
+   "Tourist-classic",
+   "Outdoor",
+   "Ceviche"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Ceviche",
+    "description_en": "Fresh Pacific ceviche (corvina, shrimp, mixed) sold by the cup at the outdoor stands",
+    "price": null,
+    "popular": true,
+    "description_es": "Ceviche fresco del Pacífico (corvina, camarón, mixto) que venden por vaso en los puestos al aire libre"
+   },
+   {
+    "name": "Whole fried fish",
+    "description_en": "Whole fish fried and served with patacones, a market classic",
+    "price": null,
+    "popular": true,
+    "description_es": "Pescado entero frito servido con patacones, un clásico del mercado"
+   },
+   {
+    "name": "Pick-your-own seafood",
+    "description_en": "Buy fresh catch by the pound indoors and have a stand cook it",
+    "price": null,
+    "popular": false,
+    "description_es": "Compra pescado fresco por libra adentro y pide que te lo cocinen en un puesto"
+   }
+  ],
+  "about_en": "Mercado De Mariscos Cinta Costera is a Seafood market in the Calidonia neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Ceviche"
+  ],
+  "whats_good_en": [
+   "Some of the freshest and cheapest ceviche in the city",
+   "Authentic, working-market atmosphere with fishing boats in view",
+   "Handpick your own seafood and have it cooked on the spot"
+  ],
+  "typical_spend_en": "roughly $3 to $12 a plate (ceviche cups only a couple dollars)",
+  "dataset_comparison_en": "One of 5 Seafood spots in Calidonia",
+  "attributes_en": [
+   "Open-air / casual",
+   "Mostly cash",
+   "Waterfront on Cinta Costera",
+   "Vendors can be pushy",
+   "Busy and lively"
+  ],
+  "best_time_en": "Morning, when the fishing boats unload the freshest catch and before crowds build",
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.tripadvisor.com/Restaurant_Review-g294480-d1235054-Reviews-Mercado_de_Mariscos-Panama_City_Panama_Province.html",
+   "https://wanderlog.com/place/details/560630/mercado-de-marisco-cinta-costera",
+   "https://airial.travel/attractions/panama/panam%C3%A1/mercado-de-mariscos-fish-market-MJvPO86V"
+  ],
+  "best_time": {
+   "busiest": "Fri-Sun, 1-3 PM",
+   "busiest_note_en": "Weekend lunch is busiest",
+   "easy": "Weekday lunch",
+   "easy_note_en": "Easy midday seat",
+   "sweet": "Fri, 12:30 PM",
+   "sweet_note_en": "Lunch peak freshness, ahead of the rush"
+  },
+  "attributes_es": [
+   "Al aire libre / informal",
+   "Mayormente efectivo",
+   "Frente al mar en la Cinta Costera",
+   "Los vendedores pueden ser insistentes",
+   "Animado y lleno de gente"
+  ],
+  "about_es": "Mercado De Mariscos Cinta Costera es un mercado de Seafood en el barrio de Calidonia, en la Ciudad de Panamá.",
+  "typical_spend_es": "entre $3 y $12 por plato (los cocteles de ceviche cuestan solo un par de dólares)",
+  "dataset_comparison_es": "Uno de los 5 lugares de Seafood en Calidonia",
+  "best_time_es": "En la mañana, cuando los botes de pesca descargan lo más fresco y antes de que llegue la multitud",
+  "highlights_es": [
+   "Conocido por su Ceviche"
+  ],
+  "whats_good_es": [
+   "Uno de los ceviches más frescos y baratos de la ciudad",
+   "Ambiente auténtico de mercado de trabajo, con los botes de pesca a la vista",
+   "Escoge tu propio marisco y lo cocinan al momento"
+  ]
+ },
+ {
+  "id": "calidonia-olivares-seafood",
+  "slug": "olivares-seafood",
+  "name": "Olivares Seafood",
+  "cuisine_en": [
+   "Seafood"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "calidonia",
+  "address": "mercado del marisco panama mercado del marisco, calle 75, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9590034,
+  "lng": -79.5375102,
+  "phones": {
+   "call": "+507 6949-8278"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "6:00 AM",
+    "close": "5:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "6:00 AM",
+    "close": "5:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "6:00 AM",
+    "close": "5:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "9:00 AM",
+    "close": "5:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "6:00 AM",
+    "close": "5:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "6:00 AM",
+    "close": "5:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "7:00 AM",
+    "close": "3:00 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/olivares-seafood.jpg",
+    "alt_en": "Prawn ceviche at Olivares Seafood, Mercado de Mariscos, Panama City",
+    "alt_es": "Ceviche de langostino en Olivares Seafood, Mercado de Mariscos, Ciudad de Panama",
+    "credit_en": "Photo: @olivaresseafood",
+    "credit_url": "https://www.instagram.com/olivaresseafood/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Seafood",
+   "Dog-friendly",
+   "Ceviche",
+   "Cocktails"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Langosh (lobster sandwich)",
+    "description_en": "Their most-recommended item, a lobster sandwich",
+    "price": null,
+    "popular": true,
+    "description_es": "Su plato más recomendado: un sándwich de langosta"
+   },
+   {
+    "name": "Ceviches",
+    "description_en": "Range of fresh ceviches the venue is known for",
+    "price": null,
+    "popular": true,
+    "description_es": "Variedad de ceviches frescos por los que el lugar es conocido"
+   },
+   {
+    "name": "Seafood cocktails",
+    "description_en": "Chilled shellfish cocktails",
+    "price": null,
+    "popular": false,
+    "description_es": "Cocteles de mariscos bien fríos"
+   },
+   {
+    "name": "Fresh/frozen seafood to go",
+    "description_en": "Raw seafood sold for takeout",
+    "price": null,
+    "popular": false,
+    "description_es": "Mariscos crudos para llevar"
+   }
+  ],
+  "about_en": "Olivares Seafood is a Seafood restaurant in the Calidonia neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Langosh (lobster sandwich)"
+  ],
+  "whats_good_en": [
+   "Fresh, well-regarded ceviches",
+   "Small, clean, focused seafood menu",
+   "Good value for the quality"
+  ],
+  "typical_spend_en": "roughly $8 to $15 a main (about $12 per person)",
+  "dataset_comparison_en": "One of 5 Seafood spots in Calidonia",
+  "attributes_en": [
+   "Accepts Visa, MasterCard and cash",
+   "Parking",
+   "Wi-Fi",
+   "Delivery",
+   "Dog-friendly",
+   "Air-conditioned seating",
+   "Takeout seafood available"
+  ],
+  "best_time_en": null,
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/olivaresseafood/",
+   "https://www.degustapanama.com/panama/restaurante/olivares-seafood_109631.html",
+   "https://www.facebook.com/p/Mariscos-Olivares-SA-100065394523315/"
+  ],
+  "best_time": {
+   "busiest": "Fri-Sun, 1-3 PM",
+   "busiest_note_en": "Weekend lunch is busiest",
+   "easy": "Weekday lunch",
+   "easy_note_en": "Easy midday seat",
+   "sweet": "Fri, 12:30 PM",
+   "sweet_note_en": "Lunch peak freshness, ahead of the rush"
+  },
+  "social": {
+   "instagram": "https://www.instagram.com/olivaresseafood/"
+  },
+  "social_proof": "own post says 'Estamos ubicados en la entrada del Mercado del Marisco' (Av. Balboa) matching the row's Degusta address; laguiadelfoodie.com lists 'Instagram: @olivaresseafood, Direccion: Mercado del Marisco, Av. Balboa'",
+  "about_es": "Olivares Seafood es un restaurante de mariscos en el barrio de Calidonia, en la Ciudad de Panamá.",
+  "typical_spend_es": "entre $8 y $15 por plato principal (unos $12 por persona)",
+  "dataset_comparison_es": "Uno de los 5 lugares de mariscos en Calidonia",
+  "highlights_es": [
+   "Conocido por el Langosh (sándwich de langosta)"
+  ],
+  "whats_good_es": [
+   "Ceviches frescos y muy bien valorados",
+   "Menú de mariscos pequeño, cuidado y bien enfocado",
+   "Buena relación calidad-precio"
+  ],
+  "attributes_es": [
+   "Aceptan Visa, MasterCard y efectivo",
+   "Estacionamiento",
+   "Wi-Fi",
+   "Entrega a domicilio",
+   "Admite mascotas",
+   "Área con aire acondicionado",
+   "Mariscos para llevar disponibles"
+  ]
+ },
+ {
+  "id": "calidonia-osaka-toscana-rooftop-av-balboa",
+  "slug": "osaka-toscana-rooftop-av-balboa",
+  "name": "Osaka Toscana Rooftop - Av. Balboa",
+  "cuisine_en": [
+   "Japanese"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "calidonia",
+  "address": "0801, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9613751,
+  "lng": -79.5368539,
+  "phones": {
+   "whatsapp": "wa.me/50764570208",
+   "call": "+507 6817-6180"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "12:00",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "12:00",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "12:00",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "12:00",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "12:00",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "12:00",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "12:00",
+    "close": "10:00 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/osaka-toscana-rooftop-av-balboa-food.jpg",
+    "alt_en": "Plated dish at Osaka Toscana Rooftop, Avenida Balboa, Panama City",
+    "alt_es": "Plato en Osaka Toscana Rooftop, Avenida Balboa, Ciudad de Panamá",
+    "credit_en": "Photo: Osaka Toscana Rooftop"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Japanese",
+   "Date-night",
+   "View",
+   "Rooftop",
+   "Cocktails"
+  ],
+  "tags_es": [
+   "Azotea"
+  ],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Sushi rolls",
+    "description_en": "Fresh nigiri and specialty maki rolls from the sushi side of the menu",
+    "price": null,
+    "popular": true,
+    "description_es": "Nigiri fresco y makis especiales del lado sushi del menú"
+   },
+   {
+    "name": "Pasta al pesto",
+    "description_en": "Italian pasta in a basil pesto sauce, called out by diners",
+    "price": null,
+    "popular": true,
+    "description_es": "Pasta italiana en salsa de pesto de albahaca, muy mencionada por los clientes"
+   },
+   {
+    "name": "Wood-oven pizza",
+    "description_en": "Italian-style pizzas from the Toscana side of the kitchen",
+    "price": null,
+    "popular": false,
+    "description_es": "Pizzas al estilo italiano de la línea Toscana de la cocina"
+   },
+   {
+    "name": "House cocktails",
+    "description_en": "Signature drinks such as passion-fruit mojito and negroni",
+    "price": null,
+    "popular": false,
+    "description_es": "Tragos de la casa como el mojito de maracuyá y el negroni"
+   }
+  ],
+  "about_en": "Osaka Toscana Rooftop - Av. Balboa is a Japanese rooftop in the Calidonia neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Sushi rolls"
+  ],
+  "whats_good_en": [
+   "Two-in-one menu: sushi plus Italian pasta and pizza",
+   "Rooftop views over Cinta Costera and toward Casco Viejo",
+   "Cocktails and a celebratory sunset atmosphere"
+  ],
+  "typical_spend_en": null,
+  "dataset_comparison_en": "One of the few Japanese kitchens in Calidonia",
+  "attributes_en": [
+   "Rooftop",
+   "Reservations available",
+   "Good for special occasions",
+   "Second branch in Obarrio"
+  ],
+  "best_time_en": "Sunset and dinner service (open from noon daily)",
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://osakatoscanarooftop.com/",
+   "https://linktr.ee/osaka_toscana"
+  ],
+  "best_time": {
+   "busiest": "Thu-Sat, 7-11 PM",
+   "busiest_note_en": "Sunset and weekend crowd fills the terrace",
+   "easy": "Tue-Wed evenings",
+   "easy_note_en": "Walk-ins usually fine before 8 PM",
+   "sweet": "Fri, 6-7 PM",
+   "sweet_note_en": "Golden-hour views, still an easy table"
+  },
+  "about_es": "Osaka Toscana Rooftop - Av. Balboa es un rooftop japonés en el barrio de Calidonia, en la Ciudad de Panamá.",
+  "dataset_comparison_es": "Una de las pocas cocinas japonesas en Calidonia",
+  "best_time_es": "Servicio de atardecer y cena (abierto todos los días desde el mediodía)",
+  "highlights_es": [
+   "Conocido por sus rolls de sushi"
+  ],
+  "whats_good_es": [
+   "Menú dos en uno: sushi más pasta y pizza italiana",
+   "Vistas desde la azotea a la Cinta Costera y hacia el Casco Viejo",
+   "Cocteles y ambiente festivo para ver el atardecer"
+  ],
+  "attributes_es": [
+   "Azotea",
+   "Se pueden hacer reservaciones",
+   "Ideal para ocasiones especiales",
+   "Segunda sucursal en Obarrio"
+  ]
+ },
+ {
+  "id": "calidonia-pizzeria-q-bola",
+  "slug": "pizzeria-q-bola",
+  "name": "Pizzería Q'Bolá",
+  "cuisine_en": [
+   "Pizza"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "calidonia",
+  "address": "Av. Central España 13, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9735069,
+  "lng": -79.5357341,
+  "phones": {
+   "whatsapp": "+507 6693-8742",
+   "call": "+507 6426-3124"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "11:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "11:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "11:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "11:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "11:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "11:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "11:00 AM",
+    "close": "11:00 PM"
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Pizza",
+   "Casual",
+   "Family"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Cuban-style pizza",
+    "description_en": "House Cuban-style pizzas, the whole concept of the venue.",
+    "price": null,
+    "popular": true,
+    "description_es": "Pizzas estilo cubano de la casa, el concepto central del lugar."
+   }
+  ],
+  "about_en": "Pizzería Q'Bolá is a Pizza pizzeria in the Calidonia neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Cuban-style pizza"
+  ],
+  "whats_good_en": [
+   "Cuban-style pizza, a distinctive niche in the city",
+   "Simple WhatsApp / delivery ordering"
+  ],
+  "typical_spend_en": null,
+  "dataset_comparison_en": null,
+  "attributes_en": [
+   "WhatsApp ordering",
+   "Delivery / takeaway",
+   "Social-media-first (Instagram)"
+  ],
+  "best_time_en": null,
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/quebola507/",
+   "https://www.instagram.com/qubolafood/",
+   "https://wa.me/50766938742"
+  ],
+  "best_time": {
+   "busiest": "Fri-Sat evenings",
+   "busiest_note_en": "Weekend nights draw the crowd",
+   "easy": "Weekday lunch",
+   "easy_note_en": "Quick, easy seat",
+   "sweet": "Thu, 6-7 PM",
+   "sweet_note_en": "Early dinner before it fills"
+  },
+  "about_es": "Pizzería Q'Bolá es una pizzería en el barrio de Calidonia, en la Ciudad de Panamá.",
+  "highlights_es": [
+   "Conocido por su pizza al estilo cubano"
+  ],
+  "whats_good_es": [
+   "Pizza al estilo cubano, una propuesta poco común en la ciudad",
+   "Pedidos sencillos por WhatsApp o delivery"
+  ],
+  "attributes_es": [
+   "Pedidos por WhatsApp",
+   "Delivery / para llevar",
+   "Con enfoque en redes sociales (Instagram)"
+  ]
+ },
+ {
+  "id": "calidonia-ready-pizza-calidonia-1",
+  "slug": "ready-pizza-calidonia-1",
+  "name": "Ready Pizza",
+  "cuisine_en": [
+   "Pizza"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "calidonia",
+  "address": "Calidonia, frente al Machetazo, a un lado de Guetto Gym, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9674899,
+  "lng": -79.53972639999999,
+  "phones": {
+   "call": "+507 6684-6600"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "11:00 AM",
+    "close": "10:00 AM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Pizza",
+   "Casual",
+   "Family",
+   "Wings"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Family 14-inch pizza",
+    "description_en": "Eight-slice family pizza in pepperoni, ham or cheese",
+    "price": null,
+    "popular": true,
+    "description_es": "Pizza familiar de ocho porciones en pepperoni, jamón o queso"
+   },
+   {
+    "name": "Pepperoni, bacon and Italian sausage pizza",
+    "description_en": "Loaded meat pizza",
+    "price": null,
+    "popular": true,
+    "description_es": "Pizza cargada de carnes"
+   },
+   {
+    "name": "Bacon and pineapple pizza",
+    "description_en": "Sweet-and-savory bacon-pineapple pizza",
+    "price": null,
+    "popular": false,
+    "description_es": "Pizza agridulce de tocino y piña"
+   },
+   {
+    "name": "Four-flavor combo pizza",
+    "description_en": "Pizza split into four flavors",
+    "price": null,
+    "popular": false,
+    "description_es": "Pizza dividida en cuatro sabores"
+   },
+   {
+    "name": "Cheese calzone",
+    "description_en": "10-inch calzone (ham, pepperoni, cheese or supreme)",
+    "price": null,
+    "popular": false,
+    "description_es": "Calzone de 10 pulgadas (jamón, pepperoni, queso o especial)"
+   },
+   {
+    "name": "Baked wings",
+    "description_en": "Italian-seasoned baked wings, sauced or naked (8 or 12 pc)",
+    "price": null,
+    "popular": false,
+    "description_es": "Alitas horneadas con sazón italiano, con salsa o al natural (8 o 12 piezas)"
+   }
+  ],
+  "about_en": "Ready Pizza is a Pizza restaurant in the Calidonia neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Family 14-inch pizza"
+  ],
+  "whats_good_en": [
+   "Value family-size 14-inch pizzas",
+   "Calzones, garlic bread sticks and baked wings",
+   "Many city locations with delivery and takeout"
+  ],
+  "typical_spend_en": null,
+  "dataset_comparison_en": null,
+  "attributes_en": [
+   "Delivery/takeout chain with multiple Panama City branches",
+   "Family 14-inch pizzas (8 slices)",
+   "Online ordering; also on Uber Eats"
+  ],
+  "best_time_en": null,
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/readypizza.pa/",
+   "https://readypizzapa.com/menu.php",
+   "https://www.facebook.com/readypizzapanama",
+   "https://www.ubereats.com/pa-en/store/ready-pizza-plaza-plaza-wes/6TzA1IiUWMCKK6o3v4eRcQ"
+  ],
+  "best_time": {
+   "busiest": "Fri-Sat evenings",
+   "busiest_note_en": "Weekend nights draw the crowd",
+   "easy": "Weekday lunch",
+   "easy_note_en": "Quick, easy seat",
+   "sweet": "Thu, 6-7 PM",
+   "sweet_note_en": "Early dinner before it fills"
+  },
+  "social": {
+   "instagram": "https://www.instagram.com/readypizza.pa/"
+  },
+  "social_proof": "chain's own website readypizzapa.com (matches row website) links this Instagram; YouTube channel @readypizzapa lists instagram.com/readypizza.pa",
+  "about_es": "Ready Pizza es un restaurante de pizza en el barrio de Calidonia, en la Ciudad de Panamá.",
+  "highlights_es": [
+   "Conocido por su pizza familiar de 14 pulgadas"
+  ],
+  "whats_good_es": [
+   "Pizzas familiares de 14 pulgadas a buen precio",
+   "Calzones, palitos de pan de ajo y alitas al horno",
+   "Varias sucursales en la ciudad con delivery y para llevar"
+  ],
+  "attributes_es": [
+   "Cadena de delivery y para llevar con varias sucursales en la Ciudad de Panamá",
+   "Pizzas familiares de 14 pulgadas (8 porciones)",
+   "Pedidos en línea; también disponible en Uber Eats"
+  ]
+ },
+ {
+  "id": "calidonia-ready-pizza-calidonia-2",
+  "slug": "ready-pizza-calidonia-2",
+  "name": "Ready Pizza",
+  "cuisine_en": [
+   "Pizza"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "calidonia",
+  "address": "Frente a la Zona Paga de 5 de Mayo al lado de RoostiPollo, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.960747399999999,
+  "lng": -79.539577,
+  "phones": {
+   "call": "+507 6684-6600"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Pizza",
+   "Casual",
+   "Family",
+   "Wings"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Family 14-inch pizza",
+    "description_en": "Eight-slice family pizza in pepperoni, ham or cheese",
+    "price": null,
+    "popular": true,
+    "description_es": "Pizza familiar de ocho porciones en pepperoni, jamón o queso"
+   },
+   {
+    "name": "Pepperoni, bacon and Italian sausage pizza",
+    "description_en": "Loaded meat pizza",
+    "price": null,
+    "popular": true,
+    "description_es": "Pizza cargada de carnes"
+   },
+   {
+    "name": "Bacon and pineapple pizza",
+    "description_en": "Sweet-and-savory bacon-pineapple pizza",
+    "price": null,
+    "popular": false,
+    "description_es": "Pizza agridulce de tocino y piña"
+   },
+   {
+    "name": "Four-flavor combo pizza",
+    "description_en": "Pizza split into four flavors",
+    "price": null,
+    "popular": false,
+    "description_es": "Pizza dividida en cuatro sabores"
+   },
+   {
+    "name": "Cheese calzone",
+    "description_en": "10-inch calzone (ham, pepperoni, cheese or supreme)",
+    "price": null,
+    "popular": false,
+    "description_es": "Calzone de 10 pulgadas (jamón, pepperoni, queso o especial)"
+   },
+   {
+    "name": "Baked wings",
+    "description_en": "Italian-seasoned baked wings, sauced or naked (8 or 12 pc)",
+    "price": null,
+    "popular": false,
+    "description_es": "Alitas horneadas con sazón italiano, con salsa o al natural (8 o 12 piezas)"
+   }
+  ],
+  "about_en": "Ready Pizza is a Pizza restaurant in the Calidonia neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Family 14-inch pizza"
+  ],
+  "whats_good_en": [
+   "Value family-size 14-inch pizzas",
+   "Calzones, garlic bread sticks and baked wings",
+   "Many city locations with delivery and takeout"
+  ],
+  "typical_spend_en": null,
+  "dataset_comparison_en": null,
+  "attributes_en": [
+   "Delivery/takeout chain with multiple Panama City branches",
+   "Family 14-inch pizzas (8 slices)",
+   "Online ordering; also on Uber Eats"
+  ],
+  "best_time_en": null,
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/readypizza.pa/",
+   "https://readypizzapa.com/menu.php",
+   "https://www.facebook.com/readypizzapanama",
+   "https://www.ubereats.com/pa-en/store/ready-pizza-plaza-plaza-wes/6TzA1IiUWMCKK6o3v4eRcQ"
+  ],
+  "best_time": {
+   "busiest": "Fri-Sat evenings",
+   "busiest_note_en": "Weekend nights draw the crowd",
+   "easy": "Weekday lunch",
+   "easy_note_en": "Quick, easy seat",
+   "sweet": "Thu, 6-7 PM",
+   "sweet_note_en": "Early dinner before it fills"
+  },
+  "social": {
+   "instagram": "https://www.instagram.com/readypizza.pa/"
+  },
+  "social_proof": "same chain account as ready-pizza-calidonia-1; readypizzapa.com links this Instagram",
+  "about_es": "Ready Pizza es un restaurante de pizza en el barrio de Calidonia, en la Ciudad de Panamá.",
+  "highlights_es": [
+   "Conocido por su pizza familiar de 14 pulgadas"
+  ],
+  "whats_good_es": [
+   "Pizzas familiares de 14 pulgadas a buen precio",
+   "Calzones, palitos de pan de ajo y alitas al horno",
+   "Varias sucursales en la ciudad con delivery y para llevar"
+  ],
+  "attributes_es": [
+   "Cadena de delivery y para llevar con varias sucursales en la Ciudad de Panamá",
+   "Pizzas familiares de 14 pulgadas (8 porciones)",
+   "Pedidos en línea; también disponible en Uber Eats"
+  ]
+ },
+ {
+  "id": "calidonia-restaurant-blue-veins-seafood-market",
+  "slug": "restaurant-blue-veins-seafood-market",
+  "name": "restaurant blue veins seafood market",
+  "cuisine_en": [
+   "Seafood"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "calidonia",
+  "address": "XF57+C5V, Panama City, Panamá Province, Panama",
+  "address_note_en": "",
+  "lat": 8.9586125,
+  "lng": -79.5370781,
+  "phones": {},
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "11:00 AM",
+    "close": "12:00 AM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "11:00 AM",
+    "close": "12:00 AM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "11:00 AM",
+    "close": "12:00 AM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "11:00 AM",
+    "close": "12:00 AM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "11:00 AM",
+    "close": "12:00 AM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "Open 24 hours",
+    "close": ""
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "10:30 AM",
+    "close": "11:30 PM"
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Seafood",
+   "Outdoor",
+   "Ceviche"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Ceviche",
+    "description_en": "Fresh market ceviche, a signature of the fish-market stands",
+    "price": null,
+    "popular": true,
+    "description_es": "Ceviche fresco de mercado, un distintivo de los puestos del mercado de mariscos"
+   },
+   {
+    "name": "Fried and grilled seafood platters",
+    "description_en": "Whole fish and shellfish prepared fried or grilled",
+    "price": null,
+    "popular": false,
+    "description_es": "Pescado entero y mariscos preparados fritos o a la parrilla"
+   }
+  ],
+  "about_en": "restaurant blue veins seafood market is a Seafood market in the Calidonia neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Ceviche"
+  ],
+  "whats_good_en": [
+   "Very fresh seafood right in the market",
+   "Authentic, non-touristy market vibe with fishing-boat views",
+   "Friendly staff"
+  ],
+  "typical_spend_en": null,
+  "dataset_comparison_en": "One of 5 Seafood spots in Calidonia",
+  "attributes_en": [
+   "Inside the Mercado de Mariscos",
+   "Casual / open-air",
+   "Staff may upsell combo plates - confirm what you order"
+  ],
+  "best_time_en": "Daytime, alongside a fish-market visit",
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://airial.travel/attractions/panama/panam%C3%A1/mercado-de-mariscos-fish-market-MJvPO86V",
+   "https://wanderlog.com/place/details/560630/mercado-de-marisco-cinta-costera"
+  ],
+  "best_time": {
+   "busiest": "Fri-Sun, 1-3 PM",
+   "busiest_note_en": "Weekend lunch is busiest",
+   "easy": "Weekday lunch",
+   "easy_note_en": "Easy midday seat",
+   "sweet": "Fri, 12:30 PM",
+   "sweet_note_en": "Lunch peak freshness, ahead of the rush"
+  },
+  "about_es": "restaurant blue veins seafood market es un mercado de mariscos en el barrio de Calidonia, en la Ciudad de Panamá.",
+  "dataset_comparison_es": "Uno de los 5 lugares de mariscos en Calidonia",
+  "best_time_es": "Ideal de día, aprovechando una visita al mercado de mariscos",
+  "highlights_es": [
+   "Conocido por su ceviche"
+  ],
+  "whats_good_es": [
+   "Mariscos muy frescos, directo del mercado",
+   "Ambiente auténtico y poco turístico, con vista a los botes pesqueros",
+   "Personal amable"
+  ],
+  "attributes_es": [
+   "Dentro del Mercado de Mariscos",
+   "Informal / al aire libre",
+   "El personal puede ofrecer platos combo adicionales - confirma bien lo que pides"
+  ]
+ },
+ {
+  "id": "calidonia-rincon-isleno",
+  "slug": "rincon-isleno",
+  "name": "Rincon Isleno",
+  "cuisine_en": [
+   "Caribbean"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "calidonia",
+  "address": "XF57+F79, Panama City, Panamá Province, Panama",
+  "address_note_en": "",
+  "lat": 8.9586633,
+  "lng": -79.5367626,
+  "phones": {},
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "11:30 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "11:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "11:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "11:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "11:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "11:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "11:30 AM",
+    "close": "8:00 PM"
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Caribbean",
+   "Ceviche",
+   "Patacones"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Corvina a la hembra",
+    "description_en": "Fried corvina topped with sauteed shrimp and vegetables",
+    "price": null,
+    "popular": true,
+    "description_es": "Corvina frita cubierta con camarones y vegetales salteados"
+   },
+   {
+    "name": "Langosta en salsa caribeña",
+    "description_en": "Lobster in a Caribbean-style sauce",
+    "price": null,
+    "popular": true,
+    "description_es": "Langosta en salsa estilo caribeño"
+   },
+   {
+    "name": "Camarones al ajillo",
+    "description_en": "Garlic shrimp",
+    "price": null,
+    "popular": false,
+    "description_es": "Camarones al ajillo"
+   },
+   {
+    "name": "Langosta al ajillo",
+    "description_en": "Garlic lobster",
+    "price": null,
+    "popular": false,
+    "description_es": "Langosta al ajillo"
+   },
+   {
+    "name": "Fish ceviche",
+    "description_en": "Fresh fish ceviche",
+    "price": null,
+    "popular": false,
+    "description_es": "Ceviche de pescado fresco"
+   },
+   {
+    "name": "Arroz con guandú y patacones",
+    "description_en": "Rice with pigeon peas and fried green plantains as sides",
+    "price": null,
+    "popular": false,
+    "description_es": "Arroz con guandú y patacones como acompañantes"
+   }
+  ],
+  "about_en": "Rincon Isleno is a Caribbean restaurant in the Calidonia neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Corvina a la hembra"
+  ],
+  "whats_good_en": [
+   "Fresh seafood with Caribbean-style lobster preparations",
+   "Solid fish ceviche",
+   "Classic Panamanian sides (patacones, arroz con guandu)"
+  ],
+  "typical_spend_en": "roughly $15 to $25 a main (about $22 per person)",
+  "dataset_comparison_en": "One of the few Caribbean kitchens in Calidonia",
+  "attributes_en": [
+   "Inside / by the Mercado del Marisco",
+   "Casual seafood dining"
+  ],
+  "best_time_en": null,
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.degustapanama.com/panama/restaurante/el-rincon-isleno_109366.html"
+  ],
+  "best_time": {
+   "busiest": "Fri-Sat, 8-10 PM",
+   "busiest_note_en": "Weekend dinner is busiest",
+   "easy": "Mon-Tue evenings",
+   "easy_note_en": "Relaxed, easy to seat",
+   "sweet": "Thu, 7 PM",
+   "sweet_note_en": "Dinner buzz without the wait"
+  },
+  "about_es": "Rincón Isleño es un restaurante caribeño en el barrio de Calidonia, en Ciudad de Panamá.",
+  "typical_spend_es": "entre $15 y $25 por plato principal (unos $22 por persona)",
+  "dataset_comparison_es": "Una de las pocas cocinas caribeñas en Calidonia",
+  "highlights_es": [
+   "Reconocido por su Corvina a la hembra"
+  ],
+  "whats_good_es": [
+   "Mariscos frescos con preparaciones de langosta al estilo caribeño",
+   "Un buen ceviche de pescado",
+   "Acompañantes panameños clásicos (patacones, arroz con guandú)"
+  ],
+  "attributes_es": [
+   "Dentro / cerca del Mercado del Marisco",
+   "Comida de mar informal"
+  ]
+ },
+ {
+  "id": "calidonia-cevichera-la-bendicion",
+  "slug": "cevichera-la-bendicion",
+  "name": "Cevichera La Bendición",
+  "cuisine_en": [
+   "International"
+  ],
+  "cuisine_es": [],
+  "price_tier": 2,
+  "neighborhood_slug": "calidonia",
+  "address": "XF56+GM2, Panama City, Panamá Province, Panama",
+  "address_note_en": "",
+  "lat": 8.9587726,
+  "lng": -79.5383739,
+  "phones": {},
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "12:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "8:30 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "8:30 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "8:30 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "8:30 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "10:30 AM",
+    "close": "12:00 AM"
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "International"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Cevichera La Bendición is a restaurant in Calidonia, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [
+   "Ceviche is what to order, and a plate of it plus sides lands well under the price of the tourist places by the fish market.",
+   "Waiting is part of the deal - both getting an order taken and getting food out have drawn complaints.",
+   "The coconut rice divides people: a high point in some meals, sent out undercooked in others."
+  ],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/labendicionpty/",
+   "https://www.instagram.com/labendicionpty?igsh=MWJyODFkYWJiN3M0cw==",
+   "https://www.google.com/maps/place/?q=place_id:ChIJCyGz1-mprI8RUctxbBe5He0"
+  ],
+  "import_wave": "W1 flagship",
+  "social": {
+   "instagram": "https://www.instagram.com/labendicionpty/"
+  },
+  "social_proof": "handle pre-verified in this batch; photo pulled from the venue's own logged-out Instagram grid, so the owning account is the venue itself",
+  "about_es": "Cevichera La Bendición es un restaurante en Calidonia, Ciudad de Panamá.",
+  "whats_good_es": [
+   "El ceviche es lo que hay que pedir, y un plato con acompañantes sale mucho más barato que en los sitios turísticos junto al mercado de mariscos.",
+   "Esperar es parte del plan - tanto para que tomen la orden como para que llegue la comida, ha habido quejas.",
+   "El arroz con coco divide opiniones: para algunos es lo mejor de la comida, para otros llega poco cocido."
+  ]
+ },
+ {
+  "id": "calidonia-the-old-town-lighthouse",
+  "slug": "the-old-town-lighthouse",
+  "name": "The Old Town Lighthouse",
+  "cuisine_en": [
+   "International"
+  ],
+  "cuisine_es": [],
+  "price_tier": 2,
+  "neighborhood_slug": "calidonia",
+  "address": "P.H. Bay View, C. 23 Este, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9602282,
+  "lng": -79.53834049999999,
+  "phones": {
+   "call": "6205-6183"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "4:30 PM",
+    "close": "12:00 AM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "4:30 PM",
+    "close": "12:00 AM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "4:30 PM",
+    "close": "1:00 AM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "4:30 PM",
+    "close": "2:00 AM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "4:30 PM",
+    "close": "2:00 AM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "4:30 PM",
+    "close": "2:00 AM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "4:30 PM",
+    "close": "12:00 AM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/the-old-town-lighthouse.jpg",
+    "alt_en": "Shrimp cocktail at The Old Town Lighthouse, Calidonia, Panama City",
+    "alt_es": "Coctel de camarones en The Old Town Lighthouse, Calidonia, Ciudad de Panama",
+    "credit_en": "Photo: @elfarodelcascoantiguo",
+    "credit_url": "https://www.instagram.com/elfarodelcascoantiguo/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "International"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "The Old Town Lighthouse is a restaurant in Calidonia, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [
+   "The view is the reason to book, and sunset from an outdoor table over the water is what most people come for.",
+   "Service is the reliable part; the food is more uneven, with some plates landing much better than others.",
+   "Expect music, and on some nights karaoke loud enough to make conversation hard."
+  ],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/elfarodelcascoantiguo/",
+   "https://www.google.com/maps/place/?q=place_id:ChIJG8hJVs-prI8RMpULKjjXZtU"
+  ],
+  "import_wave": "W1 flagship",
+  "social": {
+   "instagram": "https://www.instagram.com/elfarodelcascoantiguo/"
+  },
+  "social_proof": "El Faro del Casco Antiguo is the Spanish name of The Old Town Lighthouse; posts state \"PH BAY VIEW PISO 28\" and directory listings give the address P.H. Bay View, C. 23 Este - identical to the batch address.",
+  "about_es": "The Old Town Lighthouse es un restaurante en Calidonia, Ciudad de Panamá.",
+  "whats_good_es": [
+   "La vista es la razón para reservar, y el atardecer desde una mesa al aire libre frente al agua es lo que atrae a la mayoría.",
+   "El servicio es lo más consistente; la comida es más pareja, con algunos platos que destacan mucho más que otros.",
+   "Hay música, y algunas noches karaoke tan fuerte que cuesta conversar."
+  ]
+ },
+ {
+  "id": "calidonia-subway-calidonia",
+  "slug": "subway-calidonia",
+  "name": "Subway",
+  "cuisine_en": [
+   "International"
+  ],
+  "cuisine_es": [],
+  "price_tier": 1,
+  "neighborhood_slug": "calidonia",
+  "address": "Calle 38 Este, Correg, Plaza Bella Metro, San Miguelito, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9720576,
+  "lng": -79.53559249999999,
+  "phones": {
+   "call": "204-5000 ext. 338"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "6:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "6:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "6:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "6:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "6:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "6:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "6:00 AM",
+    "close": "10:00 PM"
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "International"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Subway is a restaurant in Calidonia, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://restaurantes.subway.com/subway-san-miguelito-56844",
+   "https://www.google.com/maps/place/?q=place_id:ChIJd1nXhcGorI8Rf0B6jPPVl2k"
+  ],
+  "import_wave": "W1 flagship",
+  "about_es": "Subway es un restaurante en Calidonia, Ciudad de Panamá."
+ },
+ {
+  "id": "calidonia-mcdonald-s-loteria",
+  "slug": "mcdonald-s-loteria",
+  "name": "McDonald's Lotería",
+  "cuisine_en": [
+   "International"
+  ],
+  "cuisine_es": [],
+  "price_tier": 1,
+  "neighborhood_slug": "calidonia",
+  "address": "Ave. Cuba, al lado Edif. Lotería, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9686658,
+  "lng": -79.5365513,
+  "phones": {},
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "7:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "7:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "7:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "7:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "7:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "7:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "7:00 AM",
+    "close": "11:00 PM"
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "International"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "McDonald's Lotería is a restaurant in Calidonia, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "http://www.mcdonalds.com.pa/",
+   "https://www.google.com/maps/place/?q=place_id:ChIJPe34SseorI8RQW8wo1wLthc"
+  ],
+  "import_wave": "W1 flagship",
+  "about_es": "McDonald's Lotería es un restaurante en Calidonia, Ciudad de Panamá."
+ },
+ {
+  "id": "calidonia-hotel-costa-inn",
+  "slug": "hotel-costa-inn",
+  "name": "Hotel Costa Inn",
+  "cuisine_en": [
+   "International"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "calidonia",
+  "address": "Avenida Peru y, XFF8+C3Q, C. 39 Este, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9735786,
+  "lng": -79.5347517,
+  "phones": {
+   "call": "227-1522"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "Open 24 hours",
+    "close": ""
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "Open 24 hours",
+    "close": ""
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "Open 24 hours",
+    "close": ""
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "Open 24 hours",
+    "close": ""
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "Open 24 hours",
+    "close": ""
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "Open 24 hours",
+    "close": ""
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "Open 24 hours",
+    "close": ""
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "International"
+  ],
+  "tags_es": [],
+  "status": "removed",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Hotel Costa Inn is a restaurant in Calidonia, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.hotelcostainn.com/",
+   "https://www.google.com/maps/place/?q=place_id:ChIJhdDa1MGorI8R7Uo_Lkrj04o"
+  ],
+  "import_wave": "W1 flagship",
+  "removed_reason": "Google's primary type is 'lodging' (hotel), not a dining venue. Imported 2026-07-20; held pending a call on whether hotel/casino dining rooms belong in the directory.",
+  "about_es": "Hotel Costa Inn es un restaurante en Calidonia, Ciudad de Panamá."
+ },
+ {
+  "id": "calidonia-restaurante-benidorm",
+  "slug": "restaurante-benidorm",
+  "name": "Restaurante Benidorm",
+  "cuisine_en": [
+   "International"
+  ],
+  "cuisine_es": [],
+  "price_tier": 2,
+  "neighborhood_slug": "calidonia",
+  "address": "XF96+2XC, C. 30 Este, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.967555599999999,
+  "lng": -79.53760079999999,
+  "phones": {
+   "call": "225-2595"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "7:00 AM",
+    "close": "10:30 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "7:00 AM",
+    "close": "10:30 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "7:00 AM",
+    "close": "10:30 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "7:00 AM",
+    "close": "10:30 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "7:00 AM",
+    "close": "10:30 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "7:00 AM",
+    "close": "10:30 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "7:00 AM",
+    "close": "10:30 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/restaurante-benidorm.jpg",
+    "alt_en": "Fried corvina with patacones at Restaurante Benidorm, Calidonia, Panama City",
+    "alt_es": "Deditos de corvina con patacones en Restaurante Benidorm, Calidonia, Ciudad de Panamá",
+    "credit_en": "Photo: @elbenidorm",
+    "credit_url": "https://www.instagram.com/elbenidorm/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "International"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Restaurante Benidorm is a restaurant in Calidonia, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [
+   "A traditional Panama City lunch counter - long menu, big plates, seafood and local standards, murals on the walls.",
+   "Service splits people badly: some found the staff genuinely helpful, others met slow, grudging attention and pressure for a tip at the end."
+  ],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/elbenidorm/",
+   "https://www.elbenidorm.com/",
+   "https://www.google.com/maps/place/?q=place_id:ChIJGck_nbiorI8REc7XK2nGM2s"
+  ],
+  "import_wave": "W1 flagship",
+  "social": {
+   "instagram": "https://www.instagram.com/elbenidorm/"
+  },
+  "social_proof": "the handle matches the venue website elbenidorm.com, and its posts are tagged #panama #calidonia, matching the Calidonia address",
+  "about_es": "Restaurante Benidorm es un restaurante en Calidonia, Ciudad de Panamá.",
+  "whats_good_es": [
+   "Una fonda tradicional de la Ciudad de Panamá, con menú extenso, platos abundantes, mariscos y comida criolla, y murales en las paredes.",
+   "El servicio deja opiniones divididas: algunos encontraron al personal genuinamente atento, mientras otros recibieron una atención lenta, de mala gana, con presión para dejar propina al final."
+  ]
+ },
+ {
+  "id": "calidonia-kfc-calidonia",
+  "slug": "kfc-calidonia",
+  "name": "KFC | Calidonia",
+  "cuisine_en": [
+   "International"
+  ],
+  "cuisine_es": [],
+  "price_tier": 1,
+  "neighborhood_slug": "calidonia",
+  "address": "Av. Central España, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.965446199999999,
+  "lng": -79.5402634,
+  "phones": {
+   "call": "236-5555"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "10:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "10:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "10:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "10:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "10:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "10:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "11:00 AM",
+    "close": "9:00 PM"
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "International"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "KFC | Calidonia is a restaurant in Calidonia, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://kfc-panama.com/",
+   "https://www.google.com/maps/place/?q=place_id:ChIJpe25LlWprI8RTqWjlcNBYx4"
+  ],
+  "import_wave": "W1 flagship",
+  "about_es": "KFC | Calidonia es un restaurante en Calidonia, Ciudad de Panamá."
+ },
+ {
+  "id": "calidonia-mcdonald-s-calidonia",
+  "slug": "mcdonald-s-calidonia",
+  "name": "McDonald's Calidonia",
+  "cuisine_en": [
+   "International"
+  ],
+  "cuisine_es": [],
+  "price_tier": 1,
+  "neighborhood_slug": "calidonia",
+  "address": "Ave. Central & Calle 25 Calidonia, al frente de, Picadilly, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.965023,
+  "lng": -79.5401291,
+  "phones": {},
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "7:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "7:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "7:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "7:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "7:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "7:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "8:00 AM",
+    "close": "9:00 PM"
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "International"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "McDonald's Calidonia is a restaurant in Calidonia, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "http://www.mcdonalds.com.pa/",
+   "https://www.google.com/maps/place/?q=place_id:ChIJG7oUSbiorI8R3Yaqny7oRgs"
+  ],
+  "import_wave": "W1 flagship",
+  "about_es": "McDonald's Calidonia es un restaurante en Calidonia, Ciudad de Panamá."
+ },
+ {
+  "id": "calidonia-arte-del-pan",
+  "slug": "arte-del-pan",
+  "name": "Arte del Pan",
+  "cuisine_en": [
+   "Cafe"
+  ],
+  "cuisine_es": [],
+  "price_tier": 1,
+  "neighborhood_slug": "calidonia",
+  "address": "XFG8+54C, C. Altos de Bella Vista, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9754369,
+  "lng": -79.5347456,
+  "phones": {
+   "call": "378-2400"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "7:00 AM",
+    "close": "7:30 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "7:00 AM",
+    "close": "7:30 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "7:00 AM",
+    "close": "7:30 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "7:00 AM",
+    "close": "7:30 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "7:00 AM",
+    "close": "7:30 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "7:00 AM",
+    "close": "7:30 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "9:00 AM",
+    "close": "1:30 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/arte-del-pan.jpg",
+    "alt_en": "Arte del Pan bakery storefront, Calidonia, Panama City",
+    "alt_es": "Fachada de la panaderia Arte del Pan, Calidonia, Ciudad de Panama",
+    "credit_en": "Photo: @artedelpan",
+    "credit_url": "https://www.instagram.com/artedelpan/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Cafe"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Arte del Pan is a cafe in Calidonia, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [
+   "A small open-fronted bakery doing bread, pastries and breakfast, with coffee that costs about a dollar.",
+   "Low prices and easy-going staff are what keep people stopping in rather than any one dish."
+  ],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/artedelpan/",
+   "https://www.google.com/maps/place/?q=place_id:ChIJWVXFYOqorI8RyD9KWNAPCWk"
+  ],
+  "import_wave": "W1 flagship",
+  "social": {
+   "instagram": "https://www.instagram.com/artedelpan/"
+  },
+  "social_proof": "Panamanian bakery chain's account; the chosen post's caption reads 'Ubicados diagonal al Machetazo, encuentranos tambien en Calidonia' matching the Avenida Peru y Calle 29, Calidonia branch",
+  "about_es": "Arte del Pan es una cafetería en Calidonia, Ciudad de Panamá.",
+  "whats_good_es": [
+   "Una pequeña panadería de fachada abierta que ofrece pan, repostería y desayunos, con café que cuesta alrededor de un dólar.",
+   "Lo que hace que la gente vuelva son los precios bajos y el trato relajado del personal, más que algún plato en particular."
+  ]
+ },
+ {
+  "id": "calidonia-saoco-city-bar",
+  "slug": "saoco-city-bar",
+  "name": "Saoco City Bar",
+  "cuisine_en": [
+   "Bar"
+  ],
+  "cuisine_es": [],
+  "price_tier": 1,
+  "neighborhood_slug": "calidonia",
+  "address": "XF76+J25, San Miguelito, Panamá Province, Panama",
+  "address_note_en": "",
+  "lat": 8.964003,
+  "lng": -79.53988439999999,
+  "phones": {
+   "call": "212-0098"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "11:00 AM",
+    "close": "12:00 AM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "11:00 AM",
+    "close": "12:00 AM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "11:00 AM",
+    "close": "12:00 AM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "11:00 AM",
+    "close": "12:00 AM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "11:00 AM",
+    "close": "12:00 AM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "11:00 AM",
+    "close": "12:00 AM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "11:00 AM",
+    "close": "12:00 AM"
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Bar"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Saoco City Bar is a bar in Calidonia, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.google.com/maps/place/?q=place_id:ChIJR9JyJbiorI8Rx4Tz_pdjXqo"
+  ],
+  "import_wave": "W1 flagship",
+  "about_es": "Saoco City Bar es un bar en Calidonia, Ciudad de Panamá."
+ },
+ {
+  "id": "calidonia-pio-pio-calidonia",
+  "slug": "pio-pio-calidonia",
+  "name": "Pio Pio",
+  "cuisine_en": [
+   "International"
+  ],
+  "cuisine_es": [],
+  "price_tier": 1,
+  "neighborhood_slug": "calidonia",
+  "address": "Av. Cuba entre calle 32 y, C. 33 Este, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.968439799999999,
+  "lng": -79.536373,
+  "phones": {
+   "call": "225-4362"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "8:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "8:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "8:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "8:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "8:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "8:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "8:00 AM",
+    "close": "11:00 PM"
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "International"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Pio Pio is a restaurant in Calidonia, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/restaurantespiopio/",
+   "https://piopiolomio.com/",
+   "https://www.google.com/maps/place/?q=place_id:ChIJ5R5ANseorI8ROMlLXGA1r5M"
+  ],
+  "import_wave": "W1 flagship",
+  "social": {
+   "instagram": "https://www.instagram.com/restaurantespiopio/"
+  },
+  "about_es": "Pio Pio es un restaurante en Calidonia, Ciudad de Panamá."
+ },
+ {
+  "id": "calidonia-rincon-tableno-5",
+  "slug": "rincon-tableno-5",
+  "name": "Rincon Tableño # 5",
+  "cuisine_en": [
+   "International"
+  ],
+  "cuisine_es": [],
+  "price_tier": 1,
+  "neighborhood_slug": "calidonia",
+  "address": "XF97+453, C. 31 Este, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9677697,
+  "lng": -79.5370925,
+  "phones": {
+   "call": "227-8166"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "5:30 AM",
+    "close": "3:30 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "5:30 AM",
+    "close": "3:30 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "5:30 AM",
+    "close": "3:30 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "5:30 AM",
+    "close": "3:30 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "5:30 AM",
+    "close": "3:30 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "5:30 AM",
+    "close": "3:30 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "5:30 AM",
+    "close": "4:00 PM"
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "International"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Rincon Tableño # 5 is a restaurant in Calidonia, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/rincontableno/",
+   "https://www.google.com/maps/place/?q=place_id:ChIJbXePQceorI8R0rWuxIPIu2o"
+  ],
+  "import_wave": "W1 flagship",
+  "social": {
+   "instagram": "https://www.instagram.com/rincontableno/"
+  },
+  "social_proof": "Bio lists 'avenida cuba alado de la loteria abajo del hotel lisboa' - matches Rincon Tableno #5 on Avenida Cuba (Calidonia); sibling branch accounts (rincontableno1, rincontableno.pty, rincontableno_6) are distinct",
+  "about_es": "Rincon Tableño # 5 es un restaurante en Calidonia, Ciudad de Panamá."
+ },
+ {
+  "id": "calidonia-hotel-casa-miller",
+  "slug": "hotel-casa-miller",
+  "name": "Hotel Casa Miller",
+  "cuisine_en": [
+   "Bar"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "calidonia",
+  "address": "Entre Ave Central y, Av. Republica del Perú, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9629614,
+  "lng": -79.5402881,
+  "phones": {
+   "call": "399-9303"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "Open 24 hours",
+    "close": ""
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "Open 24 hours",
+    "close": ""
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "Open 24 hours",
+    "close": ""
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "Open 24 hours",
+    "close": ""
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "Open 24 hours",
+    "close": ""
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "Open 24 hours",
+    "close": ""
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "Open 24 hours",
+    "close": ""
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Bar"
+  ],
+  "tags_es": [],
+  "status": "removed",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Hotel Casa Miller is a bar in Calidonia, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://hotelcasamiller.com/",
+   "https://www.google.com/maps/place/?q=place_id:ChIJn1ydgbeorI8RUqGnuKYETMg"
+  ],
+  "import_wave": "W1 flagship",
+  "removed_reason": "Google's primary type is 'lodging' (hotel), not a dining venue. Imported 2026-07-20; held pending a call on whether hotel/casino dining rooms belong in the directory.",
+  "about_es": "Hotel Casa Miller es un bar en Calidonia, Ciudad de Panamá."
+ },
+ {
+  "id": "calidonia-mcdonald-s-justo-arosemena",
+  "slug": "mcdonald-s-justo-arosemena",
+  "name": "McDonald's Justo Arosemena",
+  "cuisine_en": [
+   "International"
+  ],
+  "cuisine_es": [],
+  "price_tier": 1,
+  "neighborhood_slug": "calidonia",
+  "address": "Av. Justo Arosemena &, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9694266,
+  "lng": -79.5344909,
+  "phones": {},
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "6:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "6:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "6:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "6:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "6:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "6:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "6:00 AM",
+    "close": "11:00 PM"
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "International"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "McDonald's Justo Arosemena is a restaurant in Calidonia, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.mcdonalds.com.pa/",
+   "https://www.google.com/maps/place/?q=place_id:ChIJh0AHojmprI8RIhLHKNZU-Xo"
+  ],
+  "import_wave": "W1 flagship",
+  "about_es": "McDonald's Justo Arosemena es un restaurante en Calidonia, Ciudad de Panamá."
+ },
+ {
+  "id": "calidonia-fantastic-casino-casa-miller",
+  "slug": "fantastic-casino-casa-miller",
+  "name": "Fantastic Casino Casa Miller",
+  "cuisine_en": [
+   "Bar"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "calidonia",
+  "address": "Calidonia calle 23/24, Avenida Central,Edificio Tonivic, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9631466,
+  "lng": -79.5403946,
+  "phones": {
+   "call": "212-1960"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "Open 24 hours",
+    "close": ""
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "Open 24 hours",
+    "close": ""
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "Open 24 hours",
+    "close": ""
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "Open 24 hours",
+    "close": ""
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "Open 24 hours",
+    "close": ""
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "Open 24 hours",
+    "close": ""
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "Open 24 hours",
+    "close": ""
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Bar"
+  ],
+  "tags_es": [],
+  "status": "removed",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Fantastic Casino Casa Miller is a bar in Calidonia, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "http://fantastic.com.pa/casino/casa-miller/",
+   "https://www.google.com/maps/place/?q=place_id:ChIJ87tInbeorI8RuSEDzZSh8aI"
+  ],
+  "import_wave": "W1 flagship",
+  "removed_reason": "Google's primary type is 'casino' (casino), not a dining venue. Imported 2026-07-20; held pending a call on whether hotel/casino dining rooms belong in the directory.",
+  "about_es": "Fantastic Casino Casa Miller es un bar en Calidonia, Ciudad de Panamá."
+ },
+ {
+  "id": "calidonia-restaurante-las-perlas",
+  "slug": "restaurante-las-perlas",
+  "name": "Restaurante Las Perlas",
+  "cuisine_en": [
+   "International"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "calidonia",
+  "address": "Panama City, Panamá Province, Panama",
+  "address_note_en": "",
+  "lat": 8.9587769,
+  "lng": -79.5367669,
+  "phones": {},
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "11:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "11:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "11:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "11:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "11:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "11:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/restaurante-las-perlas.jpg",
+    "alt_en": "Seafood dishes at Restaurante Las Perlas, Mercado de Mariscos, Panama City",
+    "alt_es": "Platos de mariscos en Restaurante Las Perlas, Mercado de Mariscos, Ciudad de Panama",
+    "credit_en": "Photo: @restaurantelasperlas",
+    "credit_url": "https://www.instagram.com/restaurantelasperlas/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "International"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Restaurante Las Perlas is a restaurant in Calidonia, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [
+   "Seafood is the entire menu - whole fish, ceviche and platters large enough to share between a table.",
+   "Keep an eye on the bill: diners have run into missing itemised receipts and sudden claims that cards are not accepted."
+  ],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/restaurantelasperlas/",
+   "https://www.google.com/maps/place/?q=place_id:ChIJYRDA7cmorI8RiraEkPc4xzQ"
+  ],
+  "import_wave": "W1 flagship",
+  "social": {
+   "instagram": "https://www.instagram.com/restaurantelasperlas/"
+  },
+  "social_proof": "account 'Restaurante Las Perlas | Pescados y Mariscos' posts 'Estamos ubicados en el mercado de mariscos' (Mercado de Mariscos, Av. Balboa, Panama City), matching this seafood-market venue",
+  "about_es": "Restaurante Las Perlas es un restaurante en Calidonia, Ciudad de Panamá.",
+  "whats_good_es": [
+   "Los mariscos son todo el menú: pescado entero, ceviche y bandejas lo bastante grandes como para compartir en la mesa.",
+   "Hay que estar atento a la cuenta: algunos comensales se han topado con recibos sin detalle y con la sorpresa de que de repente no aceptan tarjetas."
+  ]
+ },
+ {
+  "id": "calidonia-changchos-sport-bar",
+  "slug": "changchos-sport-bar",
+  "name": "Changchos Sport Bar",
+  "cuisine_en": [
+   "International"
+  ],
+  "cuisine_es": [],
+  "price_tier": 2,
+  "neighborhood_slug": "calidonia",
+  "address": "diagonal a la estación del Metro de la Lotería, Avenida Mexico y, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.967761,
+  "lng": -79.53531799999999,
+  "phones": {
+   "call": "6108-7553"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "11:00 AM",
+    "close": "12:00 AM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "11:00 AM",
+    "close": "12:00 AM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "11:00 AM",
+    "close": "12:00 AM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "11:00 AM",
+    "close": "12:00 AM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "11:00 AM",
+    "close": "12:00 AM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "11:00 AM",
+    "close": "12:00 AM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "12:00 PM",
+    "close": "12:30 AM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/changchos-sport-bar.jpg",
+    "alt_en": "Burger and fries at Changchos Sport Bar, Calidonia, Panama City",
+    "alt_es": "Hamburguesa con papas en Changchos Sport Bar, Calidonia, Ciudad de Panama",
+    "credit_en": "Photo: @changchospty",
+    "credit_url": "https://www.instagram.com/changchospty/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "International"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Changchos Sport Bar is a restaurant in Calidonia, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [
+   "Cheap cold beer next to the metro station is the draw, with street-side seating and local prices.",
+   "The food attracts far more criticism than the drinks - treat it as a bar first."
+  ],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/changchospty/",
+   "https://www.google.com/maps/place/?q=place_id:ChIJiVueGmqprI8R-0Jyt64kbyo"
+  ],
+  "import_wave": "W1 flagship",
+  "social": {
+   "instagram": "https://www.instagram.com/changchospty/"
+  },
+  "social_proof": "bio and posts give the address 'Calle 32 con Ave. Justo Arosemena y Ave. Mexico' (Calidonia); restaurantesenpanama.click lists Changchos Sport Bar in Calidonia with the same profile",
+  "about_es": "Changchos Sport Bar es un restaurante en Calidonia, Ciudad de Panamá.",
+  "whats_good_es": [
+   "La cerveza fría y barata junto a la estación del metro es el gancho, con mesas en la calle y precios locales.",
+   "La comida recibe muchas más críticas que los tragos, así que hay que verlo primero como un bar."
+  ]
+ },
+ {
+  "id": "calidonia-alquimia-oriental-rooftop",
+  "slug": "alquimia-oriental-rooftop",
+  "name": "ALQUIMIA ORIENTAL ROOFTOP",
+  "cuisine_en": [
+   "Bar"
+  ],
+  "cuisine_es": [],
+  "price_tier": 3,
+  "neighborhood_slug": "calidonia",
+  "address": "local 313, The sands piso e3, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9619365,
+  "lng": -79.53652459999999,
+  "phones": {
+   "call": "6453-4380"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "4:00",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "4:00",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "4:00",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "4:00",
+    "close": "11:30 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "4:00",
+    "close": "11:30 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "3:00",
+    "close": "11:30 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "2:00",
+    "close": "10:00 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/alquimia-oriental-rooftop.jpg",
+    "alt_en": "Grilled lobster at Alquimia Oriental Rooftop, Avenida Balboa, Panama City",
+    "alt_es": "Langosta a la parrilla en Alquimia Oriental Rooftop, Avenida Balboa, Ciudad de Panama",
+    "credit_en": "Photo: @alquimia.oriental",
+    "credit_url": "https://www.instagram.com/alquimia.oriental/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Bar"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "ALQUIMIA ORIENTAL ROOFTOP is a bar in Calidonia, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [
+   "A rooftop patio looking out over the parks and the water, with a breeze and corner tables worth arriving early for.",
+   "The kitchen is Asian fusion, and the Thai wontons come up often enough to be worth ordering.",
+   "Cocktails are taken as seriously as the food, and service runs warm and unhurried."
+  ],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/alquimia.oriental/",
+   "https://www.google.com/maps/place/?q=place_id:ChIJv8bJ4OCprI8RWAzQ-T2-ykE"
+  ],
+  "import_wave": "W1 flagship",
+  "social": {
+   "instagram": "https://www.instagram.com/alquimia.oriental/"
+  },
+  "social_proof": "account title 'ALQUIMIA ORIENTAL ROOFTOP'; bio 'Rooftop karaoke & bar, Asian fusion restaurant... Avenida Balboa', matching the TripAdvisor/OpenTable listing at The Sands, Avenida Balboa",
+  "about_es": "ALQUIMIA ORIENTAL ROOFTOP es un bar en Calidonia, Ciudad de Panamá.",
+  "whats_good_es": [
+   "Una terraza en la azotea con vista a los parques y al agua, con brisa y mesas de esquina que vale la pena llegar temprano para conseguir.",
+   "La cocina es de fusión asiática, y los wontons tailandeses aparecen tan seguido en las mesas que bien vale la pena pedirlos.",
+   "Los cocteles se toman tan en serio como la comida, y el servicio es cálido y sin apuros."
+  ]
+ },
+ {
+  "id": "calidonia-fonda-maricellys",
+  "slug": "fonda-maricellys",
+  "name": "Fonda Maricellys",
+  "cuisine_en": [
+   "International"
+  ],
+  "cuisine_es": [],
+  "price_tier": 1,
+  "neighborhood_slug": "calidonia",
+  "address": "Panama City, Panamá Province, Panama",
+  "address_note_en": "",
+  "lat": 8.9593518,
+  "lng": -79.53793809999999,
+  "phones": {
+   "call": "6795-7338"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "Open 24 hours",
+    "close": ""
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "Open 24 hours",
+    "close": ""
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "Open 24 hours",
+    "close": ""
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "Open 24 hours",
+    "close": ""
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "Open 24 hours",
+    "close": ""
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "Open 24 hours",
+    "close": ""
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "Open 24 hours",
+    "close": ""
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "International"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Fonda Maricellys is a restaurant in Calidonia, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/fondamaricellys/",
+   "https://www.google.com/maps/place/?q=place_id:ChIJm0oeILaorI8Rb1DM4_adG6Y"
+  ],
+  "import_wave": "W2 established",
+  "social": {
+   "instagram": "https://www.instagram.com/fondamaricellys/"
+  },
+  "social_proof": "Bio 'Fonda Maricellys - Venta de comida Criolla Abierto 24/7'; own posts geotag 'frente al mercado de mariscos', Panama City (Calidonia).",
+  "about_es": "Fonda Maricellys es un restaurante en Calidonia, Ciudad de Panamá."
+ },
+ {
+  "id": "calidonia-chamo-pana",
+  "slug": "chamo-pana",
+  "name": "Chamo Pana",
+  "cuisine_en": [
+   "International"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "calidonia",
+  "address": "San Miguelito, Panamá Province, Panama",
+  "address_note_en": "",
+  "lat": 8.9747301,
+  "lng": -79.5347285,
+  "phones": {
+   "call": "6942-6237"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "6:00 AM",
+    "close": "3:00 AM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "6:00 AM",
+    "close": "3:00 AM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "6:00 AM",
+    "close": "3:00 AM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "6:00 AM",
+    "close": "3:00 AM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "6:00 AM",
+    "close": "3:00 AM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "6:00 AM",
+    "close": "3:00 AM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "6:00 AM",
+    "close": "1:00 AM"
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "International"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Chamo Pana is a restaurant in Calidonia, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/elchamopana_/",
+   "https://www.google.com/maps/place/?q=place_id:ChIJe76GfOqorI8RrPNELC4qM1M"
+  ],
+  "import_wave": "W2 established",
+  "social": {
+   "instagram": "https://www.instagram.com/elchamopana_/"
+  },
+  "social_proof": "Bio 'EL CHAMO PANA - Comida Venezolana, Panama City'; a Calidonia street-food spot cited next to Hotel Bella Vista.",
+  "about_es": "Chamo Pana es un restaurante en Calidonia, Ciudad de Panamá."
+ },
+ {
+  "id": "calidonia-la-fogon-latino-restaurante-colombiano",
+  "slug": "la-fogon-latino-restaurante-colombiano",
+  "name": "La Fogon Latino, Restaurante Colombiano",
+  "cuisine_en": [
+   "International"
+  ],
+  "cuisine_es": [],
+  "price_tier": 1,
+  "neighborhood_slug": "calidonia",
+  "address": "Avenida Cuba &, C. 31 Este, Panama City, Panamá Province, Panama",
+  "address_note_en": "",
+  "lat": 8.9678401,
+  "lng": -79.5369279,
+  "phones": {
+   "call": "385-7461"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "8:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "8:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "8:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "8:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "8:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "8:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "8:00 AM",
+    "close": "4:00 AM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/la-fogon-latino-restaurante-colombiano.jpg",
+    "alt_en": "Cazuela colombiana at Delicias del Fogon Latino, Calidonia, Panama City",
+    "alt_es": "Cazuela colombiana en Delicias del Fogon Latino, Calidonia, Ciudad de Panama",
+    "credit_en": "Photo: @delfogonlatino",
+    "credit_url": "https://www.instagram.com/delfogonlatino/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "International"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "La Fogon Latino, Restaurante Colombiano is a restaurant in Calidonia, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/delfogonlatino/",
+   "https://www.facebook.com/delfogonlatino",
+   "https://www.google.com/maps/place/?q=place_id:ChIJh8hCQseorI8RlXcOWPaFneo"
+  ],
+  "import_wave": "W2 established",
+  "social": {
+   "instagram": "https://www.instagram.com/delfogonlatino/"
+  },
+  "social_proof": "Bio 'Restaurante Tipico Tradicional Colombiano, Avenida Cuba calle 30 frente al hotel Lisboa, Panama' - Av Cuba is in Calidonia, matches the row.",
+  "about_es": "La Fogon Latino, Restaurante Colombiano es un restaurante en Calidonia, Ciudad de Panamá."
+ },
+ {
+  "id": "calidonia-patria-panama",
+  "slug": "patria-panama",
+  "name": "Patria Panama",
+  "cuisine_en": [
+   "International"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "calidonia",
+  "address": "Piso E4, Edificio The Sands, Av. Vasco Nuñez de Balboa, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.961461,
+  "lng": -79.5367892,
+  "phones": {
+   "call": "6836-8366"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "Closed",
+    "close": ""
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "12:00",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "12:00",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "12:00",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "12:00",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "12:00",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "12:00",
+    "close": "11:00 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/patria-panama.jpg",
+    "alt_en": "Bacon cheeseburger at Patria Panama, Avenida Balboa, Panama City",
+    "alt_es": "Hamburguesa con tocino en Patria Panama, Avenida Balboa, Ciudad de Panama",
+    "credit_en": "Photo: @patriapma",
+    "credit_url": "https://www.instagram.com/patriapma/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "International"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Patria Panama is a restaurant in Calidonia, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/patriapma/",
+   "https://patriapma.com/",
+   "https://www.google.com/maps/place/?q=place_id:ChIJW0P7WQCprI8RU8xOuVJMyBU"
+  ],
+  "import_wave": "W2 established",
+  "social": {
+   "instagram": "https://www.instagram.com/patriapma/"
+  },
+  "social_proof": "Handle @patriapma matches the row website patriapma.com; bio 'Cocina & Cultura Panamena, PH The Sands, Ave. Balboa piso E4'.",
+  "about_es": "Patria Panama es un restaurante en Calidonia, Ciudad de Panamá."
+ },
+ {
+  "id": "calidonia-restaurante-y-cevicheria-la-promesa",
+  "slug": "restaurante-y-cevicheria-la-promesa",
+  "name": "Restaurante y Cevichería La Promesa",
+  "cuisine_en": [
+   "International"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "calidonia",
+  "address": "Mercado de Mariscos, XF57+F2V, Cinta Costera 3, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9587471,
+  "lng": -79.5374389,
+  "phones": {},
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "7:00 AM",
+    "close": "5:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "7:00 AM",
+    "close": "5:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "7:00 AM",
+    "close": "5:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "7:00 AM",
+    "close": "5:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "7:00 AM",
+    "close": "5:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "7:00 AM",
+    "close": "5:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "7:00 AM",
+    "close": "5:00 PM"
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "International"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Restaurante y Cevichería La Promesa is a restaurant in Calidonia, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.google.com/maps/place/?q=place_id:ChIJ2WmS5MmorI8RjLEST7hniD0"
+  ],
+  "import_wave": "W2 established",
+  "about_es": "Restaurante y Cevichería La Promesa es un restaurante en Calidonia, Ciudad de Panamá."
+ },
+ {
+  "id": "calidonia-hotel-covadonga",
+  "slug": "hotel-covadonga",
+  "name": "Hotel Covadonga",
+  "cuisine_en": [
+   "Bar"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "calidonia",
+  "address": "XF86+QR4, C. 29 Este, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9668887,
+  "lng": -79.537928,
+  "phones": {
+   "call": "225-3989"
+  },
+  "hours": [],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Bar"
+  ],
+  "tags_es": [],
+  "status": "removed",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Hotel Covadonga is a bar in Calidonia, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/elhotelcovadonga/",
+   "https://www.hoteles.com/ho323366/hotel-covadonga-ciudad-de-panama-panama/",
+   "https://www.google.com/maps/place/?q=place_id:ChIJa9JeX8eorI8Rh7nnbxM2yEk"
+  ],
+  "import_wave": "W2 established",
+  "social": {
+   "instagram": "https://www.instagram.com/elhotelcovadonga/"
+  },
+  "social_proof": "Bio 'El Hotel Covadonga Panama - Hotel Covadonga en Calidonia, rooftop, bar, piscina', matches the row (Calidonia, Bar).",
+  "removed_reason": "a bare hotel listing with no dining content",
+  "about_es": "Hotel Covadonga es un bar en Calidonia, Ciudad de Panamá."
+ },
+ {
+  "id": "calidonia-fonda-dorita",
+  "slug": "fonda-dorita",
+  "name": "Fonda Dorita",
+  "cuisine_en": [
+   "International"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "calidonia",
+  "address": "XF66+HWM, C. 24 Este, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9614526,
+  "lng": -79.53769969999999,
+  "phones": {
+   "call": "6699-2625"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "6:00 AM",
+    "close": "2:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "6:00 AM",
+    "close": "2:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "6:00 AM",
+    "close": "2:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "6:00 AM",
+    "close": "2:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "6:00 AM",
+    "close": "2:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "6:00 AM",
+    "close": "2:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "Closed",
+    "close": ""
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/fonda-dorita.jpg",
+    "alt_en": "Seafood rice plate at Fonda Dorita, Calidonia, Panama City",
+    "alt_es": "Plato de arroz con mariscos en Fonda Dorita, Calidonia, Ciudad de Panama",
+    "credit_en": "Photo: @fonda_dorita",
+    "credit_url": "https://www.instagram.com/fonda_dorita/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "International"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Fonda Dorita is a restaurant in Calidonia, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/fonda_dorita/",
+   "https://www.google.com/maps/place/?q=place_id:ChIJd0x2J8iorI8RGLUF37PKCJs"
+  ],
+  "import_wave": "W2 established",
+  "social": {
+   "instagram": "https://www.instagram.com/fonda_dorita/"
+  },
+  "social_proof": "Bio 'sabores de dorita - ubicada en Panama city, el Maranon, frente al edificio antiguo MIVI'; the Maranon market sits in the Calidonia area.",
+  "about_es": "Fonda Dorita es un restaurante en Calidonia, Ciudad de Panamá."
+ },
+ {
+  "id": "calidonia-restaurante-el-marinero",
+  "slug": "restaurante-el-marinero",
+  "name": "Restaurante El Marinero",
+  "cuisine_en": [
+   "International"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "calidonia",
+  "address": "Cinta Costera, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.959365499999999,
+  "lng": -79.5364901,
+  "phones": {
+   "call": "6026-1972"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "11:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "11:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "11:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "11:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "11:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "11:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "11:00 AM",
+    "close": "11:00 PM"
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "International"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Restaurante El Marinero is a restaurant in Calidonia, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/elmarinerorest/",
+   "https://www.google.com/maps/place/?q=place_id:ChIJqzD1x-GprI8RQS26tJRAnV0"
+  ],
+  "import_wave": "W2 established",
+  "social": {
+   "instagram": "https://www.instagram.com/elmarinerorest/"
+  },
+  "social_proof": "Bio 'El Marinero - Mercado Nacional de Mariscos de Panama, Av Balboa'; the Mercado del Marisco is in the Calidonia area, matches the row.",
+  "about_es": "Restaurante El Marinero es un restaurante en Calidonia, Ciudad de Panamá."
+ },
+ {
+  "id": "calidonia-restaurante-don-alfaro",
+  "slug": "restaurante-don-alfaro",
+  "name": "Restaurante Don Alfaro",
+  "cuisine_en": [
+   "International"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "calidonia",
+  "address": "507, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9584878,
+  "lng": -79.5368167,
+  "phones": {},
+  "hours": [],
+  "photos": [
+   {
+    "url": "/venues/restaurante-don-alfaro.jpg",
+    "alt_en": "Lobster platter at Don Alfaro, Mercado de Mariscos, Panama City",
+    "alt_es": "Bandeja de langosta en Don Alfaro, Mercado de Mariscos, Ciudad de Panama",
+    "credit_en": "Photo: @don_alfaro_oficial",
+    "credit_url": "https://www.instagram.com/don_alfaro_oficial/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "International"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Restaurante Don Alfaro is a restaurant in Calidonia, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/don_alfaro_oficial/",
+   "https://www.google.com/maps/place/?q=place_id:ChIJC3sRlNKprI8RbJZMW3Y8k5A"
+  ],
+  "import_wave": "W2 established",
+  "social": {
+   "instagram": "https://www.instagram.com/don_alfaro_oficial/"
+  },
+  "social_proof": "Bio 'REST Y CEVICHERIA DON ALFARO - ubicados en el mercado de mariscos, Panama City'; Mercado del Marisco sits in the Calidonia area.",
+  "about_es": "Restaurante Don Alfaro es un restaurante en Calidonia, Ciudad de Panamá."
+ },
+ {
+  "id": "calidonia-restaurante-la-bendicion-mayor",
+  "slug": "restaurante-la-bendicion-mayor",
+  "name": "Restaurante La Bendicion Mayor",
+  "cuisine_en": [
+   "International"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "calidonia",
+  "address": "XF57+H8H, Panama City, Panamá Province, Panama",
+  "address_note_en": "",
+  "lat": 8.9589457,
+  "lng": -79.5366471,
+  "phones": {},
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "11:00 AM",
+    "close": "8:30 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "10:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "10:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "10:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "10:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "10:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "11:00 AM",
+    "close": "8:30 PM"
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "International"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Restaurante La Bendicion Mayor is a restaurant in Calidonia, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/labendicionpty/",
+   "https://www.google.com/maps/place/?q=place_id:ChIJWT0ecp-prI8R-RzQSIj9G3k"
+  ],
+  "import_wave": "W2 established",
+  "about_es": "Restaurante La Bendicion Mayor es un restaurante en Calidonia, Ciudad de Panamá."
+ },
+ {
+  "id": "calidonia-delicias-del-atlantico",
+  "slug": "delicias-del-atlantico",
+  "name": "Delicias del Atlantico",
+  "cuisine_en": [
+   "International"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "calidonia",
+  "address": "XF57+J9V, Panama City, Panamá Province, Panama",
+  "address_note_en": "",
+  "lat": 8.9591041,
+  "lng": -79.5365829,
+  "phones": {},
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/delicias-del-atlantico.jpg",
+    "alt_en": "Fish tacos at Delicias del Atlantico, Cinta Costera, Panama City",
+    "alt_es": "Tacos de pescado en Delicias del Atlantico, Cinta Costera, Ciudad de Panama",
+    "credit_en": "Photo: @deliciasdelatlanticoc3",
+    "credit_url": "https://www.instagram.com/deliciasdelatlanticoc3/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "International"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Delicias del Atlantico is a restaurant in Calidonia, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/deliciasdelatlanticoc3/",
+   "https://www.google.com/maps/place/?q=place_id:ChIJWxEd68morI8R8EZ3a-fCxvw"
+  ],
+  "import_wave": "W2 established",
+  "social": {
+   "instagram": "https://www.instagram.com/deliciasdelatlanticoc3/"
+  },
+  "social_proof": "Own posts brand this branch 'Delicias del Atlantico cinta costera' - the Cinta Costera / Mercado de Marisco branch bordering Calidonia (chain also has Colon and Chorrera branches).",
+  "about_es": "Delicias del Atlantico es un restaurante en Calidonia, Ciudad de Panamá."
+ },
+ {
+  "id": "calidonia-bar-kendall",
+  "slug": "bar-kendall",
+  "name": "Bar Kendall",
+  "cuisine_en": [
+   "Bar"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "calidonia",
+  "address": "XF75+PX8, C. 25 Este, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9642843,
+  "lng": -79.5400567,
+  "phones": {},
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "9:00 AM",
+    "close": "4:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "9:00 AM",
+    "close": "4:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "9:00 AM",
+    "close": "4:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "9:00 AM",
+    "close": "4:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "9:00 AM",
+    "close": "4:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "9:00 AM",
+    "close": "4:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "9:00 AM",
+    "close": "4:00 PM"
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Bar"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Bar Kendall is a bar in Calidonia, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.google.com/maps/place/?q=place_id:ChIJhUqSMLiorI8RiZLqqqshg60"
+  ],
+  "import_wave": "W2 established",
+  "about_es": "Bar Kendall es un bar en Calidonia, Ciudad de Panamá."
+ },
+ {
+  "id": "calidonia-the-trikers-slingshot-tours-the-buzz-panama",
+  "slug": "the-trikers-slingshot-tours-the-buzz-panama",
+  "name": "The Trikers- Slingshot Tours - The Buzz Panama",
+  "cuisine_en": [
+   "Cafe"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "calidonia",
+  "address": "Av. Vasco Nuñez de Balboa, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.961953,
+  "lng": -79.5367074,
+  "phones": {
+   "call": "6812-7023"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "10:00 AM",
+    "close": "7:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "10:00 AM",
+    "close": "7:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "10:00 AM",
+    "close": "7:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "10:00 AM",
+    "close": "7:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "10:00 AM",
+    "close": "7:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "10:00 AM",
+    "close": "7:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "10:00 AM",
+    "close": "7:00 PM"
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Cafe"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "The Trikers- Slingshot Tours - The Buzz Panama is a cafe in Calidonia, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/thetrikers/",
+   "http://www.thetrikers.com/",
+   "https://www.google.com/maps/place/?q=place_id:ChIJAdx7znmvrI8RoYAR4bbQN7E"
+  ],
+  "import_wave": "W2 established",
+  "social": {
+   "instagram": "https://www.instagram.com/thetrikers/"
+  },
+  "social_proof": "Row website thetrikers.com links @thetrikers in its footer; bio 'Polaris Slingshot Tours in Panama City, Tea Bus experience'.",
+  "about_es": "The Trikers- Slingshot Tours - The Buzz Panama es una cafetería en Calidonia, Ciudad de Panamá."
+ },
+ {
+  "id": "calidonia-restaurante-gourmet-terraza",
+  "slug": "restaurante-gourmet-terraza",
+  "name": "Restaurante gourmet terraza",
+  "cuisine_en": [
+   "International"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "calidonia",
+  "address": "Mercado del marisco, Av. Vasco Nuñez de Balboa, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9589071,
+  "lng": -79.5378693,
+  "phones": {
+   "call": "6916-6523"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "10:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "10:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "10:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "10:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "10:00 AM",
+    "close": "10:30 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "10:00 AM",
+    "close": "10:30 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "10:00 AM",
+    "close": "10:30 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/restaurante-gourmet-terraza.jpg",
+    "alt_en": "Seafood platter at Restaurante Gourmet Terraza, Mercado de Mariscos, Panama City",
+    "alt_es": "Bandeja de mariscos en Restaurante Gourmet Terraza, Mercado de Mariscos, Ciudad de Panama",
+    "credit_en": "Photo: @gourmet_terrazapty",
+    "credit_url": "https://www.instagram.com/gourmet_terrazapty/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "International"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Restaurante gourmet terraza is a restaurant in Calidonia, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/gourmet_terrazapty/",
+   "https://www.google.com/maps/place/?q=place_id:ChIJ56TPVYeprI8RxhL69kyjvL0"
+  ],
+  "import_wave": "W2 established",
+  "social": {
+   "instagram": "https://www.instagram.com/gourmet_terrazapty/"
+  },
+  "social_proof": "Bio/posts 'Restaurante Gourmet Terraza, Mercado de Mariscos, Cinta Costera'; degusta and posts geotag Calidonia, matches the row.",
+  "about_es": "Restaurante gourmet terraza es un restaurante en Calidonia, Ciudad de Panamá."
+ },
+ {
+  "id": "calidonia-cafe-paris",
+  "slug": "cafe-paris",
+  "name": "Cafe Paris",
+  "cuisine_en": [
+   "International"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "calidonia",
+  "address": "XFC7+676, C. 34 Este, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9705362,
+  "lng": -79.5368475,
+  "phones": {
+   "call": "6034-4811"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "6:00 AM",
+    "close": "3:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "6:00 AM",
+    "close": "3:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "6:00 AM",
+    "close": "3:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "6:00 AM",
+    "close": "3:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "6:00 AM",
+    "close": "3:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "7:00 AM",
+    "close": "2:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "Closed",
+    "close": ""
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "International"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Cafe Paris is a restaurant in Calidonia, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/cafeparispa/",
+   "https://www.google.com/maps/place/?q=place_id:ChIJJRSe7MCorI8RnOG5Hc-4rdE"
+  ],
+  "import_wave": "W2 established",
+  "social": {
+   "instagram": "https://www.instagram.com/cafeparispa/"
+  },
+  "social_proof": "IG bio: 'Restaurante de Comida Criolla ... Local Café Paris, Calle 34 Este, Frente al Parque Porras'; an owned location post maps the pin next to Parque Belisario Porras and Gobernacion de la Provincia de Panama (La Exposicion / Calidonia), matching the venue name, cuisine and neighborhood",
+  "about_es": "Cafe Paris es un restaurante en Calidonia, Ciudad de Panamá."
+ },
+ {
+  "id": "calidonia-restaurante-delicias-eni",
+  "slug": "restaurante-delicias-eni",
+  "name": "Restaurante Delicias Eni",
+  "cuisine_en": [
+   "International"
+  ],
+  "cuisine_es": [],
+  "price_tier": 2,
+  "neighborhood_slug": "calidonia",
+  "address": "Cinta Costera 2, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9591091,
+  "lng": -79.53669289999999,
+  "phones": {
+   "call": "6707-3265"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "7:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "7:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "7:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "7:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "7:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "7:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "7:00 AM",
+    "close": "8:00 PM"
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "International"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Restaurante Delicias Eni is a restaurant in Calidonia, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.google.com/maps/place/?q=place_id:ChIJrQIZwMmorI8R0TrptvjKJVM"
+  ],
+  "import_wave": "W2 established",
+  "about_es": "Restaurante Delicias Eni es un restaurante en Calidonia, Ciudad de Panamá."
+ },
+ {
+  "id": "calidonia-ceviche-loco",
+  "slug": "ceviche-loco",
+  "name": "Ceviche Loco",
+  "cuisine_en": [
+   "International"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "calidonia",
+  "address": "Mercado del Marisco, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9586054,
+  "lng": -79.5370094,
+  "phones": {
+   "call": "6949-5525"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "11:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "12:00",
+    "close": "8:30 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "12:00",
+    "close": "8:30 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "12:00",
+    "close": "8:30 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "12:00",
+    "close": "8:30 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "12:00",
+    "close": "8:30 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "12:00",
+    "close": "8:30 PM"
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "International"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Ceviche Loco is a restaurant in Calidonia, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.google.com/maps/place/?q=place_id:ChIJkzzz78morI8RS2YcVXzqG-w"
+  ],
+  "import_wave": "W2 established",
+  "about_es": "Ceviche Loco es un restaurante en Calidonia, Ciudad de Panamá."
+ },
+ {
+  "id": "calidonia-restaurant-arrecife",
+  "slug": "restaurant-arrecife",
+  "name": "Restaurant Arrecife",
+  "cuisine_en": [
+   "International"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "calidonia",
+  "address": "Cinta Costera 2, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.958977299999999,
+  "lng": -79.5366269,
+  "phones": {
+   "call": "6528-0818"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "International"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Restaurant Arrecife is a restaurant in Calidonia, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.google.com/maps/place/?q=place_id:ChIJe0R468morI8Rw2UeOgPPkCk"
+  ],
+  "import_wave": "W2 established",
+  "about_es": "Restaurant Arrecife es un restaurante en Calidonia, Ciudad de Panamá."
+ },
+ {
+  "id": "calidonia-el-bote-pty-ceviches-y-mariscos",
+  "slug": "el-bote-pty-ceviches-y-mariscos",
+  "name": "EL BOTE PTY Ceviches y Mariscos",
+  "cuisine_en": [
+   "International"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "calidonia",
+  "address": "XF57+F2W, Cinta Costera 2, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9587412,
+  "lng": -79.5374288,
+  "phones": {
+   "call": "6250-2955"
+  },
+  "hours": [],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "International"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "EL BOTE PTY Ceviches y Mariscos is a restaurant in Calidonia, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/elbotepty/",
+   "https://www.google.com/maps/place/?q=place_id:ChIJ34Z0HgCprI8R5NNQgrP2lTk"
+  ],
+  "import_wave": "W2 established",
+  "social": {
+   "instagram": "https://www.instagram.com/elbotepty/"
+  },
+  "social_proof": "Owned posts show the 'EL BOTE PTY - Ceviches y Mariscos' stall at the Mercado de Mariscos, Panama City (storefront wordmark visible), matching the venue name and Calidonia waterfront location",
+  "about_es": "EL BOTE PTY Ceviches y Mariscos es un restaurante en Calidonia, Ciudad de Panamá."
+ },
+ {
+  "id": "calidonia-mariscos-eve-sa",
+  "slug": "mariscos-eve-sa",
+  "name": "MARISCOS EVE SA",
+  "cuisine_en": [
+   "International"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "calidonia",
+  "address": "Panama City, Panamá Province, Panama",
+  "address_note_en": "",
+  "lat": 8.958619500000001,
+  "lng": -79.5370772,
+  "phones": {
+   "call": "6605-8398"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "10:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "10:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "10:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "10:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "10:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "10:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "10:00 AM",
+    "close": "11:00 PM"
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "International"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "MARISCOS EVE SA is a restaurant in Calidonia, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/mariscosevesa/",
+   "https://www.google.com/maps/place/?q=place_id:ChIJoxTg78morI8RiDz_IMnmC2k"
+  ],
+  "import_wave": "W2 established",
+  "social": {
+   "instagram": "https://www.instagram.com/mariscosevesa/"
+  },
+  "social_proof": "Account name is exactly 'Mariscos Eve S.A' and the profile is tagged Panama City; a seafood restaurant, matching the venue name",
+  "about_es": "MARISCOS EVE SA es un restaurante en Calidonia, Ciudad de Panamá."
+ },
+ {
+  "id": "calidonia-restaurante-brugal",
+  "slug": "restaurante-brugal",
+  "name": "Restaurante Brugal",
+  "cuisine_en": [
+   "International"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "calidonia",
+  "address": "Av. Republica del Perú, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.965569499999999,
+  "lng": -79.5393929,
+  "phones": {
+   "call": "6426-8677"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "International"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Restaurante Brugal is a restaurant in Calidonia, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.google.com/maps/place/?q=place_id:ChIJZRAVXbiorI8Rrcp9Z0chBNM"
+  ],
+  "import_wave": "W2 established",
+  "about_es": "Restaurante Brugal es un restaurante en Calidonia, Ciudad de Panamá."
+ },
+ {
+  "id": "calidonia-feria-xtra-calidonia",
+  "slug": "feria-xtra-calidonia",
+  "name": "Feria Xtra Calidonia",
+  "cuisine_en": [
+   "Cafe"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "calidonia",
+  "address": "Frente a BBB, Av. Central España, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9660805,
+  "lng": -79.53987269999999,
+  "phones": {
+   "call": "290-9000"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "7:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "7:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "7:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "7:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "7:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "7:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "7:00 AM",
+    "close": "8:00 PM"
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Cafe"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Feria Xtra Calidonia is a cafe in Calidonia, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.superxtra.com/",
+   "https://www.google.com/maps/place/?q=place_id:ChIJVfXBQ7uprI8Ry13nJOrodsw"
+  ],
+  "import_wave": "W2 established",
+  "about_es": "Feria Xtra Calidonia es una cafetería en Calidonia, Ciudad de Panamá."
+ },
+ {
+  "id": "calidonia-alegria-restaurant",
+  "slug": "alegria-restaurant",
+  "name": "Alegría Restaurant",
+  "cuisine_en": [
+   "International"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "calidonia",
+  "address": "Panama City, Panamá Province, Panama",
+  "address_note_en": "",
+  "lat": 8.9677097,
+  "lng": -79.53961199999999,
+  "phones": {},
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "10:30 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "10:30 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "10:30 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "10:30 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "10:30 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "10:30 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "10:30 AM",
+    "close": "10:00 PM"
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "International"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Alegría Restaurant is a restaurant in Calidonia, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.google.com/maps/place/?q=place_id:ChIJQQmn6biorI8RXlREKSOlavk"
+  ],
+  "import_wave": "W2 established",
+  "about_es": "Alegría Restaurant es un restaurante en Calidonia, Ciudad de Panamá."
+ },
+ {
+  "id": "calidonia-restaurante-bar-babel",
+  "slug": "restaurante-bar-babel",
+  "name": "Restaurante Bar Babel",
+  "cuisine_en": [
+   "Bar"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "calidonia",
+  "address": "C. 26 Este, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9653329,
+  "lng": -79.5392834,
+  "phones": {},
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "10:30 AM",
+    "close": "12:00 AM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "10:30 AM",
+    "close": "12:00 AM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "10:30 AM",
+    "close": "12:00 AM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "10:30 AM",
+    "close": "12:00 AM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "10:30 AM",
+    "close": "12:00 AM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "10:30 AM",
+    "close": "12:00 AM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "10:30 AM",
+    "close": "12:00 AM"
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Bar"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Restaurante Bar Babel is a bar in Calidonia, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/babel_restaurantebar/",
+   "https://www.google.com/maps/place/?q=place_id:ChIJ__g-xnmprI8RQgUkdm8MsDI"
+  ],
+  "import_wave": "W2 established",
+  "social": {
+   "instagram": "https://www.instagram.com/babel_restaurantebar/"
+  },
+  "social_proof": "IG bio and owned posts list 'Babel Restaurante Bar - Calidonia, Calle 26 Este, Plaza Presidente', a hard match to the venue name and Calidonia neighborhood",
+  "about_es": "Restaurante Bar Babel es un bar en Calidonia, Ciudad de Panamá."
+ },
+ {
+  "id": "calidonia-mr-grill-house",
+  "slug": "mr-grill-house",
+  "name": "Mr Grill House",
+  "cuisine_en": [
+   "International"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "calidonia",
+  "address": "XFG7+928 frente al Hospital Santa Fe, Av. Nacional, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9759028,
+  "lng": -79.5374212,
+  "phones": {
+   "call": "225-1414"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "7:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "7:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "7:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "7:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "7:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "7:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "Closed",
+    "close": ""
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "International"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Mr Grill House is a restaurant in Calidonia, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/mr_grill_house/",
+   "http://www.mrgrillhouse.com/",
+   "https://www.google.com/maps/place/?q=place_id:ChIJhe-ICY2prI8RQVGcLFrIm-A"
+  ],
+  "import_wave": "W2 established",
+  "social": {
+   "instagram": "https://www.instagram.com/mr_grill_house/"
+  },
+  "social_proof": "The venue's own website mrgrillhouse.com routes to linktr.ee/mrgrillhouse, whose official Instagram link is @mr_grill_house and which links its branded menu (massocialpty.com/Menu_Mr.GrillHouse.pdf); website-to-handle chain confirms ownership",
+  "about_es": "Mr Grill House es un restaurante en Calidonia, Ciudad de Panamá."
+ },
+ {
+  "id": "calidonia-restaurante-reina",
+  "slug": "restaurante-reina",
+  "name": "Restaurante Reina",
+  "cuisine_en": [
+   "International"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "calidonia",
+  "address": "XFF7+CPP, San Miguelito, Panamá Province, Panama",
+  "address_note_en": "",
+  "lat": 8.9735999,
+  "lng": -79.53567400000001,
+  "phones": {
+   "call": "398-4574"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "8:00 AM",
+    "close": "6:45 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "8:00 AM",
+    "close": "6:45 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "8:00 AM",
+    "close": "6:45 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "8:00 AM",
+    "close": "6:45 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "8:00 AM",
+    "close": "6:45 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "8:00 AM",
+    "close": "6:45 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "9:00 AM",
+    "close": "6:00 PM"
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "International"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Restaurante Reina is a restaurant in Calidonia, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.google.com/maps/place/?q=place_id:ChIJSY8Qq9CprI8Rhuper7TWBag"
+  ],
+  "import_wave": "W2 established",
+  "about_es": "Restaurante Reina es un restaurante en Calidonia, Ciudad de Panamá."
+ }
+]

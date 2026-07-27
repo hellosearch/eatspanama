@@ -1,0 +1,1210 @@
+[
+ {
+  "id": "santa-ana-la-musa-bar-lounge",
+  "slug": "la-musa-bar-lounge",
+  "name": "La Musa Bar & Lounge",
+  "cuisine_en": [
+   "Spanish"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "santa-ana",
+  "address": "Santa Ana, Calle Avenida B y, XF55+VRQ, C. 21 Este, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9597146,
+  "lng": -79.54039619999999,
+  "phones": {},
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "11:00 AM",
+    "close": "12:00 AM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "11:00 AM",
+    "close": "12:00 AM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "11:00 AM",
+    "close": "12:00 AM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "11:00 AM",
+    "close": "12:00 AM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "11:00 AM",
+    "close": "12:00 AM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "11:00 AM",
+    "close": "12:00 AM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "11:00 AM",
+    "close": "12:00 AM"
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Spanish",
+   "Cocktails",
+   "Tapas"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "French-inspired tapas",
+    "description_en": "A short menu of small plates in a French style, served to share",
+    "price": null,
+    "popular": true,
+    "description_es": "Un menú corto de platos pequeños al estilo francés, pensados para compartir"
+   },
+   {
+    "name": "Three-course fixed menu",
+    "description_en": "A set menu with two options at each course as an alternative to the tapas",
+    "price": null,
+    "popular": false,
+    "description_es": "Un menú fijo con dos opciones en cada tiempo, como alternativa a las tapas"
+   },
+   {
+    "name": "Tropical fruit cocktails",
+    "description_en": "House cocktails built on fresh tropical fruit",
+    "price": null,
+    "popular": true,
+    "description_es": "Cocteles de la casa a base de fruta tropical fresca"
+   }
+  ],
+  "about_en": "La Musa Bar & Lounge is a Spanish art lounge, restaurant & cocktail bar in the Santa Ana neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for French-inspired tapas"
+  ],
+  "whats_good_en": [
+   "Art-filled, beautifully restored heritage house across two floors",
+   "French-inspired tapas paired with strong fresh-fruit cocktails",
+   "Second-floor balcony with a quiet, scenic view over the old town"
+  ],
+  "typical_spend_en": null,
+  "dataset_comparison_en": "One of the few Spanish kitchens in Santa Ana",
+  "attributes_en": [
+   "Casco Viejo (Santa Ana corregimiento)",
+   "Doubles as an art gallery / lounge showcasing local works",
+   "Tapas menu plus a fixed three-course option",
+   "Second-floor balcony seating"
+  ],
+  "best_time_en": "Evening, for cocktails and tapas while browsing the art",
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.tripadvisor.com/Restaurant_Review-g294480-d8845685-Reviews-La_Musa_Art_Lounge-Panama_City_Panama_Province.html",
+   "https://expat-tations.com/leisure/casco-viejo-panama-city-rebirth/"
+  ],
+  "best_time": {
+   "busiest": "Thu-Sat, 9 PM-late",
+   "busiest_note_en": "Late-evening weekend buzz",
+   "easy": "Tue-Wed nights",
+   "easy_note_en": "Quieter, easy seat at the bar",
+   "sweet": "Fri, 7-8 PM",
+   "sweet_note_en": "Lively but before the late rush"
+  },
+  "about_es": "La Musa Bar & Lounge es un lounge de arte español, restaurante y bar de cocteles en el barrio de Santa Ana, en la Ciudad de Panamá.",
+  "dataset_comparison_es": "Una de las pocas cocinas españolas en Santa Ana",
+  "best_time_es": "Ideal para la noche, con cocteles y tapas mientras se admira el arte",
+  "highlights_es": [
+   "Reconocido por sus tapas de inspiración francesa"
+  ],
+  "whats_good_es": [
+   "Casona patrimonial bellamente restaurada, llena de arte y repartida en dos pisos",
+   "Tapas de inspiración francesa acompañadas de cocteles fuertes con fruta fresca",
+   "Balcón en el segundo piso con una vista tranquila y pintoresca del casco antiguo"
+  ],
+  "attributes_es": [
+   "Casco Viejo (corregimiento de Santa Ana)",
+   "Funciona también como galería de arte y lounge que exhibe obras locales",
+   "Menú de tapas más una opción fija de tres tiempos",
+   "Mesas en el balcón del segundo piso"
+  ]
+ },
+ {
+  "id": "santa-ana-restaurante-napoli-y-pizzeria",
+  "slug": "restaurante-napoli-y-pizzeria",
+  "name": "Restaurante Napoli y Pizzería",
+  "cuisine_en": [
+   "Pizza"
+  ],
+  "cuisine_es": [],
+  "price_tier": 2,
+  "neighborhood_slug": "santa-ana",
+  "address": "a un costado del Instituto Nacional, Calle \"i\" y, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.958069499999999,
+  "lng": -79.5424501,
+  "phones": {
+   "call": "+507 262-2446"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "11:30 AM",
+    "close": "7:15 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "Closed",
+    "close": ""
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "11:30 AM",
+    "close": "7:15 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "11:30 AM",
+    "close": "7:15 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "11:30 AM",
+    "close": "7:15 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "12:00",
+    "close": "8:15 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "12:00",
+    "close": "8:15 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/restaurante-napoli-y-pizzeria-food.jpg",
+    "alt_en": "Plated dish at Napoli, Santa Ana, Panama City",
+    "alt_es": "Plato en Napoli, Santa Ana, Ciudad de Panamá",
+    "credit_en": "Photo: Napoli"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Pizza",
+   "Casual",
+   "Family"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Pizza Napoli",
+    "description_en": "The house namesake pizza",
+    "price": 8.5,
+    "popular": true,
+    "description_es": "La pizza que le da nombre a la casa"
+   },
+   {
+    "name": "Pizza Especial 60",
+    "description_en": "A loaded specialty pizza",
+    "price": 12.5,
+    "popular": true,
+    "description_es": "Una pizza especial bien cargada"
+   },
+   {
+    "name": "Spaghetti Carbonara",
+    "description_en": "Classic carbonara pasta",
+    "price": 8.75,
+    "popular": true,
+    "description_es": "Pasta carbonara clásica"
+   },
+   {
+    "name": "Lasana Bolonesa",
+    "description_en": "Baked lasagne with meat sauce",
+    "price": 7.95,
+    "popular": true,
+    "description_es": "Lasaña horneada con salsa de carne"
+   },
+   {
+    "name": "Raviolis de la Casa",
+    "description_en": "House-style ravioli",
+    "price": 7.75,
+    "popular": false,
+    "description_es": "Ravioles al estilo de la casa"
+   },
+   {
+    "name": "Antipasto",
+    "description_en": "Italian mixed-starter platter",
+    "price": 12.25,
+    "popular": false,
+    "description_es": "Plato italiano de entradas mixtas"
+   }
+  ],
+  "about_en": "Restaurante Napoli y Pizzería is a Pizza restaurant in the Santa Ana neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Pizza Napoli"
+  ],
+  "whats_good_en": [
+   "Neighborhood institution serving since 1962",
+   "Wood-fired pizzas alongside homemade pastas",
+   "Budget-friendly Italian classics"
+  ],
+  "typical_spend_en": "$8 to $12 a main",
+  "dataset_comparison_en": "One of the few Pizza kitchens in Santa Ana",
+  "attributes_en": [
+   "Avenida Central / Calle Estudiante (Santa Ana - Calidonia edge)",
+   "Open since 1962",
+   "Closed Tuesdays",
+   "Delivery via ASAP",
+   "Instagram: @napoli_panama"
+  ],
+  "best_time_en": "Lunch or dinner; closed Tuesdays",
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://napolipanama.com/",
+   "https://www.instagram.com/napoli_panama/",
+   "https://www.degustapanama.com/panama/restaurante/napoli-av.-central_102082.html"
+  ],
+  "best_time": {
+   "busiest": "Fri-Sat evenings",
+   "busiest_note_en": "Weekend nights draw the crowd",
+   "easy": "Weekday lunch",
+   "easy_note_en": "Quick, easy seat",
+   "sweet": "Thu, 6-7 PM",
+   "sweet_note_en": "Early dinner before it fills"
+  },
+  "about_es": "Restaurante Napoli y Pizzería es un restaurante de pizza en el barrio de Santa Ana, en la Ciudad de Panamá.",
+  "typical_spend_es": "Entre $8 y $12 por un plato principal",
+  "dataset_comparison_es": "Una de las pocas cocinas de pizza en Santa Ana",
+  "best_time_es": "Para almuerzo o cena; cierra los martes",
+  "highlights_es": [
+   "Reconocido por su Pizza Napoli"
+  ],
+  "whats_good_es": [
+   "Una institución del barrio que sirve desde 1962",
+   "Pizzas al horno de leña junto a pastas caseras",
+   "Clásicos italianos a precios accesibles"
+  ],
+  "attributes_es": [
+   "Avenida Central / Calle Estudiante (límite entre Santa Ana y Calidonia)",
+   "Abierto desde 1962",
+   "Cerrado los martes",
+   "Entrega a domicilio por ASAP",
+   "Instagram: @napoli_panama"
+  ]
+ },
+ {
+  "id": "santa-ana-mcdonald-s-peatonal",
+  "slug": "mcdonald-s-peatonal",
+  "name": "McDonald's Peatonal",
+  "cuisine_en": [
+   "International"
+  ],
+  "cuisine_es": [],
+  "price_tier": 1,
+  "neighborhood_slug": "santa-ana",
+  "address": "Av. Central España, Peatonal, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.958388,
+  "lng": -79.541026,
+  "phones": {},
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "7:00 AM",
+    "close": "9:30 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "7:00 AM",
+    "close": "9:30 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "7:00 AM",
+    "close": "9:30 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "7:00 AM",
+    "close": "9:30 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "7:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "7:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "7:00 AM",
+    "close": "9:30 PM"
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "International"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "McDonald's Peatonal is a restaurant in Santa Ana, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "http://www.mcdonalds.com.pa/",
+   "https://www.google.com/maps/place/?q=place_id:ChIJe7ZVgbaorI8R9PHUXJTZEJo"
+  ],
+  "import_wave": "W1 flagship",
+  "about_es": "McDonald's Peatonal es un restaurante en Santa Ana, Ciudad de Panamá."
+ },
+ {
+  "id": "santa-ana-delicias-pinoleras",
+  "slug": "delicias-pinoleras",
+  "name": "Delicias Pinoleras",
+  "cuisine_en": [
+   "International"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "santa-ana",
+  "address": "C. H, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.956428899999999,
+  "lng": -79.5420603,
+  "phones": {
+   "call": "209-4196"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "6:30 AM",
+    "close": "7:30 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "6:30 AM",
+    "close": "7:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "6:30 AM",
+    "close": "7:30 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "6:30 AM",
+    "close": "7:30 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "6:30 AM",
+    "close": "7:30 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "6:30 AM",
+    "close": "7:30 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "6:30 AM",
+    "close": "7:00 PM"
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "International"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Delicias Pinoleras is a restaurant in Santa Ana, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/dpinoleras/",
+   "https://www.google.com/maps/place/?q=place_id:ChIJDZvjQbSorI8R_TpS6C0pvOM"
+  ],
+  "import_wave": "W1 flagship",
+  "social": {
+   "instagram": "https://www.instagram.com/dpinoleras/"
+  },
+  "social_proof": "@dpinoleras 'Delicias Pinoleras - deleitando a toda la comunidad nicaraguense en panama'; listed location 'Chanis / Calle 17, Santa Ana', matching the Santa Ana neighborhood; Nicaraguan cuisine.",
+  "about_es": "Delicias Pinoleras es un restaurante en Santa Ana, Ciudad de Panamá."
+ },
+ {
+  "id": "santa-ana-nelson-cafe",
+  "slug": "nelson-cafe",
+  "name": "Nelson Café",
+  "cuisine_en": [
+   "International"
+  ],
+  "cuisine_es": [],
+  "price_tier": 1,
+  "neighborhood_slug": "santa-ana",
+  "address": "Av. Central España 18, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9585524,
+  "lng": -79.5411273,
+  "phones": {
+   "call": "262-2138"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "Open 24 hours",
+    "close": ""
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "Open 24 hours",
+    "close": ""
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "Open 24 hours",
+    "close": ""
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "Open 24 hours",
+    "close": ""
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "Open 24 hours",
+    "close": ""
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "Open 24 hours",
+    "close": ""
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "Open 24 hours",
+    "close": ""
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "International"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Nelson Café is a restaurant in Santa Ana, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [
+   "Open around the clock, which makes it a rare option for a full meal late at night.",
+   "Panamanian home cooking is the core of it - fonda-style plates and casados rather than anything refined.",
+   "Prices come up as a sticking point, sitting above what the format suggests."
+  ],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.google.com/maps/place/?q=place_id:ChIJh8N4hraorI8RHmVhnumPWms"
+  ],
+  "import_wave": "W1 flagship",
+  "about_es": "Nelson Café es un restaurante en Santa Ana, Ciudad de Panamá.",
+  "whats_good_es": [
+   "Abre las 24 horas, lo que lo convierte en una opción poco común para comer bien entrada la noche.",
+   "La comida panameña de casa es lo suyo: platos de fonda y casados, más que propuestas refinadas.",
+   "Los precios son el punto débil, pues quedan por encima de lo que uno esperaría por el formato."
+  ]
+ },
+ {
+  "id": "santa-ana-discoteca-night-club-los-pepes",
+  "slug": "discoteca-night-club-los-pepes",
+  "name": "Discoteca Night Club los Pepes",
+  "cuisine_en": [
+   "Bar"
+  ],
+  "cuisine_es": [],
+  "price_tier": 2,
+  "neighborhood_slug": "santa-ana",
+  "address": "XF55+JVQ Discoteca night club los pepe, C. 18 Este, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9590827,
+  "lng": -79.5402611,
+  "phones": {},
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "1:55 PM",
+    "close": "4:00 AM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "1:55 PM",
+    "close": "4:00 AM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "1:55 PM",
+    "close": "4:00 AM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "1:55 PM",
+    "close": "4:00 AM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "1:55 PM",
+    "close": "4:00 AM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "1:55 PM",
+    "close": "4:00 AM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "1:55 PM",
+    "close": "4:00 AM"
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Bar"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Discoteca Night Club los Pepes is a bar in Santa Ana, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/disc.lospepe/",
+   "https://www.google.com/maps/place/?q=place_id:ChIJ5VvsfpuprI8RhOTRfJ3u160"
+  ],
+  "import_wave": "W2 established",
+  "social": {
+   "instagram": "https://www.instagram.com/disc.lospepe/"
+  },
+  "social_proof": "@disc.lospepe 'Night Club Los Pepes'; Google knowledge panel 'Discoteca Night Club los Pepes'; posts place it 'Calle 18 (Paraguay), Santa Ana', matching the Santa Ana neighborhood.",
+  "about_es": "Discoteca Night Club los Pepes es un bar en Santa Ana, Ciudad de Panamá."
+ },
+ {
+  "id": "santa-ana-bahia-beach",
+  "slug": "bahia-beach",
+  "name": "Bahia Beach",
+  "cuisine_en": [
+   "Bar"
+  ],
+  "cuisine_es": [],
+  "price_tier": 1,
+  "neighborhood_slug": "santa-ana",
+  "address": "XF55+FVV, Av. Central España, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.958749300000001,
+  "lng": -79.5403394,
+  "phones": {
+   "call": "6579-9317"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "3:00 AM",
+    "close": "4:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "3:00 AM",
+    "close": "4:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "3:00 AM",
+    "close": "4:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "3:00 AM",
+    "close": "4:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "3:00 AM",
+    "close": "4:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "3:00 AM",
+    "close": "4:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "3:00 AM",
+    "close": "4:00 PM"
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Bar"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Bahia Beach is a bar in Santa Ana, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.google.com/maps/place/?q=place_id:ChIJvxwCu7WorI8RqRP9gFU1yIQ"
+  ],
+  "import_wave": "W2 established",
+  "about_es": "Bahia Beach es un bar en Santa Ana, Ciudad de Panamá."
+ },
+ {
+  "id": "santa-ana-salon-maravilla",
+  "slug": "salon-maravilla",
+  "name": "Salon Maravilla",
+  "cuisine_en": [
+   "Bar"
+  ],
+  "cuisine_es": [],
+  "price_tier": 1,
+  "neighborhood_slug": "santa-ana",
+  "address": "XF55+CQP, C. 18 Este, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9585913,
+  "lng": -79.5405376,
+  "phones": {
+   "call": "6825-6655"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "11:00 AM",
+    "close": "2:00 AM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "11:00 AM",
+    "close": "2:00 AM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "11:00 AM",
+    "close": "2:00 AM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "11:00 AM",
+    "close": "3:00 AM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "11:00 AM",
+    "close": "3:00 AM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "11:00 AM",
+    "close": "3:00 AM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "11:00 AM",
+    "close": "2:00 AM"
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Bar"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Salon Maravilla is a bar in Santa Ana, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.google.com/maps/place/?q=place_id:ChIJ7zMgh7aorI8RYUN5HYL9zpE"
+  ],
+  "import_wave": "W2 established",
+  "about_es": "Salon Maravilla es un bar en Santa Ana, Ciudad de Panamá."
+ },
+ {
+  "id": "santa-ana-dulceria-dulcerama",
+  "slug": "dulceria-dulcerama",
+  "name": "Dulcería Dulcerama",
+  "cuisine_en": [
+   "Bakery"
+  ],
+  "cuisine_es": [],
+  "price_tier": 1,
+  "neighborhood_slug": "santa-ana",
+  "address": "C. 17 Oeste, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.956987999999999,
+  "lng": -79.5414256,
+  "phones": {
+   "call": "262-5647"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "7:00 AM",
+    "close": "7:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "7:00 AM",
+    "close": "7:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "7:00 AM",
+    "close": "7:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "7:00 AM",
+    "close": "7:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "7:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "7:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "8:00 AM",
+    "close": "5:00 PM"
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Bakery"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Dulcería Dulcerama is a bakery in Santa Ana, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/dulceriadulcerama/",
+   "http://www.dulceriadulcerama.com/",
+   "https://www.google.com/maps/place/?q=place_id:ChIJOeeTOsmprI8RPToIr70acto"
+  ],
+  "import_wave": "W2 established",
+  "social": {
+   "instagram": "https://www.instagram.com/dulceriadulcerama/"
+  },
+  "social_proof": "The row's website dulceriadulcerama.com links to this handle in its footer; profile bio states 50+ years and location Calle 17, Santa Ana, below Hotel Ideal (27.1K followers), matching the Santa Ana venue.",
+  "about_es": "Dulcería Dulcerama es una panadería en Santa Ana, Ciudad de Panamá."
+ },
+ {
+  "id": "santa-ana-panaderia-el-palacio-del-pan",
+  "slug": "panaderia-el-palacio-del-pan",
+  "name": "Panaderia El Palacio Del Pan",
+  "cuisine_en": [
+   "Bakery"
+  ],
+  "cuisine_es": [],
+  "price_tier": 1,
+  "neighborhood_slug": "santa-ana",
+  "address": "C. 18 Este, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9587668,
+  "lng": -79.53998870000001,
+  "phones": {
+   "call": "6322-9373"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "6:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "6:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "6:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "6:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "6:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "6:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "Closed",
+    "close": ""
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Bakery"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Panaderia El Palacio Del Pan is a bakery in Santa Ana, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.google.com/maps/place/?q=place_id:ChIJGbWXb7aorI8RjxRb86McRhE"
+  ],
+  "import_wave": "W2 established",
+  "about_es": "Panaderia El Palacio Del Pan es una panadería en Santa Ana, Ciudad de Panamá."
+ },
+ {
+  "id": "santa-ana-astoria-restaurante-cafe-bar",
+  "slug": "astoria-restaurante-cafe-bar",
+  "name": "Astoria Restaurante Café Bar",
+  "cuisine_en": [
+   "Cafe"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "santa-ana",
+  "address": "XF65+2RP, Av. B, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.960080800000002,
+  "lng": -79.5404148,
+  "phones": {
+   "call": "262-6116"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "7:00 AM",
+    "close": "11:15 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "7:00 AM",
+    "close": "11:15 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "7:00 AM",
+    "close": "11:15 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "7:00 AM",
+    "close": "11:15 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "7:00 AM",
+    "close": "11:15 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "7:00 AM",
+    "close": "11:15 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "7:00 AM",
+    "close": "11:15 PM"
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Cafe"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Astoria Restaurante Café Bar is a cafe in Santa Ana, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.google.com/maps/place/?q=place_id:ChIJwWFgV7aorI8R6L2KSdzOM6c"
+  ],
+  "import_wave": "W2 established",
+  "about_es": "Astoria Restaurante Café Bar es un café en Santa Ana, Ciudad de Panamá."
+ },
+ {
+  "id": "santa-ana-coliseo-night-club",
+  "slug": "coliseo-night-club",
+  "name": "Coliseo Night Club",
+  "cuisine_en": [
+   "Bar"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "santa-ana",
+  "address": "XF55+CRR, C. 18 Este, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9586074,
+  "lng": -79.5404899,
+  "phones": {
+   "call": "6254-8544"
+  },
+  "hours": [],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Bar"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Coliseo Night Club is a bar in Santa Ana, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.google.com/maps/place/?q=place_id:ChIJlWy70OGprI8ROIVdx6t-HUo"
+  ],
+  "import_wave": "W2 established",
+  "about_es": "Coliseo Night Club es un bar en Santa Ana, Ciudad de Panamá."
+ },
+ {
+  "id": "santa-ana-fantastic-casino-5-de-mayo",
+  "slug": "fantastic-casino-5-de-mayo",
+  "name": "Fantastic Casino | 5 de Mayo",
+  "cuisine_en": [
+   "Bar"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "santa-ana",
+  "address": "Av. B Y Av Central Hotel Stanford, local No.1, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9602949,
+  "lng": -79.5409672,
+  "phones": {
+   "call": "212-1749"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "Open 24 hours",
+    "close": ""
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "Open 24 hours",
+    "close": ""
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "Open 24 hours",
+    "close": ""
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "Open 24 hours",
+    "close": ""
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "Open 24 hours",
+    "close": ""
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "Open 24 hours",
+    "close": ""
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "Open 24 hours",
+    "close": ""
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Bar"
+  ],
+  "tags_es": [],
+  "status": "removed",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Fantastic Casino | 5 de Mayo is a bar in Santa Ana, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/fantastic_pa/",
+   "http://fantastic.com.pa/casino/5-de-mayo/",
+   "https://www.google.com/maps/place/?q=place_id:ChIJBdKYRX2prI8RaJJ-6QNSOIw"
+  ],
+  "import_wave": "W2 established",
+  "social": {
+   "instagram": "https://www.instagram.com/fantastic_pa/"
+  },
+  "social_proof": "The row's website (the 5 de Mayo branch page on fantastic.com.pa) links to this handle in its header/footer; it is the Fantastic Casino Panama chain/brand account (no branch-specific account exists).",
+  "removed_reason": "a casino with no dining content",
+  "about_es": "Fantastic Casino | 5 de Mayo es un bar en Santa Ana, Ciudad de Panamá."
+ }
+]

@@ -1,0 +1,1087 @@
+[
+ {
+  "id": "punta-pacifica-alma-by-jw-marriott",
+  "slug": "alma-by-jw-marriott",
+  "name": "Alma by JW Marriott",
+  "cuisine_en": [
+   "Bar"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "punta-pacifica",
+  "address": "XFFV+W9R, Cl. Punta Colón, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.974853699999999,
+  "lng": -79.50661029999999,
+  "phones": {
+   "call": "+507 215-8800"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "Closed",
+    "close": ""
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "4:00 PM",
+    "close": "12:00 AM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "4:00 PM",
+    "close": "12:00 AM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "4:00 PM",
+    "close": "12:00 AM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "4:00 PM",
+    "close": "3:00 AM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "4:00 PM",
+    "close": "3:00 AM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "4:00 PM",
+    "close": "12:00 AM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/alma-by-jw-marriott.jpg",
+    "alt_en": "Signature cocktail at Alma by JW Marriott, Punta Pacifica, Panama City",
+    "alt_es": "Cóctel de autor en Alma by JW Marriott, Punta Pacífica, Ciudad de Panamá",
+    "credit_en": "Photo: @almabyjwmarriott",
+    "credit_url": "https://www.instagram.com/almabyjwmarriott/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Bar",
+   "Rooftop",
+   "Outdoor",
+   "Cocktails"
+  ],
+  "tags_es": [
+   "Azotea"
+  ],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Signature cocktails",
+    "description_en": "Cocktail program that is the venue's main draw.",
+    "price": null,
+    "popular": true,
+    "description_es": "El programa de cocteles es el gran atractivo del lugar."
+   },
+   {
+    "name": "Shared plates",
+    "description_en": "Small bites and shareable plates alongside drinks.",
+    "price": null,
+    "popular": false,
+    "description_es": "Bocas y platos para compartir junto con los tragos."
+   }
+  ],
+  "about_en": "Alma by JW Marriott is a rooftop bar-restaurant in the Punta Pacifica neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Signature cocktails"
+  ],
+  "whats_good_en": [
+   "66th-floor panoramic views over the city, canal, and ocean",
+   "Rooftop lounge atmosphere with an infinity-pool outlook",
+   "Cocktails and a noted happy hour"
+  ],
+  "typical_spend_en": null,
+  "dataset_comparison_en": null,
+  "attributes_en": [
+   "Rooftop, 66th floor of the JW Marriott",
+   "Open-air with pool/skyline views",
+   "Happy hour",
+   "Cocktails and light food"
+  ],
+  "best_time_en": "Sunset for the skyline and ocean views",
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/almabyjwmarriott/",
+   "https://www.tripadvisor.com/Hotel_Feature-g294480-d2174846-zft11257-JW_Marriott_Panama.html",
+   "https://www.marriott.com/en-us/hotels/ptymj-jw-marriott-panama/overview/"
+  ],
+  "best_time": {
+   "busiest": "Thu-Sat, 9 PM-late",
+   "busiest_note_en": "Late-evening weekend buzz",
+   "easy": "Tue-Wed nights",
+   "easy_note_en": "Quieter, easy seat at the bar",
+   "sweet": "Fri, 7-8 PM",
+   "sweet_note_en": "Lively but before the late rush"
+  },
+  "social": {
+   "instagram": "https://www.instagram.com/almabyjwmarriott/"
+  },
+  "social_proof": "IG bio reads 'The highest floor on the tallest building in Central America. Floor 66, JW Marriott Panama' - matches the venue (sky bar on floor 66 of JW Marriott Panama, Punta Pacifica)",
+  "about_es": "Alma by JW Marriott es un bar-restaurante en la azotea, ubicado en el barrio de Punta Pacífica de la Ciudad de Panamá.",
+  "best_time_es": "Ideal para el atardecer, con vistas al skyline y al mar",
+  "highlights_es": [
+   "Reconocido por sus cocteles de la casa"
+  ],
+  "whats_good_es": [
+   "Vistas panorámicas desde el piso 66 sobre la ciudad, el canal y el océano",
+   "Ambiente de lounge en la azotea con vista a la piscina infinita",
+   "Cocteles y un happy hour muy comentado"
+  ],
+  "attributes_es": [
+   "En la azotea, piso 66 del JW Marriott",
+   "Espacio al aire libre con vista a la piscina y al skyline",
+   "Happy hour",
+   "Cocteles y bocas ligeras"
+  ]
+ },
+ {
+  "id": "punta-pacifica-blu-signature-cuisine",
+  "slug": "blu-signature-cuisine",
+  "name": "Blu Signature Cuisine",
+  "cuisine_en": [
+   "International"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "punta-pacifica",
+  "address": "Wellness Center, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.970619400000002,
+  "lng": -79.504356,
+  "phones": {
+   "whatsapp": "+507 6837-1641",
+   "call": "+507 6837-1641"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "Closed",
+    "close": ""
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "11:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "11:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "11:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "11:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "11:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "10:00 AM",
+    "close": "6:00 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/blu-signature-cuisine.jpg",
+    "alt_en": "Panamanian stew at Blu Signature Cuisine, Ocean Reef, Punta Pacifica, Panama City",
+    "alt_es": "Guiso panameño en Blu Signature Cuisine, Ocean Reef, Punta Pacífica, Ciudad de Panamá",
+    "credit_en": "Photo: @blucuisinepty",
+    "credit_url": "https://www.instagram.com/blucuisinepty/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "International",
+   "Outdoor",
+   "Groups"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "A la carte signature dishes",
+    "description_en": "Chef-crafted signature plates from the main a la carte menu",
+    "price": null,
+    "popular": true,
+    "description_es": "Platos insignia del chef, del menu principal a la carta"
+   },
+   {
+    "name": "Poolside snack menu",
+    "description_en": "A lighter menu served on the pool terrace",
+    "price": null,
+    "popular": false,
+    "description_es": "Un menu mas ligero que se sirve en la terraza de la piscina"
+   }
+  ],
+  "about_en": "Blu Signature Cuisine is an International restaurant in the Punta Pacifica neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for A la carte signature dishes"
+  ],
+  "whats_good_en": [
+   "Waterfront setting on the Ocean Reef islands",
+   "Chef-driven signature a la carte menu",
+   "Indoor dining room plus a pool terrace for relaxed meals"
+  ],
+  "typical_spend_en": null,
+  "dataset_comparison_en": "One of the few International kitchens in Punta Pacifica",
+  "attributes_en": [
+   "Ocean Reef wellness center, Islas Ocean Reef, Punta Pacifica",
+   "Tue-Sat 11am-9pm, Sun 10am-7pm, closed Monday",
+   "Main dining room, private room and pool terrace seating",
+   "Phone: +507 394-2896"
+  ],
+  "best_time_en": "Lunch by the pool terrace, or dinner in the main room",
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/blucuisinepty/",
+   "https://oceanreefmarina.com.pa/blu-coffee-kitchen/?lang=es"
+  ],
+  "best_time": {
+   "busiest": "Fri-Sat, 8-10 PM",
+   "busiest_note_en": "Weekend dinner is busiest",
+   "easy": "Mon-Tue evenings",
+   "easy_note_en": "Relaxed, easy to seat",
+   "sweet": "Thu, 7 PM",
+   "sweet_note_en": "Dinner buzz without the wait"
+  },
+  "social": {
+   "instagram": "https://www.instagram.com/blucuisinepty/"
+  },
+  "social_proof": "IG bio reads 'Blu | Signature Cuisine Rest~Bar~Terrace & Pool Ocean Reef Islands | Panama', matching the row's Ocean Reef Marina website; posts carry the blu Signature Cuisine watermark and Ocean Reef, Punta Pacifica address",
+  "about_es": "Blu Signature Cuisine es un restaurante de cocina internacional en el barrio de Punta Pacífica de la Ciudad de Panamá.",
+  "dataset_comparison_es": "Una de las pocas cocinas internacionales de Punta Pacífica",
+  "best_time_es": "Almuerzo junto a la terraza de la piscina, o cena en el salón principal",
+  "highlights_es": [
+   "Reconocido por sus platos a la carta"
+  ],
+  "whats_good_es": [
+   "Ubicado frente al mar, en las islas de Ocean Reef",
+   "Menú a la carta creado por el chef",
+   "Salón interior más una terraza junto a la piscina para comidas relajadas"
+  ],
+  "attributes_es": [
+   "Centro de bienestar Ocean Reef, Islas Ocean Reef, Punta Pacífica",
+   "Mar-sáb 11am-9pm, dom 10am-7pm, cerrado los lunes",
+   "Salón principal, salón privado y mesas en la terraza junto a la piscina",
+   "Teléfono: +507 394-2896"
+  ]
+ },
+ {
+  "id": "punta-pacifica-burger-project-by-wahaka",
+  "slug": "burger-project-by-wahaka",
+  "name": "Burger Project by Wahaka",
+  "cuisine_en": [
+   "Burgers"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "punta-pacifica",
+  "address": "XFJR+P49, Boulevard Isaac Hanono Missri, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9817848,
+  "lng": -79.5096414,
+  "phones": {
+   "call": "+507 6169-7167"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "12:00",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "12:00",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "12:00",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "12:00",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "12:00",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "12:00",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "12:00",
+    "close": "9:00 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/burger-project-by-wahaka-food.jpg",
+    "alt_en": "Plated dish at Burger Project by Wahaka, Punta Pacifica, Panama City",
+    "alt_es": "Plato en Burger Project by Wahaka, Punta Pacífica, Ciudad de Panamá",
+    "credit_en": "Photo: Wahaka"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Burgers",
+   "Casual",
+   "Family"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Dona Florinda Burger",
+    "description_en": "8oz Angus burger with feta, chilaquiles, a sunny-side egg and chipotle ketchup, with street corn",
+    "price": 16,
+    "popular": true,
+    "description_es": "Hamburguesa de Angus de 8oz con feta, chilaquiles, huevo estrellado y ketchup de chipotle, acompañada de street corn"
+   },
+   {
+    "name": "Smash-style beef burgers",
+    "description_en": "Wahaka's burger line-up offered for delivery under the Burger Project brand",
+    "price": null,
+    "popular": true,
+    "description_es": "La linea de hamburguesas de Wahaka disponible a domicilio bajo la marca Burger Project"
+   }
+  ],
+  "about_en": "Burger Project by Wahaka is a Burgers delivery in the Punta Pacifica neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Dona Florinda Burger"
+  ],
+  "whats_good_en": [
+   "Loaded Mexican-accented burgers from the Wahaka kitchen",
+   "Delivery-focused burger brand",
+   "Award-winning signature burger"
+  ],
+  "typical_spend_en": null,
+  "dataset_comparison_en": "One of the few Burgers kitchens in Punta Pacifica",
+  "attributes_en": [
+   "Oceania Business Plaza, Punta Pacifica (Wahaka's kitchen)",
+   "Delivery / virtual brand, not a separate dining room",
+   "Instagram: @burgerprojectpty"
+  ],
+  "best_time_en": null,
+  "notable_mention_en": "Its Dona Florinda burger was a Panama Burger Week winner (week.pa).",
+  "dietary_en": [],
+  "sources": [
+   "https://www.wahakarest.com/en/menu",
+   "https://week.pa/burger-specials/wahaka/",
+   "https://www.instagram.com/wahakarest/"
+  ],
+  "best_time": {
+   "busiest": "Fri-Sat evenings",
+   "busiest_note_en": "Weekend nights draw the crowd",
+   "easy": "Weekday lunch",
+   "easy_note_en": "Quick, easy seat",
+   "sweet": "Thu, 6-7 PM",
+   "sweet_note_en": "Early dinner before it fills"
+  },
+  "about_es": "Burger Project by Wahaka es un servicio de entrega de hamburguesas en el barrio de Punta Pacífica de la Ciudad de Panamá.",
+  "dataset_comparison_es": "Una de las pocas cocinas de hamburguesas en Punta Pacífica",
+  "notable_mention_es": "Su hamburguesa Dona Florinda fue ganadora del Panama Burger Week (week.pa).",
+  "highlights_es": [
+   "Reconocido por la Dona Florinda Burger"
+  ],
+  "whats_good_es": [
+   "Hamburguesas bien cargadas con acento mexicano, salidas de la cocina de Wahaka",
+   "Marca de hamburguesas enfocada en entregas a domicilio",
+   "Hamburguesa insignia y premiada"
+  ],
+  "attributes_es": [
+   "Oceania Business Plaza, Punta Pacífica (cocina de Wahaka)",
+   "Marca de entrega / virtual, no cuenta con salón propio",
+   "Instagram: @burgerprojectpty"
+  ]
+ },
+ {
+  "id": "punta-pacifica-cava-15",
+  "slug": "cava-15",
+  "name": "Cava 15",
+  "cuisine_en": [
+   "Bar"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "punta-pacifica",
+  "address": "Cl. Punta Colón 22502-02, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.975352899999999,
+  "lng": -79.50712279999999,
+  "phones": {},
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "4:00",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "4:00",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "4:00",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "4:00 PM",
+    "close": "12:00 AM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "4:00 PM",
+    "close": "12:00 AM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "4:00 PM",
+    "close": "12:00 AM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "4:00",
+    "close": "11:00 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/cava-15.jpg",
+    "alt_en": "Inside the Cava 15 wine bar at JW Marriott Panama, Punta Pacifica, Panama City",
+    "alt_es": "Interior del bar de vinos Cava 15 en el JW Marriott Panama, Punta Pacifica, Ciudad de Panama",
+    "credit_en": "Photo: @jwmarriottpanama",
+    "credit_url": "https://www.instagram.com/jwmarriottpanama/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Bar",
+   "Cocktails",
+   "Wine-bar"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Wine and cocktails",
+    "description_en": "Wine list and cocktail menu, the venue's focus.",
+    "price": null,
+    "popular": true,
+    "description_es": "La carta de vinos y el menu de cocteles son el fuerte del lugar."
+   },
+   {
+    "name": "Appetizers",
+    "description_en": "Small plates to pair with drinks.",
+    "price": null,
+    "popular": false,
+    "description_es": "Platos pequeños para acompañar los tragos."
+   }
+  ],
+  "about_en": "Cava 15 is a wine bar in the Punta Pacifica neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Wine and cocktails"
+  ],
+  "whats_good_en": [
+   "Intimate wine-bar setting inside the JW Marriott",
+   "Wine and cocktails paired with appetizers",
+   "Warm, ambient hotel-lounge design"
+  ],
+  "typical_spend_en": null,
+  "dataset_comparison_en": null,
+  "attributes_en": [
+   "Wine bar / lounge",
+   "Cocktails and appetizers",
+   "Inside the JW Marriott, Punta Pacifica",
+   "Ambient / relaxed"
+  ],
+  "best_time_en": null,
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/jwmarriottpanama/",
+   "https://www.fivestaralliance.com/luxury-hotels/panama-city/jw-marriott-panama",
+   "https://www.luxurylatinamerica.com/panama/trump_ocean_club.html"
+  ],
+  "best_time": {
+   "busiest": "Thu-Sat, 9 PM-late",
+   "busiest_note_en": "Late-evening weekend buzz",
+   "easy": "Tue-Wed nights",
+   "easy_note_en": "Quieter, easy seat at the bar",
+   "sweet": "Fri, 7-8 PM",
+   "sweet_note_en": "Lively but before the late rush"
+  },
+  "social": {
+   "instagram": "https://www.instagram.com/jwmarriottpanama/"
+  },
+  "social_proof": "Cava 15 is the wine bar inside JW Marriott Panama (marriott.com dining page, matches the row's JW Marriott website); the bar has no standalone account - the hotel's official property account posts Cava 15 content, and this photo is from its 'Descubre Cava 15' post (CwyYXIFLCOE)",
+  "about_es": "Cava 15 es un bar de vinos en el barrio de Punta Pacífica de la Ciudad de Panamá.",
+  "highlights_es": [
+   "Reconocido por sus vinos y cocteles"
+  ],
+  "whats_good_es": [
+   "Ambiente íntimo de bar de vinos dentro del JW Marriott",
+   "Vinos y cocteles acompañados de bocas",
+   "Diseño cálido y acogedor, propio de un lounge de hotel"
+  ],
+  "attributes_es": [
+   "Bar de vinos / lounge",
+   "Cocteles y bocas",
+   "Dentro del JW Marriott, Punta Pacífica",
+   "Ambiente relajado"
+  ]
+ },
+ {
+  "id": "punta-pacifica-coficito",
+  "slug": "coficito",
+  "name": "Coficito",
+  "cuisine_en": [
+   "Cafe"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "punta-pacifica",
+  "address": "Cl. Punta Colón 8612, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9749322,
+  "lng": -79.5076758,
+  "phones": {
+   "call": "+507 6729-0570"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "7:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "7:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "7:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "7:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "7:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "10:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "Closed",
+    "close": ""
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Cafe",
+   "Brunch",
+   "Specialty-coffee"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Specialty coffee",
+    "description_en": "Espresso-based and brewed coffee, the cafe's focus.",
+    "price": null,
+    "popular": true,
+    "description_es": "El café espresso y el de filtro son la especialidad de la cafetería."
+   }
+  ],
+  "about_en": "Coficito is a small cafe in the Punta Pacifica neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Specialty coffee"
+  ],
+  "whats_good_en": [
+   "Small, well-liked neighborhood coffee spot on Punta Pacifica"
+  ],
+  "typical_spend_en": null,
+  "dataset_comparison_en": "One of the few Cafe kitchens in Punta Pacifica",
+  "attributes_en": [
+   "Coffee-focused cafe",
+   "Calle Punta Colon, Punta Pacifica",
+   "Social-media-first"
+  ],
+  "best_time_en": null,
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/coficito/",
+   "https://www.facebook.com/coficito/",
+   "https://maps.google.com/?cid=Coficito+Punta+Colon+Panama"
+  ],
+  "best_time": {
+   "busiest": "Sat-Sun, 9 AM-12 PM",
+   "busiest_note_en": "Weekend brunch is the peak",
+   "easy": "Weekday mornings",
+   "easy_note_en": "Calm, easy to get a table",
+   "sweet": "Sun, 8:30-9:30 AM",
+   "sweet_note_en": "Fresh and unhurried before the brunch wave"
+  },
+  "social": {
+   "instagram": "https://www.instagram.com/coficito/"
+  },
+  "social_proof": "profile 'Coficito - Panama City'; own reel caption describes Coficito as the 'cafeteria movil' located in Punta Pacifica near the JW Marriott, matching the row's punta-pacifica hood",
+  "about_es": "Coficito es una cafetería pequeña en el barrio de Punta Pacífica, en la Ciudad de Panamá.",
+  "dataset_comparison_es": "Una de las pocas cocinas de café en Punta Pacífica",
+  "highlights_es": [
+   "Reconocido por su café especial"
+  ],
+  "whats_good_es": [
+   "Cafetería de barrio pequeña y muy querida en Punta Pacífica"
+  ],
+  "attributes_es": [
+   "Cafetería enfocada en el café",
+   "Calle Punta Colón, Punta Pacífica",
+   "Con fuerte presencia en redes sociales"
+  ]
+ },
+ {
+  "id": "punta-pacifica-masi-restaurant",
+  "slug": "masi-restaurant",
+  "name": "Masi Restaurant",
+  "cuisine_en": [
+   "Peruvian"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "punta-pacifica",
+  "address": "Cl. Punta Colón 22502-02, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9752862,
+  "lng": -79.5073817,
+  "phones": {
+   "call": "+507 215-8825"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "6:00 AM",
+    "close": "10:30 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "6:00 AM",
+    "close": "10:30 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "6:00 AM",
+    "close": "10:30 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "6:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "6:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "6:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "6:00 AM",
+    "close": "10:30 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/masi-restaurant.jpg",
+    "alt_en": "Brunch spread at Masi Restaurant, JW Marriott, Punta Pacifica, Panama City",
+    "alt_es": "Brunch en Masi Restaurant, JW Marriott, Punta Pacífica, Ciudad de Panamá",
+    "credit_en": "Photo: @masirestaurant",
+    "credit_url": "https://www.instagram.com/masirestaurant/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Peruvian",
+   "Rooftop",
+   "Outdoor",
+   "Ceviche"
+  ],
+  "tags_es": [
+   "Azotea"
+  ],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Rompe Colchon ceviche",
+    "description_en": "House ceviche mixing shrimp, squid, fish and octopus with passion fruit, a Colon-style speciality.",
+    "price": null,
+    "popular": true,
+    "description_es": "Ceviche de la casa que mezcla camarón, calamar, pescado y pulpo con maracuyá, una especialidad al estilo Colón."
+   },
+   {
+    "name": "Catch-of-the-day ceviche",
+    "description_en": "Fresh fish cured in citrus leche de tigre with onion, pepper and yam.",
+    "price": null,
+    "popular": true,
+    "description_es": "Pescado fresco curado en leche de tigre cítrica con cebolla, pimiento y ñame."
+   },
+   {
+    "name": "Signature Angus smash burger",
+    "description_en": "Cold-smoked Angus patty with jack and mozzarella, Panamanian chorizo, crispy onions and culantro mayo on corn bread.",
+    "price": null,
+    "popular": false,
+    "description_es": "Carne de Angus ahumada en frío con queso jack y mozzarella, chorizo panameño, cebollas crocantes y mayonesa de culantro, sobre pan de maíz."
+   },
+   {
+    "name": "New York steak cooked tableside",
+    "description_en": "NY-cut steak finished at the table.",
+    "price": null,
+    "popular": false,
+    "description_es": "Corte NY terminado en la mesa."
+   },
+   {
+    "name": "Green curry fish",
+    "description_en": "Fish of the day in green curry with coconut rice.",
+    "price": null,
+    "popular": false,
+    "description_es": "Pescado del día en curry verde con arroz de coco."
+   },
+   {
+    "name": "Tortellini",
+    "description_en": "Filled pasta among the non-seafood mains.",
+    "price": null,
+    "popular": false,
+    "description_es": "Pasta rellena entre los platos fuertes sin mariscos."
+   }
+  ],
+  "about_en": "Masi Restaurant is a Peruvian hotel restaurant in the Punta Pacifica neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Rompe Colchon ceviche"
+  ],
+  "whats_good_en": [
+   "Live ceviche bar with a wide range of ceviches made to order",
+   "Rooftop terrace with open-fire grilling and city views",
+   "Sunday brunch with live entertainment is frequently singled out"
+  ],
+  "typical_spend_en": null,
+  "dataset_comparison_en": "One of the few Peruvian kitchens in Punta Pacifica",
+  "attributes_en": [
+   "Inside JW Marriott (14th floor)",
+   "Rooftop / open-air terrace",
+   "Live ceviche bar",
+   "Open-fire grill",
+   "Sunday brunch",
+   "Reservations advisable"
+  ],
+  "best_time_en": "Evenings for the terrace; Sunday for the brunch service",
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.marriott.com/en-us/dining/restaurant-bar/ptymj-jw-marriott-panama/6738877-masi.mi",
+   "https://www.instagram.com/masirestaurant/",
+   "https://www.opentable.com/r/masi-panama-punta-pacifica"
+  ],
+  "best_time": {
+   "busiest": "Fri-Sat, 8-10 PM",
+   "busiest_note_en": "Weekend dinner is busiest",
+   "easy": "Mon-Tue evenings",
+   "easy_note_en": "Relaxed, easy to seat",
+   "sweet": "Thu, 7 PM",
+   "sweet_note_en": "Dinner buzz without the wait"
+  },
+  "social": {
+   "instagram": "https://www.instagram.com/masirestaurant/"
+  },
+  "social_proof": "IG bio reads '@JWMarriottPanama - Piso 14' and posts cite 'MASI Restaurant, piso 14 del JW Marriott Panama' - matches the row's Marriott dining page for MASI, Punta Pacifica",
+  "about_es": "Masi Restaurant es un restaurante peruano de hotel en el barrio de Punta Pacífica, en la Ciudad de Panamá.",
+  "dataset_comparison_es": "Una de las pocas cocinas peruanas en Punta Pacífica",
+  "best_time_es": "Las noches son ideales para la terraza; los domingos, para el brunch",
+  "highlights_es": [
+   "Reconocido por su ceviche Rompe Colchón"
+  ],
+  "whats_good_es": [
+   "Barra de ceviche en vivo con una gran variedad preparada al momento",
+   "Terraza en la azotea con parrilla a fuego abierto y vista a la ciudad",
+   "El brunch de los domingos con entretenimiento en vivo suele destacarse"
+  ],
+  "attributes_es": [
+   "Dentro del JW Marriott (piso 14)",
+   "Terraza al aire libre / rooftop",
+   "Barra de ceviche en vivo",
+   "Parrilla a fuego abierto",
+   "Brunch dominical",
+   "Se recomienda hacer reservación"
+  ]
+ },
+ {
+  "id": "punta-pacifica-noa-evolution",
+  "slug": "noa-evolution",
+  "name": "Noa Evolution",
+  "cuisine_en": [
+   "Nikkei"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "punta-pacifica",
+  "address": "Terraza de Torre de las Americas, en frente de Multiplaza Mall, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.982991799999999,
+  "lng": -79.5094137,
+  "phones": {
+   "call": "+507 6550-7232"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "12:00",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "12:00",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "12:00",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "12:00 PM",
+    "close": "2:00 AM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "12:00 PM",
+    "close": "2:00 AM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "5:00 PM",
+    "close": "3:00 AM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "4:00",
+    "close": "11:30 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/noa-evolution.jpg",
+    "alt_en": "Nikkei sushi platter at Noa Evolution, Punta Pacifica, Panama City",
+    "alt_es": "Tabla de sushi nikkei en Noa Evolution, Punta Pacífica, Ciudad de Panamá",
+    "credit_en": "Photo: @noaevolution",
+    "credit_url": "https://www.instagram.com/noaevolution/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Nikkei",
+   "Rooftop",
+   "Outdoor",
+   "Live-music"
+  ],
+  "tags_es": [
+   "Azotea"
+  ],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Sushi and maki",
+    "description_en": "Nikkei-style sushi and rolls",
+    "price": null,
+    "popular": true,
+    "description_es": "Sushi y rolls al estilo Nikkei"
+   },
+   {
+    "name": "Oysters",
+    "description_en": "Fresh oysters, a standout starter",
+    "price": null,
+    "popular": true,
+    "description_es": "Ostras frescas, una entrada que destaca"
+   },
+   {
+    "name": "Grilled beef",
+    "description_en": "Premium beef mains",
+    "price": null,
+    "popular": true,
+    "description_es": "Platos fuertes de carne premium"
+   },
+   {
+    "name": "Seafood plates",
+    "description_en": "Nikkei seafood dishes",
+    "price": null,
+    "popular": false,
+    "description_es": "Platos de mariscos al estilo Nikkei"
+   },
+   {
+    "name": "Desserts",
+    "description_en": "House desserts that reviewers single out",
+    "price": null,
+    "popular": false,
+    "description_es": "Los postres de la casa que los críticos destacan"
+   }
+  ],
+  "about_en": "Noa Evolution is a Nikkei restaurant & rooftop lounge in the Punta Pacifica neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Sushi and maki"
+  ],
+  "whats_good_en": [
+   "Nikkei sushi and seafood with standout oysters and beef",
+   "Rooftop setting with indoor and outdoor seating",
+   "DJ / live music turns it into a lounge at night"
+  ],
+  "typical_spend_en": null,
+  "dataset_comparison_en": "One of the few Nikkei kitchens in Punta Pacifica",
+  "attributes_en": [
+   "Terrace of Torre de las Americas, Punta Pacifica",
+   "Restaurant plus rooftop lounge / bar",
+   "Weekday lunch service; DJ and shows at night",
+   "Instagram: @noaevolution"
+  ],
+  "best_time_en": "Dinner and drinks; sunset for the rooftop",
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/noaevolution/",
+   "https://www.opentable.com/r/noa-nikkei-panama",
+   "https://www.tripadvisor.com/Restaurant_Review-g294480-d24562412-Reviews-Noa_Evolution-Panama_City_Panama_Province.html"
+  ],
+  "best_time": {
+   "busiest": "Fri-Sat, 8-10 PM",
+   "busiest_note_en": "Weekend dinner is busiest",
+   "easy": "Mon-Tue evenings",
+   "easy_note_en": "Relaxed, easy to seat",
+   "sweet": "Thu, 7 PM",
+   "sweet_note_en": "Dinner buzz without the wait"
+  },
+  "social": {
+   "instagram": "https://www.instagram.com/noaevolution/"
+  },
+  "social_proof": "IG account 'Noa Evolution - Restaurante Panama', bio cites Torre Las Americas, Punta Pacifica; the row's OpenTable page (noa-nikkei-panama) is the same restaurant and the photographed platter carries NOA NIKKEI REVOLUTION branding",
+  "about_es": "Noa Evolution es un restaurante Nikkei y rooftop lounge en el barrio de Punta Pacífica, en la Ciudad de Panamá.",
+  "dataset_comparison_es": "Una de las pocas cocinas Nikkei en Punta Pacífica",
+  "best_time_es": "Ideal para cenar y tomar algo; al atardecer para el rooftop",
+  "highlights_es": [
+   "Reconocido por su sushi y makis"
+  ],
+  "whats_good_es": [
+   "Sushi y mariscos Nikkei, con ostras y carne que destacan",
+   "Ambiente de rooftop con áreas interiores y exteriores",
+   "El DJ o la música en vivo lo convierten en lounge por la noche"
+  ],
+  "attributes_es": [
+   "Terraza de la Torre de las Américas, Punta Pacífica",
+   "Restaurante con rooftop lounge / bar",
+   "Servicio de almuerzo entre semana; DJ y shows por la noche",
+   "Instagram: @noaevolution"
+  ]
+ }
+]

@@ -1,0 +1,559 @@
+[
+  {
+    "slug": "casco-viejo",
+    "slug_es": "casco-viejo",
+    "name": "Casco Viejo",
+    "city_slug": "panama-city",
+    "city_slug_es": "ciudad-de-panama",
+    "venue_count": 99,
+    "descriptor_en": "99 restaurants",
+    "descriptor_es": "99 restaurantes",
+    "intro_en": "Casco Viejo has 99 restaurants on EatsPanama, spanning Cafe, Bar, Panamanian. Each listing is built from public sources and menus - no restaurant can pay to appear here.",
+    "intro_es": "Casco Viejo tiene 99 restaurantes en EatsPanama, desde Cafe, Bar, Panamanian. Cada ficha se arma con información pública y menús; ningún restaurante puede pagar por aparecer.",
+    "kicker_en": "Neighborhood guide · Panama City",
+    "kicker_es": "Guía del barrio · Ciudad de Panamá",
+    "h1_en": {
+      "pre": "Casco Viejo Restaurants: ",
+      "accent": "99 spots",
+      "post": ""
+    },
+    "h1_es": {
+      "pre": "Restaurantes en Casco Viejo: ",
+      "accent": "99 lugares",
+      "post": ""
+    },
+    "top_cuisines": [
+      "Cafe",
+      "Bar",
+      "Panamanian",
+      "Seafood"
+    ],
+    "es_reviewed": false,
+    "hero_image": {
+      "url": "/hoods/casco-viejo.jpg",
+      "alt_en": "The historic Casco Viejo skyline seen from the waterfront, Panama City",
+      "alt_es": "El histórico horizonte del Casco Viejo visto desde el malecón, Ciudad de Panamá",
+      "credit_en": "Photo: Ivo Kruusamägi / Wikimedia Commons (CC BY-SA 4.0)"
+    }
+  },
+  {
+    "slug": "el-cangrejo",
+    "slug_es": "el-cangrejo",
+    "name": "El Cangrejo",
+    "city_slug": "panama-city",
+    "city_slug_es": "ciudad-de-panama",
+    "venue_count": 147,
+    "descriptor_en": "147 restaurants",
+    "descriptor_es": "147 restaurantes",
+    "intro_en": "El Cangrejo has 147 restaurants on EatsPanama, spanning Cafe, Bar, International. Each listing is built from public sources and menus - no restaurant can pay to appear here.",
+    "intro_es": "El Cangrejo tiene 147 restaurantes en EatsPanama, desde Cafe, Bar, International. Cada ficha se arma con información pública y menús; ningún restaurante puede pagar por aparecer.",
+    "kicker_en": "Neighborhood guide · Panama City",
+    "kicker_es": "Guía del barrio · Ciudad de Panamá",
+    "h1_en": {
+      "pre": "El Cangrejo Restaurants: ",
+      "accent": "147 spots",
+      "post": ""
+    },
+    "h1_es": {
+      "pre": "Restaurantes en El Cangrejo: ",
+      "accent": "147 lugares",
+      "post": ""
+    },
+    "top_cuisines": [
+      "Cafe",
+      "Bar",
+      "International",
+      "Japanese"
+    ],
+    "es_reviewed": false,
+    "hero_image": {
+      "url": "/hoods/el-cangrejo.jpg",
+      "alt_en": "Open-air beer garden with wooden picnic tables and tropical greenery in El Cangrejo, Panama City",
+      "alt_es": "Cervecería al aire libre con mesas de picnic de madera y vegetación tropical en El Cangrejo, Ciudad de Panamá",
+      "credit_en": "Photo: BierGarten",
+      "credit_url": "https://www.riandehoteles.com/en/urban/gastronomy/biergarten/"
+    }
+  },
+  {
+    "slug": "bella-vista",
+    "slug_es": "bella-vista",
+    "name": "Bella Vista",
+    "city_slug": "panama-city",
+    "city_slug_es": "ciudad-de-panama",
+    "venue_count": 118,
+    "descriptor_en": "118 restaurants",
+    "descriptor_es": "118 restaurantes",
+    "intro_en": "Bella Vista has 118 restaurants on EatsPanama, spanning Cafe, Bar, Burgers. Each listing is built from public sources and menus - no restaurant can pay to appear here.",
+    "intro_es": "Bella Vista tiene 118 restaurantes en EatsPanama, desde Cafe, Bar, Burgers. Cada ficha se arma con información pública y menús; ningún restaurante puede pagar por aparecer.",
+    "kicker_en": "Neighborhood guide · Panama City",
+    "kicker_es": "Guía del barrio · Ciudad de Panamá",
+    "h1_en": {
+      "pre": "Bella Vista Restaurants: ",
+      "accent": "118 spots",
+      "post": ""
+    },
+    "h1_es": {
+      "pre": "Restaurantes en Bella Vista: ",
+      "accent": "118 lugares",
+      "post": ""
+    },
+    "top_cuisines": [
+      "Cafe",
+      "Bar",
+      "Burgers",
+      "Italian"
+    ],
+    "es_reviewed": false,
+    "hero_image": {
+      "url": "/hoods/bella-vista.jpg",
+      "alt_en": "Open-air sidewalk terrace with orange umbrellas and patio tables at La Rana Dorada, Vía Argentina, Bella Vista, Panama City",
+      "alt_es": "Terraza al aire libre con sombrillas naranjas y mesas en La Rana Dorada, Vía Argentina, Bella Vista, Ciudad de Panamá",
+      "credit_en": "Photo: La Rana Dorada",
+      "credit_url": "https://www.laranadorada.com/"
+    }
+  },
+  {
+    "slug": "costa-del-este",
+    "slug_es": "costa-del-este",
+    "name": "Costa del Este",
+    "city_slug": "panama-city",
+    "city_slug_es": "ciudad-de-panama",
+    "venue_count": 103,
+    "descriptor_en": "103 restaurants",
+    "descriptor_es": "103 restaurantes",
+    "intro_en": "Costa del Este has 103 restaurants on EatsPanama, spanning Cafe, Italian, Pizza. Each listing is built from public sources and menus - no restaurant can pay to appear here.",
+    "intro_es": "Costa del Este tiene 103 restaurantes en EatsPanama, desde Cafe, Italian, Pizza. Cada ficha se arma con información pública y menús; ningún restaurante puede pagar por aparecer.",
+    "kicker_en": "Neighborhood guide · Panama City",
+    "kicker_es": "Guía del barrio · Ciudad de Panamá",
+    "h1_en": {
+      "pre": "Costa del Este Restaurants: ",
+      "accent": "103 spots",
+      "post": ""
+    },
+    "h1_es": {
+      "pre": "Restaurantes en Costa del Este: ",
+      "accent": "103 lugares",
+      "post": ""
+    },
+    "top_cuisines": [
+      "Cafe",
+      "Italian",
+      "Pizza",
+      "Japanese"
+    ],
+    "es_reviewed": false,
+    "hero_image": {
+      "url": "/venues/casa-iberica-panama-costa-del-este.jpg",
+      "alt_en": "Paella served tableside at Casa Iberica, Costa del Este, Panama City",
+      "alt_es": "Paella servida en mesa en Casa Iberica, Costa del Este, Ciudad de Panama",
+      "credit_en": "Photo: @casaiberica_panama",
+      "credit_url": "https://www.instagram.com/casaiberica_panama/"
+    }
+  },
+  {
+    "slug": "albrook",
+    "slug_es": "albrook",
+    "name": "Albrook",
+    "city_slug": "panama-city",
+    "city_slug_es": "ciudad-de-panama",
+    "venue_count": 69,
+    "descriptor_en": "69 restaurants",
+    "descriptor_es": "69 restaurantes",
+    "intro_en": "Albrook has 69 restaurants on EatsPanama, spanning Cafe, International, Italian. Each listing is built from public sources and menus - no restaurant can pay to appear here.",
+    "intro_es": "Albrook tiene 69 restaurantes en EatsPanama, desde Cafe, International, Italian. Cada ficha se arma con información pública y menús; ningún restaurante puede pagar por aparecer.",
+    "kicker_en": "Neighborhood guide · Panama City",
+    "kicker_es": "Guía del barrio · Ciudad de Panamá",
+    "h1_en": {
+      "pre": "Albrook Restaurants: ",
+      "accent": "69 spots",
+      "post": ""
+    },
+    "h1_es": {
+      "pre": "Restaurantes en Albrook: ",
+      "accent": "69 lugares",
+      "post": ""
+    },
+    "top_cuisines": [
+      "Cafe",
+      "International",
+      "Italian",
+      "Japanese"
+    ],
+    "es_reviewed": false,
+    "hero_image": {
+      "url": "/hoods/albrook.jpg",
+      "alt_en": "Open-air garden patio at night under a mango tree strung with festoon lights at Palo 'e Mango, Albrook, Panama City",
+      "alt_es": "Patio jardín al aire libre de noche bajo un árbol de mango con luces colgantes en Palo 'e Mango, Albrook, Ciudad de Panamá",
+      "credit_en": "Photo: Palo 'e Mango Garden Spot",
+      "credit_url": "https://www.facebook.com/paloemangogardenspot"
+    }
+  },
+  {
+    "slug": "obarrio",
+    "slug_es": "obarrio",
+    "name": "Obarrio",
+    "city_slug": "panama-city",
+    "city_slug_es": "ciudad-de-panama",
+    "venue_count": 52,
+    "descriptor_en": "52 restaurants",
+    "descriptor_es": "52 restaurantes",
+    "intro_en": "Obarrio has 52 restaurants on EatsPanama, spanning Cafe, Italian, Burgers. Each listing is built from public sources and menus - no restaurant can pay to appear here.",
+    "intro_es": "Obarrio tiene 52 restaurantes en EatsPanama, desde Cafe, Italian, Burgers. Cada ficha se arma con información pública y menús; ningún restaurante puede pagar por aparecer.",
+    "kicker_en": "Neighborhood guide · Panama City",
+    "kicker_es": "Guía del barrio · Ciudad de Panamá",
+    "h1_en": {
+      "pre": "Obarrio Restaurants: ",
+      "accent": "52 spots",
+      "post": ""
+    },
+    "h1_es": {
+      "pre": "Restaurantes en Obarrio: ",
+      "accent": "52 lugares",
+      "post": ""
+    },
+    "top_cuisines": [
+      "Cafe",
+      "Italian",
+      "Burgers",
+      "Steakhouse"
+    ],
+    "es_reviewed": false,
+    "hero_image": {
+      "url": "/hoods/obarrio.jpg",
+      "alt_en": "Marble teppanyaki counter and dining room in a warm, low-lit setting at Makoto, Obarrio, Panama City",
+      "alt_es": "Barra de teppanyaki de mármol y comedor de ambiente cálido en Makoto, Obarrio, Ciudad de Panamá",
+      "credit_en": "Photo: Makoto",
+      "credit_url": "https://makotopanama.com/"
+    }
+  },
+  {
+    "slug": "san-francisco",
+    "slug_es": "san-francisco",
+    "name": "San Francisco",
+    "city_slug": "panama-city",
+    "city_slug_es": "ciudad-de-panama",
+    "venue_count": 75,
+    "descriptor_en": "75 restaurants",
+    "descriptor_es": "75 restaurantes",
+    "intro_en": "San Francisco has 75 restaurants on EatsPanama, spanning Pizza, Cafe, Burgers. Each listing is built from public sources and menus - no restaurant can pay to appear here.",
+    "intro_es": "San Francisco tiene 75 restaurantes en EatsPanama, desde Pizza, Cafe, Burgers. Cada ficha se arma con información pública y menús; ningún restaurante puede pagar por aparecer.",
+    "kicker_en": "Neighborhood guide · Panama City",
+    "kicker_es": "Guía del barrio · Ciudad de Panamá",
+    "h1_en": {
+      "pre": "San Francisco Restaurants: ",
+      "accent": "75 spots",
+      "post": ""
+    },
+    "h1_es": {
+      "pre": "Restaurantes en San Francisco: ",
+      "accent": "75 lugares",
+      "post": ""
+    },
+    "top_cuisines": [
+      "Pizza",
+      "Cafe",
+      "Burgers",
+      "Japanese"
+    ],
+    "es_reviewed": false,
+    "hero_image": {
+      "url": "/hoods/san-francisco.jpg",
+      "alt_en": "Covered open-air patio with string lights and greenery at Cantina del Tigre, San Francisco, Panama City",
+      "alt_es": "Patio techado al aire libre con luces colgantes y vegetación en Cantina del Tigre, San Francisco, Ciudad de Panamá",
+      "credit_en": "Photo: Cantina del Tigre",
+      "credit_url": "https://www.cantinadeltigre.com/"
+    }
+  },
+  {
+    "slug": "clayton",
+    "slug_es": "clayton",
+    "name": "Clayton",
+    "city_slug": "panama-city",
+    "city_slug_es": "ciudad-de-panama",
+    "venue_count": 37,
+    "descriptor_en": "37 restaurants",
+    "descriptor_es": "37 restaurantes",
+    "intro_en": "Clayton has 37 restaurants on EatsPanama, spanning Cafe, Pizza, International. Each listing is built from public sources and menus - no restaurant can pay to appear here.",
+    "intro_es": "Clayton tiene 37 restaurantes en EatsPanama, desde Cafe, Pizza, International. Cada ficha se arma con información pública y menús; ningún restaurante puede pagar por aparecer.",
+    "kicker_en": "Neighborhood guide · Panama City",
+    "kicker_es": "Guía del barrio · Ciudad de Panamá",
+    "h1_en": {
+      "pre": "Clayton Restaurants: ",
+      "accent": "37 spots",
+      "post": ""
+    },
+    "h1_es": {
+      "pre": "Restaurantes en Clayton: ",
+      "accent": "37 lugares",
+      "post": ""
+    },
+    "top_cuisines": [
+      "Cafe",
+      "Pizza",
+      "International",
+      "Burgers"
+    ],
+    "es_reviewed": false,
+    "hero_image": {
+      "url": "/hoods/clayton.jpg",
+      "alt_en": "Open-air patio with white tensile canopy and string lights at La Taberna del Canal, Clayton, Panama City",
+      "alt_es": "Patio al aire libre con toldo blanco y luces colgantes en La Taberna del Canal, Clayton, Ciudad de Panamá",
+      "credit_en": "Photo: La Taberna del Canal",
+      "credit_url": "https://latabernadelcanal.com/taberna-del-canal-clayton/"
+    }
+  },
+  {
+    "slug": "marbella",
+    "slug_es": "marbella",
+    "name": "Marbella",
+    "city_slug": "panama-city",
+    "city_slug_es": "ciudad-de-panama",
+    "venue_count": 22,
+    "descriptor_en": "22 restaurants",
+    "descriptor_es": "22 restaurantes",
+    "intro_en": "Marbella has 22 restaurants on EatsPanama, spanning Cafe, Japanese, Italian. Each listing is built from public sources and menus - no restaurant can pay to appear here.",
+    "intro_es": "Marbella tiene 22 restaurantes en EatsPanama, desde Cafe, Japanese, Italian. Cada ficha se arma con información pública y menús; ningún restaurante puede pagar por aparecer.",
+    "kicker_en": "Neighborhood guide · Panama City",
+    "kicker_es": "Guía del barrio · Ciudad de Panamá",
+    "h1_en": {
+      "pre": "Marbella Restaurants: ",
+      "accent": "22 spots",
+      "post": ""
+    },
+    "h1_es": {
+      "pre": "Restaurantes en Marbella: ",
+      "accent": "22 lugares",
+      "post": ""
+    },
+    "top_cuisines": [
+      "Cafe",
+      "Japanese",
+      "Italian",
+      "Panamanian"
+    ],
+    "es_reviewed": false,
+    "hero_image": {
+      "url": "/hoods/marbella.jpg",
+      "alt_en": "Rooftop terrace at dusk with wood decking, loungers, and the Panama City skyline at Sortis Hotel, Marbella, Panama City",
+      "alt_es": "Terraza rooftop al atardecer con piso de madera, tumbonas y el horizonte de la ciudad en Sortis Hotel, Marbella, Ciudad de Panamá",
+      "credit_en": "Photo: Sortis Hotel (Autograph Collection)",
+      "credit_url": "https://www.sortishotel.com/"
+    }
+  },
+  {
+    "slug": "amador",
+    "slug_es": "amador",
+    "name": "Amador",
+    "city_slug": "panama-city",
+    "city_slug_es": "ciudad-de-panama",
+    "venue_count": 27,
+    "descriptor_en": "27 restaurants",
+    "descriptor_es": "27 restaurantes",
+    "intro_en": "Amador has 27 restaurants on EatsPanama, spanning Seafood, Panamanian, International. Each listing is built from public sources and menus - no restaurant can pay to appear here.",
+    "intro_es": "Amador tiene 27 restaurantes en EatsPanama, desde Seafood, Panamanian, International. Cada ficha se arma con información pública y menús; ningún restaurante puede pagar por aparecer.",
+    "kicker_en": "Neighborhood guide · Panama City",
+    "kicker_es": "Guía del barrio · Ciudad de Panamá",
+    "h1_en": {
+      "pre": "Amador Restaurants: ",
+      "accent": "27 spots",
+      "post": ""
+    },
+    "h1_es": {
+      "pre": "Restaurantes en Amador: ",
+      "accent": "27 lugares",
+      "post": ""
+    },
+    "top_cuisines": [
+      "Seafood",
+      "Panamanian",
+      "International",
+      "Steakhouse"
+    ],
+    "es_reviewed": false,
+    "hero_image": {
+      "url": "/venues/porky-lobster-marina.jpg",
+      "alt_en": "Seafood boil bucket with crab, lobster and shrimp at Porky Lobster, Amador, Panama City",
+      "alt_es": "Balde de mariscos con cangrejo, langosta y camarones en Porky Lobster, Amador, Ciudad de Panama",
+      "credit_en": "Photo: @porkylobster",
+      "credit_url": "https://www.instagram.com/porkylobster/"
+    }
+  },
+  {
+    "slug": "calidonia",
+    "slug_es": "calidonia",
+    "name": "Calidonia",
+    "city_slug": "panama-city",
+    "city_slug_es": "ciudad-de-panama",
+    "venue_count": 12,
+    "descriptor_en": "12 restaurants",
+    "descriptor_es": "12 restaurantes",
+    "intro_en": "Calidonia has 12 restaurants on EatsPanama, spanning Seafood, Pizza, Bar. Each listing is built from public sources and menus - no restaurant can pay to appear here.",
+    "intro_es": "Calidonia tiene 12 restaurantes en EatsPanama, desde Seafood, Pizza, Bar. Cada ficha se arma con información pública y menús; ningún restaurante puede pagar por aparecer.",
+    "kicker_en": "Neighborhood guide · Panama City",
+    "kicker_es": "Guía del barrio · Ciudad de Panamá",
+    "h1_en": {
+      "pre": "Calidonia Restaurants: ",
+      "accent": "12 spots",
+      "post": ""
+    },
+    "h1_es": {
+      "pre": "Restaurantes en Calidonia: ",
+      "accent": "12 lugares",
+      "post": ""
+    },
+    "top_cuisines": [
+      "Seafood",
+      "Pizza",
+      "Bar",
+      "Japanese"
+    ],
+    "es_reviewed": false,
+    "hero_image": {
+      "url": "/hoods/calidonia.jpg",
+      "alt_en": "Open-air rooftop terrace with set tables overlooking the Panama City skyline at Cielo Rooftop, Calidonia",
+      "alt_es": "Terraza rooftop al aire libre con mesas dispuestas y vista al horizonte de la ciudad en Cielo Rooftop, Calidonia",
+      "credit_en": "Photo: Cielo Rooftop",
+      "credit_url": "http://www.cielopanama.com/"
+    }
+  },
+  {
+    "slug": "santa-ana",
+    "slug_es": "santa-ana",
+    "name": "Santa Ana",
+    "city_slug": "panama-city",
+    "city_slug_es": "ciudad-de-panama",
+    "venue_count": 2,
+    "descriptor_en": "2 restaurants",
+    "descriptor_es": "2 restaurantes",
+    "intro_en": "Santa Ana has 2 restaurants on EatsPanama, spanning Spanish, Pizza. Each listing is built from public sources and menus - no restaurant can pay to appear here.",
+    "intro_es": "Santa Ana tiene 2 restaurantes en EatsPanama, desde Spanish, Pizza. Cada ficha se arma con información pública y menús; ningún restaurante puede pagar por aparecer.",
+    "kicker_en": "Neighborhood guide · Panama City",
+    "kicker_es": "Guía del barrio · Ciudad de Panamá",
+    "h1_en": {
+      "pre": "Santa Ana Restaurants: ",
+      "accent": "2 spots",
+      "post": ""
+    },
+    "h1_es": {
+      "pre": "Restaurantes en Santa Ana: ",
+      "accent": "2 lugares",
+      "post": ""
+    },
+    "top_cuisines": [
+      "Spanish",
+      "Pizza"
+    ],
+    "es_reviewed": false,
+    "hero_image": {
+      "url": "/hoods/santa-ana.jpg",
+      "alt_en": "The colonial Iglesia de Santa Ana and its plaza in the historic Santa Ana district, Panama City",
+      "alt_es": "La colonial Iglesia de Santa Ana y su plaza en el histórico barrio de Santa Ana, Ciudad de Panamá",
+      "credit_en": "Photo: Y.Y.Y.G. / Wikimedia Commons (CC BY 2.0)",
+      "credit_url": "https://commons.wikimedia.org/wiki/File:Iglesia_de_Santa_Ana_pma.jpg"
+    }
+  },
+  {
+    "slug": "punta-pacifica",
+    "slug_es": "punta-pacifica",
+    "name": "Punta Pacifica",
+    "city_slug": "panama-city",
+    "city_slug_es": "ciudad-de-panama",
+    "venue_count": 7,
+    "descriptor_en": "7 restaurants",
+    "descriptor_es": "7 restaurantes",
+    "intro_en": "Punta Pacifica has 7 restaurants on EatsPanama, spanning Bar, Peruvian, Burgers. Each listing is built from public sources and menus - no restaurant can pay to appear here.",
+    "intro_es": "Punta Pacifica tiene 7 restaurantes en EatsPanama, desde Bar, Peruvian, Burgers. Cada ficha se arma con información pública y menús; ningún restaurante puede pagar por aparecer.",
+    "kicker_en": "Neighborhood guide · Panama City",
+    "kicker_es": "Guía del barrio · Ciudad de Panamá",
+    "h1_en": {
+      "pre": "Punta Pacifica Restaurants: ",
+      "accent": "7 spots",
+      "post": ""
+    },
+    "h1_es": {
+      "pre": "Restaurantes en Punta Pacifica: ",
+      "accent": "7 lugares",
+      "post": ""
+    },
+    "top_cuisines": [
+      "Bar",
+      "Peruvian",
+      "Burgers",
+      "International"
+    ],
+    "es_reviewed": false,
+    "hero_image": {
+      "url": "/venues/noa-evolution.jpg",
+      "alt_en": "Nikkei sushi platter at Noa Evolution, Punta Pacifica, Panama City",
+      "alt_es": "Tabla de sushi nikkei en Noa Evolution, Punta Pacífica, Ciudad de Panamá",
+      "credit_en": "Photo: @noaevolution",
+      "credit_url": "https://www.instagram.com/noaevolution/"
+    }
+  },
+  {
+    "slug": "paitilla",
+    "slug_es": "paitilla",
+    "name": "Paitilla",
+    "city_slug": "panama-city",
+    "city_slug_es": "ciudad-de-panama",
+    "venue_count": 4,
+    "descriptor_en": "4 restaurants",
+    "descriptor_es": "4 restaurantes",
+    "intro_en": "Paitilla has 4 restaurants on EatsPanama, spanning Burgers, Chinese, Cafe. Each listing is built from public sources and menus - no restaurant can pay to appear here.",
+    "intro_es": "Paitilla tiene 4 restaurantes en EatsPanama, desde Burgers, Chinese, Cafe. Cada ficha se arma con información pública y menús; ningún restaurante puede pagar por aparecer.",
+    "kicker_en": "Neighborhood guide · Panama City",
+    "kicker_es": "Guía del barrio · Ciudad de Panamá",
+    "h1_en": {
+      "pre": "Paitilla Restaurants: ",
+      "accent": "4 spots",
+      "post": ""
+    },
+    "h1_es": {
+      "pre": "Restaurantes en Paitilla: ",
+      "accent": "4 lugares",
+      "post": ""
+    },
+    "top_cuisines": [
+      "Burgers",
+      "Chinese",
+      "Cafe",
+      "Healthy"
+    ],
+    "es_reviewed": false,
+    "hero_image": {
+      "url": "/venues/yoss-burger-bar.jpg",
+      "alt_en": "Beef bowl with fried egg and guacamole at Yoss Burger Bar, Punta Paitilla, Panama City",
+      "alt_es": "Bowl de carne con huevo frito y guacamole en Yoss Burger Bar, Punta Paitilla, Ciudad de Panamá",
+      "credit_en": "Photo: @yossburgerbar",
+      "credit_url": "https://www.instagram.com/yossburgerbar/"
+    }
+  },
+  {
+    "slug": "pueblo-nuevo",
+    "slug_es": "pueblo-nuevo",
+    "name": "Pueblo Nuevo",
+    "city_slug": "panama-city",
+    "city_slug_es": "ciudad-de-panama",
+    "venue_count": 1,
+    "descriptor_en": "1 restaurants",
+    "descriptor_es": "1 restaurantes",
+    "intro_en": "Pueblo Nuevo has 1 restaurants on EatsPanama, spanning Seafood. Each listing is built from public sources and menus - no restaurant can pay to appear here.",
+    "intro_es": "Pueblo Nuevo tiene 1 restaurantes en EatsPanama, desde Seafood. Cada ficha se arma con información pública y menús; ningún restaurante puede pagar por aparecer.",
+    "kicker_en": "Neighborhood guide · Panama City",
+    "kicker_es": "Guía del barrio · Ciudad de Panamá",
+    "h1_en": {
+      "pre": "Pueblo Nuevo Restaurants: ",
+      "accent": "1 spots",
+      "post": ""
+    },
+    "h1_es": {
+      "pre": "Restaurantes en Pueblo Nuevo: ",
+      "accent": "1 lugares",
+      "post": ""
+    },
+    "top_cuisines": [
+      "Seafood"
+    ],
+    "es_reviewed": false
+  }
+]

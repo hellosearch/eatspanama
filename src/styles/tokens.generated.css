@@ -1,0 +1,45 @@
+/* AUTO-GENERATED - do not edit by hand.
+ * Source: design/tokens/brand-tokens.json (The Modern Guide (D2) / Tangerine, locked 2026-07-14)
+ * Regenerate: npm run tokens
+ */
+@theme {
+  /* ---- color ---- */
+  --color-ink: #101014;
+  --color-ink-soft: #3A3A42;
+  --color-gray: #62626B;
+  --color-paper: #FFFFFF;
+  --color-fog: #F6F6F3;
+  --color-line: #E7E7E2;
+  --color-canvas: #E9E9E5;
+  --color-accent: #FF5A1F;
+  --color-accent-deep: #C0400B;
+  --color-accent-tint: #FFF0E9;
+  --color-whatsapp: #22B45A;
+  --color-whatsapp-deep: #1B9A4B;
+  --color-open-now: #1FA55C;
+
+  /* ---- type ---- */
+  --font-display: var(--font-space-grotesk), sans-serif;
+  --font-body: var(--font-inter), sans-serif;
+
+  /* ---- radius ---- */
+  --radius-card: 14px;
+  --radius-button: 14px;
+  --radius-image: 12px;
+  --radius-chip-square: 8px;
+  --radius-pill: 999px;
+  --radius-hero: 18px;
+
+  /* ---- shadow ---- */
+  --shadow-button-accent: 0 6px 18px rgba(255,90,31,.28);
+  --shadow-button-whatsapp: 0 6px 18px rgba(34,180,90,.28);
+  /* THE brand signature: use once per viewport, never stacked. */
+  --shadow-offset: 10px 12px 0 #FF5A1F;
+
+  /* ---- space ---- */
+  --spacing-section-y: 84px;
+  --spacing-card-pad: 20px;
+  --spacing-grid-gap: 22px;
+  --spacing-page-max: 1184px;
+  --spacing-page-x: 48px;
+}

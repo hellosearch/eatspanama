@@ -1,0 +1,5976 @@
+[
+ {
+  "id": "clayton-bagel-spot",
+  "slug": "bagel-spot",
+  "name": "Bagel spot",
+  "cuisine_en": [
+   "Deli"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "clayton",
+  "address": "C. Arnoldo Cano Arosemena, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 9.003197799999999,
+  "lng": -79.5735277,
+  "phones": {
+   "whatsapp": "+507 6722-7697",
+   "call": "+507 6426-8393"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "10:30 AM",
+    "close": "6:30 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "9:30 AM",
+    "close": "6:30 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "9:30 AM",
+    "close": "6:30 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "9:30 AM",
+    "close": "6:30 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "9:30 AM",
+    "close": "4:30 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "Closed",
+    "close": ""
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "10:00 AM",
+    "close": "6:30 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/bagel-spot.jpg",
+    "alt_en": "Freshly baked challah at Bagel Spot, Clayton, Panama City",
+    "alt_es": "Jalot recien horneadas en Bagel Spot, Clayton, Ciudad de Panama",
+    "credit_en": "Photo: @bagelspotpty",
+    "credit_url": "https://www.instagram.com/bagelspotpty/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Deli",
+   "Brunch"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Salmon and cream cheese bagel",
+    "description_en": "Bagel with smoked salmon and cream cheese, a frequently mentioned order.",
+    "price": null,
+    "popular": true,
+    "description_es": "Bagel con salmón ahumado y queso crema, un pedido muy mencionado."
+   },
+   {
+    "name": "Bagel sandwiches",
+    "description_en": "Bagels built with kosher deli fillings.",
+    "price": null,
+    "popular": false,
+    "description_es": "Bagels preparados con rellenos estilo deli kosher."
+   },
+   {
+    "name": "French fries",
+    "description_en": "Side of fries.",
+    "price": null,
+    "popular": false,
+    "description_es": "Porción de papas fritas."
+   }
+  ],
+  "about_en": "Bagel spot is a kosher bagel and deli counter in the Clayton neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Salmon and cream cheese bagel"
+  ],
+  "whats_good_en": [
+   "One of the few certified-kosher (Cholov Yisrael) options in the area",
+   "Bagel-focused menu with deli fillings, quick counter service"
+  ],
+  "typical_spend_en": null,
+  "dataset_comparison_en": null,
+  "attributes_en": [
+   "Kosher (Cholov Yisrael certified)",
+   "Upper level of Clayton Mall",
+   "Counter / grab-and-go service"
+  ],
+  "best_time_en": null,
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.gokosherpanama.com/food",
+   "https://www.instagram.com/bagelspotpty/",
+   "https://www.facebook.com/kosherpanama/posts/-bagel-spot-bagelspotpty-abre-sus-puertas-en-clayton-mall-un-nuevo-establecimien/1094185909405217/"
+  ],
+  "best_time": {
+   "busiest": "Sat-Sun, 9 AM-12 PM",
+   "busiest_note_en": "Weekend brunch is the peak",
+   "easy": "Weekday mornings",
+   "easy_note_en": "Calm, easy to get a table",
+   "sweet": "Sun, 8:30-9:30 AM",
+   "sweet_note_en": "Fresh and unhurried before the brunch wave"
+  },
+  "social": {
+   "instagram": "https://www.instagram.com/bagelspotpty/"
+  },
+  "social_proof": "row website gokosherpanama.com/food lists 'Bagel Spot ... Clayton Mall Upper Level - Clayton - Panama City ... Instagram: @bagelspotpty'; account posts repeatedly state 'Clayton Mall, piso 1'",
+  "about_es": "Bagel spot es un mostrador de bagels y delicatessen kosher en el barrio de Clayton, Ciudad de Panamá.",
+  "highlights_es": [
+   "Reconocido por su bagel de salmón con queso crema"
+  ],
+  "whats_good_es": [
+   "Una de las pocas opciones certificadas kosher (Cholov Yisrael) en la zona",
+   "Menú centrado en bagels con rellenos estilo deli y servicio rápido en mostrador"
+  ],
+  "attributes_es": [
+   "Kosher (certificado Cholov Yisrael)",
+   "Nivel superior de Clayton Mall",
+   "Servicio en mostrador / para llevar"
+  ]
+ },
+ {
+  "id": "clayton-barrio-pizza-clayton",
+  "slug": "barrio-pizza-clayton",
+  "name": "Barrio Pizza",
+  "cuisine_en": [
+   "Pizza"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "clayton",
+  "address": "01, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9938009,
+  "lng": -79.5570853,
+  "phones": {
+   "whatsapp": "+507 6251-5017",
+   "call": "+507 6660-9463"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/barrio-pizza-clayton.jpg",
+    "alt_en": "Queso fundido at Barrio Pizza, Panama City",
+    "alt_es": "Queso fundido en Barrio Pizza, Ciudad de Panama",
+    "credit_en": "Photo: @barriopizza",
+    "credit_url": "https://www.instagram.com/barriopizza/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Pizza",
+   "Casual",
+   "Family"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Pizzas",
+    "description_en": "The core menu - a range of pizzas available whole or by the branch's standard sizes.",
+    "price": null,
+    "popular": true,
+    "description_es": "El menú principal: una variedad de pizzas disponibles enteras o en los tamaños estándar de la sucursal."
+   },
+   {
+    "name": "Sanguches",
+    "description_en": "Sandwiches offered alongside the pizza list.",
+    "price": null,
+    "popular": false,
+    "description_es": "Sándwiches que se ofrecen junto a la carta de pizzas."
+   },
+   {
+    "name": "Entradas",
+    "description_en": "Starters / appetizers to share.",
+    "price": null,
+    "popular": false,
+    "description_es": "Entradas para compartir."
+   },
+   {
+    "name": "Ensaladas",
+    "description_en": "Salads for a lighter option.",
+    "price": null,
+    "popular": false,
+    "description_es": "Ensaladas para una opción más ligera."
+   },
+   {
+    "name": "Postres",
+    "description_en": "Desserts to finish.",
+    "price": null,
+    "popular": false,
+    "description_es": "Postres para cerrar."
+   },
+   {
+    "name": "Kits and frozen",
+    "description_en": "Take-home pizza kits and frozen items.",
+    "price": null,
+    "popular": false,
+    "description_es": "Kits de pizza para llevar y armar en casa, además de productos congelados."
+   }
+  ],
+  "about_en": "Barrio Pizza is a Pizza restaurant in the Clayton neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Pizzas"
+  ],
+  "whats_good_en": [
+   "Well-known local pizza chain with a convenient Marbella branch.",
+   "Online ordering plus delivery and takeout.",
+   "Menu goes beyond pizza to sandwiches, salads, starters and take-home kits."
+  ],
+  "typical_spend_en": null,
+  "dataset_comparison_en": "One of 5 Pizza spots in Clayton",
+  "attributes_en": [
+   "Calle 53 Este, Punto Marbella (near Farmacias Arrocha), Marbella - Panama City",
+   "Open daily 11am-10pm",
+   "Delivery and online ordering ('Pide Online')",
+   "Multi-location Panama chain"
+  ],
+  "best_time_en": null,
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/barriopizza/",
+   "https://www.barriopizza.com/sucursal-marbella.html"
+  ],
+  "best_time": {
+   "busiest": "Thu-Sat, 9 PM-late",
+   "busiest_note_en": "Late-evening weekend buzz",
+   "easy": "Tue-Wed nights",
+   "easy_note_en": "Quieter, easy seat at the bar",
+   "sweet": "Fri, 7-8 PM",
+   "sweet_note_en": "Lively but before the late rush"
+  },
+  "social": {
+   "instagram": "https://www.instagram.com/barriopizza/"
+  },
+  "social_proof": "chain's own website barriopizza.com (matches row website) links this account; site lists Clayton among its 10 branches",
+  "about_es": "Barrio Pizza es una pizzería en el barrio de Clayton, Ciudad de Panamá.",
+  "dataset_comparison_es": "Uno de los 5 lugares de pizza en Clayton",
+  "highlights_es": [
+   "Reconocido por sus pizzas"
+  ],
+  "whats_good_es": [
+   "Reconocida cadena local de pizzas con una sucursal muy conveniente en Marbella.",
+   "Pedidos en línea, además de entrega a domicilio y para llevar.",
+   "El menú va más allá de la pizza e incluye sándwiches, ensaladas, entradas y kits para preparar en casa."
+  ],
+  "attributes_es": [
+   "Calle 53 Este, Punto Marbella (cerca de Farmacias Arrocha), Marbella - Ciudad de Panamá",
+   "Abierto todos los días de 11am a 10pm",
+   "Entrega a domicilio y pedidos en línea ('Pide Online')",
+   "Cadena panameña con varias sucursales"
+  ]
+ },
+ {
+  "id": "clayton-benissimo-gelato-caffe-clayton",
+  "slug": "benissimo-gelato-caffe-clayton",
+  "name": "Benissimo Gelato&Caffè Clayton",
+  "cuisine_en": [
+   "Cafe"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "clayton",
+  "address": "casa 470 B, C. al Hospital, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 9.0025845,
+  "lng": -79.5740562,
+  "phones": {
+   "call": "+507 6972-4536"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "12:00",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "12:00",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "12:00",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "12:00",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "12:00",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "9:30 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "9:30 AM",
+    "close": "8:00 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/benissimo-gelato-caffe-clayton.jpg",
+    "alt_en": "Mango gelato cone at Benissimo Gelato & Caffe, Clayton, Panama City",
+    "alt_es": "Cono de gelato de mango en Benissimo Gelato & Caffe, Clayton, Ciudad de Panama",
+    "credit_en": "Photo: @benissimopanama",
+    "credit_url": "https://www.instagram.com/benissimopanama/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Cafe",
+   "Vegan options",
+   "Outdoor",
+   "Dog-friendly",
+   "Specialty-coffee"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Artisanal gelato (40+ flavors)",
+    "description_en": "House-made gelato without artificial preservatives; flavors include pistachio, coconut, tiramisu, and chocolate, plus Panamanian-inspired options.",
+    "price": null,
+    "popular": true,
+    "description_es": "Gelato hecho en casa sin conservantes artificiales; los sabores incluyen pistacho, coco, tiramisú y chocolate, además de opciones inspiradas en Panamá."
+   },
+   {
+    "name": "Sorbetto (water-based)",
+    "description_en": "Dairy-free, water-based frozen dessert, a vegan-friendly option.",
+    "price": null,
+    "popular": false,
+    "description_es": "Postre helado a base de agua, sin lácteos, ideal para veganos."
+   },
+   {
+    "name": "Affogato",
+    "description_en": "Espresso poured over gelato.",
+    "price": 3,
+    "popular": false,
+    "description_es": "Espresso servido sobre gelato."
+   },
+   {
+    "name": "Specialty coffee",
+    "description_en": "Coffee drinks such as moka, caramel, and cold brew.",
+    "price": 3,
+    "popular": false,
+    "description_es": "Bebidas de café como moka, caramelo y cold brew."
+   },
+   {
+    "name": "Paninis",
+    "description_en": "Pressed sandwiches.",
+    "price": null,
+    "popular": false,
+    "description_es": "Sándwiches prensados."
+   },
+   {
+    "name": "Brownie with gelato",
+    "description_en": "Brownie served with a scoop of gelato.",
+    "price": null,
+    "popular": false,
+    "description_es": "Brownie con una bola de gelato."
+   }
+  ],
+  "about_en": "Benissimo Gelato&Caffè Clayton is a Cafe gelateria in the Clayton neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Artisanal gelato (40+ flavors)"
+  ],
+  "whats_good_en": [
+   "40+ artisanal gelato flavors made in-house, including Panamanian-inspired and vegan sorbetto options",
+   "Cozy Clayton branch with a pet-friendly outdoor terrace and parking"
+  ],
+  "typical_spend_en": null,
+  "dataset_comparison_en": "One of 11 Cafe spots in Clayton",
+  "attributes_en": [
+   "40+ gelato flavors",
+   "Vegan sorbetto (water-based) options",
+   "Specialty coffee, paninis, and brownies",
+   "Pet-friendly outdoor terrace",
+   "Parking",
+   "Also in Casco Antiguo and Albrook (La Fábrica)"
+  ],
+  "best_time_en": null,
+  "notable_mention_en": null,
+  "dietary_en": [
+   "Vegan options"
+  ],
+  "sources": [
+   "https://benissimopanama.com/",
+   "https://www.instagram.com/benissimopanama/",
+   "https://www.tripadvisor.com/Restaurant_Review-g294480-d11888736-Reviews-Benissimo_Gelato_Caffe-Panama_City_Panama_Province.html"
+  ],
+  "best_time": {
+   "busiest": "Sat-Sun, 9 AM-12 PM",
+   "busiest_note_en": "Weekend brunch is the peak",
+   "easy": "Weekday mornings",
+   "easy_note_en": "Calm, easy to get a table",
+   "sweet": "Sun, 8:30-9:30 AM",
+   "sweet_note_en": "Fresh and unhurried before the brunch wave"
+  },
+  "social": {
+   "instagram": "https://www.instagram.com/benissimopanama/"
+  },
+  "social_proof": "row website benissimopanama.com is the account's brand site; IG bio reads 'Casco Antiguo | Clayton | Panama' matching the Clayton branch; embed owner check on post DNn5X_QAkvE confirms @benissimopanama",
+  "about_es": "Benissimo Gelato&Caffè Clayton es una gelatería-cafetería en el barrio de Clayton, Ciudad de Panamá.",
+  "dataset_comparison_es": "Uno de los 11 cafés en Clayton",
+  "highlights_es": [
+   "Reconocido por su gelato artesanal (más de 40 sabores)"
+  ],
+  "whats_good_es": [
+   "Más de 40 sabores de gelato artesanal hechos en casa, incluyendo opciones inspiradas en Panamá y sorbetos veganos",
+   "Acogedora sucursal en Clayton con terraza exterior pet-friendly y estacionamiento"
+  ],
+  "attributes_es": [
+   "Más de 40 sabores de gelato",
+   "Opciones de sorbeto vegano (a base de agua)",
+   "Café de especialidad, paninis y brownies",
+   "Terraza exterior pet-friendly",
+   "Estacionamiento",
+   "También en Casco Antiguo y Albrook (La Fábrica)"
+  ]
+ },
+ {
+  "id": "clayton-bokattos-pty",
+  "slug": "bokattos-pty",
+  "name": "Bokattos pty",
+  "cuisine_en": [
+   "Burgers"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "clayton",
+  "address": "XCFQ+QGR, Panama City, Panamá Province, Panama",
+  "address_note_en": "",
+  "lat": 8.9742148,
+  "lng": -79.5626406,
+  "phones": {
+   "call": "+507 6101-2333"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "3:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "3:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "3:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "3:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "3:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "2:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "2:00",
+    "close": "10:00 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/bokattos-pty.jpg",
+    "alt_en": "Pepito sandwiches and fries at Bokattos, Clayton, Panama City",
+    "alt_es": "Pepitos y papas fritas en Bokattos, Clayton, Ciudad de Panama",
+    "credit_en": "Photo: @bokattospty",
+    "credit_url": "https://www.instagram.com/bokattospty/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Burgers",
+   "Wings"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Burgers",
+    "description_en": "Chicken, beef, or pork burgers, the core item.",
+    "price": null,
+    "popular": true,
+    "description_es": "Hamburguesas de pollo, res o cerdo, el plato principal."
+   },
+   {
+    "name": "Chicken wings (alitas)",
+    "description_en": "Wings sold in counts and bundled into combos.",
+    "price": null,
+    "popular": true,
+    "description_es": "Alitas que se venden por cantidad y se combinan en combos."
+   },
+   {
+    "name": "Salchipapas",
+    "description_en": "Fries topped with sliced sausage, a Panamanian fast-food staple.",
+    "price": null,
+    "popular": false,
+    "description_es": "Papas fritas con salchicha en rodajas, un clásico de la comida rápida panameña."
+   },
+   {
+    "name": "Loaded nachos",
+    "description_en": "Nachos offered as a shareable side in the combos.",
+    "price": null,
+    "popular": false,
+    "description_es": "Nachos que se ofrecen como acompañante para compartir en los combos."
+   }
+  ],
+  "about_en": "Bokattos pty is a Burgers casual fast-food spot in the Clayton neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Burgers"
+  ],
+  "whats_good_en": [
+   "Value combos bundling burgers, wings, salchipapas, and sodas for two",
+   "Casual walk-in fast food with no reservations needed"
+  ],
+  "typical_spend_en": null,
+  "dataset_comparison_en": null,
+  "attributes_en": [
+   "Locations in Clayton (one by the Albrook Golf club)",
+   "Value combo deals for two",
+   "First-come, first-served / no reservations",
+   "Delivery / promo-driven"
+  ],
+  "best_time_en": null,
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/bokattospty/",
+   "https://www.rantanofertas.com/products/2-hamburguesas-8-alitas-super-nachos-2-sodas-por-solo-15-en-bokattos",
+   "https://www.rantanofertas.com/products/2-burgers-de-pollo-o-carne-2-salchipapas-10-alitas-2-sodas-por-solo-12-en-bokattos"
+  ],
+  "best_time": {
+   "busiest": "Fri-Sat evenings",
+   "busiest_note_en": "Weekend nights draw the crowd",
+   "easy": "Weekday lunch",
+   "easy_note_en": "Quick, easy seat",
+   "sweet": "Thu, 6-7 PM",
+   "sweet_note_en": "Early dinner before it fills"
+  },
+  "social": {
+   "instagram": "https://www.instagram.com/bokattospty/"
+  },
+  "social_proof": "row website is a Rantan Ofertas deal for Bokattos whose reel credits 'la IG de Bokattos'; @bokattospty's own inauguration reel is tagged #albrook #clayton #ciudaddelsaber, and its grid photo carries the '@rantanofertas' promo overlay tying account to the row's offer",
+  "about_es": "Bokattos pty es un local de comida rápida especializado en hamburguesas en el barrio de Clayton, Ciudad de Panamá.",
+  "highlights_es": [
+   "Reconocido por sus hamburguesas"
+  ],
+  "whats_good_es": [
+   "Combos con buena relación precio-cantidad que incluyen hamburguesas, alitas, salchipapas y refrescos para dos personas",
+   "Comida rápida informal sin necesidad de reservación"
+  ],
+  "attributes_es": [
+   "Sucursales en Clayton (una junto al Albrook Golf club)",
+   "Combos especiales para dos personas",
+   "Por orden de llegada / sin reservaciones",
+   "Enfocado en entregas a domicilio y promociones"
+  ]
+ },
+ {
+  "id": "clayton-boquete-bakery-cafe",
+  "slug": "boquete-bakery-cafe",
+  "name": "Boquete Bakery Café",
+  "cuisine_en": [
+   "Cafe"
+  ],
+  "cuisine_es": [],
+  "price_tier": 2,
+  "neighborhood_slug": "clayton",
+  "address": "2C2G+X92, Panama City, Panamá Province, Panama",
+  "address_note_en": "",
+  "lat": 9.0023906,
+  "lng": -79.574079,
+  "phones": {
+   "call": "+507 381-7030"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "7:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "7:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "7:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "7:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "7:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "7:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "7:30 AM",
+    "close": "8:00 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/boquete-bakery-cafe.jpg",
+    "alt_en": "Iced latte at Boquete Bakery Cafe, Clayton, Panama City",
+    "alt_es": "Iced latte en Boquete Bakery Cafe, Clayton, Ciudad de Panama",
+    "credit_en": "Photo: @boquetebakerycafe",
+    "credit_url": "https://www.instagram.com/boquetebakerycafe/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Cafe",
+   "Brunch",
+   "Dog-friendly",
+   "Work-friendly",
+   "Arepas"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Zonian breakfast",
+    "description_en": "American-style plate of pancakes, scrambled eggs, and bacon.",
+    "price": 10,
+    "popular": true,
+    "description_es": "Plato estilo americano con panqueques, huevos revueltos y bacon."
+   },
+   {
+    "name": "Omelette tableno",
+    "description_en": "Omelette with chorizo, tomato, and cheese.",
+    "price": 10,
+    "popular": true,
+    "description_es": "Omelette con chorizo, tomate y queso."
+   },
+   {
+    "name": "Cachapas",
+    "description_en": "Venezuelan sweet-corn pancakes with various fillings.",
+    "price": 9.5,
+    "popular": true,
+    "description_es": "Cachapas venezolanas de maíz dulce con distintos rellenos."
+   },
+   {
+    "name": "Arepas",
+    "description_en": "Venezuelan-style corn arepas with fillings.",
+    "price": 6.5,
+    "popular": true,
+    "description_es": "Arepas de maíz estilo venezolano con rellenos."
+   },
+   {
+    "name": "Boque Burger",
+    "description_en": "Angus beef burger with arugula and caramelized onions.",
+    "price": 12.5,
+    "popular": false,
+    "description_es": "Hamburguesa de carne Angus con arúgula y cebolla caramelizada."
+   },
+   {
+    "name": "Grilled salmon",
+    "description_en": "Salmon from the grill section.",
+    "price": 16.5,
+    "popular": false,
+    "description_es": "Salmón de la sección a la parrilla."
+   }
+  ],
+  "about_en": "Boquete Bakery Café is a cafe in the Clayton neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Zonian breakfast"
+  ],
+  "whats_good_en": [
+   "Generous, hearty breakfast range spanning Panamanian, Zonian, and Venezuelan plates",
+   "Coffee sourced from Boquete alongside fresh-baked bakery items and bagels",
+   "Practical, family-friendly Fort Clayton spot with parking and delivery"
+  ],
+  "typical_spend_en": "$7 to $19.50 a main",
+  "dataset_comparison_en": "One of 11 Cafe spots in Clayton",
+  "attributes_en": [
+   "Wi-Fi",
+   "Parking",
+   "Delivery available",
+   "Executive/lunch specials",
+   "Disability access",
+   "Dog-friendly",
+   "Grill section in addition to bakery-cafe menu"
+  ],
+  "best_time_en": "Mornings for the full breakfast and bakery selection",
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/boquetebakerycafe/",
+   "https://www.degustapanama.com/panama/restaurante/boquete-bakery-cafe_100893.html",
+   "https://www.degustapanama.com/panama/restaurante/boquete-bakery-cafe_100893/menu",
+   "https://www.facebook.com/boquetebakery/"
+  ],
+  "best_time": {
+   "busiest": "Sat-Sun, 9 AM-12 PM",
+   "busiest_note_en": "Weekend brunch is the peak",
+   "easy": "Weekday mornings",
+   "easy_note_en": "Calm, easy to get a table",
+   "sweet": "Sun, 8:30-9:30 AM",
+   "sweet_note_en": "Fresh and unhurried before the brunch wave"
+  },
+  "social": {
+   "instagram": "https://www.instagram.com/boquetebakerycafe/"
+  },
+  "social_proof": "account's own post art carries the lockup 'Boquete | Clayton | Panama'; Facebook page for the same brand is located at Fort Clayton; IG post location tag 'Boquete Bakery Cafe Clayton, Panama' appears in search results",
+  "about_es": "Boquete Bakery Café es una cafetería en el barrio de Clayton, Ciudad de Panamá.",
+  "typical_spend_es": "De $7 a $19.50 por plato principal",
+  "dataset_comparison_es": "Uno de los 11 cafés en Clayton",
+  "best_time_es": "Ideal por las mañanas para disfrutar del desayuno completo y la selección de panadería",
+  "highlights_es": [
+   "Reconocido por su desayuno zoniano"
+  ],
+  "whats_good_es": [
+   "Amplia y contundente variedad de desayunos que abarca platos panameños, zonianos y venezolanos",
+   "Café traído de Boquete, junto con productos de panadería recién horneados y bagels",
+   "Un lugar práctico y familiar en Fort Clayton, con estacionamiento y servicio a domicilio"
+  ],
+  "attributes_es": [
+   "Wi-Fi",
+   "Estacionamiento",
+   "Servicio a domicilio",
+   "Menú ejecutivo/almuerzo",
+   "Acceso para personas con discapacidad",
+   "Se admiten mascotas",
+   "Sección de parrilla además del menú de panadería-cafetería"
+  ]
+ },
+ {
+  "id": "clayton-burger-grill",
+  "slug": "burger-grill",
+  "name": "Burger Grill",
+  "cuisine_en": [
+   "Burgers"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "clayton",
+  "address": "La Plaza, C. Alberto Tejada 300, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 9.0019653,
+  "lng": -79.58252949999999,
+  "phones": {
+   "call": "+507 397-8642"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "12:00",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "12:00",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "12:00",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "12:00",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "12:00",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "12:00",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "12:00",
+    "close": "8:00 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/burger-grill.jpg",
+    "alt_en": "Breaded fish plate with patacones at Burger Grill, Ciudad del Saber, Panama City",
+    "alt_es": "Pescado apanado con patacones en Burger Grill, Ciudad del Saber, Ciudad de Panama",
+    "credit_en": "Photo: @burgergrillpty",
+    "credit_url": "https://www.instagram.com/burgergrillpty/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Burgers",
+   "Casual",
+   "Family",
+   "Wings",
+   "Patacones"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "House hamburgers",
+    "description_en": "Large burgers served with fries, the main draw; some versions add mushrooms and mozzarella sticks.",
+    "price": null,
+    "popular": true,
+    "description_es": "Hamburguesas grandes servidas con papas fritas, el gran atractivo; algunas versiones incluyen champiñones y palitos de mozzarella."
+   },
+   {
+    "name": "Patacon de carne",
+    "description_en": "Fried green-plantain patacon topped with about 200g of beef.",
+    "price": null,
+    "popular": false,
+    "description_es": "Patacón de plátano verde frito cubierto con unos 200g de carne de res."
+   },
+   {
+    "name": "Wings",
+    "description_en": "Chicken wings.",
+    "price": null,
+    "popular": false,
+    "description_es": "Alitas de pollo."
+   },
+   {
+    "name": "Salads",
+    "description_en": "Salad options for lighter orders.",
+    "price": null,
+    "popular": false,
+    "description_es": "Opciones de ensaladas para pedidos más ligeros."
+   }
+  ],
+  "about_en": "Burger Grill is a Burgers restaurant in the Clayton neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for House hamburgers"
+  ],
+  "whats_good_en": [
+   "Generously sized burgers with substantial fries",
+   "Calm food-court setting with prompt service",
+   "Broad grill menu beyond burgers (patacones, chicken, fish, salads)"
+  ],
+  "typical_spend_en": null,
+  "dataset_comparison_en": null,
+  "attributes_en": [
+   "Located in the La Plaza de Ciudad del Saber food court",
+   "Casual counter / food-court seating",
+   "Combo plates (burger, fries, soda)"
+  ],
+  "best_time_en": null,
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/burgergrillpty/",
+   "https://www.degustapanama.com/panama/restaurante/burger-and-grill_103446.html",
+   "https://www.degustapanama.com/panama/restaurante/burger-grill_103446/menu",
+   "https://www.facebook.com/burgersandgrillpty/"
+  ],
+  "best_time": {
+   "busiest": "Fri-Sat evenings",
+   "busiest_note_en": "Weekend nights draw the crowd",
+   "easy": "Weekday lunch",
+   "easy_note_en": "Quick, easy seat",
+   "sweet": "Thu, 6-7 PM",
+   "sweet_note_en": "Early dinner before it fills"
+  },
+  "social": {
+   "instagram": "https://www.instagram.com/burgergrillpty/"
+  },
+  "social_proof": "posts state 'Ubicanos en: La Plaza - Ciudad del Saber', matching the row's Degusta address (La Plaza Ciudad del Saber, Clayton); recent post tags @laplaza_cds. Sister handle @burgerandgrillpty is empty/inactive",
+  "about_es": "Burger Grill es un restaurante de hamburguesas en el barrio de Clayton, en Ciudad de Panamá.",
+  "highlights_es": [
+   "Reconocido por sus hamburguesas de la casa"
+  ],
+  "whats_good_es": [
+   "Hamburguesas generosas acompañadas de abundantes papas fritas",
+   "Ambiente tranquilo de food court con servicio rápido",
+   "Menú de parrilla amplio que va más allá de las hamburguesas (patacones, pollo, pescado, ensaladas)"
+  ],
+  "attributes_es": [
+   "Ubicado en el food court de La Plaza de Ciudad del Saber",
+   "Mesas informales tipo food court",
+   "Combos (hamburguesa, papas fritas, refresco)"
+  ]
+ },
+ {
+  "id": "clayton-cerveceria-tres-gatos-clayton",
+  "slug": "cerveceria-tres-gatos-clayton",
+  "name": "Cervecería Tres Gatos (Clayton)",
+  "cuisine_en": [
+   "Bar"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "clayton",
+  "address": "B, casa, C. al Hospital 470, Panama City, Panamá Province, Panama",
+  "address_note_en": "",
+  "lat": 9.002518,
+  "lng": -79.5740876,
+  "phones": {},
+  "hours": [],
+  "photos": [
+   {
+    "url": "/venues/cerveceria-tres-gatos-clayton.jpg",
+    "alt_en": "Burger with fries at Cerveceria Tres Gatos, Clayton, Panama City",
+    "alt_es": "Hamburguesa con papas fritas en Cerveceria Tres Gatos, Clayton, Ciudad de Panama",
+    "credit_en": "Photo: @3gatoscerveceria",
+    "credit_url": "https://www.instagram.com/3gatoscerveceria/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Bar",
+   "Craft-beer"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "House craft beers",
+    "description_en": "Rotating in-house styles including stout, lager, and pilsner.",
+    "price": null,
+    "popular": true,
+    "description_es": "Estilos rotativos de elaboración propia, incluyendo stout, lager y pilsner."
+   },
+   {
+    "name": "Ciders (sidras)",
+    "description_en": "Cider options alongside the beer.",
+    "price": null,
+    "popular": false,
+    "description_es": "Opciones de sidra junto a las cervezas."
+   },
+   {
+    "name": "Snacks from Boquete Bakery",
+    "description_en": "Limited food brought in from Boquete Bakery.",
+    "price": null,
+    "popular": false,
+    "description_es": "Comida limitada traída de Boquete Bakery."
+   }
+  ],
+  "about_en": "Cervecería Tres Gatos (Clayton) is a bar in the Clayton neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for House craft beers"
+  ],
+  "whats_good_en": [
+   "Rotating line-up of Panamanian craft beers brewed in-house",
+   "Small, homely taproom with friendly owners and front parking"
+  ],
+  "typical_spend_en": null,
+  "dataset_comparison_en": null,
+  "attributes_en": [
+   "Craft brewery / taproom",
+   "House beers plus ciders",
+   "Limited food (Boquete Bakery items)",
+   "Cards and cash accepted",
+   "Parking at front",
+   "Average spend around $17 per person",
+   "Also has an El Cangrejo location"
+  ],
+  "best_time_en": null,
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/3gatoscerveceria/",
+   "https://www.degustapanama.com/panama/restaurante/cerveceria-tres-gatos-clayton_109336.html",
+   "https://cerveceria3gatos.com/",
+   "https://untappd.com/Cerveceria3Gatos"
+  ],
+  "best_time": {
+   "busiest": "Thu-Sat, 9 PM-late",
+   "busiest_note_en": "Late-evening weekend buzz",
+   "easy": "Tue-Wed nights",
+   "easy_note_en": "Quieter, easy seat at the bar",
+   "sweet": "Fri, 7-8 PM",
+   "sweet_note_en": "Lively but before the late rush"
+  },
+  "social": {
+   "instagram": "https://www.instagram.com/3gatoscerveceria/"
+  },
+  "social_proof": "account's own post DAjT0q1SIZp: 'Cerveceria 3 Gatos Clayton te invita a una noche inolvidable'; bio: craft brewery taproom with 3 sucursales in Panama (brand account covering the Clayton location)",
+  "about_es": "Cervecería Tres Gatos (Clayton) es un bar en el barrio de Clayton, en Ciudad de Panamá.",
+  "highlights_es": [
+   "Reconocido por sus cervezas artesanales de la casa"
+  ],
+  "whats_good_es": [
+   "Selección rotativa de cervezas artesanales panameñas elaboradas en el local",
+   "Un taproom pequeño y acogedor, con dueños amables y estacionamiento al frente"
+  ],
+  "attributes_es": [
+   "Cervecería artesanal / taproom",
+   "Cervezas de la casa y sidras",
+   "Oferta de comida limitada (productos de Boquete Bakery)",
+   "Aceptan tarjetas y efectivo",
+   "Estacionamiento al frente",
+   "Gasto promedio de unos $17 por persona",
+   "También cuenta con una sede en El Cangrejo"
+  ]
+ },
+ {
+  "id": "clayton-ciao-ragazzi-clayton",
+  "slug": "ciao-ragazzi-clayton",
+  "name": "Ciao Ragazzi",
+  "cuisine_en": [
+   "Italian"
+  ],
+  "cuisine_es": [],
+  "price_tier": 2,
+  "neighborhood_slug": "clayton",
+  "address": "Clayton Mall, C. al Hospital, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 9.0030463,
+  "lng": -79.5734313,
+  "phones": {
+   "call": "+507 209-5619"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "12:00",
+    "close": "9:30 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "12:00",
+    "close": "9:30 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "12:00",
+    "close": "9:30 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "12:00",
+    "close": "9:30 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "12:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "12:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "12:00",
+    "close": "9:30 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/ciao-ragazzi-clayton.jpg",
+    "alt_en": "Shrimp rigatoni at Ciao Ragazzi, Clayton, Panama City",
+    "alt_es": "Rigatoni con camarones en Ciao Ragazzi, Clayton, Ciudad de Panama",
+    "credit_en": "Photo: @ciaoragazzigroup",
+    "credit_url": "https://www.instagram.com/ciaoragazzigroup/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Italian",
+   "Gluten-free options"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Margherita",
+    "description_en": "Tomato sauce and mozzarella on artisan dough",
+    "price": 10,
+    "popular": true,
+    "description_es": "Salsa de tomate y mozzarella sobre masa artesanal"
+   },
+   {
+    "name": "Montanara",
+    "description_en": "Burrata, mortadella and pistachio",
+    "price": 19,
+    "popular": true,
+    "description_es": "Burrata, mortadela y pistacho"
+   },
+   {
+    "name": "Emilia",
+    "description_en": "Prosciutto, arugula and parmigiano",
+    "price": 16,
+    "popular": false,
+    "description_es": "Prosciutto, arúgula y parmesano"
+   },
+   {
+    "name": "Spaghetti Carbonara",
+    "description_en": "Egg cream, bacon and cheese",
+    "price": 14,
+    "popular": true,
+    "description_es": "Crema de huevo, bacon y queso"
+   },
+   {
+    "name": "Fettuccine Alba",
+    "description_en": "Fresh mushrooms and truffle",
+    "price": 19,
+    "popular": false,
+    "description_es": "Champiñones frescos y trufa"
+   },
+   {
+    "name": "Risotto ai Frutti di Mare",
+    "description_en": "Clams, shrimp and mussels",
+    "price": 20,
+    "popular": false,
+    "description_es": "Almejas, camarones y mejillones"
+   }
+  ],
+  "about_en": "Ciao Ragazzi is an Italian restaurant in the Clayton neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Margherita"
+  ],
+  "whats_good_en": [
+   "Authentic Italian pizzas with artisan dough",
+   "Fresh pasta and risotto",
+   "Extensive gluten-free options across the menu"
+  ],
+  "typical_spend_en": "$10 to $20 a main",
+  "dataset_comparison_en": "One of the few Italian kitchens in Clayton",
+  "attributes_en": [
+   "Italian chain since 2014 (Obarrio, Hilton/Ave Balboa, Costa del Este, Clayton, Coronado, Brisas del Golf)",
+   "Gluten-free menu",
+   "Family-friendly"
+  ],
+  "best_time_en": "Dinner",
+  "notable_mention_en": null,
+  "dietary_en": [
+   "Gluten-free options"
+  ],
+  "sources": [
+   "https://www.instagram.com/ciaoragazzigroup/",
+   "https://ciaoragazzigroup.com/menu/",
+   "https://www.tripadvisor.com/Restaurant_Review-g294480-d7998464-Reviews-Ciao_Ragazzi-Panama_City_Panama_Province.html"
+  ],
+  "best_time": {
+   "busiest": "Fri-Sat, 8-10 PM",
+   "busiest_note_en": "Weekend dinner is busiest",
+   "easy": "Mon-Tue evenings",
+   "easy_note_en": "Relaxed, easy to seat",
+   "sweet": "Thu, 7 PM",
+   "sweet_note_en": "Dinner buzz without the wait"
+  },
+  "social": {
+   "instagram": "https://www.instagram.com/ciaoragazzigroup/"
+  },
+  "social_proof": "linked from official site ciaoragazzigroup.com (batch website), which lists the Clayton location among its branches",
+  "about_es": "Ciao Ragazzi es un restaurante italiano en el barrio de Clayton, en Ciudad de Panamá.",
+  "typical_spend_es": "De $10 a $20 por un plato principal",
+  "dataset_comparison_es": "Una de las pocas cocinas italianas en Clayton",
+  "best_time_es": "Cena",
+  "highlights_es": [
+   "Reconocido por su Margherita"
+  ],
+  "whats_good_es": [
+   "Pizzas italianas auténticas con masa artesanal",
+   "Pasta fresca y risotto",
+   "Amplias opciones sin gluten en todo el menú"
+  ],
+  "attributes_es": [
+   "Cadena italiana desde 2014 (Obarrio, Hilton/Ave Balboa, Costa del Este, Clayton, Coronado, Brisas del Golf)",
+   "Menú sin gluten",
+   "Ideal para toda la familia"
+  ]
+ },
+ {
+  "id": "clayton-clayton-perk-cafe",
+  "slug": "clayton-perk-cafe",
+  "name": "Clayton Perk Café",
+  "cuisine_en": [
+   "Cafe"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "clayton",
+  "address": "C. Carlos Lara 159, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9971863,
+  "lng": -79.5805586,
+  "phones": {},
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "7:00 AM",
+    "close": "6:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "7:00 AM",
+    "close": "6:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "7:00 AM",
+    "close": "6:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "7:00 AM",
+    "close": "6:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "7:00 AM",
+    "close": "6:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "7:00 AM",
+    "close": "12:00 PM, 4:00 – 8:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "7:00 AM",
+    "close": "12:00 PM"
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Cafe",
+   "Brunch",
+   "Dog-friendly",
+   "Work-friendly"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Executive set lunch (menú ejecutivo)",
+    "description_en": "Weekday fixed lunch of the day.",
+    "price": null,
+    "popular": false,
+    "description_es": "Menú fijo del día para el almuerzo entre semana."
+   },
+   {
+    "name": "Breakfasts",
+    "description_en": "Morning plates served through the week.",
+    "price": null,
+    "popular": false,
+    "description_es": "Platos de desayuno servidos durante toda la semana."
+   },
+   {
+    "name": "Coffee",
+    "description_en": "Cafe coffee menu.",
+    "price": null,
+    "popular": false,
+    "description_es": "Menú de café de la cafetería."
+   }
+  ],
+  "about_en": "Clayton Perk Café is a cafe in the Clayton neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Executive set lunch (menú ejecutivo)"
+  ],
+  "whats_good_en": [],
+  "typical_spend_en": null,
+  "dataset_comparison_en": "One of 11 Cafe spots in Clayton",
+  "attributes_en": [
+   "Weekday executive set lunch",
+   "Breakfast, lunch and dinner service",
+   "Coffee and wine",
+   "Parking",
+   "Wi-Fi",
+   "Dog-friendly",
+   "Hours: Mon-Fri 7am-6pm, Sat 7am-12pm, closed Sunday"
+  ],
+  "best_time_en": "Weekday mornings for breakfast and coffee; weekday midday for the executive lunch",
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.degustapanama.com/panama/restaurante/clayton-perk-cafe_108887.html",
+   "https://www.instagram.com/claytonperk_cafe/"
+  ],
+  "best_time": {
+   "busiest": "Sat-Sun, 9 AM-12 PM",
+   "busiest_note_en": "Weekend brunch is the peak",
+   "easy": "Weekday mornings",
+   "easy_note_en": "Calm, easy to get a table",
+   "sweet": "Sun, 8:30-9:30 AM",
+   "sweet_note_en": "Fresh and unhurried before the brunch wave"
+  },
+  "social": {
+   "instagram": "https://www.instagram.com/claytonperk_cafe/"
+  },
+  "social_proof": "posts place it in La Plaza, Ciudad del Saber, Clayton (reposted by @laplazacds; own brunch post gives address 'Ciudad del Saber, Calle Carlos Lara'), matching the venue's Clayton listing",
+  "about_es": "Clayton Perk Café es una cafetería en el barrio de Clayton, en la Ciudad de Panamá.",
+  "dataset_comparison_es": "Uno de los 11 cafés de Clayton",
+  "best_time_es": "Mañanas de semana para desayunar y tomar café; mediodía de semana para el almuerzo ejecutivo",
+  "highlights_es": [
+   "Conocido por su menú ejecutivo"
+  ],
+  "attributes_es": [
+   "Menú ejecutivo de almuerzo entre semana",
+   "Servicio de desayuno, almuerzo y cena",
+   "Café y vino",
+   "Estacionamiento",
+   "Wi-Fi",
+   "Admite mascotas",
+   "Horario: lunes a viernes de 7am a 6pm, sábado de 7am a 12pm, cerrado los domingos"
+  ]
+ },
+ {
+  "id": "clayton-claytons-bakery-panaderia",
+  "slug": "claytons-bakery-panaderia",
+  "name": "Clayton’s Bakery ( Panaderia)",
+  "cuisine_en": [
+   "Cafe"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "clayton",
+  "address": "Clayton Albrook 133796-2, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.994936000000001,
+  "lng": -79.5587303,
+  "phones": {
+   "call": "+507 6151-9288"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "6:30 AM",
+    "close": "7:30 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "6:30 AM",
+    "close": "7:30 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "6:30 AM",
+    "close": "7:30 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "6:30 AM",
+    "close": "7:30 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "6:30 AM",
+    "close": "7:30 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "7:00 AM",
+    "close": "6:30 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "9:00 AM",
+    "close": "12:00 PM"
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Cafe",
+   "Brunch"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Clayton’s Bakery ( Panaderia) is a Cafe bakery in the Clayton neighborhood of Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "typical_spend_en": null,
+  "dataset_comparison_en": "One of 11 Cafe spots in Clayton",
+  "attributes_en": [
+   "Bakery / panadería",
+   "Instagram-only presence found"
+  ],
+  "best_time_en": null,
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/claytonsbakerypty/"
+  ],
+  "best_time": {
+   "busiest": "Sat-Sun, 9 AM-12 PM",
+   "busiest_note_en": "Weekend brunch is the peak",
+   "easy": "Weekday mornings",
+   "easy_note_en": "Calm, easy to get a table",
+   "sweet": "Sun, 8:30-9:30 AM",
+   "sweet_note_en": "Fresh and unhurried before the brunch wave"
+  },
+  "social": {
+   "instagram": "https://www.instagram.com/claytonsbakerypty/"
+  },
+  "social_proof": "IG bio 'Panaderia en Clayton, Panama'; directory listings place it in Clayton/Albrook, Plaza Embassy Club",
+  "about_es": "Clayton’s Bakery (Panadería) es una cafetería-panadería en el barrio de Clayton, en la Ciudad de Panamá.",
+  "dataset_comparison_es": "Uno de los 11 cafés de Clayton",
+  "attributes_es": [
+   "Panadería",
+   "Solo se encontró presencia en Instagram"
+  ]
+ },
+ {
+  "id": "clayton-embassy-club-cafe",
+  "slug": "embassy-club-cafe",
+  "name": "Embassy Club Cafe",
+  "cuisine_en": [
+   "Cafe"
+  ],
+  "cuisine_es": [],
+  "price_tier": 2,
+  "neighborhood_slug": "clayton",
+  "address": "XCVQ+4RX, Panama City, Panamá Province, Panama",
+  "address_note_en": "",
+  "lat": 8.9928738,
+  "lng": -79.560384,
+  "phones": {},
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "9:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "9:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "9:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "9:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "9:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "9:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "9:00 AM",
+    "close": "8:00 PM"
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Cafe",
+   "Brunch"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Nachos",
+    "description_en": "Shared nacho plate.",
+    "price": null,
+    "popular": false,
+    "description_es": "Plato de nachos para compartir."
+   },
+   {
+    "name": "Fish sticks",
+    "description_en": "Breaded fried fish sticks.",
+    "price": null,
+    "popular": false,
+    "description_es": "Palitos de pescado empanizados y fritos."
+   },
+   {
+    "name": "Fried calamari",
+    "description_en": "Deep-fried squid.",
+    "price": null,
+    "popular": false,
+    "description_es": "Calamares fritos."
+   },
+   {
+    "name": "Natural fruit smoothies",
+    "description_en": "Fresh fruit smoothies.",
+    "price": null,
+    "popular": false,
+    "description_es": "Batidos de fruta fresca."
+   }
+  ],
+  "about_en": "Embassy Club Cafe is a residential-complex amenity cafe in the Clayton neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Nachos"
+  ],
+  "whats_good_en": [],
+  "typical_spend_en": null,
+  "dataset_comparison_en": "One of 11 Cafe spots in Clayton",
+  "attributes_en": [
+   "Amenity cafe of the Embassy Club residential complex, Clayton",
+   "Casual menu: nachos, calamari, fish sticks, fresh smoothies",
+   "Near Albrook Mall",
+   "Access may be resident/guest oriented - verify public access"
+  ],
+  "best_time_en": null,
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "http://www.embassyclub.com.pa/index.php/homepage.html",
+   "https://www.instagram.com/embassyclub_pa/",
+   "https://www.tripadvisor.com/Restaurant_Review-g294480-d12396141-Reviews-Embassy_Club_Cafe-Panama_City_Panama_Province.html"
+  ],
+  "best_time": {
+   "busiest": "Sat-Sun, 9 AM-12 PM",
+   "busiest_note_en": "Weekend brunch is the peak",
+   "easy": "Weekday mornings",
+   "easy_note_en": "Calm, easy to get a table",
+   "sweet": "Sun, 8:30-9:30 AM",
+   "sweet_note_en": "Fresh and unhurried before the brunch wave"
+  },
+  "about_es": "Embassy Club Cafe es una cafetería dentro de un complejo residencial en el barrio de Clayton, en la Ciudad de Panamá.",
+  "dataset_comparison_es": "Uno de los 11 cafés de Clayton",
+  "highlights_es": [
+   "Conocido por sus Nachos"
+  ],
+  "attributes_es": [
+   "Cafetería del complejo residencial Embassy Club, en Clayton",
+   "Menú informal: nachos, calamares, dedos de pescado y smoothies frescos",
+   "Cerca de Albrook Mall",
+   "El acceso podría estar limitado a residentes o invitados; verificar si es de acceso público"
+  ]
+ },
+ {
+  "id": "clayton-farmhouse-clayton",
+  "slug": "farmhouse-clayton",
+  "name": "farmhouse",
+  "cuisine_en": [
+   "International"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "clayton",
+  "address": "Local 5, Plaza Clayton Mall, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 9.003859,
+  "lng": -79.573043,
+  "phones": {},
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "8:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "8:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "8:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "8:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "8:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "8:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "8:00 AM",
+    "close": "9:00 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/farmhouse-clayton.jpg",
+    "alt_en": "Chicken and roasted-vegetable bowl at farmhouse, Clayton, Panama City",
+    "alt_es": "Bowl de pollo y vegetales rostizados en farmhouse, Clayton, Ciudad de Panama",
+    "credit_en": "Photo: @somosfarmhouse",
+    "credit_url": "https://www.instagram.com/somosfarmhouse/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "International"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "farmhouse is an International unverified in the Clayton neighborhood of Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "typical_spend_en": null,
+  "dataset_comparison_en": null,
+  "attributes_en": [
+   "No online footprint found",
+   "No website or phone in the source record",
+   "Existence and category unconfirmed"
+  ],
+  "best_time_en": null,
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/somosfarmhouse/"
+  ],
+  "best_time": {
+   "busiest": "Fri-Sat, 8-10 PM",
+   "busiest_note_en": "Weekend dinner is busiest",
+   "easy": "Mon-Tue evenings",
+   "easy_note_en": "Relaxed, easy to seat",
+   "sweet": "Thu, 7 PM",
+   "sweet_note_en": "Dinner buzz without the wait"
+  },
+  "social": {
+   "instagram": "https://www.instagram.com/somosfarmhouse/"
+  },
+  "social_proof": "@somosfarmhouse ('Eat your greens'); own post announces opening its third location in Clayton and the bio lists Clayton among its locations",
+  "about_es": "farmhouse es un restaurante internacional sin verificar en el barrio de Clayton, en la Ciudad de Panamá.",
+  "attributes_es": [
+   "No se encontró presencia en línea",
+   "No hay sitio web ni teléfono en el registro fuente",
+   "Existencia y categoría sin confirmar"
+  ]
+ },
+ {
+  "id": "clayton-fat-lady",
+  "slug": "fat-lady",
+  "name": "FAT LADY",
+  "cuisine_en": [
+   "International"
+  ],
+  "cuisine_es": [],
+  "price_tier": 1,
+  "neighborhood_slug": "clayton",
+  "address": "XCVV+G5V Av Clayton, Clayton Albrook 110776-4, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9938646,
+  "lng": -79.5571339,
+  "phones": {
+   "call": "+507 6550-5152"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "11:00 AM",
+    "close": "10:30 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "11:00 AM",
+    "close": "10:30 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "11:00 AM",
+    "close": "10:30 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "11:00 AM",
+    "close": "10:30 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "11:00 AM",
+    "close": "10:30 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "11:00 AM",
+    "close": "10:30 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "11:00 AM",
+    "close": "10:30 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/fat-lady.jpg",
+    "alt_en": "Double cheeseburger at Fat Lady, Clayton, Panama City",
+    "alt_es": "Hamburguesa doble con queso en Fat Lady, Clayton, Ciudad de Panama",
+    "credit_en": "Photo: @fatladypanama",
+    "credit_url": "https://www.instagram.com/fatladypanama/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "International",
+   "Dog-friendly"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Fat Lady Burger",
+    "description_en": "The house burger and chef's pick",
+    "price": 6.95,
+    "popular": true,
+    "description_es": "La hamburguesa de la casa y favorita del chef"
+   },
+   {
+    "name": "Hippo Cheeseburger",
+    "description_en": "Cheeseburger, one of the most-ordered items",
+    "price": 6.75,
+    "popular": true,
+    "description_es": "Cheeseburger, uno de los platos más pedidos"
+   },
+   {
+    "name": "Bewy Burger",
+    "description_en": "Double patty with bacon",
+    "price": 9.95,
+    "popular": false,
+    "description_es": "Doble carne con tocineta"
+   },
+   {
+    "name": "Fat Lady Burger XXL",
+    "description_en": "Triple-patty version of the house burger",
+    "price": 12.95,
+    "popular": false,
+    "description_es": "Versión triple de la hamburguesa de la casa"
+   },
+   {
+    "name": "Skinny Burger",
+    "description_en": "Bunless burger option",
+    "price": 9.95,
+    "popular": false,
+    "description_es": "Opción de hamburguesa sin pan"
+   },
+   {
+    "name": "Lady Fingers",
+    "description_en": "Crispy chicken strips",
+    "price": 11.95,
+    "popular": false,
+    "description_es": "Tiras de pollo crocantes"
+   }
+  ],
+  "about_en": "FAT LADY is an International restaurant in the Clayton neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Fat Lady Burger"
+  ],
+  "whats_good_en": [
+   "American-style burgers with combo meals (fries plus soda)",
+   "Casual seating with board games on the tables",
+   "Dog-friendly with parking"
+  ],
+  "typical_spend_en": "$7 to $13 a burger",
+  "dataset_comparison_en": null,
+  "attributes_en": [
+   "Food truck / casual",
+   "Parking",
+   "Dog friendly",
+   "Board games",
+   "Takeout and delivery (Uber Eats)",
+   "Open daily"
+  ],
+  "best_time_en": "Open daily, 11:00am to 10:30pm",
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.degustapanama.com/panama/restaurante/fat-lady-clayton_108569/menu",
+   "https://www.instagram.com/fatladypanama/"
+  ],
+  "best_time": {
+   "busiest": "Fri-Sat, 8-10 PM",
+   "busiest_note_en": "Weekend dinner is busiest",
+   "easy": "Mon-Tue evenings",
+   "easy_note_en": "Relaxed, easy to seat",
+   "sweet": "Thu, 7 PM",
+   "sweet_note_en": "Dinner buzz without the wait"
+  },
+  "price_source": "menu",
+  "social": {
+   "instagram": "https://www.instagram.com/fatladypanama/"
+  },
+  "social_proof": "profile bio lists 'Costa del Este 6997-5152 Clayton 6550-5152'; Uber Eats lists Fat Lady (Clayton) in Panama City",
+  "about_es": "FAT LADY es un restaurante internacional en el barrio de Clayton, en la Ciudad de Panamá.",
+  "typical_spend_es": "De $7 a $13 por hamburguesa",
+  "best_time_es": "Abierto todos los días, de 11:00am a 10:30pm",
+  "highlights_es": [
+   "Conocido por su Fat Lady Burger"
+  ],
+  "whats_good_es": [
+   "Hamburguesas estilo americano con combos (papas fritas más soda)",
+   "Ambiente informal con juegos de mesa en las mesas",
+   "Admite mascotas y cuenta con estacionamiento"
+  ],
+  "attributes_es": [
+   "Food truck / informal",
+   "Estacionamiento",
+   "Admite mascotas",
+   "Juegos de mesa",
+   "Para llevar y entrega a domicilio (Uber Eats)",
+   "Abierto todos los días"
+  ]
+ },
+ {
+  "id": "clayton-fuego-y-sabor",
+  "slug": "fuego-y-sabor",
+  "name": "Fuego y Sabor",
+  "cuisine_en": [
+   "Steakhouse"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "clayton",
+  "address": "Fuego y Sabor La plaza de, Local F11, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 9.002214200000001,
+  "lng": -79.5824325,
+  "phones": {
+   "call": "+507 6425-6461"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "11:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "11:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "11:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "11:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "11:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "11:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "11:00 AM",
+    "close": "7:00 PM"
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Steakhouse"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Grilled cuts (parrilla)",
+    "description_en": "Grilled beef cuts, the core of the menu.",
+    "price": null,
+    "popular": true,
+    "description_es": "Cortes de carne a la parrilla, el corazón del menú."
+   },
+   {
+    "name": "Burgers",
+    "description_en": "Grill-house burgers.",
+    "price": null,
+    "popular": true,
+    "description_es": "Hamburguesas de parrilla."
+   },
+   {
+    "name": "Grilled sides",
+    "description_en": "Fresh and crisp grilled accompaniments.",
+    "price": null,
+    "popular": false,
+    "description_es": "Acompañamientos frescos y crocantes a la parrilla."
+   }
+  ],
+  "about_en": "Fuego y Sabor is a Steakhouse restaurant in the Clayton neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Grilled cuts (parrilla)"
+  ],
+  "whats_good_en": [
+   "Fire-and-grill focus on juicy cuts and burgers",
+   "Casual parrilla positioning around seasoning and grilled flavor",
+   "Available for delivery/online ordering"
+  ],
+  "typical_spend_en": null,
+  "dataset_comparison_en": "One of the few Steakhouse kitchens in Clayton",
+  "attributes_en": [
+   "Parrilla / grill concept",
+   "Online ordering and delivery (alacarta / Uber Eats)",
+   "Corrected website: use Instagram @grill.fuegoysabor, not fuegoysabor.net"
+  ],
+  "best_time_en": null,
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/fuegoysabor_pty/",
+   "https://www.instagram.com/grill.fuegoysabor/",
+   "https://www.facebook.com/61568552351350",
+   "https://grillfuegoysabor.alacarta.online/"
+  ],
+  "best_time": {
+   "busiest": "Fri-Sat, 8-10 PM",
+   "busiest_note_en": "Prime weekend dinner service",
+   "easy": "Tue-Wed",
+   "easy_note_en": "Quieter room, easier reservation",
+   "sweet": "Thu, 7:30 PM",
+   "sweet_note_en": "Full service, calmer pace"
+  },
+  "social": {
+   "instagram": "https://www.instagram.com/fuegoysabor_pty/"
+  },
+  "social_proof": "venue's own website fuegoysabor.net lists handle @fuegoysabor_pty and address 'La Plaza, Ciudad del Saber'; IG bio also reads 'La Plaza - Ciudad del Saber' (Clayton)",
+  "about_es": "Fuego y Sabor es un restaurante Steakhouse en el barrio de Clayton, en la Ciudad de Panamá.",
+  "dataset_comparison_es": "Una de las pocas cocinas Steakhouse en Clayton",
+  "highlights_es": [
+   "Conocido por sus cortes a la parrilla"
+  ],
+  "whats_good_es": [
+   "Enfocado en el fuego y la parrilla, con cortes jugosos y hamburguesas",
+   "Propuesta de parrilla casual centrada en el sazón y el sabor a la brasa",
+   "Disponible para delivery/pedidos en línea"
+  ],
+  "attributes_es": [
+   "Concepto de parrilla / grill",
+   "Pedidos en línea y delivery (alacarta / Uber Eats)",
+   "Sitio web corregido: usa Instagram @grill.fuegoysabor, no fuegoysabor.net"
+  ]
+ },
+ {
+  "id": "clayton-gamboa-baking-company",
+  "slug": "gamboa-baking-company",
+  "name": "Gamboa Baking Company",
+  "cuisine_en": [
+   "Cafe"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "clayton",
+  "address": "C. Jorge Gil 215, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 9.003226699999999,
+  "lng": -79.58408790000001,
+  "phones": {},
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "7:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "7:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "7:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "7:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "7:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "7:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "7:00 AM",
+    "close": "9:00 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/gamboa-baking-company.jpg",
+    "alt_en": "Pizza, coffee and pastries at Gamboa Baking Company, Clayton, Panama City",
+    "alt_es": "Pizza, cafe y pasteles en Gamboa Baking Company, Clayton, Ciudad de Panama",
+    "credit_en": "Photo: @gamboabakingco",
+    "credit_url": "https://www.instagram.com/gamboabakingco/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Cafe",
+   "Brunch",
+   "Outdoor"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Artisan sourdough breads",
+    "description_en": "Breads built on long-fermented pre-ferments (sourdough, biga, poolish)",
+    "price": null,
+    "popular": true,
+    "description_es": "Panes elaborados con prefermentos de larga fermentación (masa madre, biga, poolish)"
+   },
+   {
+    "name": "Spicy cheese bread",
+    "description_en": "Signature spicy cheese bread from the US-trained baker",
+    "price": null,
+    "popular": true,
+    "description_es": "El pan de queso picante insignia del panadero formado en EE.UU."
+   },
+   {
+    "name": "Pizza",
+    "description_en": "Bakery-made pizzas",
+    "price": null,
+    "popular": false,
+    "description_es": "Pizzas hechas en la panadería"
+   },
+   {
+    "name": "Sandwiches and salads",
+    "description_en": "Emparedados and ensaladas alongside the bakery menu",
+    "price": null,
+    "popular": false,
+    "description_es": "Emparedados y ensaladas que complementan el menú de panadería"
+   },
+   {
+    "name": "Pastries and breakfast",
+    "description_en": "Panaderia and breakfast items with coffee",
+    "price": null,
+    "popular": false,
+    "description_es": "Productos de panadería y desayunos con café"
+   }
+  ],
+  "about_en": "Gamboa Baking Company is a cafe in the Clayton neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Artisan sourdough breads"
+  ],
+  "whats_good_en": [
+   "Artisan long-fermented breads and pastries",
+   "US-trained baker (Brian Winz) with a craft focus",
+   "Relaxed City of Knowledge cafe with indoor seating and picnic tables outside"
+  ],
+  "typical_spend_en": null,
+  "dataset_comparison_en": "One of 11 Cafe spots in Clayton",
+  "attributes_en": [
+   "Artisan bakery",
+   "Coffee",
+   "Reservations (Riservi)",
+   "Online ordering",
+   "Indoor and outdoor seating",
+   "Open daily"
+  ],
+  "best_time_en": "Open daily from 7:00am (Mon to about 5:30pm; Tue-Thu and Sun to 9:00pm; Fri-Sat to 11:00pm); best for breakfast and fresh morning bread",
+  "notable_mention_en": "Highlighted in a RoamRoutes 'best bakeries in Panama City' guide.",
+  "dietary_en": [],
+  "sources": [
+   "https://www.gamboabakingco.com/",
+   "https://www.instagram.com/gamboabakingco/",
+   "https://www.roamroutes.com/post/the-best-bakeries-in-panama-city-panama-a-foodie-s-guide-to-must-try-pastries-and-breads"
+  ],
+  "best_time": {
+   "busiest": "Sat-Sun, 9 AM-12 PM",
+   "busiest_note_en": "Weekend brunch is the peak",
+   "easy": "Weekday mornings",
+   "easy_note_en": "Calm, easy to get a table",
+   "sweet": "Sun, 8:30-9:30 AM",
+   "sweet_note_en": "Fresh and unhurried before the brunch wave"
+  },
+  "social": {
+   "instagram": "https://www.instagram.com/gamboabakingco/"
+  },
+  "social_proof": "official site gamboabakingco.com (batch website) links this handle in header and footer; site gives address Ciudad del Saber, Edificio 215 (Clayton area)",
+  "about_es": "Gamboa Baking Company es una cafetería en el barrio de Clayton, en la Ciudad de Panamá.",
+  "dataset_comparison_es": "Una de las 11 cafeterías en Clayton",
+  "best_time_es": "Abierto todos los días desde las 7:00am (lun hasta cerca de las 5:30pm; mar-jue y dom hasta las 9:00pm; vie-sáb hasta las 11:00pm); ideal para el desayuno y el pan recién horneado por la mañana",
+  "notable_mention_es": "Destacado en una guía de RoamRoutes sobre 'las mejores panaderías de la Ciudad de Panamá'.",
+  "highlights_es": [
+   "Conocido por sus panes artesanales de masa madre"
+  ],
+  "whats_good_es": [
+   "Panes y repostería artesanales de fermentación larga",
+   "Panadero formado en EE.UU. (Brian Winz) con un enfoque artesanal",
+   "Cafetería relajada en City of Knowledge, con mesas por dentro y mesas de picnic afuera"
+  ],
+  "attributes_es": [
+   "Panadería artesanal",
+   "Café",
+   "Reservas (Riservi)",
+   "Pedidos en línea",
+   "Mesas por dentro y por fuera",
+   "Abierto todos los días"
+  ]
+ },
+ {
+  "id": "clayton-jungle-juice",
+  "slug": "jungle-juice",
+  "name": "Jungle Juice",
+  "cuisine_en": [
+   "Bar"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "clayton",
+  "address": "La Plaza, C. Alberto Tejada, Panama City, Panamá Province, Panama",
+  "address_note_en": "",
+  "lat": 9.0021428,
+  "lng": -79.5826475,
+  "phones": {
+   "call": "+507 396-8564"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "10:30 AM",
+    "close": "8:30 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "10:30 AM",
+    "close": "8:30 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "10:30 AM",
+    "close": "8:30 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "10:30 AM",
+    "close": "8:30 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "10:30 AM",
+    "close": "8:30 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "10:30 AM",
+    "close": "8:30 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "10:30 AM",
+    "close": "8:30 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/jungle-juice.jpg",
+    "alt_en": "Grilled chicken lunch plate at Jungle Juice, Ciudad del Saber, Clayton, Panama City",
+    "alt_es": "Almuerzo de pollo a la plancha en Jungle Juice, Ciudad del Saber, Clayton, Ciudad de Panama",
+    "credit_en": "Photo: @junglejuicepty",
+    "credit_url": "https://www.instagram.com/junglejuicepty/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Bar",
+   "Vegan options",
+   "Vegetarian options",
+   "Outdoor"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Quinoa burger",
+    "description_en": "Plant-based burger built on quinoa.",
+    "price": null,
+    "popular": false,
+    "description_es": "Hamburguesa a base de plantas hecha con quinoa."
+   },
+   {
+    "name": "Lentil burger",
+    "description_en": "Plant-based burger built on lentils.",
+    "price": null,
+    "popular": false,
+    "description_es": "Hamburguesa a base de plantas hecha con lentejas."
+   },
+   {
+    "name": "Smoothies",
+    "description_en": "Blended fruit/veg smoothies, including an 'Immunity Enhancer'.",
+    "price": null,
+    "popular": true,
+    "description_es": "Batidos de frutas y vegetales, incluyendo un 'Immunity Enhancer'."
+   },
+   {
+    "name": "Chickpea salad",
+    "description_en": "Salad built around chickpeas.",
+    "price": null,
+    "popular": false,
+    "description_es": "Ensalada a base de garbanzos."
+   },
+   {
+    "name": "Bowls and wraps",
+    "description_en": "Grain/veg bowls and wraps.",
+    "price": null,
+    "popular": false,
+    "description_es": "Bowls de granos y vegetales, y wraps."
+   },
+   {
+    "name": "Soups",
+    "description_en": "Rotating soups.",
+    "price": null,
+    "popular": false,
+    "description_es": "Sopas que cambian según el día."
+   }
+  ],
+  "about_en": "Jungle Juice is a juice bar in the Clayton neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Smoothies"
+  ],
+  "whats_good_en": [
+   "Strong vegetarian/vegan-friendly line-up (veggie burgers, bowls, smoothies)",
+   "Outdoor seating on the Ciudad del Saber campus; wheelchair accessible"
+  ],
+  "typical_spend_en": null,
+  "dataset_comparison_en": null,
+  "attributes_en": [
+   "Vegetarian / vegan-friendly (some meat options)",
+   "Juice bar and healthy fast food",
+   "Local 163 (Kiwanis), Ciudad del Saber (Clayton)",
+   "Outdoor seating, wheelchair accessible",
+   "Hours roughly Mon-Sat 10:30am-8:30pm, closed Sunday"
+  ],
+  "best_time_en": null,
+  "notable_mention_en": null,
+  "dietary_en": [
+   "Vegan options",
+   "Vegetarian options"
+  ],
+  "sources": [
+   "https://www.instagram.com/junglejuicepty/",
+   "https://www.happycow.net/reviews/jungle-juice-panama-city-148393",
+   "https://www.facebook.com/myjunglejuice/",
+   "https://ciudaddelsaber.org/en/the-plaza"
+  ],
+  "best_time": {
+   "busiest": "Thu-Sat, 9 PM-late",
+   "busiest_note_en": "Late-evening weekend buzz",
+   "easy": "Tue-Wed nights",
+   "easy_note_en": "Quieter, easy seat at the bar",
+   "sweet": "Fri, 7-8 PM",
+   "sweet_note_en": "Lively but before the late rush"
+  },
+  "social": {
+   "instagram": "https://www.instagram.com/junglejuicepty/"
+  },
+  "social_proof": "bio reads 'La Plaza, Ciudad del Saber, Clayton - Lunes a domingo 11:00am-8:30pm', matching the venue's Clayton location",
+  "about_es": "Jungle Juice es un bar de jugos en el barrio de Clayton, en la Ciudad de Panamá.",
+  "highlights_es": [
+   "Conocido por sus smoothies"
+  ],
+  "whats_good_es": [
+   "Amplia oferta vegetariana y vegana (hamburguesas veggie, bowls, smoothies)",
+   "Mesas al aire libre dentro del campus de Ciudad del Saber; accesible para sillas de ruedas"
+  ],
+  "attributes_es": [
+   "Apto para vegetarianos y veganos (con algunas opciones de carne)",
+   "Bar de jugos y comida rápida saludable",
+   "Local 163 (Kiwanis), Ciudad del Saber (Clayton)",
+   "Mesas al aire libre, accesible para sillas de ruedas",
+   "Horario aproximado de lunes a sábado de 10:30am a 8:30pm, cerrado los domingos"
+  ]
+ },
+ {
+  "id": "clayton-just-pizza-en-clayton-sapore-tutto-italiano",
+  "slug": "just-pizza-en-clayton-sapore-tutto-italiano",
+  "name": "Just Pizza en Clayton - Sapore Tutto Italiano",
+  "cuisine_en": [
+   "Pizza"
+  ],
+  "cuisine_es": [],
+  "price_tier": 2,
+  "neighborhood_slug": "clayton",
+  "address": "Plaza Clayton, Calle Carrol, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 9.0054848,
+  "lng": -79.57029220000001,
+  "phones": {
+   "call": "+507 6427-8934"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "12:00",
+    "close": "9:15 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "12:00",
+    "close": "9:15 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "12:00",
+    "close": "9:15 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "12:00",
+    "close": "9:15 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "12:00",
+    "close": "9:15 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "12:00",
+    "close": "9:15 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "12:00",
+    "close": "9:15 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/just-pizza-en-clayton-sapore-tutto-italiano.jpg",
+    "alt_en": "Pepperoni pizza at Just Pizza, Clayton, Panama City",
+    "alt_es": "Pizza de pepperoni en Just Pizza, Clayton, Ciudad de Panama",
+    "credit_en": "Photo: @justpizzapanama",
+    "credit_url": "https://www.instagram.com/justpizzapanama/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Pizza",
+   "Casual",
+   "Family"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Napoletana",
+    "description_en": "Tomato, mozzarella and anchovies",
+    "price": 9.5,
+    "popular": false,
+    "description_es": "Tomate, mozzarella y anchoas"
+   },
+   {
+    "name": "Prosciutto e Funghi",
+    "description_en": "Tomato, mozzarella, ham and mushrooms",
+    "price": 10,
+    "popular": false,
+    "description_es": "Tomate, mozzarella, jamón y hongos"
+   },
+   {
+    "name": "Capricciosa",
+    "description_en": "Tomato, mozzarella, ham, mushrooms, artichokes and olives",
+    "price": 10.5,
+    "popular": false,
+    "description_es": "Tomate, mozzarella, jamón, hongos, alcachofas y aceitunas"
+   },
+   {
+    "name": "Carbonara",
+    "description_en": "Tomato, mozzarella, parmesan, bacon and egg",
+    "price": 11,
+    "popular": true,
+    "description_es": "Tomate, mozzarella, parmesano, tocineta y huevo"
+   },
+   {
+    "name": "Italiana",
+    "description_en": "Mozzarella, balsamic, prosciutto, arugula and parmesan",
+    "price": 12,
+    "popular": false,
+    "description_es": "Mozzarella, balsámico, prosciutto, arúgula y parmesano"
+   },
+   {
+    "name": "Meat Lovers",
+    "description_en": "Tomato, mozzarella, pepperoni, ham, Italian sausage and bacon",
+    "price": 12,
+    "popular": true,
+    "description_es": "Tomate, mozzarella, pepperoni, jamón, salchicha italiana y tocineta"
+   }
+  ],
+  "about_en": "Just Pizza en Clayton - Sapore Tutto Italiano is a Pizza restaurant in the Clayton neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Carbonara"
+  ],
+  "whats_good_en": [
+   "Italian-style pizzas with imported ingredients and daily slow-fermented, light dough",
+   "Build-your-own-pizza and kids options",
+   "Delivery via PedidosYa"
+  ],
+  "typical_spend_en": "$9 to $12 a pizza",
+  "dataset_comparison_en": "One of 5 Pizza spots in Clayton",
+  "attributes_en": [
+   "Imported Italian ingredients",
+   "Build-your-own pizza",
+   "Kids menu",
+   "Delivery (PedidosYa)",
+   "Open daily"
+  ],
+  "best_time_en": "Open daily, noon to 9:30pm",
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://justpizzapty.com/",
+   "https://www.instagram.com/justpizzapanama/"
+  ],
+  "best_time": {
+   "busiest": "Fri-Sat evenings",
+   "busiest_note_en": "Weekend nights draw the crowd",
+   "easy": "Weekday lunch",
+   "easy_note_en": "Quick, easy seat",
+   "sweet": "Thu, 6-7 PM",
+   "sweet_note_en": "Early dinner before it fills"
+  },
+  "price_source": "menu",
+  "social": {
+   "instagram": "https://www.instagram.com/justpizzapanama/"
+  },
+  "social_proof": "official site justpizzapty.com (batch website) links this handle in header and footer; site lists the Clayton location (P.H. Plaza Clayton Local 3)",
+  "about_es": "Just Pizza en Clayton - Sapore Tutto Italiano es un restaurante de pizza en el barrio de Clayton, en la Ciudad de Panamá.",
+  "typical_spend_es": "De $9 a $12 por pizza",
+  "dataset_comparison_es": "Uno de los 5 lugares de pizza en Clayton",
+  "best_time_es": "Abierto todos los días, de mediodía a 9:30pm",
+  "highlights_es": [
+   "Conocido por su Carbonara"
+  ],
+  "whats_good_es": [
+   "Pizzas al estilo italiano con ingredientes importados y una masa ligera de fermentación lenta preparada a diario",
+   "Opción de armar tu propia pizza y menú para niños",
+   "Entrega a domicilio por PedidosYa"
+  ],
+  "attributes_es": [
+   "Ingredientes italianos importados",
+   "Armá tu propia pizza",
+   "Menú infantil",
+   "Entrega a domicilio (PedidosYa)",
+   "Abierto todos los días"
+  ]
+ },
+ {
+  "id": "clayton-la-rana-dorada-clayton",
+  "slug": "la-rana-dorada-clayton",
+  "name": "La Rana Dorada",
+  "cuisine_en": [
+   "Bar"
+  ],
+  "cuisine_es": [],
+  "price_tier": 2,
+  "neighborhood_slug": "clayton",
+  "address": "Clayton Plaza, C. al Hospital, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 9.0029054,
+  "lng": -79.5738239,
+  "phones": {
+   "call": "+507 301-0950"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "12:00 PM",
+    "close": "12:30 AM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "12:00 PM",
+    "close": "12:30 AM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "12:00 PM",
+    "close": "12:30 AM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "12:00 PM",
+    "close": "1:30 AM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "12:00 PM",
+    "close": "3:00 AM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "12:00 PM",
+    "close": "3:00 AM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "12:00 PM",
+    "close": "12:30 AM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/la-rana-dorada-clayton.jpg",
+    "alt_en": "Artisanal pizza at La Rana Dorada, Clayton, Panama City",
+    "alt_es": "Pizza artesanal en La Rana Dorada, Clayton, Ciudad de Panama",
+    "credit_en": "Photo: @laranadorada",
+    "credit_url": "https://www.instagram.com/laranadorada/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Bar",
+   "Casual",
+   "Groups",
+   "Wings",
+   "Craft-beer"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "House craft beers",
+    "description_en": "On-site brewed styles including Blanche, Pils, Pale Ale, IPA, and Porter.",
+    "price": null,
+    "popular": true,
+    "description_es": "Estilos elaborados en el local, entre ellos Blanche, Pils, Pale Ale, IPA y Porter."
+   },
+   {
+    "name": "Rana Burger",
+    "description_en": "The house signature burger.",
+    "price": null,
+    "popular": true,
+    "description_es": "La hamburguesa insignia de la casa."
+   },
+   {
+    "name": "Pizzas",
+    "description_en": "Pub pizzas such as pepperoni, margarita, chicken-and-mushroom, and vegetarian.",
+    "price": null,
+    "popular": false,
+    "description_es": "Pizzas de estilo pub como pepperoni, margarita, pollo con hongos y vegetariana."
+   },
+   {
+    "name": "Wings",
+    "description_en": "Crispy chicken wings.",
+    "price": null,
+    "popular": true,
+    "description_es": "Alitas de pollo crocantes."
+   },
+   {
+    "name": "Nachos",
+    "description_en": "Shareable nachos.",
+    "price": null,
+    "popular": false,
+    "description_es": "Nachos para compartir."
+   }
+  ],
+  "about_en": "La Rana Dorada is a Bar brewpub in the Clayton neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for House craft beers"
+  ],
+  "whats_good_en": [
+   "The brand that introduced craft beer to Panama, with a wide, award-winning range brewed in-house",
+   "Casual, sociable brewpub atmosphere that pairs beer with straightforward pub food",
+   "Multiple convenient locations across the metro area"
+  ],
+  "typical_spend_en": null,
+  "dataset_comparison_en": null,
+  "attributes_en": [
+   "On-site brewing",
+   "Multiple metro-area locations",
+   "Brewery and distillery tours available",
+   "Casual pub food (pizza, wings, burgers, nachos)"
+  ],
+  "best_time_en": null,
+  "notable_mention_en": "Featured in Copa Airlines' Revista Panorama de las Americas in a piece on Panama's craft-beer scene, credited as the brewery that put Panama on the artisanal-beer map.",
+  "dietary_en": [],
+  "sources": [
+   "https://www.laranadorada.com/",
+   "https://www.instagram.com/laranadorada/",
+   "https://revistapanorama.com/cerveza-artesanal-en-panama/",
+   "https://www.degustapanama.com/panama/restaurante/la-rana-dorada-san-francisco_102401/menu"
+  ],
+  "best_time": {
+   "busiest": "Thu-Sat, 9 PM-late",
+   "busiest_note_en": "Late-evening weekend buzz",
+   "easy": "Tue-Wed nights",
+   "easy_note_en": "Quieter, easy seat at the bar",
+   "sweet": "Fri, 7-8 PM",
+   "sweet_note_en": "Lively but before the late rush"
+  },
+  "social": {
+   "instagram": "https://www.instagram.com/laranadorada/"
+  },
+  "social_proof": "row website laranadorada.com links instagram.com/laranadorada in its footer; embed owner of chosen post is laranadorada",
+  "about_es": "La Rana Dorada es un bar cervecería en el barrio de Clayton, en la Ciudad de Panamá.",
+  "notable_mention_es": "Destacado en la Revista Panorama de las Americas de Copa Airlines en un artículo sobre la escena cervecera artesanal de Panamá, reconocido como la cervecería que puso a Panamá en el mapa de la cerveza artesanal.",
+  "highlights_es": [
+   "Reconocido por sus cervezas artesanales de la casa"
+  ],
+  "whats_good_es": [
+   "La marca que introdujo la cerveza artesanal en Panamá, con una amplia gama premiada elaborada en casa",
+   "Ambiente casual y sociable de brewpub que combina cerveza con comida sencilla de taberna",
+   "Varias sucursales convenientes en toda el área metropolitana"
+  ],
+  "attributes_es": [
+   "Elaboración de cerveza en el propio local",
+   "Varias sucursales en el área metropolitana",
+   "Tours disponibles por la cervecería y la destilería",
+   "Comida casual de taberna (pizza, alitas, hamburguesas, nachos)"
+  ]
+ },
+ {
+  "id": "clayton-la-taberna-del-canal",
+  "slug": "la-taberna-del-canal",
+  "name": "La Taberna Del Canal",
+  "cuisine_en": [
+   "Spanish"
+  ],
+  "cuisine_es": [],
+  "price_tier": 2,
+  "neighborhood_slug": "clayton",
+  "address": "Clayton, Panama City, Panamá Province, Panama",
+  "address_note_en": "",
+  "lat": 8.9947479,
+  "lng": -79.5811227,
+  "phones": {
+   "call": "+507 6462-1983"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "8:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "8:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "8:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "8:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "8:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "8:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "9:00 AM",
+    "close": "11:00 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/la-taberna-del-canal.jpg",
+    "alt_en": "Seafood paella at La Taberna del Canal, Clayton, Panama City",
+    "alt_es": "Paella de mariscos en La Taberna del Canal, Clayton, Ciudad de Panama",
+    "credit_en": "Photo: @latabernadelcanal",
+    "credit_url": "https://www.instagram.com/latabernadelcanal/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Spanish",
+   "Outdoor",
+   "Live-music",
+   "Tapas"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Spanish tapas selection",
+    "description_en": "Wide range of hot and cold Spanish tapas",
+    "price": null,
+    "popular": true,
+    "description_es": "Amplia variedad de tapas españolas frías y calientes"
+   },
+   {
+    "name": "Seafood and rice dishes",
+    "description_en": "Seafood plates and rice dishes among the mains",
+    "price": null,
+    "popular": false,
+    "description_es": "Platos de mariscos y arroces entre los platos fuertes"
+   }
+  ],
+  "about_en": "La Taberna Del Canal is a Spanish restaurant in the Clayton neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Spanish tapas selection"
+  ],
+  "whats_good_en": [
+   "Spanish tapas and fusion cooking with a Panama Canal view",
+   "Spacious dining room plus terrace and a private event hall",
+   "Happy hour, sports screens and live music"
+  ],
+  "typical_spend_en": null,
+  "dataset_comparison_en": "One of the few Spanish kitchens in Clayton",
+  "attributes_en": [
+   "Canal view",
+   "Terrace seating",
+   "Private event hall",
+   "Group menus",
+   "Happy hour",
+   "Live music",
+   "Sports on screens"
+  ],
+  "best_time_en": null,
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/latabernadelcanal/",
+   "https://latabernadelcanal.com/taberna-del-canal-clayton/",
+   "https://www.degustapanama.com/panama/restaurante/la-taberna-del-canal_278.html"
+  ],
+  "best_time": {
+   "busiest": "Fri-Sat, 8-10 PM",
+   "busiest_note_en": "Weekend dinner is busiest",
+   "easy": "Mon-Tue evenings",
+   "easy_note_en": "Relaxed, easy to seat",
+   "sweet": "Thu, 7 PM",
+   "sweet_note_en": "Dinner buzz without the wait"
+  },
+  "social": {
+   "instagram": "https://www.instagram.com/latabernadelcanal/"
+  },
+  "social_proof": "row website latabernadelcanal.com links instagram.com/latabernadelcanal; bio and posts say Clayton, frente al Canal de Panama",
+  "about_es": "La Taberna Del Canal es un restaurante español en el barrio de Clayton, en la Ciudad de Panamá.",
+  "dataset_comparison_es": "Una de las pocas cocinas españolas en Clayton",
+  "highlights_es": [
+   "Reconocido por su selección de tapas españolas"
+  ],
+  "whats_good_es": [
+   "Tapas españolas y cocina de fusión con vista al Canal de Panamá",
+   "Amplio salón principal, además de terraza y un salón privado para eventos",
+   "Happy hour, pantallas deportivas y música en vivo"
+  ],
+  "attributes_es": [
+   "Vista al Canal",
+   "Mesas en terraza",
+   "Salón privado para eventos",
+   "Menús para grupos",
+   "Happy hour",
+   "Música en vivo",
+   "Deportes en pantallas"
+  ]
+ },
+ {
+  "id": "clayton-la-vitrina",
+  "slug": "la-vitrina",
+  "name": "LA VITRINA",
+  "cuisine_en": [
+   "Deli"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "clayton",
+  "address": "detrás de edificio 104, Paso peatonal, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9995306,
+  "lng": -79.5843204,
+  "phones": {
+   "call": "+507 6411-6378"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "8:00 AM",
+    "close": "3:30 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "8:00 AM",
+    "close": "3:30 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "8:00 AM",
+    "close": "3:30 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "8:00 AM",
+    "close": "3:30 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "8:00 AM",
+    "close": "3:30 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "Closed",
+    "close": ""
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "Closed",
+    "close": ""
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Deli",
+   "Brunch"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "LA VITRINA is a Deli unverified in the Clayton neighborhood of Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "typical_spend_en": null,
+  "dataset_comparison_en": null,
+  "attributes_en": [
+   "Very low online footprint; no own website found",
+   "Possible deli / baguette-and-sandwich concept (unconfirmed)",
+   "Neighborhood in question - held as Clayton but nearest match is Centro Historico"
+  ],
+  "best_time_en": null,
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/p/C3HcRAkufo4/"
+  ],
+  "best_time": {
+   "busiest": "Sat-Sun, 9 AM-12 PM",
+   "busiest_note_en": "Weekend brunch is the peak",
+   "easy": "Weekday mornings",
+   "easy_note_en": "Calm, easy to get a table",
+   "sweet": "Sun, 8:30-9:30 AM",
+   "sweet_note_en": "Fresh and unhurried before the brunch wave"
+  },
+  "about_es": "LA VITRINA es un deli sin verificar en el barrio de Clayton, en la Ciudad de Panamá.",
+  "attributes_es": [
+   "Presencia en línea muy limitada; no se encontró sitio web propio",
+   "Posible concepto de deli o de baguettes y sándwiches (sin confirmar)",
+   "Barrio en cuestión: se indica Clayton, pero la coincidencia más cercana es Centro Historico"
+  ]
+ },
+ {
+  "id": "clayton-mendo-coffee-co",
+  "slug": "mendo-coffee-co",
+  "name": "Mendó Coffee Co",
+  "cuisine_en": [
+   "Cafe"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "clayton",
+  "address": "Galera 215, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 9.0032558,
+  "lng": -79.5842342,
+  "phones": {
+   "call": "+507 6195-0961"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "7:00 AM",
+    "close": "6:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "7:00 AM",
+    "close": "6:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "7:00 AM",
+    "close": "6:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "7:00 AM",
+    "close": "6:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "7:00 AM",
+    "close": "6:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "7:00 AM",
+    "close": "6:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "7:00 AM",
+    "close": "6:00 PM"
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Cafe",
+   "Brunch",
+   "Dog-friendly",
+   "Work-friendly",
+   "Specialty-coffee"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Specialty Panamanian coffee",
+    "description_en": "Light-roast, single-origin coffees from Boquete estates (e.g. Lamastus Family Estates), roasted to order",
+    "price": null,
+    "popular": true,
+    "description_es": "Cafés de origen único y tueste claro de fincas de Boquete (por ejemplo, Lamastus Family Estates), tostados por encargo"
+   },
+   {
+    "name": "Cafe food menu",
+    "description_en": "Food catered by Fonda Lo Que Hay to the same specialty standard as the coffee",
+    "price": null,
+    "popular": false,
+    "description_es": "Comida preparada por Fonda Lo Que Hay con el mismo estándar de especialidad que el café"
+   }
+  ],
+  "about_en": "Mendó Coffee Co is a cafe in the Clayton neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Specialty Panamanian coffee"
+  ],
+  "whats_good_en": [
+   "Panama-grown specialty coffee roasted to order",
+   "Food catered by a well-regarded local kitchen (Fonda Lo Que Hay)",
+   "Pleasant City of Knowledge setting with Wi-Fi, parking and dog-friendly"
+  ],
+  "typical_spend_en": "around $19 per person",
+  "dataset_comparison_en": "One of 11 Cafe spots in Clayton",
+  "attributes_en": [
+   "Specialty coffee roaster",
+   "Roasted to order",
+   "Wi-Fi",
+   "Parking",
+   "Dog friendly",
+   "Online ordering"
+  ],
+  "best_time_en": null,
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/mendo.coffee/",
+   "https://www.degustapanama.com/panama/restaurante/mendo-coffee-co_108852.html",
+   "https://mendo.coffee/"
+  ],
+  "best_time": {
+   "busiest": "Sat-Sun, 9 AM-12 PM",
+   "busiest_note_en": "Weekend brunch is the peak",
+   "easy": "Weekday mornings",
+   "easy_note_en": "Calm, easy to get a table",
+   "sweet": "Sun, 8:30-9:30 AM",
+   "sweet_note_en": "Fresh and unhurried before the brunch wave"
+  },
+  "social": {
+   "instagram": "https://www.instagram.com/mendo.coffee/"
+  },
+  "social_proof": "profile and posts locate it at Ciudad del Saber (Clayton): post C1CTcJOOJjf 'FIND US AT CIUDAD DEL SABER', Google knowledge graph matches; embed owner mendo.coffee",
+  "about_es": "Mendó Coffee Co es una cafetería en el barrio de Clayton, en la Ciudad de Panamá.",
+  "typical_spend_es": "alrededor de $19 por persona",
+  "dataset_comparison_es": "Uno de los 11 cafés en Clayton",
+  "highlights_es": [
+   "Reconocido por su café panameño de especialidad"
+  ],
+  "whats_good_es": [
+   "Café de especialidad cultivado en Panamá, tostado bajo pedido",
+   "Comida a cargo de una cocina local muy reconocida (Fonda Lo Que Hay)",
+   "Agradable entorno en City of Knowledge, con Wi-Fi, parqueo y espacio pet-friendly"
+  ],
+  "attributes_es": [
+   "Tostador de café de especialidad",
+   "Tostado por encargo",
+   "Wi-Fi",
+   "Estacionamiento",
+   "Se admiten mascotas",
+   "Pedidos en línea"
+  ]
+ },
+ {
+  "id": "clayton-mika-bazar-cafe-clayton",
+  "slug": "mika-bazar-cafe-clayton",
+  "name": "Mika Bazar Café",
+  "cuisine_en": [
+   "Cafe"
+  ],
+  "cuisine_es": [],
+  "price_tier": 2,
+  "neighborhood_slug": "clayton",
+  "address": "Plaza Clayton Mall Local 11 y 12, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 9.003591,
+  "lng": -79.57333419999999,
+  "phones": {
+   "call": "+507 6998-3689"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "8:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "8:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "8:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "8:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "8:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "8:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "8:00 AM",
+    "close": "8:00 PM"
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Cafe",
+   "Gluten-free options",
+   "Vegan options",
+   "Brunch",
+   "Wings",
+   "Tacos"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Mika Buddha Bowl",
+    "description_en": "Bowl of chickpeas, quinoa, lettuce, cherry tomato, red onion, avocado, grilled vegetables and a seed mix",
+    "price": null,
+    "popular": true,
+    "description_es": "Bowl de garbanzos, quinoa, lechuga, tomate cherry, cebolla morada, aguacate, vegetales asados y mezcla de semillas"
+   },
+   {
+    "name": "Hamburguesa Mika",
+    "description_en": "Angus beef burger on a brioche bun",
+    "price": null,
+    "popular": true,
+    "description_es": "Hamburguesa de carne Angus en pan brioche"
+   },
+   {
+    "name": "Wings Ganadoras",
+    "description_en": "Wings glazed with BBQ, honey and passion fruit with a red-pepper kick",
+    "price": null,
+    "popular": false,
+    "description_es": "Alitas glaseadas con BBQ, miel y maracuyá con un toque picante de pimiento rojo"
+   },
+   {
+    "name": "Mexican bowl",
+    "description_en": "Mexican-style rice bowl",
+    "price": null,
+    "popular": false,
+    "description_es": "Bowl de arroz al estilo mexicano"
+   },
+   {
+    "name": "Trio Tacos",
+    "description_en": "Trio of tacos",
+    "price": null,
+    "popular": false,
+    "description_es": "Trío de tacos"
+   },
+   {
+    "name": "Cheesecake",
+    "description_en": "House cheesecake",
+    "price": null,
+    "popular": false,
+    "description_es": "Cheesecake de la casa"
+   }
+  ],
+  "about_en": "Mika Bazar Café is a cafe in the Clayton neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Mika Buddha Bowl"
+  ],
+  "whats_good_en": [
+   "International menu with healthy bowls plus vegan and gluten-free options",
+   "House-brand 'Amor Perfecto' coffee",
+   "Cafe-and-bazar concept in Clayton Mall"
+  ],
+  "typical_spend_en": null,
+  "dataset_comparison_en": "One of 11 Cafe spots in Clayton",
+  "attributes_en": [
+   "Vegan options",
+   "Gluten-free options",
+   "House-brand coffee",
+   "Cafe / bazar concept",
+   "In Clayton Mall"
+  ],
+  "best_time_en": null,
+  "notable_mention_en": null,
+  "dietary_en": [
+   "Gluten-free options",
+   "Vegan options"
+  ],
+  "sources": [
+   "https://www.instagram.com/mikacafe_/",
+   "https://www.degustapanama.com/panama/restaurante/mika-bazar-y-cafe-clayton_101008/menu",
+   "https://www.mikabazarcafe.com/"
+  ],
+  "best_time": {
+   "busiest": "Sat-Sun, 9 AM-12 PM",
+   "busiest_note_en": "Weekend brunch is the peak",
+   "easy": "Weekday mornings",
+   "easy_note_en": "Calm, easy to get a table",
+   "sweet": "Sun, 8:30-9:30 AM",
+   "sweet_note_en": "Fresh and unhurried before the brunch wave"
+  },
+  "social": {
+   "instagram": "https://www.instagram.com/mikacafe_/"
+  },
+  "social_proof": "bio lists locations 'Centennial Clayton San Francisco Santa Maria'; IG location page cites Plaza Clayton Mall Local 11 y 12; dopanama.com article confirms @mikacafe_",
+  "about_es": "Mika Bazar Café es una cafetería en el barrio de Clayton, en la Ciudad de Panamá.",
+  "dataset_comparison_es": "Uno de los 11 cafés en Clayton",
+  "highlights_es": [
+   "Reconocido por su Mika Buddha Bowl"
+  ],
+  "whats_good_es": [
+   "Menú internacional con bowls saludables, además de opciones veganas y sin gluten",
+   "Café de marca propia 'Amor Perfecto'",
+   "Concepto de café y bazar en Clayton Mall"
+  ],
+  "attributes_es": [
+   "Opciones veganas",
+   "Opciones sin gluten",
+   "Café de marca propia",
+   "Concepto de café y bazar",
+   "En Clayton Mall"
+  ]
+ },
+ {
+  "id": "clayton-naked-lukas-clayton",
+  "slug": "naked-lukas-clayton",
+  "name": "Naked Lukas - Clayton",
+  "cuisine_en": [
+   "Burgers"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "clayton",
+  "address": "local 6, Clayton mall, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 9.003366399999999,
+  "lng": -79.57342799999999,
+  "phones": {
+   "call": "+507 6409-9757"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "11:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "11:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "11:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "11:00 AM",
+    "close": "12:00 AM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "11:00 AM",
+    "close": "12:00 AM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "11:00 AM",
+    "close": "12:00 AM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "11:00 AM",
+    "close": "12:00 AM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/naked-lukas-clayton.jpg",
+    "alt_en": "Smash burger at Naked Lukas, Clayton, Panama City",
+    "alt_es": "Hamburguesa smash en Naked Lukas, Clayton, Ciudad de Panama",
+    "credit_en": "Photo: @nakedlukas.pa",
+    "credit_url": "https://www.instagram.com/nakedlukas.pa/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Burgers",
+   "Vegetarian options"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "The Lukas #1",
+    "description_en": "Signature smash burger; available as a combo with fries.",
+    "price": 15.49,
+    "popular": true,
+    "description_es": "Smash burger insignia de la casa; disponible en combo con papas fritas."
+   },
+   {
+    "name": "Cheesy B Doble",
+    "description_en": "Double smash burger with double American cheese, a top-voted favorite.",
+    "price": null,
+    "popular": true,
+    "description_es": "Doble smash burger con doble queso americano, una de las favoritas más votadas."
+   },
+   {
+    "name": "Truffle B",
+    "description_en": "Truffle-accented smash burger, a frequently mentioned pick.",
+    "price": 15.99,
+    "popular": true,
+    "description_es": "Smash burger con toque de trufa, una opción muy mencionada."
+   },
+   {
+    "name": "Tenders",
+    "description_en": "Chicken tenders, offered on their own or in burger combos.",
+    "price": null,
+    "popular": false,
+    "description_es": "Tiras de pollo, disponibles solas o en combos de hamburguesa."
+   },
+   {
+    "name": "Naked fries / onion rings",
+    "description_en": "Fries and cheese-and-truffle onion rings as sides.",
+    "price": null,
+    "popular": false,
+    "description_es": "Papas fritas y aros de cebolla con queso y trufa como acompañantes."
+   }
+  ],
+  "about_en": "Naked Lukas - Clayton is a Burgers restaurant in the Clayton neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for The Lukas #1"
+  ],
+  "whats_good_en": [
+   "Focused, well-regarded smash-burger menu (Angus patties on potato buns)",
+   "Combo format bundling burgers or tenders with fries and a drink",
+   "Convenient Clayton Mall location within a recognizable local chain"
+  ],
+  "typical_spend_en": "$14 to $16 a burger combo",
+  "dataset_comparison_en": null,
+  "attributes_en": [
+   "Delivery and pickup (Uber Eats)",
+   "Vegetarian options",
+   "Combo meals",
+   "Located at Clayton Mall, Av. Demetrio B. Lakas",
+   "Part of the Naked Lukas chain"
+  ],
+  "best_time_en": null,
+  "notable_mention_en": null,
+  "dietary_en": [
+   "Vegetarian options"
+  ],
+  "sources": [
+   "https://www.instagram.com/nakedlukas.pa/",
+   "https://www.nakedlukas.com/",
+   "https://nakedlukas.com/menu",
+   "https://www.degustapanama.com/panama/restaurante/naked-lukas_109080.html",
+   "https://week.pa/burger-specials/naked-lukas/"
+  ],
+  "best_time": {
+   "busiest": "Fri-Sat evenings",
+   "busiest_note_en": "Weekend nights draw the crowd",
+   "easy": "Weekday lunch",
+   "easy_note_en": "Quick, easy seat",
+   "sweet": "Thu, 6-7 PM",
+   "sweet_note_en": "Early dinner before it fills"
+  },
+  "social": {
+   "instagram": "https://www.instagram.com/nakedlukas.pa/"
+  },
+  "social_proof": "bio lists branches 'San Francisco CDE Obarrio Clayton'; brand matches row website nakedlukas.com; account renamed from @nakedlukas - embed owner of posts is nakedlukas.pa",
+  "about_es": "Naked Lukas - Clayton es un restaurante de hamburguesas en el barrio de Clayton, en la Ciudad de Panamá.",
+  "typical_spend_es": "De $14 a $16 por un combo de hamburguesa",
+  "highlights_es": [
+   "Reconocido por The Lukas #1"
+  ],
+  "whats_good_es": [
+   "Menú especializado y muy valorado de smash burgers (carne Angus en pan de papa)",
+   "Formato de combo que incluye hamburguesas o tenders con papas fritas y bebida",
+   "Ubicación conveniente en Clayton Mall, dentro de una cadena local reconocida"
+  ],
+  "attributes_es": [
+   "Delivery y pickup (Uber Eats)",
+   "Opciones vegetarianas",
+   "Combos",
+   "Ubicado en Clayton Mall, Av. Demetrio B. Lakas",
+   "Parte de la cadena Naked Lukas"
+  ]
+ },
+ {
+  "id": "clayton-nero-pizza",
+  "slug": "nero-pizza",
+  "name": "Nero Pizza",
+  "cuisine_en": [
+   "Pizza"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "clayton",
+  "address": "C. Demetrio Basilio Lakas 470B, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 9.0023773,
+  "lng": -79.57412769999999,
+  "phones": {
+   "call": "+507 6363-9921"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "12:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "12:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "12:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "12:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "12:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "12:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "12:00",
+    "close": "9:00 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/nero-pizza.jpg",
+    "alt_en": "Neapolitan pizza with burrata at Nero Pizza, Clayton, Panama City",
+    "alt_es": "Pizza napolitana con burrata en Nero Pizza, Clayton, Ciudad de Panama",
+    "credit_en": "Photo: @neropizzapty",
+    "credit_url": "https://www.instagram.com/neropizzapty/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Pizza",
+   "Gluten-free options",
+   "Casual",
+   "Family"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Pizza Nero",
+    "description_en": "Signature pie with black truffle, mozzarella, mushrooms, Italian sausage, honey and fleur de sel",
+    "price": null,
+    "popular": true,
+    "description_es": "Pizza insignia con trufa negra, mozzarella, hongos, salchicha italiana, miel y flor de sal"
+   },
+   {
+    "name": "Capricciosa",
+    "description_en": "Classic Neapolitan capricciosa",
+    "price": null,
+    "popular": false,
+    "description_es": "Capricciosa napolitana clásica"
+   },
+   {
+    "name": "Positano",
+    "description_en": "House Positano pizza",
+    "price": null,
+    "popular": false,
+    "description_es": "Pizza Positano de la casa"
+   },
+   {
+    "name": "Calabrese",
+    "description_en": "Calabrian-style pizza",
+    "price": null,
+    "popular": false,
+    "description_es": "Pizza al estilo calabrés"
+   },
+   {
+    "name": "Margarita / Vegetariana",
+    "description_en": "Traditional margherita and a vegetarian version",
+    "price": null,
+    "popular": false,
+    "description_es": "Margherita tradicional y una versión vegetariana"
+   }
+  ],
+  "about_en": "Nero Pizza is a Pizza restaurant in the Clayton neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Pizza Nero"
+  ],
+  "whats_good_en": [
+   "Authentic wood-fired Neapolitan pizza with long-fermented dough",
+   "Small, clean, elegant space with attentive service",
+   "Parking outside and gluten-free options"
+  ],
+  "typical_spend_en": "around $17 per person",
+  "dataset_comparison_en": "One of 5 Pizza spots in Clayton",
+  "attributes_en": [
+   "Neapolitan pizza only",
+   "Long-fermented dough",
+   "Gluten-free option",
+   "Parking",
+   "Wi-Fi",
+   "Dog friendly",
+   "Accepts Visa / Mastercard"
+  ],
+  "best_time_en": null,
+  "notable_mention_en": null,
+  "dietary_en": [
+   "Gluten-free options"
+  ],
+  "sources": [
+   "https://www.degustapanama.com/panama/restaurante/nero-pizza_109746.html",
+   "https://www.instagram.com/neropizzapty/",
+   "https://laguiadelfoodie.com/nero-pizzeria-un-homenaje-a-la-tradicional-pizza-napolitana/"
+  ],
+  "best_time": {
+   "busiest": "Fri-Sat evenings",
+   "busiest_note_en": "Weekend nights draw the crowd",
+   "easy": "Weekday lunch",
+   "easy_note_en": "Quick, easy seat",
+   "sweet": "Thu, 6-7 PM",
+   "sweet_note_en": "Early dinner before it fills"
+  },
+  "social": {
+   "instagram": "https://www.instagram.com/neropizzapty/"
+  },
+  "social_proof": "bio gives 'Casa 470B, Calle Hospital, Clayton', matching the Degusta address for the row; embed owner neropizzapty",
+  "about_es": "Nero Pizza es un restaurante de pizza en el barrio de Clayton, en la Ciudad de Panamá.",
+  "typical_spend_es": "alrededor de $17 por persona",
+  "dataset_comparison_es": "Uno de los 5 lugares de pizza en Clayton",
+  "highlights_es": [
+   "Reconocido por Pizza Nero"
+  ],
+  "whats_good_es": [
+   "Auténtica pizza napolitana al horno de leña con masa de fermentación larga",
+   "Espacio pequeño, limpio y elegante con servicio atento",
+   "Parqueo afuera y opciones sin gluten"
+  ],
+  "attributes_es": [
+   "Solo pizza napolitana",
+   "Masa de fermentación larga",
+   "Opción sin gluten",
+   "Parqueo",
+   "Wi-Fi",
+   "Se admiten perros",
+   "Acepta Visa / Mastercard"
+  ]
+ },
+ {
+  "id": "clayton-organica-bites-clayton",
+  "slug": "organica-bites-clayton",
+  "name": "Orgánica Bites Clayton",
+  "cuisine_en": [
+   "Vegan"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "clayton",
+  "address": "Clayton Mall, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 9.003658,
+  "lng": -79.573132,
+  "phones": {
+   "call": "+507 6852-2469"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "8:00 AM",
+    "close": "5:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "8:00 AM",
+    "close": "5:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "8:00 AM",
+    "close": "5:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "8:00 AM",
+    "close": "5:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "8:00 AM",
+    "close": "5:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "8:00 AM",
+    "close": "5:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "Closed",
+    "close": ""
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/organica-bites-clayton.jpg",
+    "alt_en": "Fresh fruit smoothies at Organica Bites, Clayton, Panama City",
+    "alt_es": "Batidos de fruta natural en Organica Bites, Clayton, Ciudad de Panama",
+    "credit_en": "Photo: @bitesorganica",
+    "credit_url": "https://www.instagram.com/bitesorganica/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Vegan",
+   "Gluten-free options",
+   "Vegan options",
+   "Vegetarian options",
+   "Empanadas"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Chickpea empanadas",
+    "description_en": "Empanadas made without refined white flour.",
+    "price": null,
+    "popular": false,
+    "description_es": "Empanadas hechas sin harina blanca refinada."
+   },
+   {
+    "name": "Gluten-free yuca empanadas",
+    "description_en": "Cassava-based empanadas, gluten-free.",
+    "price": null,
+    "popular": false,
+    "description_es": "Empanadas de yuca, libres de gluten."
+   },
+   {
+    "name": "Lentil soup with vegetarian chorizo and basmati rice",
+    "description_en": "Lentil soup served with plant-based chorizo and basmati.",
+    "price": 6.5,
+    "popular": false,
+    "description_es": "Sopa de lentejas servida con chorizo de origen vegetal y basmati."
+   },
+   {
+    "name": "Keto bagel",
+    "description_en": "Low-carb bagel.",
+    "price": null,
+    "popular": false,
+    "description_es": "Bagel bajo en carbohidratos."
+   },
+   {
+    "name": "Avocado toast with egg",
+    "description_en": "Sourdough toast with avocado and egg.",
+    "price": null,
+    "popular": false,
+    "description_es": "Tostada de pan de masa madre con aguacate y huevo."
+   },
+   {
+    "name": "Bowls and chia pudding",
+    "description_en": "Grain/veg bowls and chia pudding.",
+    "price": null,
+    "popular": false,
+    "description_es": "Bowls de granos/vegetales y pudín de chía."
+   }
+  ],
+  "about_en": "Orgánica Bites Clayton is a Vegan health-food cafe in the Clayton neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Chickpea empanadas"
+  ],
+  "whats_good_en": [
+   "Refined-flour-free and gluten-free options (yuca and chickpea empanadas, GF desserts)",
+   "Health-focused menu with bowls, waffles, and plant-forward plates"
+  ],
+  "typical_spend_en": null,
+  "dataset_comparison_en": "One of the few Vegan kitchens in Clayton",
+  "attributes_en": [
+   "Inside Orgánica Store, Clayton Mall",
+   "Refined-flour-free and gluten-free options",
+   "Vegan and vegetarian items (not exclusively vegan)",
+   "Bowls, waffles, chia pudding, arepas, and lasagnas"
+  ],
+  "best_time_en": null,
+  "notable_mention_en": null,
+  "dietary_en": [
+   "Gluten-free options",
+   "Vegan options",
+   "Vegetarian options"
+  ],
+  "sources": [
+   "https://www.degustapanama.com/panama/restaurante/bites-organica-clayton_108966.html",
+   "https://organicabites.my.canva.site/",
+   "https://organicastore.com/collections/bites",
+   "https://www.instagram.com/bitesorganica/"
+  ],
+  "best_time": {
+   "busiest": "Fri-Sat, 8-10 PM",
+   "busiest_note_en": "Weekend dinner is busiest",
+   "easy": "Mon-Tue evenings",
+   "easy_note_en": "Relaxed, easy to seat",
+   "sweet": "Thu, 7 PM",
+   "sweet_note_en": "Dinner buzz without the wait"
+  },
+  "social": {
+   "instagram": "https://www.instagram.com/bitesorganica/"
+  },
+  "social_proof": "bio: 'Comida saludable... Cafeterias de @organicastorepa'; Organica Store's sucursales page (organicastore.com) lists Bites Organica Clayton at Clayton Mall - chain account covering the Clayton cafe",
+  "about_es": "Orgánica Bites Clayton es un café de comida saludable vegana en el barrio de Clayton, en Ciudad de Panamá.",
+  "dataset_comparison_es": "Una de las pocas cocinas veganas en Clayton",
+  "highlights_es": [
+   "Reconocido por sus empanadas de garbanzo"
+  ],
+  "whats_good_es": [
+   "Opciones libres de harina refinada y sin gluten (empanadas de yuca y garbanzo, postres GF)",
+   "Menú enfocado en lo saludable, con bowls, waffles y platos a base de plantas"
+  ],
+  "attributes_es": [
+   "Dentro de Orgánica Store, Clayton Mall",
+   "Opciones libres de harina refinada y sin gluten",
+   "Opciones veganas y vegetarianas (no exclusivamente vegano)",
+   "Bowls, waffles, chia pudding, arepas y lasañas"
+  ]
+ },
+ {
+  "id": "clayton-pan-canela",
+  "slug": "pan-canela",
+  "name": "Pan & Canela",
+  "cuisine_en": [
+   "Cafe"
+  ],
+  "cuisine_es": [],
+  "price_tier": 2,
+  "neighborhood_slug": "clayton",
+  "address": "Clayton, Panama City, Panamá Province, Panama",
+  "address_note_en": "",
+  "lat": 9.0052536,
+  "lng": -79.56878689999999,
+  "phones": {
+   "whatsapp": "+507 6871-0508",
+   "call": "+507 317-1122"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "6:30 AM",
+    "close": "7:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "6:30 AM",
+    "close": "7:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "6:30 AM",
+    "close": "7:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "6:30 AM",
+    "close": "7:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "6:30 AM",
+    "close": "7:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "6:30 AM",
+    "close": "6:30 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "7:30 AM",
+    "close": "2:30 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/pan-canela.jpg",
+    "alt_en": "Fresh pastries at Pan & Canela, Clayton, Panama City",
+    "alt_es": "Panes dulces recien horneados en Pan & Canela, Clayton, Ciudad de Panama",
+    "credit_en": "Photo: @panycanela",
+    "credit_url": "https://www.instagram.com/panycanela/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Cafe",
+   "Vegetarian options",
+   "Brunch",
+   "Outdoor"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Desayuno patrio",
+    "description_en": "Traditional Panamanian breakfast of fried eggs with fried pastries and sauteed sausage.",
+    "price": 7,
+    "popular": true,
+    "description_es": "Desayuno panameño tradicional de huevos fritos con hojaldres fritos y salchicha salteada."
+   },
+   {
+    "name": "Sourdough avocado toast with egg",
+    "description_en": "Toasted house sourdough topped with avocado and egg.",
+    "price": 8,
+    "popular": true,
+    "description_es": "Pan de masa madre de la casa tostado con aguacate y huevo."
+   },
+   {
+    "name": "Croissant con huevo",
+    "description_en": "Butter croissant filled with egg.",
+    "price": 5.5,
+    "popular": false,
+    "description_es": "Croissant de mantequilla relleno de huevo."
+   },
+   {
+    "name": "XL French toast (brioche)",
+    "description_en": "Oversized brioche French toast.",
+    "price": 7.5,
+    "popular": false,
+    "description_es": "Tostada francesa de brioche tamaño extra grande."
+   },
+   {
+    "name": "Ham and egg panini",
+    "description_en": "Grilled sandwich with ham and egg.",
+    "price": 9,
+    "popular": false,
+    "description_es": "Sándwich a la plancha con jamón y huevo."
+   },
+   {
+    "name": "House hamburgers",
+    "description_en": "A range of burgers, including a lentil (vegetarian) option.",
+    "price": 9,
+    "popular": true,
+    "description_es": "Variedad de hamburguesas, incluyendo una opción de lentejas (vegetariana)."
+   }
+  ],
+  "about_en": "Pan & Canela is a cafe in the Clayton neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Desayuno patrio"
+  ],
+  "whats_good_en": [
+   "Genuine artisan-bakery credentials (in-house sourdough, cinnamon rolls, guava pastries)",
+   "Relaxed tropical-garden setting suited to lingering over breakfast or brunch",
+   "Long-running, well-established local institution with a broad all-day menu"
+  ],
+  "typical_spend_en": "$6 to $14.50 a main",
+  "dataset_comparison_en": "One of 11 Cafe spots in Clayton",
+  "attributes_en": [
+   "Reservations available",
+   "Garden/outdoor seating",
+   "Breakfast and brunch focus",
+   "Vegetarian options (e.g. lentil burger)",
+   "Hours: Mon-Fri 6:30am-7pm, Sat 6:30am-6:30pm, Sun/holidays 7am-2:30pm"
+  ],
+  "best_time_en": "Mornings and midday for breakfast, brunch, and fresh bakery",
+  "notable_mention_en": null,
+  "dietary_en": [
+   "Vegetarian options"
+  ],
+  "sources": [
+   "https://www.panycanela.com/menu",
+   "https://www.panycanela.com/historia",
+   "https://wa.me/message/3ZPHE5ZAX65EL1",
+   "https://www.instagram.com/panycanela/"
+  ],
+  "best_time": {
+   "busiest": "Sat-Sun, 9 AM-12 PM",
+   "busiest_note_en": "Weekend brunch is the peak",
+   "easy": "Weekday mornings",
+   "easy_note_en": "Calm, easy to get a table",
+   "sweet": "Sun, 8:30-9:30 AM",
+   "sweet_note_en": "Fresh and unhurried before the brunch wave"
+  },
+  "social": {
+   "instagram": "https://www.instagram.com/panycanela/"
+  },
+  "social_proof": "official site panycanela.com (batch website) links this handle in its footer; site gives the Clayton address (Calle Hospital, next to PH Clayton Park)",
+  "about_es": "Pan & Canela es un café en el barrio de Clayton, en Ciudad de Panamá.",
+  "typical_spend_es": "De $6 a $14.50 por plato principal",
+  "dataset_comparison_es": "Uno de los 11 cafés en Clayton",
+  "best_time_es": "Ideal en las mañanas y al mediodía para desayuno, brunch y repostería fresca",
+  "highlights_es": [
+   "Reconocido por su desayuno patrio"
+  ],
+  "whats_good_es": [
+   "Genuinas credenciales de panadería artesanal (masa madre casera, rollos de canela, pastelitos de guayaba)",
+   "Ambiente relajado de jardín tropical, perfecto para disfrutar con calma un desayuno o brunch",
+   "Institución local de larga trayectoria, con un amplio menú disponible todo el día"
+  ],
+  "attributes_es": [
+   "Se aceptan reservaciones",
+   "Terraza/jardín al aire libre",
+   "Enfoque en desayuno y brunch",
+   "Opciones vegetarianas (por ejemplo, hamburguesa de lentejas)",
+   "Horario: lun-vie 6:30am-7pm, sáb 6:30am-6:30pm, dom/feriados 7am-2:30pm"
+  ]
+ },
+ {
+  "id": "clayton-papa-john-s-clayton",
+  "slug": "papa-john-s-clayton",
+  "name": "Papá John's Clayton",
+  "cuisine_en": [
+   "Pizza"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "clayton",
+  "address": "XCVV+CC9, Panama City, Panamá Province, Panama",
+  "address_note_en": "",
+  "lat": 8.9935415,
+  "lng": -79.5564263,
+  "phones": {
+   "call": "+507 271-0000"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "11:00 AM",
+    "close": "10:30 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "11:00 AM",
+    "close": "10:30 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "11:00 AM",
+    "close": "10:30 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "11:00 AM",
+    "close": "10:30 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "11:00 AM",
+    "close": "10:30 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "11:00 AM",
+    "close": "10:30 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "11:00 AM",
+    "close": "10:30 PM"
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Pizza"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Signature pizzas",
+    "description_en": "Chain's build-your-own and specialty pizzas.",
+    "price": null,
+    "popular": true,
+    "description_es": "Pizzas para armar y especialidades de la cadena."
+   },
+   {
+    "name": "Sides",
+    "description_en": "Sides such as breadsticks and wings.",
+    "price": null,
+    "popular": false,
+    "description_es": "Acompañantes como palitos de pan y alitas."
+   },
+   {
+    "name": "Desserts and dipping sauces",
+    "description_en": "Sweet sides and the chain's signature dipping sauces.",
+    "price": null,
+    "popular": false,
+    "description_es": "Postres y las salsas para acompañar características de la cadena."
+   }
+  ],
+  "about_en": "Papá John's Clayton is a Pizza restaurant in the Clayton neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Signature pizzas"
+  ],
+  "whats_good_en": [
+   "Familiar national-chain pizza with consistent, predictable quality",
+   "Delivery and pickup convenience",
+   "Standard menu of pizzas, sides, desserts, and sauces"
+  ],
+  "typical_spend_en": null,
+  "dataset_comparison_en": "One of 5 Pizza spots in Clayton",
+  "attributes_en": [
+   "Delivery and in-store pickup",
+   "National chain (Papa John's Panama)",
+   "Located in Clayton, Provincia de Panama"
+  ],
+  "best_time_en": null,
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/papajohnspanama/",
+   "https://www.papajohns.com.pa/locales/provincia-de-panama/papa-johns-clayton-69/",
+   "https://www.papajohns.com.pa/"
+  ],
+  "best_time": {
+   "busiest": "Fri-Sat evenings",
+   "busiest_note_en": "Weekend nights draw the crowd",
+   "easy": "Weekday lunch",
+   "easy_note_en": "Quick, easy seat",
+   "sweet": "Thu, 6-7 PM",
+   "sweet_note_en": "Early dinner before it fills"
+  },
+  "social": {
+   "instagram": "https://www.instagram.com/papajohnspanama/"
+  },
+  "social_proof": "row website papajohns.com.pa is the Panama franchise; its app listing and facebook state Instagram @papajohnspanama",
+  "about_es": "Papá John's Clayton es un restaurante de pizza en el barrio de Clayton, en Ciudad de Panamá.",
+  "dataset_comparison_es": "Uno de los 5 restaurantes de pizza en Clayton",
+  "highlights_es": [
+   "Reconocido por sus pizzas de la casa"
+  ],
+  "whats_good_es": [
+   "Pizza de cadena nacional conocida, con calidad consistente y predecible",
+   "Conveniencia de entrega a domicilio y para recoger",
+   "Menú estándar de pizzas, acompañantes, postres y salsas"
+  ],
+  "attributes_es": [
+   "Entrega a domicilio y para recoger en tienda",
+   "Cadena nacional (Papa John's Panamá)",
+   "Ubicado en Clayton, Provincia de Panamá"
+  ]
+ },
+ {
+  "id": "clayton-patisserie-saint-honore-bakery-and-french-pastry",
+  "slug": "patisserie-saint-honore-bakery-and-french-pastry",
+  "name": "Patisserie Saint Honore (Bakery and French pastry)",
+  "cuisine_en": [
+   "French"
+  ],
+  "cuisine_es": [],
+  "price_tier": 2,
+  "neighborhood_slug": "clayton",
+  "address": "Clayton Mall, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 9.0035016,
+  "lng": -79.5732216,
+  "phones": {
+   "call": "+507 6609-4845"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "7:00 AM",
+    "close": "7:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "7:00 AM",
+    "close": "7:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "7:00 AM",
+    "close": "7:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "7:00 AM",
+    "close": "7:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "7:00 AM",
+    "close": "7:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "7:00 AM",
+    "close": "7:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "7:00 AM",
+    "close": "7:00 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/patisserie-saint-honore-bakery-and-french-pastry.jpg",
+    "alt_en": "Apple crumble at Patisserie Saint Honore, Clayton, Panama City",
+    "alt_es": "Crumble de manzana en Patisserie Saint Honore, Clayton, Ciudad de Panama",
+    "credit_en": "Photo: @sainthonore_panama",
+    "credit_url": "https://www.instagram.com/sainthonore_panama/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "French",
+   "Brunch"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Almond croissant",
+    "description_en": "Crisp, golden croissant filled with almond paste - a customer favorite",
+    "price": null,
+    "popular": true,
+    "description_es": "Croissant dorado y crocante relleno de pasta de almendra, favorito de los clientes"
+   },
+   {
+    "name": "Tarta Saint Honore",
+    "description_en": "Namesake dessert of puff pastry, a choux-paste ring and cream-filled profiteroles",
+    "price": null,
+    "popular": false,
+    "description_es": "Postre insignia de hojaldre, un anillo de pasta choux y profiteroles rellenos de crema"
+   },
+   {
+    "name": "Opera",
+    "description_en": "Layered almond sponge with coffee cream and chocolate ganache (48-hour advance order)",
+    "price": null,
+    "popular": false,
+    "description_es": "Bizcocho de almendra en capas con crema de café y ganache de chocolate (pedido con 48 horas de anticipación)"
+   },
+   {
+    "name": "Macarons",
+    "description_en": "Assortment of French macarons",
+    "price": null,
+    "popular": false,
+    "description_es": "Surtido de macarons franceses"
+   },
+   {
+    "name": "Eggs Benedict",
+    "description_en": "Brunch plate that reviewers single out",
+    "price": null,
+    "popular": false,
+    "description_es": "Plato de brunch que destacan los comensales"
+   }
+  ],
+  "about_en": "Patisserie Saint Honore (Bakery and French pastry) is a French cafe in the Clayton neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Almond croissant"
+  ],
+  "whats_good_en": [
+   "From-scratch French breads and pastries",
+   "Almond croissant and macarons are standouts",
+   "Brunch offering including eggs benedict and espresso"
+  ],
+  "typical_spend_en": null,
+  "dataset_comparison_en": "One of the few French kitchens in Clayton",
+  "attributes_en": [
+   "French bakery / patisserie",
+   "Cafe seating",
+   "Brunch",
+   "Multiple locations",
+   "Advance orders for some cakes"
+  ],
+  "best_time_en": "Open daily, 7:00am to 7:00pm; well suited to breakfast, brunch or an afternoon coffee",
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/sainthonore_panama/",
+   "https://sainthonorepty.com/",
+   "https://www.tripadvisor.com/Restaurant_Review-g294480-d15364156-Reviews-Patisserie_Saint_Honore-Panama_City_Panama_Province.html"
+  ],
+  "best_time": {
+   "busiest": "Sat-Sun, 9 AM-12 PM",
+   "busiest_note_en": "Weekend brunch is the peak",
+   "easy": "Weekday mornings",
+   "easy_note_en": "Calm, easy to get a table",
+   "sweet": "Sun, 8:30-9:30 AM",
+   "sweet_note_en": "Fresh and unhurried before the brunch wave"
+  },
+  "social": {
+   "instagram": "https://www.instagram.com/sainthonore_panama/"
+  },
+  "social_proof": "official site sainthonorepty.com (batch website) links this handle in header and footer social icons",
+  "about_es": "Patisserie Saint Honore (panadería y pastelería francesa) es un café francés en el barrio de Clayton, en Ciudad de Panamá.",
+  "dataset_comparison_es": "Una de las pocas cocinas francesas en Clayton",
+  "best_time_es": "Abierto todos los días de 7:00am a 7:00pm; ideal para desayuno, brunch o un café por la tarde",
+  "highlights_es": [
+   "Reconocido por su croissant de almendra"
+  ],
+  "whats_good_es": [
+   "Panes y repostería francesa hechos desde cero",
+   "El croissant de almendra y los macarons son los favoritos",
+   "Opción de brunch que incluye huevos benedictinos y espresso"
+  ],
+  "attributes_es": [
+   "Panadería / pastelería francesa",
+   "Área de mesas en la cafetería",
+   "Brunch",
+   "Varias sucursales",
+   "Algunos pasteles requieren pedido con anticipación"
+  ]
+ },
+ {
+  "id": "clayton-pollo-rey-a-la-brasa",
+  "slug": "pollo-rey-a-la-brasa",
+  "name": "POLLO REY A LA BRASA",
+  "cuisine_en": [
+   "Chicken"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "clayton",
+  "address": "Calle Carrol, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 9.0058122,
+  "lng": -79.57026239999999,
+  "phones": {
+   "call": "+507 390-1894"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "10:30 AM",
+    "close": "4:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "10:30 AM",
+    "close": "4:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "10:30 AM",
+    "close": "4:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "10:30 AM",
+    "close": "4:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "10:30 AM",
+    "close": "4:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "10:30 AM",
+    "close": "4:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "Closed",
+    "close": ""
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Chicken"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "POLLO REY A LA BRASA is a Chicken restaurant in the Clayton neighborhood of Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "typical_spend_en": null,
+  "dataset_comparison_en": "One of the few Chicken kitchens in Clayton",
+  "attributes_en": [
+   "Low online findability - no own website/social channel found under this name",
+   "Held contact is a landline; verify before publishing"
+  ],
+  "best_time_en": null,
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [],
+  "best_time": {
+   "busiest": "Fri-Sat, 8-10 PM",
+   "busiest_note_en": "Weekend dinner is busiest",
+   "easy": "Mon-Tue evenings",
+   "easy_note_en": "Relaxed, easy to seat",
+   "sweet": "Thu, 7 PM",
+   "sweet_note_en": "Dinner buzz without the wait"
+  },
+  "about_es": "POLLO REY A LA BRASA es un restaurante de pollo en el barrio de Clayton, en la Ciudad de Panamá.",
+  "dataset_comparison_es": "Una de las pocas cocinas de pollo en Clayton",
+  "attributes_es": [
+   "Baja presencia en línea: no se encontró sitio web ni redes sociales propias bajo este nombre",
+   "El contacto registrado es un teléfono fijo; verificar antes de publicar"
+  ]
+ },
+ {
+  "id": "clayton-red-pocket",
+  "slug": "red-pocket",
+  "name": "Red Pocket",
+  "cuisine_en": [
+   "Chinese"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "clayton",
+  "address": "2C29+X36, C. Alberto Tejada, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 9.0023849,
+  "lng": -79.58228509999999,
+  "phones": {},
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "7:30 AM",
+    "close": "7:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "7:30 AM",
+    "close": "7:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "7:30 AM",
+    "close": "7:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "7:30 AM",
+    "close": "7:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "7:30 AM",
+    "close": "7:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "7:30 AM",
+    "close": "7:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "7:30 AM",
+    "close": "7:00 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/red-pocket.jpg",
+    "alt_en": "Wok-fried dish at Red Pocket, Clayton, Panama City",
+    "alt_es": "Salteado al wok en Red Pocket, Clayton, Ciudad de Panama",
+    "credit_en": "Photo: @redpocketpty",
+    "credit_url": "https://www.instagram.com/redpocketpty/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Chinese"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Chinese rice and stir-fry plates",
+    "description_en": "Standard Chinese rice, noodle, and stir-fry dishes.",
+    "price": null,
+    "popular": true,
+    "description_es": "Platos clásicos chinos de arroz, fideos y salteados."
+   },
+   {
+    "name": "Snack-bar / buffet items",
+    "description_en": "Quick-serve Chinese plates suited to the food-court setting.",
+    "price": null,
+    "popular": false,
+    "description_es": "Platos chinos de servicio rápido, ideales para el formato de food court."
+   }
+  ],
+  "about_en": "Red Pocket is a Chinese restaurant in the Clayton neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Chinese rice and stir-fry plates"
+  ],
+  "whats_good_en": [
+   "Convenient Chinese option inside the La Plaza de Ciudad del Saber",
+   "Dining room plus quick snack-bar service",
+   "Available for delivery via Uber Eats"
+  ],
+  "typical_spend_en": null,
+  "dataset_comparison_en": "One of the few Chinese kitchens in Clayton",
+  "attributes_en": [
+   "Located at La Plaza, Ciudad del Saber (Clayton)",
+   "Pays: Visa, Mastercard, cash",
+   "Delivery via Uber Eats",
+   "Dining room and snack-bar service"
+  ],
+  "best_time_en": null,
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/redpocketpty/",
+   "https://www.degustapanama.com/panama/restaurante/red-pocket_109319.html",
+   "https://www.ubereats.com/pa/store/red-pocket/gM-UuFvRV9egcZoNuiOy_g"
+  ],
+  "best_time": {
+   "busiest": "Fri-Sat, 8-10 PM",
+   "busiest_note_en": "Weekend dinner is busiest",
+   "easy": "Mon-Tue evenings",
+   "easy_note_en": "Relaxed, easy to seat",
+   "sweet": "Thu, 7 PM",
+   "sweet_note_en": "Dinner buzz without the wait"
+  },
+  "social": {
+   "instagram": "https://www.instagram.com/redpocketpty/"
+  },
+  "social_proof": "bio reads 'Chinese Cuisine, La Plaza, Ciudad del Saber' (Clayton), matching the venue; embed owner redpocketpty",
+  "about_es": "Red Pocket es un restaurante chino en el barrio de Clayton, en la Ciudad de Panamá.",
+  "dataset_comparison_es": "Una de las pocas cocinas chinas en Clayton",
+  "highlights_es": [
+   "Reconocido por su arroz chino y sus platos salteados"
+  ],
+  "whats_good_es": [
+   "Una opción china conveniente dentro de La Plaza de Ciudad del Saber",
+   "Salón comedor y servicio rápido tipo snack-bar",
+   "Disponible para entrega a través de Uber Eats"
+  ],
+  "attributes_es": [
+   "Ubicado en La Plaza, Ciudad del Saber (Clayton)",
+   "Formas de pago: Visa, Mastercard, efectivo",
+   "Entrega a través de Uber Eats",
+   "Servicio de salón comedor y snack-bar"
+  ]
+ },
+ {
+  "id": "clayton-restaurante-one-wok-chinese-thai-food",
+  "slug": "restaurante-one-wok-chinese-thai-food",
+  "name": "Restaurante One Wok Chinese & Thai Food",
+  "cuisine_en": [
+   "Thai"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "clayton",
+  "address": "Clayton Mall, C. al Hospital, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 9.0033301,
+  "lng": -79.573455,
+  "phones": {
+   "call": "+507 831-5106"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "11:30 AM",
+    "close": "8:30 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "11:30 AM",
+    "close": "8:30 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "11:30 AM",
+    "close": "8:30 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "11:30 AM",
+    "close": "8:30 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "11:30 AM",
+    "close": "8:30 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "11:30 AM",
+    "close": "8:30 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "11:30 AM",
+    "close": "8:30 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/restaurante-one-wok-chinese-thai-food.jpg",
+    "alt_en": "Chicken pad thai at One Wok, Clayton, Panama City",
+    "alt_es": "Pad thai de pollo en One Wok, Clayton, Ciudad de Panama",
+    "credit_en": "Photo: @onewokpty",
+    "credit_url": "https://www.instagram.com/onewokpty/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Thai",
+   "Vegan options",
+   "Vegetarian options"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Pad Thai",
+    "description_en": "Thai stir-fried rice noodles.",
+    "price": null,
+    "popular": true,
+    "description_es": "Fideos de arroz salteados al estilo tailandés."
+   },
+   {
+    "name": "Green curry (gaeng)",
+    "description_en": "Aromatic Thai green curry.",
+    "price": null,
+    "popular": true,
+    "description_es": "Curry verde tailandés aromático."
+   },
+   {
+    "name": "Pad see ew",
+    "description_en": "Thai stir-fried wide noodles.",
+    "price": null,
+    "popular": false,
+    "description_es": "Fideos anchos salteados al estilo tailandés."
+   },
+   {
+    "name": "Fried rice with vegetables and tofu",
+    "description_en": "Vegetarian fried rice, one of several vegan-friendly options.",
+    "price": null,
+    "popular": false,
+    "description_es": "Arroz frito vegetariano, una de varias opciones aptas para veganos."
+   },
+   {
+    "name": "Fried tofu with peanut sauce",
+    "description_en": "Deep-fried tofu served with a peanut dip.",
+    "price": null,
+    "popular": false,
+    "description_es": "Tofu frito servido con un dip de maní."
+   }
+  ],
+  "about_en": "Restaurante One Wok Chinese & Thai Food is a Thai restaurant in the Clayton neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Pad Thai"
+  ],
+  "whats_good_en": [
+   "Dual Chinese-and-Thai menu with authentic Thai staples (pad thai, green curry)",
+   "Strong, clearly labeled vegan and vegetarian selection",
+   "Friendly service and reasonable prices in a casual setting"
+  ],
+  "typical_spend_en": null,
+  "dataset_comparison_en": "One of the few Thai kitchens in Clayton",
+  "attributes_en": [
+   "Clearly labeled vegan/vegetarian options",
+   "Located at Clayton Mall, Local 16 (Av. Demetrio B. Lakas)",
+   "Hours: daily 11:30am-8:30pm",
+   "Online ordering (pidepaya)"
+  ],
+  "best_time_en": null,
+  "notable_mention_en": null,
+  "dietary_en": [
+   "Vegan options",
+   "Vegetarian options"
+  ],
+  "sources": [
+   "https://onewok.pidepaya.com/",
+   "https://www.instagram.com/onewokpty/",
+   "https://www.happycow.net/reviews/one-wok-panama-city-347590"
+  ],
+  "best_time": {
+   "busiest": "Fri-Sat, 8-10 PM",
+   "busiest_note_en": "Weekend dinner is busiest",
+   "easy": "Mon-Tue evenings",
+   "easy_note_en": "Relaxed, easy to seat",
+   "sweet": "Thu, 7 PM",
+   "sweet_note_en": "Dinner buzz without the wait"
+  },
+  "social": {
+   "instagram": "https://www.instagram.com/onewokpty/"
+  },
+  "social_proof": "bio: 'One Wok | Thai & Chinese Food, Clayton, Ciudad de Panama'; posts cite Clayton Mall, matching Degusta 'Clayton Mall, local 16'; embed owner onewokpty",
+  "about_es": "Restaurante One Wok Chinese & Thai Food es un restaurante tailandés en el barrio de Clayton, en la Ciudad de Panamá.",
+  "dataset_comparison_es": "Una de las pocas cocinas tailandesas en Clayton",
+  "highlights_es": [
+   "Reconocido por su Pad Thai"
+  ],
+  "whats_good_es": [
+   "Menú combinado de comida china y tailandesa con clásicos auténticos como el pad thai y el curry verde",
+   "Amplia selección vegana y vegetariana claramente identificada",
+   "Servicio amable y precios razonables en un ambiente informal"
+  ],
+  "attributes_es": [
+   "Opciones veganas/vegetarianas claramente identificadas",
+   "Ubicado en Clayton Mall, Local 16 (Av. Demetrio B. Lakas)",
+   "Horario: todos los días de 11:30am a 8:30pm",
+   "Pedidos en línea (pidepaya)"
+  ]
+ },
+ {
+  "id": "clayton-road-house-clayton",
+  "slug": "road-house-clayton",
+  "name": "Road House Clayton",
+  "cuisine_en": [
+   "American"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "clayton",
+  "address": "Casa 186, C. Salteman, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9940251,
+  "lng": -79.5813824,
+  "phones": {
+   "call": "+507 202-4332"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "Closed",
+    "close": ""
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "12:00",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "12:00",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "12:00",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "12:00",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "12:00",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "12:00",
+    "close": "9:00 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/road-house-clayton.jpg",
+    "alt_en": "Outdoor terrace at Road House Clayton, Clayton, Panama City",
+    "alt_es": "Terraza al aire libre de Road House Clayton, Clayton, Ciudad de Panama",
+    "credit_en": "Photo: @roadhouseclayton",
+    "credit_url": "https://www.instagram.com/roadhouseclayton/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "American",
+   "Live-music",
+   "Craft-beer"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Burgers",
+    "description_en": "Burgers are the frequently praised standout",
+    "price": null,
+    "popular": true,
+    "description_es": "Las hamburguesas son el platillo estrella, elogiado una y otra vez."
+   },
+   {
+    "name": "Craft beer",
+    "description_en": "Rotating craft beer selection",
+    "price": null,
+    "popular": false,
+    "description_es": "Selección rotativa de cervezas artesanales."
+   }
+  ],
+  "about_en": "Road House Clayton is an American restaurant in the Clayton neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Burgers"
+  ],
+  "whats_good_en": [
+   "Well-regarded burgers",
+   "Craft beer with occasional live music",
+   "Relaxed City of Knowledge bar-restaurant setting"
+  ],
+  "typical_spend_en": null,
+  "dataset_comparison_en": "One of the few American kitchens in Clayton",
+  "attributes_en": [
+   "Bar / restaurant",
+   "Craft beer",
+   "Live music (occasional)",
+   "Instagram-led"
+  ],
+  "best_time_en": "Open Monday to Saturday, noon to 11:00pm; Sunday noon to 9:00pm",
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/roadhouseclayton/",
+   "https://www.tripadvisor.com/Restaurant_Review-g294480-d31935910-Reviews-Clayton_s_Roadhouse_Cafe-Panama_City_Panama_Province.html"
+  ],
+  "best_time": {
+   "busiest": "Fri-Sat, 8-10 PM",
+   "busiest_note_en": "Weekend dinner is busiest",
+   "easy": "Mon-Tue evenings",
+   "easy_note_en": "Relaxed, easy to seat",
+   "sweet": "Thu, 7 PM",
+   "sweet_note_en": "Dinner buzz without the wait"
+  },
+  "social": {
+   "instagram": "https://www.instagram.com/roadhouseclayton/"
+  },
+  "social_proof": "account name is 'Road House Clayton'; posts geo-reference Ciudad del Saber (Clayton) and describe the family bar-restaurant matching the venue",
+  "about_es": "Road House Clayton es un restaurante americano en el barrio de Clayton, en la Ciudad de Panamá.",
+  "dataset_comparison_es": "Una de las pocas cocinas americanas en Clayton",
+  "best_time_es": "Abierto de lunes a sábado, de mediodía a 11:00pm; domingos de mediodía a 9:00pm",
+  "highlights_es": [
+   "Reconocido por sus hamburguesas"
+  ],
+  "whats_good_es": [
+   "Hamburguesas muy bien valoradas",
+   "Cerveza artesanal con música en vivo de forma ocasional",
+   "Ambiente relajado de bar-restaurante dentro de City of Knowledge"
+  ],
+  "attributes_es": [
+   "Bar / restaurante",
+   "Cerveza artesanal",
+   "Música en vivo (ocasional)",
+   "Con mayor presencia en Instagram"
+  ]
+ },
+ {
+  "id": "clayton-safu",
+  "slug": "safu",
+  "name": "Safu",
+  "cuisine_en": [
+   "International"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "clayton",
+  "address": "2C3G+HRP, Panama City, Panamá Province, Panama",
+  "address_note_en": "",
+  "lat": 9.003969,
+  "lng": -79.57291529999999,
+  "phones": {
+   "call": "+507 227-3240"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "11:30 AM",
+    "close": "9:30 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "11:30 AM",
+    "close": "9:30 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "11:30 AM",
+    "close": "9:30 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "11:30 AM",
+    "close": "9:30 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "11:30 AM",
+    "close": "9:30 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "11:30 AM",
+    "close": "9:30 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "11:30 AM",
+    "close": "9:30 PM"
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "International"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Safu is an International restaurant in the Clayton neighborhood of Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "typical_spend_en": null,
+  "dataset_comparison_en": null,
+  "attributes_en": [
+   "Unverified online footprint"
+  ],
+  "best_time_en": null,
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [],
+  "best_time": {
+   "busiest": "Fri-Sat, 8-10 PM",
+   "busiest_note_en": "Weekend dinner is busiest",
+   "easy": "Mon-Tue evenings",
+   "easy_note_en": "Relaxed, easy to seat",
+   "sweet": "Thu, 7 PM",
+   "sweet_note_en": "Dinner buzz without the wait"
+  },
+  "about_es": "Safu es un restaurante internacional en el barrio de Clayton, en la Ciudad de Panamá.",
+  "attributes_es": [
+   "Presencia en línea no verificada"
+  ]
+ },
+ {
+  "id": "clayton-sushi-kazoku-clayton",
+  "slug": "sushi-kazoku-clayton",
+  "name": "Sushi kazoku Clayton",
+  "cuisine_en": [
+   "Japanese"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "clayton",
+  "address": "Sushi kazoku clayton plaza, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 9.002282,
+  "lng": -79.58226719999999,
+  "phones": {
+   "call": "+507 6058-1385"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "12:00",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "12:00",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "12:00",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "12:00",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "12:00",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "12:00",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "12:00",
+    "close": "8:00 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/sushi-kazoku-clayton.jpg",
+    "alt_en": "Tuna and salmon nigiri at Sushi Kazoku, Clayton, Panama City",
+    "alt_es": "Nigiri de atun y salmon en Sushi Kazoku, Clayton, Ciudad de Panama",
+    "credit_en": "Photo: @sushikazoku_pa",
+    "credit_url": "https://www.instagram.com/sushikazoku_pa/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Japanese",
+   "Ramen"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Specialty maki rolls",
+    "description_en": "House rolls such as salmon, crab, cream cheese and avocado with eel sauce and various toppings.",
+    "price": null,
+    "popular": true,
+    "description_es": "Rolls de la casa como salmón, cangrejo, queso crema y aguacate con salsa de anguila y varios toppings."
+   },
+   {
+    "name": "Ramen",
+    "description_en": "Japanese noodle soup.",
+    "price": null,
+    "popular": false,
+    "description_es": "Sopa de fideos japonesa."
+   },
+   {
+    "name": "Korean / comfort dishes",
+    "description_en": "Korean and comfort-food items on the fusion menu.",
+    "price": null,
+    "popular": false,
+    "description_es": "Platos coreanos y de comfort food en el menú fusión."
+   },
+   {
+    "name": "Sashimi",
+    "description_en": "Sliced raw fish.",
+    "price": null,
+    "popular": false,
+    "description_es": "Pescado crudo en láminas."
+   }
+  ],
+  "about_en": "Sushi kazoku Clayton is a Japanese restaurant in the Clayton neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Specialty maki rolls"
+  ],
+  "whats_good_en": [
+   "Sushi plus a wider Asian-fusion range (ramen, Korean)",
+   "Delivery available via Uber Eats"
+  ],
+  "typical_spend_en": null,
+  "dataset_comparison_en": "One of the few Japanese kitchens in Clayton",
+  "attributes_en": [
+   "Japanese / Asian-fusion menu (sushi, ramen, Korean)",
+   "Delivery via Uber Eats",
+   "Clayton and Costa del Este locations"
+  ],
+  "best_time_en": null,
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/sushikazoku_pa/",
+   "https://www.facebook.com/sushikazokupanama/",
+   "https://www.ubereats.com/pa/store/kazoku-sushi-panama-city/1IUp-B4FXle7xWykB3YV8g"
+  ],
+  "best_time": {
+   "busiest": "Fri-Sat, 8-10 PM",
+   "busiest_note_en": "Prime weekend dinner service",
+   "easy": "Tue-Wed",
+   "easy_note_en": "Quieter room, easier reservation",
+   "sweet": "Thu, 7:30 PM",
+   "sweet_note_en": "Full service, calmer pace"
+  },
+  "social": {
+   "instagram": "https://www.instagram.com/sushikazoku_pa/"
+  },
+  "social_proof": "bio: 'Real Sushi & Real Flavors inside Costa del Este 6488-4791 Clayton 60581385' - lists the Clayton branch with its phone number",
+  "about_es": "Sushi Kazoku Clayton es un restaurante japonés en el barrio de Clayton, Ciudad de Panamá.",
+  "dataset_comparison_es": "Una de las pocas cocinas japonesas en Clayton",
+  "highlights_es": [
+   "Reconocido por sus rollos maki especiales"
+  ],
+  "whats_good_es": [
+   "Sushi y una oferta más amplia de fusión asiática (ramen, coreana)",
+   "Servicio a domicilio disponible a través de Uber Eats"
+  ],
+  "attributes_es": [
+   "Menú japonés / fusión asiática (sushi, ramen, coreana)",
+   "Entrega a domicilio vía Uber Eats",
+   "Locales en Clayton y Costa del Este"
+  ]
+ },
+ {
+  "id": "clayton-taste-of-heaven",
+  "slug": "taste-of-heaven",
+  "name": "Taste of Heaven",
+  "cuisine_en": [
+   "Cafe"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "clayton",
+  "address": "Panama City, Panamá Province, Panama",
+  "address_note_en": "",
+  "lat": 9.002431699999999,
+  "lng": -79.5602947,
+  "phones": {
+   "call": "+507 6577-7971"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "6:00 AM",
+    "close": "6:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "6:00 AM",
+    "close": "6:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "6:00 AM",
+    "close": "6:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "6:00 AM",
+    "close": "6:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "6:00 AM",
+    "close": "6:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "Closed",
+    "close": ""
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "Closed",
+    "close": ""
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Cafe",
+   "Brunch"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Taste of Heaven is a Cafe food concession in the Clayton neighborhood of Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "typical_spend_en": null,
+  "dataset_comparison_en": "One of 11 Cafe spots in Clayton",
+  "attributes_en": [
+   "Operates as a breakfast concession inside the U.S. Embassy (Clayton), Mon-Thu mornings",
+   "Sunday stall at Mi Pueblito",
+   "Not a public walk-in storefront - access likely restricted"
+  ],
+  "best_time_en": null,
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/tasteofheaven.pty/"
+  ],
+  "best_time": {
+   "busiest": "Sat-Sun, 9 AM-12 PM",
+   "busiest_note_en": "Weekend brunch is the peak",
+   "easy": "Weekday mornings",
+   "easy_note_en": "Calm, easy to get a table",
+   "sweet": "Sun, 8:30-9:30 AM",
+   "sweet_note_en": "Fresh and unhurried before the brunch wave"
+  },
+  "about_es": "Taste of Heaven es una concesión de comida tipo café en el barrio de Clayton, Ciudad de Panamá.",
+  "dataset_comparison_es": "Uno de los 11 sitios de café en Clayton",
+  "attributes_es": [
+   "Funciona como concesión de desayunos dentro de la Embajada de EE.UU. (Clayton), de lunes a jueves en las mañanas",
+   "Puesto dominical en Mi Pueblito",
+   "No es un local público al que se pueda entrar directamente; el acceso probablemente es restringido"
+  ]
+ },
+ {
+  "id": "clayton-up-market",
+  "slug": "up-market",
+  "name": "Up Market",
+  "cuisine_en": [
+   "Cafe"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "clayton",
+  "address": "C. Alberto Tejada 00793, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 9.0025753,
+  "lng": -79.58218029999999,
+  "phones": {
+   "call": "+507 6614-4418"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "6:30 AM",
+    "close": "7:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "6:30 AM",
+    "close": "7:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "6:30 AM",
+    "close": "7:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "6:30 AM",
+    "close": "7:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "6:30 AM",
+    "close": "7:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "8:00 AM",
+    "close": "6:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "8:00 AM",
+    "close": "3:30 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/up-market.jpg",
+    "alt_en": "Grab-and-go soups, salad and coffee at Up Market, Ciudad del Saber, Panama City",
+    "alt_es": "Sopas, ensalada y cafe para llevar en Up Market, Ciudad del Saber, Ciudad de Panamá",
+    "credit_en": "Photo: @upmarket_panama",
+    "credit_url": "https://www.instagram.com/upmarket_panama/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Cafe"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Grab-and-go prepared meals",
+    "description_en": "Ready-made meals and market items to take away.",
+    "price": null,
+    "popular": false,
+    "description_es": "Comidas listas y productos de mercado para llevar."
+   },
+   {
+    "name": "Coffee and cafe plates",
+    "description_en": "Cafe coffee and food menu.",
+    "price": null,
+    "popular": false,
+    "description_es": "Menú de café y comida del cafetín."
+   }
+  ],
+  "about_en": "Up Market is a Cafe market in the Clayton neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Grab-and-go prepared meals"
+  ],
+  "whats_good_en": [],
+  "typical_spend_en": null,
+  "dataset_comparison_en": "One of 11 Cafe spots in Clayton",
+  "attributes_en": [
+   "Cafe plus grab-and-go gourmet market",
+   "At La Plaza, Ciudad del Saber (Clayton); also Balboa/El Prado"
+  ],
+  "best_time_en": null,
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/upmarket_panama/",
+   "https://ciudaddelsaber.org/en/the-plaza"
+  ],
+  "best_time": {
+   "busiest": "Sat-Sun, 9 AM-12 PM",
+   "busiest_note_en": "Weekend brunch is the peak",
+   "easy": "Weekday mornings",
+   "easy_note_en": "Calm, easy to get a table",
+   "sweet": "Sun, 8:30-9:30 AM",
+   "sweet_note_en": "Fresh and unhurried before the brunch wave"
+  },
+  "social": {
+   "instagram": "https://www.instagram.com/upmarket_panama/"
+  },
+  "social_proof": "Google local pack lists 'Up Market | Ciudad del Saber - La Plaza' and the bio reads 'Balboa, El Prado Ciudad del Saber, La Plaza'; posts tag 'La Plaza, Ciudad del Saber, Clayton', matching the row's Ciudad del Saber (Clayton) website.",
+  "about_es": "Up Market es un mercado tipo café en el barrio de Clayton, Ciudad de Panamá.",
+  "dataset_comparison_es": "Uno de los 11 sitios de café en Clayton",
+  "highlights_es": [
+   "Reconocido por sus comidas preparadas para llevar"
+  ],
+  "attributes_es": [
+   "Café y mercado gourmet para llevar",
+   "En La Plaza, Ciudad del Saber (Clayton); también en Balboa/El Prado"
+  ]
+ },
+ {
+  "id": "clayton-viva-la-pizza-clayton",
+  "slug": "viva-la-pizza-clayton",
+  "name": "Viva La Pizza - Clayton",
+  "cuisine_en": [
+   "Pizza"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "clayton",
+  "address": "11915 Plaza Local 3, Clayton, C. al Hospital, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 9.0029987,
+  "lng": -79.57364749999999,
+  "phones": {
+   "whatsapp": "+507 6214-6319",
+   "call": "+507 6404-1605"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "Closed",
+    "close": ""
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "12:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "12:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "12:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "12:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "12:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "12:00",
+    "close": "9:00 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/viva-la-pizza-clayton-food.jpg",
+    "alt_en": "Plated dish at Viva La Pizza, Clayton, Panama City",
+    "alt_es": "Plato en Viva La Pizza, Clayton, Ciudad de Panamá",
+    "credit_en": "Photo: Viva La Pizza"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Pizza",
+   "Gluten-free options",
+   "Casual",
+   "Family",
+   "Cocktails"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "The Queen",
+    "description_en": "Pizza with mozzarella, premium pepperoni, stracciatella, spicy honey, basil, and parmesan.",
+    "price": null,
+    "popular": true,
+    "description_es": "Pizza con mozzarella, pepperoni premium, stracciatella, miel picante, albahaca y parmesano."
+   },
+   {
+    "name": "Viva la Pizza",
+    "description_en": "House namesake pie with pepperoni, mushrooms, and spicy honey.",
+    "price": null,
+    "popular": true,
+    "description_es": "La pizza homónima de la casa, con pepperoni, hongos y miel picante."
+   },
+   {
+    "name": "Vodkarella",
+    "description_en": "Mozzarella-provolone blend with pepperoni cups, cherry tomato, vodka sauce, and pesto.",
+    "price": null,
+    "popular": false,
+    "description_es": "Mezcla de mozzarella y provolone con copitas de pepperoni, tomate cherry, salsa vodka y pesto."
+   },
+   {
+    "name": "Sexy Lady",
+    "description_en": "Mozzarella, prosciutto, stracciatella, almonds, caramelized onion, and balsamic glaze.",
+    "price": null,
+    "popular": false,
+    "description_es": "Mozzarella, prosciutto, stracciatella, almendras, cebolla caramelizada y glaseado de balsámico."
+   },
+   {
+    "name": "A Fake Capresa",
+    "description_en": "Mozzarella, marinated tomato, ricotta, basil, and pesto.",
+    "price": null,
+    "popular": false,
+    "description_es": "Mozzarella, tomate marinado, ricotta, albahaca y pesto."
+   },
+   {
+    "name": "Craft cocktails",
+    "description_en": "House cocktail program alongside the pizzas.",
+    "price": null,
+    "popular": false,
+    "description_es": "Carta de cocteles de la casa que acompaña las pizzas."
+   }
+  ],
+  "about_en": "Viva La Pizza - Clayton is a Pizza restaurant in the Clayton neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for The Queen"
+  ],
+  "whats_good_en": [
+   "Long-fermented sourdough crust that reads lighter and more textured than a standard pizza",
+   "Creative, non-standard topping combinations",
+   "Craft-cocktail pairing and a comfortable sit-down setting"
+  ],
+  "typical_spend_en": null,
+  "dataset_comparison_en": "One of 5 Pizza spots in Clayton",
+  "attributes_en": [
+   "Reservations / ordering via website",
+   "Three sizes (small, medium, family)",
+   "Craft cocktails",
+   "Gluten-free-friendly options noted",
+   "Hours: closed Mon; Tue-Sat 12-10pm; Sun 12-9pm",
+   "Part of the Viva La Pizza chain"
+  ],
+  "best_time_en": "Evenings for dinner and cocktails",
+  "notable_mention_en": "Profiled editorially by DoPanama in a feature on the pizzeria's sourdough approach and expat-friendly dining.",
+  "dietary_en": [
+   "Gluten-free options"
+  ],
+  "sources": [
+   "https://vivalapizza.net/",
+   "https://dopanama.com/articles/viva-la-pizza-134",
+   "https://www.instagram.com/vivalapizzza/"
+  ],
+  "best_time": {
+   "busiest": "Fri-Sat evenings",
+   "busiest_note_en": "Weekend nights draw the crowd",
+   "easy": "Weekday lunch",
+   "easy_note_en": "Quick, easy seat",
+   "sweet": "Thu, 6-7 PM",
+   "sweet_note_en": "Early dinner before it fills"
+  },
+  "about_es": "Viva La Pizza - Clayton es un restaurante de pizza en el barrio de Clayton, Ciudad de Panamá.",
+  "dataset_comparison_es": "Uno de los 5 sitios de pizza en Clayton",
+  "best_time_es": "Abre en las noches para cenas y cócteles",
+  "notable_mention_es": "Reseñado editorialmente por DoPanama en un reportaje sobre el estilo de masa madre de la pizzería y su ambiente amigable para expatriados.",
+  "highlights_es": [
+   "Reconocido por The Queen"
+  ],
+  "whats_good_es": [
+   "Masa madre de fermentación larga que resulta más ligera y con más textura que una pizza tradicional",
+   "Combinaciones de ingredientes creativas y poco convencionales",
+   "Maridaje con cócteles artesanales en un ambiente cómodo para sentarse a comer"
+  ],
+  "attributes_es": [
+   "Reservas / pedidos a través del sitio web",
+   "Tres tamaños (pequeño, mediano, familiar)",
+   "Cócteles artesanales",
+   "Se indican opciones aptas para celíacos",
+   "Horario: cerrado los lunes; martes a sábado de 12 a 10pm; domingo de 12 a 9pm",
+   "Parte de la cadena Viva La Pizza"
+  ]
+ },
+ {
+  "id": "clayton-austin-mama-s-corozal-railroad-station",
+  "slug": "austin-mama-s-corozal-railroad-station",
+  "name": "Austin Mama's | Corozal (Railroad Station)",
+  "cuisine_en": [
+   "International"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "clayton",
+  "address": "Estación de pasajeros ferrocarril, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9770415,
+  "lng": -79.5672053,
+  "phones": {
+   "call": "6577-7474"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "Closed",
+    "close": ""
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "12:00",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "12:00",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "12:00",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "12:00",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "12:00",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "12:00",
+    "close": "11:00 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/austin-mama-s-corozal-railroad-station.jpg",
+    "alt_en": "Barbecue tray with sliced brisket, sausage, fries and sides at Austin Mama's, Clayton, Panama City",
+    "alt_es": "Bandeja de barbacoa con brisket en rebanadas, salchicha, papas fritas y acompanamientos en Austin Mama's, Clayton, Ciudad de Panama",
+    "credit_en": "Photo: @austinmamas",
+    "credit_url": "https://www.instagram.com/austinmamas/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "International"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Austin Mama's | Corozal (Railroad Station) is a restaurant in Clayton, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [
+   "Texas-style barbecue, and the brisket is what brings people back.",
+   "The American roadhouse setting and quick, warm service get mentioned nearly as often as the food."
+  ],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.austinmamasbbq.com/",
+   "https://www.google.com/maps/place/?q=place_id:ChIJATXfhXGnrI8RhYHcIpsM3Ts"
+  ],
+  "import_wave": "W1 flagship",
+  "social": {
+   "instagram": "https://www.instagram.com/austinmamas/"
+  },
+  "about_es": "Austin Mama's | Corozal (Railroad Station) es un restaurante en Clayton, Ciudad de Panamá.",
+  "whats_good_es": [
+   "Barbacoa al estilo de Texas, y el brisket es lo que hace que la gente vuelva.",
+   "El ambiente de roadhouse americano y el servicio rápido y cálido se mencionan casi tanto como la comida."
+  ]
+ },
+ {
+  "id": "clayton-duran-coffee-store-la-plaza-ciudad-del-saber",
+  "slug": "duran-coffee-store-la-plaza-ciudad-del-saber",
+  "name": "Durán Coffee Store La Plaza Ciudad del Saber",
+  "cuisine_en": [
+   "International"
+  ],
+  "cuisine_es": [],
+  "price_tier": 1,
+  "neighborhood_slug": "clayton",
+  "address": "C. Jorge Gil, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 9.002746499999999,
+  "lng": -79.5829617,
+  "phones": {},
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "7:00 AM",
+    "close": "7:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "7:00 AM",
+    "close": "7:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "7:00 AM",
+    "close": "7:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "7:00 AM",
+    "close": "7:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "7:00 AM",
+    "close": "7:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "7:00 AM",
+    "close": "7:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "7:00 AM",
+    "close": "5:00 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/duran-coffee-store-la-plaza-ciudad-del-saber.jpg",
+    "alt_en": "Latte with latte art at Durán Coffee Store, La Plaza Ciudad del Saber, Clayton, Panama City",
+    "alt_es": "Café latte con arte latte en Durán Coffee Store, La Plaza Ciudad del Saber, Clayton, Ciudad de Panamá",
+    "credit_en": "Photo: @durancoffeestore",
+    "credit_url": "https://www.instagram.com/durancoffeestore/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "International"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Durán Coffee Store La Plaza Ciudad del Saber is a restaurant in Clayton, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/durancoffeestore/",
+   "https://www.google.com/maps/place/?q=place_id:ChIJ7SvW9bWnrI8R-zbJ9XAjLE4"
+  ],
+  "import_wave": "W2 established",
+  "social": {
+   "instagram": "https://www.instagram.com/durancoffeestore/"
+  },
+  "social_proof": "Official Durán Coffee Store brand account; its sucursales page and multiple posts explicitly name the 'Duran Coffee Store de Clayton (La Plaza, Ciudad del Saber)' branch",
+  "about_es": "Durán Coffee Store La Plaza Ciudad del Saber es un restaurante en Clayton, Ciudad de Panamá."
+ },
+ {
+  "id": "clayton-va-ven",
+  "slug": "va-ven",
+  "name": "Va&Ven",
+  "cuisine_en": [
+   "Cafe"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "clayton",
+  "address": "XCQV+8M5, Panama City, Panamá Province, Panama",
+  "address_note_en": "",
+  "lat": 8.9882516,
+  "lng": -79.55575069999999,
+  "phones": {},
+  "hours": [],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Cafe"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Va&Ven is a cafe in Clayton, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.google.com/maps/place/?q=place_id:ChIJfd734V2prI8RS90XeVFxM-Q"
+  ],
+  "import_wave": "W2 established",
+  "about_es": "Va&Ven es un café en Clayton, Ciudad de Panamá."
+ }
+]

@@ -1,0 +1,5732 @@
+[
+ {
+  "id": "marbella-agave-azul",
+  "slug": "agave-azul",
+  "name": "Agave Azul",
+  "cuisine_en": [
+   "Mexican"
+  ],
+  "cuisine_es": [],
+  "price_tier": 2,
+  "neighborhood_slug": "marbella",
+  "address": "C. Ramon H. Jurado, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.978301499999999,
+  "lng": -79.5103185,
+  "phones": {
+   "call": "+507 396-7377"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "12:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "12:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "12:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "12:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "12:00",
+    "close": "10:30 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "12:00",
+    "close": "10:30 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "12:00",
+    "close": "10:00 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/agave-azul.jpg",
+    "alt_en": "Sizzling alambre with melted cheese at Agave Azul, Panama City",
+    "alt_es": "Alambre con queso fundido en Agave Azul, Ciudad de Panama",
+    "credit_en": "Photo: @agaveazulpty",
+    "credit_url": "https://www.instagram.com/agaveazulpty/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Mexican",
+   "Groups",
+   "Tacos"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Gorditas de chicharron",
+    "description_en": "Masa pockets filled with braised pork chicharron",
+    "price": null,
+    "popular": true,
+    "description_es": "Empanaditas de masa relleñas de chicharrón de cerdo guisado"
+   },
+   {
+    "name": "Carnitas",
+    "description_en": "Slow-cooked pulled pork",
+    "price": null,
+    "popular": true,
+    "description_es": "Cerdo desmechado cocido a fuego lento"
+   },
+   {
+    "name": "Chicharron de pulpo",
+    "description_en": "Crisp-fried octopus",
+    "price": null,
+    "popular": true,
+    "description_es": "Pulpo frito bien crocante"
+   },
+   {
+    "name": "Tacos",
+    "description_en": "A spread of several taco styles",
+    "price": null,
+    "popular": true,
+    "description_es": "Una variedad de tacos en distintos estilos"
+   },
+   {
+    "name": "Guacamole",
+    "description_en": "House guacamole, a frequently ordered starter",
+    "price": null,
+    "popular": false,
+    "description_es": "Guacamole de la casa, una entrada de las más pedidas"
+   },
+   {
+    "name": "Pan de corvina",
+    "description_en": "House sea-bass bread / fritter",
+    "price": null,
+    "popular": false,
+    "description_es": "Pan o buñuelo de corvina de la casa"
+   }
+  ],
+  "about_en": "Agave Azul is a Mexican restaurant in the Marbella neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Gorditas de chicharron"
+  ],
+  "whats_good_en": [
+   "Traditional Mexico City-style cooking done well",
+   "Deep tequila and mezcal selection",
+   "Lively, well-decorated room with pinata-shaped lights"
+  ],
+  "typical_spend_en": null,
+  "dataset_comparison_en": null,
+  "attributes_en": [
+   "Plaza Pacifica, Punta Pacifica (near Corredor Sur entrance)",
+   "Extensive tequila / mezcal list",
+   "Upscale-casual, festive decor"
+  ],
+  "best_time_en": "Dinner; good for groups and drinks",
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/agaveazulpty/",
+   "https://www.degustapanama.com/panama/restaurante/agave-azul_103477.html",
+   "https://www.tripadvisor.com/Restaurant_Review-g294480-d13334840-Reviews-Agave_Azul-Panama_City_Panama_Province.html",
+   "https://www.facebook.com/AgaveAzulPanama/"
+  ],
+  "best_time": {
+   "busiest": "Fri-Sat, 8-10 PM",
+   "busiest_note_en": "Weekend dinner is busiest",
+   "easy": "Mon-Tue evenings",
+   "easy_note_en": "Relaxed, easy to seat",
+   "sweet": "Thu, 7 PM",
+   "sweet_note_en": "Dinner buzz without the wait"
+  },
+  "social": {
+   "instagram": "https://www.instagram.com/agaveazulpty/"
+  },
+  "social_proof": "Bio 'Un pedacito de Mexico en el corazon de Panama', phone 396-7377; only Agave Azul Mexican restaurant in Panama City, posts geotagged Marbella Panama (also lists Plaza Pacifica location)",
+  "about_es": "Agave Azul es un restaurante mexicano en el barrio de Marbella, Ciudad de Panamá.",
+  "best_time_es": "Ideal para cenar en grupo y tomarse unos tragos",
+  "highlights_es": [
+   "Reconocido por sus Gorditas de chicharrón"
+  ],
+  "whats_good_es": [
+   "Cocina tradicional al estilo Ciudad de México, bien lograda",
+   "Amplia selección de tequilas y mezcales",
+   "Ambiente animado y bien decorado, con luces en forma de piñata"
+  ],
+  "attributes_es": [
+   "Plaza Pacifica, Punta Pacifica (cerca de la entrada del Corredor Sur)",
+   "Extensa carta de tequilas y mezcales",
+   "Decoración festiva, de ambiente casual pero elegante"
+  ]
+ },
+ {
+  "id": "marbella-ajisen-ramen-marbella",
+  "slug": "ajisen-ramen-marbella",
+  "name": "Ajisen Ramen",
+  "cuisine_en": [
+   "Japanese"
+  ],
+  "cuisine_es": [],
+  "price_tier": 2,
+  "neighborhood_slug": "marbella",
+  "address": "El Boulevard de, C. Ramon H. Jurado, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9783729,
+  "lng": -79.5117128,
+  "phones": {},
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "11:30 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "11:30 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "11:30 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "11:30 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "11:30 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "11:30 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "11:30 AM",
+    "close": "8:00 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/ajisen-ramen-marbella.jpg",
+    "alt_en": "Ramen at Ajisen Ramen, Panama City",
+    "alt_es": "Ramen en Ajisen Ramen, Ciudad de Panama",
+    "credit_en": "Photo: @ajisenramenpty",
+    "credit_url": "https://www.instagram.com/ajisenramenpty/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Japanese",
+   "Ramen"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Paiku Ramen",
+    "description_en": "Ramen topped with fried pork rib",
+    "price": 16.5,
+    "popular": false,
+    "description_es": "Ramen con costilla de cerdo frita encima"
+   },
+   {
+    "name": "Chasyu Ramen",
+    "description_en": "Ramen with braised pork chashu",
+    "price": 15,
+    "popular": false,
+    "description_es": "Ramen con chashu de cerdo guisado"
+   },
+   {
+    "name": "Katsu Ramen (pollo)",
+    "description_en": "Ramen with breaded chicken cutlet",
+    "price": 14,
+    "popular": false,
+    "description_es": "Ramen con milanesa de pollo empanizada"
+   },
+   {
+    "name": "Ajisen Ramen",
+    "description_en": "The house signature ramen bowl",
+    "price": 11.5,
+    "popular": true,
+    "description_es": "El ramen insignia de la casa"
+   },
+   {
+    "name": "Bento Box (pollo)",
+    "description_en": "Chicken bento combo",
+    "price": 14,
+    "popular": false,
+    "description_es": "Combo bento de pollo"
+   },
+   {
+    "name": "Gyoza",
+    "description_en": "Pan-fried dumplings",
+    "price": 6.5,
+    "popular": false,
+    "description_es": "Dumplings dorados a la sartén"
+   }
+  ],
+  "about_en": "Ajisen Ramen is a Japanese restaurant in the Marbella neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Ajisen Ramen"
+  ],
+  "whats_good_en": [
+   "Kyushu-style tonkotsu ramen",
+   "International ramen franchise with a consistent menu",
+   "Bento and rice combos beyond noodles"
+  ],
+  "typical_spend_en": "$11 to $17 a ramen bowl",
+  "dataset_comparison_en": "One of 4 Japanese spots in Marbella",
+  "attributes_en": [
+   "Card accepted",
+   "Ramen",
+   "Dine-in",
+   "Delivery"
+  ],
+  "best_time_en": "Lunch or dinner",
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://ajisenramenpanama.com/",
+   "https://www.degustapanama.com/panama/restaurante/ajisen-ramen-costa-del-este_108383/menu",
+   "https://www.instagram.com/ajisenramenpty/"
+  ],
+  "best_time": {
+   "busiest": "Fri-Sat, 8-10 PM",
+   "busiest_note_en": "Weekend dinner is busiest",
+   "easy": "Mon-Tue evenings",
+   "easy_note_en": "Relaxed, easy to seat",
+   "sweet": "Thu, 7 PM",
+   "sweet_note_en": "Dinner buzz without the wait"
+  },
+  "price_source": "menu",
+  "social": {
+   "instagram": "https://www.instagram.com/ajisenramenpty/"
+  },
+  "social_proof": "ajisenramenpanama.com/contacto (the row's website) lists Instagram @ajisenramenpty",
+  "about_es": "Ajisen Ramen es un restaurante japonés en el barrio de Marbella, Ciudad de Panamá.",
+  "typical_spend_es": "De $11 a $17 por un bowl de ramen",
+  "dataset_comparison_es": "Uno de los 4 restaurantes japoneses en Marbella",
+  "best_time_es": "Para almorzar o cenar",
+  "highlights_es": [
+   "Reconocido por su Ajisen Ramen"
+  ],
+  "whats_good_es": [
+   "Ramen tonkotsu al estilo Kyushu",
+   "Franquicia internacional de ramen con un menú consistente",
+   "Combos de bento y arroz además de los fideos"
+  ],
+  "attributes_es": [
+   "Se acepta tarjeta",
+   "Ramen",
+   "Para comer en el local",
+   "Servicio a domicilio"
+  ]
+ },
+ {
+  "id": "marbella-boulevard-punta-pacifica-cafe",
+  "slug": "boulevard-punta-pacifica-cafe",
+  "name": "Boulevard Punta Pacífica Café",
+  "cuisine_en": [
+   "Cafe"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "marbella",
+  "address": "XFGR+PWP, Panama City, Panamá Province, Panama",
+  "address_note_en": "",
+  "lat": 8.9768362,
+  "lng": -79.5076857,
+  "phones": {},
+  "hours": [],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Cafe",
+   "Brunch"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Boulevard Punta Pacífica Café is a cafe in the Marbella neighborhood of Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "typical_spend_en": null,
+  "dataset_comparison_en": "One of 7 Cafe spots in Marbella",
+  "attributes_en": [
+   "Cafe on / near Pacific Boulevard, Punta Pacifica per held record",
+   "No verifiable standalone listing found"
+  ],
+  "best_time_en": null,
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [],
+  "best_time": {
+   "busiest": "Fri-Sat, 8-10 PM",
+   "busiest_note_en": "Weekend dinner is busiest",
+   "easy": "Mon-Tue evenings",
+   "easy_note_en": "Relaxed, easy to seat",
+   "sweet": "Thu, 7 PM",
+   "sweet_note_en": "Dinner buzz without the wait"
+  },
+  "about_es": "Boulevard Punta Pacífica Café es una cafetería en el barrio de Marbella, Ciudad de Panamá.",
+  "dataset_comparison_es": "Una de las 7 cafeterías en Marbella",
+  "attributes_es": [
+   "Cafetería en o cerca de Pacific Boulevard, Punta Pacifica, según el registro disponible",
+   "No se encontró un listado independiente verificable"
+  ]
+ },
+ {
+  "id": "marbella-brava-pizza-espuma-marbella",
+  "slug": "brava-pizza-espuma-marbella",
+  "name": "Brava Pizza & Espuma",
+  "cuisine_en": [
+   "Pizza"
+  ],
+  "cuisine_es": [],
+  "price_tier": 2,
+  "neighborhood_slug": "marbella",
+  "address": "Las terrazas de Multiplaza, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9837992,
+  "lng": -79.51104509999999,
+  "phones": {
+   "call": "+507 215-1524"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "12:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "12:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "12:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "12:00",
+    "close": "10:30 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "12:00",
+    "close": "10:30 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "12:00",
+    "close": "10:30 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "12:30",
+    "close": "10:30 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/brava-pizza-espuma-marbella.jpg",
+    "alt_en": "Carpaccio and pizza at Brava Pizza and Espuma, Panama City",
+    "alt_es": "Carpaccio y pizza en Brava Pizza y Espuma, Ciudad de Panama",
+    "credit_en": "Photo: @brava_pizza",
+    "credit_url": "https://www.instagram.com/brava_pizza/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Pizza",
+   "Casual",
+   "Family"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Gran Torino",
+    "description_en": "Signature stone-oven pizza",
+    "price": 16.99,
+    "popular": true,
+    "description_es": "Pizza insignia hecha en horno de piedra"
+   },
+   {
+    "name": "Camarones a la Parmesana",
+    "description_en": "Shrimp-and-parmesan signature pizza",
+    "price": 15.99,
+    "popular": true,
+    "description_es": "Pizza insignia de camarón y parmesano"
+   },
+   {
+    "name": "Pepperoni Churrasco",
+    "description_en": "Pepperoni and grilled-steak pizza",
+    "price": 14.99,
+    "popular": true,
+    "description_es": "Pizza de pepperoni con res a la parrilla"
+   },
+   {
+    "name": "Trufada Roquefort",
+    "description_en": "Truffle-and-roquefort pizza",
+    "price": 15.99,
+    "popular": false,
+    "description_es": "Pizza de trufa con roquefort"
+   },
+   {
+    "name": "Salmon Camarones",
+    "description_en": "Salmon and shrimp pizza",
+    "price": 16.99,
+    "popular": false,
+    "description_es": "Pizza de salmón y camarón"
+   },
+   {
+    "name": "Margarita",
+    "description_en": "Classic tomato-and-mozzarella pizza",
+    "price": null,
+    "popular": false,
+    "description_es": "Pizza clásica de tomate y mozzarella"
+   }
+  ],
+  "about_en": "Brava Pizza & Espuma is a Pizza restaurant in the Marbella neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Gran Torino"
+  ],
+  "whats_good_en": [
+   "Wood/stone-oven pizzas including premium-protein signatures",
+   "Pizza-and-beer pairing concept",
+   "Classic pies from around $11 up to loaded signatures near $17"
+  ],
+  "typical_spend_en": "$11 to $17 a pizza",
+  "dataset_comparison_en": "One of the few Pizza kitchens in Marbella",
+  "attributes_en": [
+   "Ave. de la Rotonda, Town Center (Costa del Este)",
+   "Beer-pairing concept ('espuma')",
+   "Delivery via Uber Eats and PedidosYa"
+  ],
+  "best_time_en": "Dinner or evening drinks",
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/brava_pizza/",
+   "https://www.degustapanama.com/panama/restaurante/brava-pizza-y-espuma-town-center_104013/menu",
+   "https://www.bravapizzayespuma.com/"
+  ],
+  "best_time": {
+   "busiest": "Fri-Sat evenings",
+   "busiest_note_en": "Weekend nights draw the crowd",
+   "easy": "Weekday lunch",
+   "easy_note_en": "Quick, easy seat",
+   "sweet": "Thu, 6-7 PM",
+   "sweet_note_en": "Early dinner before it fills"
+  },
+  "price_source": "menu",
+  "social": {
+   "instagram": "https://www.instagram.com/brava_pizza/"
+  },
+  "social_proof": "Account 'Brava Pizza & Espuma (@brava_pizza) - Panama'; brand site bravapizzayespuma.com links this handle; the row's Degusta page is a branch of the same Panama chain",
+  "about_es": "Brava Pizza & Espuma es un restaurante de pizza en el barrio de Marbella, Ciudad de Panamá.",
+  "typical_spend_es": "De $11 a $17 por una pizza",
+  "dataset_comparison_es": "Una de las pocas pizzerías de Marbella",
+  "best_time_es": "Para cenar o tomarse unos tragos por la noche",
+  "highlights_es": [
+   "Reconocido por su Gran Torino"
+  ],
+  "whats_good_es": [
+   "Pizzas al horno de leña o piedra, incluyendo versiones con proteínas premium",
+   "Un concepto que combina pizza y cerveza",
+   "Pizzas clásicas desde unos $11 hasta versiones cargadas cerca de los $17"
+  ],
+  "attributes_es": [
+   "Ave. de la Rotonda, Town Center (Costa del Este)",
+   "Concepto de maridaje con cerveza ('espuma')",
+   "Entrega a domicilio a través de Uber Eats y PedidosYa"
+  ]
+ },
+ {
+  "id": "marbella-bruttito-multiplaza-mall",
+  "slug": "bruttito-multiplaza-mall",
+  "name": "Bruttito Multiplaza Mall",
+  "cuisine_en": [
+   "Japanese"
+  ],
+  "cuisine_es": [],
+  "price_tier": 2,
+  "neighborhood_slug": "marbella",
+  "address": "Multiplaza Panamá, Plaza del Sol, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.983984699999999,
+  "lng": -79.5102861,
+  "phones": {
+   "call": "+507 390-2036"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "11:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "11:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "11:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "10:00 AM",
+    "close": "8:00 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/bruttito-multiplaza-mall.jpg",
+    "alt_en": "Sake crispy rice at Bruttito, Multiplaza Mall, Marbella, Panama City",
+    "alt_es": "Sake crispy rice en Bruttito, Multiplaza Mall, Marbella, Ciudad de Panamá",
+    "credit_en": "Photo: @bruttitorest",
+    "credit_url": "https://www.instagram.com/bruttitorest/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Japanese",
+   "BBQ"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Dragon Brutto Roll",
+    "description_en": "Tempura langostino, salmon, kani, avocado and cream cheese",
+    "price": 14,
+    "popular": true,
+    "description_es": "Langostino en tempura, salmón, kani, aguacate y queso crema"
+   },
+   {
+    "name": "Foie Foie Roll",
+    "description_en": "Tempura langostino, avocado, kani and salmon with foie cream",
+    "price": 14,
+    "popular": true,
+    "description_es": "Langostino en tempura, aguacate, kani y salmón con crema de foie"
+   },
+   {
+    "name": "Croque Madame",
+    "description_en": "Gouda and havarti with ham and mushroom bechamel",
+    "price": 12,
+    "popular": true,
+    "description_es": "Gouda y havarti con bechamel de jamón y champiñones"
+   },
+   {
+    "name": "Benedictino de Salmon",
+    "description_en": "Poached eggs with fresh salmon and yuzu hollandaise",
+    "price": 12,
+    "popular": true,
+    "description_es": "Huevos pochados con salmón fresco y salsa holandesa de yuzu"
+   },
+   {
+    "name": "STK",
+    "description_en": "8oz beef fillet with bearnaise and truffled fries",
+    "price": 26,
+    "popular": false,
+    "description_es": "Filete de res de 8oz con salsa bearnesa y papas fritas trufadas"
+   },
+   {
+    "name": "Baby Back Ribs",
+    "description_en": "Pork ribs in a spicy Asian BBQ glaze",
+    "price": 29,
+    "popular": false,
+    "description_es": "Costillas de cerdo bañadas en salsa BBQ asiática picante"
+   }
+  ],
+  "about_en": "Bruttito Multiplaza Mall is a Japanese restaurant in the Marbella neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Dragon Brutto Roll"
+  ],
+  "whats_good_en": [
+   "Well-known all-day brunch",
+   "Creative fusion sushi rolls",
+   "One-stop menu spanning sushi, brunch and mains"
+  ],
+  "typical_spend_en": "$12 to $29 a main",
+  "dataset_comparison_en": "One of 4 Japanese spots in Marbella",
+  "attributes_en": [
+   "Multiplaza, Level 2, Local B-237 (Punta Pacifica)",
+   "Mon-Wed 11am-9pm, Thu-Sat 11am-10pm, Sun 10am-8pm",
+   "All-day brunch"
+  ],
+  "best_time_en": "Brunch on weekends; dinner midweek",
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/bruttitorest/",
+   "https://www.bruttito.com/en/menu-panama",
+   "https://multiplaza.com/panama/restaurantes/bruttito-multiplaza-panama",
+   "https://www.degustapanama.com/panama/restaurante/bruttito_105538/menu"
+  ],
+  "best_time": {
+   "busiest": "Fri-Sat, 8-10 PM",
+   "busiest_note_en": "Weekend dinner is busiest",
+   "easy": "Mon-Tue evenings",
+   "easy_note_en": "Relaxed, easy to seat",
+   "sweet": "Thu, 7 PM",
+   "sweet_note_en": "Dinner buzz without the wait"
+  },
+  "price_source": "menu",
+  "social": {
+   "instagram": "https://www.instagram.com/bruttitorest/"
+  },
+  "social_proof": "handle linked from the venue's own site bruttito.com (the row's website), which lists the Multiplaza Pacific Hall address; IG bio lists the same Panama City hours and phone +507 6890-5163 (post DNEon5UMy43 embed confirms owner @bruttitorest)",
+  "about_es": "Bruttito Multiplaza Mall es un restaurante japonés en el barrio de Marbella, Ciudad de Panamá.",
+  "typical_spend_es": "De $12 a $29 por un plato principal",
+  "dataset_comparison_es": "Uno de los 4 restaurantes japoneses en Marbella",
+  "best_time_es": "Brunch los fines de semana; cena entre semana",
+  "highlights_es": [
+   "Conocido por su Dragon Brutto Roll"
+  ],
+  "whats_good_es": [
+   "Famoso brunch disponible todo el día",
+   "Rolls de sushi fusión llenos de creatividad",
+   "Un menú que lo tiene todo: sushi, brunch y platos fuertes"
+  ],
+  "attributes_es": [
+   "Multiplaza, Nivel 2, Local B-237 (Punta Pacifica)",
+   "Lun-Mié 11am-9pm, Jue-Sáb 11am-10pm, Dom 10am-8pm",
+   "Brunch todo el día"
+  ]
+ },
+ {
+  "id": "marbella-cafe-neto",
+  "slug": "cafe-neto",
+  "name": "Cafe neto",
+  "cuisine_en": [
+   "Cafe"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "marbella",
+  "address": "XFJQ+VWR, Panama City, Panamá Province, Panama",
+  "address_note_en": "",
+  "lat": 8.9822398,
+  "lng": -79.5102228,
+  "phones": {},
+  "hours": [],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Cafe",
+   "Brunch"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Cafe Latte",
+    "description_en": "Espresso-based milk coffee",
+    "price": null,
+    "popular": true,
+    "description_es": "Café con leche a base de espresso"
+   },
+   {
+    "name": "Croissants",
+    "description_en": "Bakery croissants",
+    "price": null,
+    "popular": true,
+    "description_es": "Croissants de panadería"
+   },
+   {
+    "name": "Cohen Rolls",
+    "description_en": "House rolls noted repeatedly by diners",
+    "price": null,
+    "popular": true,
+    "description_es": "Los panes de la casa, mencionados una y otra vez por los comensales"
+   },
+   {
+    "name": "Vegetarian breakfast",
+    "description_en": "Meat-free breakfast plate",
+    "price": null,
+    "popular": false,
+    "description_es": "Plato de desayuno sin carne"
+   },
+   {
+    "name": "Sandwiches",
+    "description_en": "Range of cafe sandwiches",
+    "price": null,
+    "popular": false,
+    "description_es": "Variedad de sándwiches del café"
+   },
+   {
+    "name": "Pasta",
+    "description_en": "A few pasta options at lunch",
+    "price": null,
+    "popular": false,
+    "description_es": "Algunas opciones de pasta al mediodía"
+   }
+  ],
+  "about_en": "Cafe neto is a cafe in the Marbella neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Cafe Latte"
+  ],
+  "whats_good_en": [
+   "Gourmet cafe with 100% Italian coffee",
+   "Solid breakfast and light-lunch options",
+   "Handy for the hospital / office district"
+  ],
+  "typical_spend_en": null,
+  "dataset_comparison_en": "One of 7 Cafe spots in Marbella",
+  "attributes_en": [
+   "Card accepted",
+   "Coffee",
+   "Breakfast",
+   "Casual"
+  ],
+  "best_time_en": "Breakfast and mid-morning; opens 6:30am, closed Sundays",
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/cafe_netopty/",
+   "https://www.facebook.com/cafenetooficial/",
+   "https://www.instagram.com/cafenetopanama/",
+   "https://pa.sluurpy.com/ciudad-de-panam%C3%A1/restaurante/5610750/cafe-neto"
+  ],
+  "best_time": {
+   "busiest": "Fri-Sat, 8-10 PM",
+   "busiest_note_en": "Weekend dinner is busiest",
+   "easy": "Mon-Tue evenings",
+   "easy_note_en": "Relaxed, easy to seat",
+   "sweet": "Thu, 7 PM",
+   "sweet_note_en": "Dinner buzz without the wait"
+  },
+  "social": {
+   "instagram": "https://www.instagram.com/cafe_netopty/"
+  },
+  "social_proof": "bio reads 'ubicados al frente de torre de las Americas en el primer piso del hospital Punta Pacifica', the Cafe Neto gourmet cafeteria in Panama City (Facebook page 'Cafe Neto.Panama' confirms the Torre Las Americas location)",
+  "about_es": "Cafe neto es un café ubicado en el barrio de Marbella, en la Ciudad de Panamá.",
+  "dataset_comparison_es": "Uno de los 7 cafés que hay en Marbella",
+  "best_time_es": "Ideal para el desayuno y la media mañana; abre a las 6:30am y cierra los domingos",
+  "highlights_es": [
+   "Conocido por su Cafe Latte"
+  ],
+  "whats_good_es": [
+   "Café gourmet con café 100% italiano",
+   "Buenas opciones de desayuno y almuerzos ligeros",
+   "Muy práctico para quienes trabajan cerca de hospitales y oficinas"
+  ],
+  "attributes_es": [
+   "Se acepta tarjeta",
+   "Café",
+   "Desayuno",
+   "Informal"
+  ]
+ },
+ {
+  "id": "marbella-crush-burger",
+  "slug": "crush-burger",
+  "name": "Crush Burger",
+  "cuisine_en": [
+   "Burgers"
+  ],
+  "cuisine_es": [],
+  "price_tier": 1,
+  "neighborhood_slug": "marbella",
+  "address": "XFHQ+68M, Panama City, Panamá Province, Panama",
+  "address_note_en": "",
+  "lat": 8.978083999999999,
+  "lng": -79.5117131,
+  "phones": {},
+  "hours": [],
+  "photos": [
+   {
+    "url": "/venues/crush-burger.jpg",
+    "alt_en": "Double cheeseburger at Crush Burger, Marbella, Panama City",
+    "alt_es": "Hamburguesa doble con queso en Crush Burger, Marbella, Ciudad de Panamá",
+    "credit_en": "Photo: @crushingburgerspty",
+    "credit_url": "https://www.instagram.com/crushingburgerspty/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Burgers",
+   "Casual",
+   "Family"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Double Crush Burger",
+    "description_en": "Double-patty Angus smash burger",
+    "price": 9,
+    "popular": false,
+    "description_es": "Smash burger doble de Angus"
+   },
+   {
+    "name": "Original Crush Burger",
+    "description_en": "Angus smash burger with house Crush sauce, lettuce, tomato and cheese",
+    "price": 7,
+    "popular": true,
+    "description_es": "Smash burger de Angus con salsa Crush de la casa, lechuga, tomate y queso"
+   },
+   {
+    "name": "Smokey Bacon Burger",
+    "description_en": "Smash burger with bacon",
+    "price": 8,
+    "popular": false,
+    "description_es": "Smash burger con tocineta"
+   },
+   {
+    "name": "Spicy Crispy Chicken Burger",
+    "description_en": "Breaded chicken sandwich with jalapenos and spicy mayo",
+    "price": 8,
+    "popular": false,
+    "description_es": "Sándwich de pollo empanizado con jalapeños y mayonesa picante"
+   },
+   {
+    "name": "Crispy Chicken Tenders",
+    "description_en": "Fried chicken tenders",
+    "price": 9,
+    "popular": false,
+    "description_es": "Tiras de pollo fritas"
+   },
+   {
+    "name": "Angus Prime Salad",
+    "description_en": "Salad with Angus beef",
+    "price": 7.5,
+    "popular": false,
+    "description_es": "Ensalada con carne Angus"
+   }
+  ],
+  "about_en": "Crush Burger is a Burgers restaurant in the Marbella neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Original Crush Burger"
+  ],
+  "whats_good_en": [
+   "Angus smash burgers",
+   "Also crispy-chicken sandwiches, shakes and ice cream",
+   "Casual and affordable"
+  ],
+  "typical_spend_en": "$7 to $9 a burger",
+  "dataset_comparison_en": "One of the few Burgers kitchens in Marbella",
+  "attributes_en": [
+   "Casual",
+   "Burgers",
+   "Affordable",
+   "Delivery"
+  ],
+  "best_time_en": "Lunch or dinner",
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/crushingburgerspty/",
+   "https://www.degustapanama.com/panama/restaurante/crush-burger_108187/menu",
+   "https://www.tripadvisor.com/Restaurant_Review-g294480-d25212294-Reviews-Crush_Burger-Panama_City_Panama_Province.html"
+  ],
+  "best_time": {
+   "busiest": "Fri-Sat evenings",
+   "busiest_note_en": "Weekend nights draw the crowd",
+   "easy": "Weekday lunch",
+   "easy_note_en": "Quick, easy seat",
+   "sweet": "Thu, 6-7 PM",
+   "sweet_note_en": "Early dinner before it fills"
+  },
+  "price_source": "menu",
+  "social": {
+   "instagram": "https://www.instagram.com/crushingburgerspty/"
+  },
+  "social_proof": "account's reel caption reads 'Te esperamos en Pacific Center, Piso 3, Boulevard Punta Pacífica' with CRUSH BURGER branding on screen; posts geotagged Panama City (post C6hBmpFuYeS embed confirms owner @crushingburgerspty)",
+  "about_es": "Crush Burger es un restaurante de hamburguesas ubicado en el barrio de Marbella, en la Ciudad de Panamá.",
+  "typical_spend_es": "Entre $7 y $9 por hamburguesa",
+  "dataset_comparison_es": "Una de las pocas cocinas de hamburguesas en Marbella",
+  "best_time_es": "Ideal para almuerzo o cena",
+  "highlights_es": [
+   "Conocido por su Original Crush Burger"
+  ],
+  "whats_good_es": [
+   "Smash burgers de carne Angus",
+   "También ofrecen sándwiches de pollo crispy, batidos y helados",
+   "Informal y económico"
+  ],
+  "attributes_es": [
+   "Informal",
+   "Hamburguesas",
+   "Económico",
+   "Servicio a domicilio"
+  ]
+ },
+ {
+  "id": "marbella-design-cafe",
+  "slug": "design-cafe",
+  "name": "Design Café",
+  "cuisine_en": [
+   "Cafe"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "marbella",
+  "address": "Calle 50 con via brasil, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9859838,
+  "lng": -79.5142663,
+  "phones": {},
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "10:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "10:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "10:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "10:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "10:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "10:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "Closed",
+    "close": ""
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Cafe",
+   "Brunch"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Design Café is a cafe in the Marbella neighborhood of Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "typical_spend_en": null,
+  "dataset_comparison_en": "One of 7 Cafe spots in Marbella",
+  "attributes_en": [
+   "Cafe per held record; no further public detail found"
+  ],
+  "best_time_en": null,
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [],
+  "best_time": {
+   "busiest": "Sat-Sun, 9 AM-12 PM",
+   "busiest_note_en": "Weekend brunch is the peak",
+   "easy": "Weekday mornings",
+   "easy_note_en": "Calm, easy to get a table",
+   "sweet": "Sun, 8:30-9:30 AM",
+   "sweet_note_en": "Fresh and unhurried before the brunch wave"
+  },
+  "about_es": "Design Café es un café ubicado en el barrio de Marbella, en la Ciudad de Panamá.",
+  "dataset_comparison_es": "Uno de los 7 cafés que hay en Marbella",
+  "attributes_es": [
+   "Registrado como café; no se encontró más información pública al respecto"
+  ]
+ },
+ {
+  "id": "marbella-fonda-del-campo",
+  "slug": "fonda-del-campo",
+  "name": "Fonda Del Campo",
+  "cuisine_en": [
+   "Panamanian"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "marbella",
+  "address": "calle principal, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9850414,
+  "lng": -79.5067778,
+  "phones": {
+   "call": "+507 6267-2148"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "11:00 AM",
+    "close": "3:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "11:00 AM",
+    "close": "3:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "11:00 AM",
+    "close": "3:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "11:00 AM",
+    "close": "3:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "11:00 AM",
+    "close": "3:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "11:00 AM",
+    "close": "3:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "Closed",
+    "close": ""
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/fonda-del-campo.jpg",
+    "alt_en": "Fried fish with patacones at Fonda del Campo, Marbella, Panama City",
+    "alt_es": "Pescado frito con patacones en Fonda del Campo, Marbella, Ciudad de Panamá",
+    "credit_en": "Photo: @fondadelcampo",
+    "credit_url": "https://www.instagram.com/fondadelcampo/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Panamanian"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Bistec encebollado",
+    "description_en": "Steak cooked with onions, served with rice, beans and salad",
+    "price": null,
+    "popular": true,
+    "description_es": "Bistec encebollado, servido con arroz, frijoles y ensalada"
+   },
+   {
+    "name": "Costillas guisadas",
+    "description_en": "Braised pork ribs in a homestyle sauce",
+    "price": null,
+    "popular": true,
+    "description_es": "Costillas de cerdo guisadas en salsa casera"
+   },
+   {
+    "name": "Pollo guisado o frito",
+    "description_en": "Stewed or fried chicken with the standard rice-and-legumes sides",
+    "price": null,
+    "popular": true,
+    "description_es": "Pollo guisado o frito con los acompañamientos clásicos de arroz y menestras"
+   },
+   {
+    "name": "Pescado de los viernes",
+    "description_en": "Fish plate served on Fridays",
+    "price": null,
+    "popular": false,
+    "description_es": "Plato de pescado que se sirve los viernes"
+   },
+   {
+    "name": "Sopas",
+    "description_en": "Daily homestyle soups",
+    "price": null,
+    "popular": false,
+    "description_es": "Sopas caseras del día"
+   }
+  ],
+  "about_en": "Fonda Del Campo is a Panamanian fonda in the Marbella neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Bistec encebollado"
+  ],
+  "whats_good_en": [
+   "Cheap, generous daily plates of traditional Panamanian home cooking",
+   "Warm, grandmother's-kitchen atmosphere",
+   "A rotating chef's plate rather than a fixed menu"
+  ],
+  "typical_spend_en": "$4 to $6 a plate",
+  "dataset_comparison_en": null,
+  "attributes_en": [
+   "Boca la Caja, main street near the health center",
+   "Very budget-friendly (around $5 a plate)",
+   "Daily changing plate by chef Luis Burgos",
+   "Delivery via Uber Eats"
+  ],
+  "best_time_en": "Lunch, when the daily plate is freshest",
+  "notable_mention_en": "Named among the city's best fondas by chefs in La Prensa's roundup of Panama's top fondas (prensa.com).",
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/fondadelcampo/",
+   "https://www.ubereats.com/pa/store/fonda-del-campo/UAVLArNZWeWGadvd7OZqTA",
+   "https://www.prensa.com/vivir/cual-es-la-mejor-fonda-de-panama-un-recorrido-por-las-recomendadas-por-12-chef/"
+  ],
+  "best_time": {
+   "busiest": "Fri-Sat evenings",
+   "busiest_note_en": "Weekend nights draw the crowd",
+   "easy": "Weekday lunch",
+   "easy_note_en": "Quick, easy seat",
+   "sweet": "Thu, 6-7 PM",
+   "sweet_note_en": "Early dinner before it fills"
+  },
+  "social": {
+   "instagram": "https://www.instagram.com/fondadelcampo/"
+  },
+  "social_proof": "bio reads 'Boca la caja, calle principal... Entrando x multiplaza' - the comida-local fonda beside Multiplaza, matching the row's Panamanian cuisine and location (post CRJ1D2jLU-f embed confirms owner @fondadelcampo)",
+  "about_es": "Fonda Del Campo es una fonda panameña ubicada en el barrio de Marbella, en la Ciudad de Panamá.",
+  "typical_spend_es": "Entre $4 y $6 por plato",
+  "best_time_es": "Lo mejor es ir a almorzar, cuando el plato del día está más fresco",
+  "notable_mention_es": "Nombrada por chefs como una de las mejores fondas de la ciudad en el listado de las mejores fondas de Panamá publicado por La Prensa (prensa.com).",
+  "highlights_es": [
+   "Conocido por su Bistec encebollado"
+  ],
+  "whats_good_es": [
+   "Platos del día abundantes y económicos, con la sazón tradicional de la cocina panameña casera",
+   "Ambiente cálido, como en la cocina de la abuela",
+   "Un plato del chef que rota en lugar de un menú fijo"
+  ],
+  "attributes_es": [
+   "Boca la Caja, calle principal cerca del centro de salud",
+   "Muy económico (alrededor de $5 el plato)",
+   "Plato del día a cargo del chef Luis Burgos",
+   "Delivery por Uber Eats"
+  ]
+ },
+ {
+  "id": "marbella-fonda-sabores-del-campo",
+  "slug": "fonda-sabores-del-campo",
+  "name": "Fonda Sabores Del Campo",
+  "cuisine_en": [
+   "Panamanian"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "marbella",
+  "address": "XFJQ+RHR, C. 56 D Este, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9821204,
+  "lng": -79.51111139999999,
+  "phones": {
+   "call": "+507 6766-2903"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "6:00 AM",
+    "close": "3:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "6:00 AM",
+    "close": "3:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "6:00 AM",
+    "close": "3:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "6:00 AM",
+    "close": "3:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "6:00 AM",
+    "close": "3:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "6:00 AM",
+    "close": "3:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "6:00 AM",
+    "close": "3:00 PM"
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Panamanian"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Comida corriente (daily plates)",
+    "description_en": "Rotating Creole home-style breakfast and lunch plates",
+    "price": null,
+    "popular": false,
+    "description_es": "Platos criollos de desayuno y almuerzo que cambian a diario"
+   }
+  ],
+  "about_en": "Fonda Sabores Del Campo is a Panamanian fonda in the Marbella neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Comida corriente (daily plates)"
+  ],
+  "whats_good_en": [
+   "Home-style Creole Panamanian cooking",
+   "Budget breakfast and lunch spot"
+  ],
+  "typical_spend_en": null,
+  "dataset_comparison_en": null,
+  "attributes_en": [
+   "Cash-friendly",
+   "Local fonda",
+   "Breakfast and lunch only",
+   "Budget"
+  ],
+  "best_time_en": "Morning through lunch; opens 6am, Monday-Saturday",
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.paginasamarillas.com.pa/empresas/fonda-sabores-del-campo-sa/panama-32542976",
+   "https://www.facebook.com/p/Sabores-del-Campo-100063161264556/",
+   "https://www.instagram.com/fonda_sabores_del_campo/"
+  ],
+  "best_time": {
+   "busiest": "Fri-Sat evenings",
+   "busiest_note_en": "Weekend nights draw the crowd",
+   "easy": "Weekday lunch",
+   "easy_note_en": "Quick, easy seat",
+   "sweet": "Thu, 6-7 PM",
+   "sweet_note_en": "Early dinner before it fills"
+  },
+  "social": {
+   "instagram": "https://www.instagram.com/fonda_sabores_del_campo/"
+  },
+  "social_proof": "bio reads 'Comidas Criollas ... Telefono 2699819' - the same phone (269-9819) listed for Fonda Sabores Del Campo S.A. on the row's Paginas Amarillas page",
+  "about_es": "Fonda Sabores Del Campo es una fonda panameña en el barrio de Marbella, en la Ciudad de Panamá.",
+  "best_time_es": "De la mañana hasta el almuerzo; abre a las 6am, de lunes a sábado",
+  "highlights_es": [
+   "Conocida por su comida corriente (platos del día)"
+  ],
+  "whats_good_es": [
+   "Cocina criolla panameña, con ese sabor casero",
+   "Lugar económico para desayuno y almuerzo"
+  ],
+  "attributes_es": [
+   "Ideal para pagar en efectivo",
+   "Fonda del barrio",
+   "Solo desayuno y almuerzo",
+   "Económico"
+  ]
+ },
+ {
+  "id": "marbella-la-cucina-de-yaki",
+  "slug": "la-cucina-de-yaki",
+  "name": "La Cucina de Yaki",
+  "cuisine_en": [
+   "Italian"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "marbella",
+  "address": "XFGQ+XQP, Panama City, Panamá Province, Panama",
+  "address_note_en": "",
+  "lat": 8.977452,
+  "lng": -79.51055459999999,
+  "phones": {
+   "call": "+507 6612-1340"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "11:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "11:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "11:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "12:00",
+    "close": "9:30 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "11:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "12:00",
+    "close": "9:30 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "11:00 AM",
+    "close": "9:00 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/la-cucina-de-yaki.jpg",
+    "alt_en": "House-made antipasto in jars at La Cucina de Yaki, Marbella, Panama City",
+    "alt_es": "Antipasto casero en frascos de La Cucina de Yaki, Marbella, Ciudad de Panamá",
+    "credit_en": "Photo: @lacucinadeyaki",
+    "credit_url": "https://www.instagram.com/lacucinadeyaki/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Italian"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "La Cucina de Yaki is an Italian restaurant in the Marbella neighborhood of Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "typical_spend_en": null,
+  "dataset_comparison_en": null,
+  "attributes_en": [
+   "Centro Comercial Plaza Pacific, Local F1-F2, Calle 56 Este (Marbella / Obarrio border)",
+   "Italian per held record; no further public detail found"
+  ],
+  "best_time_en": null,
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/lacucinadeyaki/",
+   "https://pa.near-place.com/la-cucina-de-yaki-panama-city"
+  ],
+  "best_time": {
+   "busiest": "Fri-Sat, 8-10 PM",
+   "busiest_note_en": "Weekend dinner is busiest",
+   "easy": "Mon-Tue evenings",
+   "easy_note_en": "Relaxed, easy to seat",
+   "sweet": "Thu, 7 PM",
+   "sweet_note_en": "Dinner buzz without the wait"
+  },
+  "social": {
+   "instagram": "https://www.instagram.com/lacucinadeyaki/"
+  },
+  "social_proof": "Post embed og:url owner resolves to @lacucinadeyaki; exact name match ('La Cucina de Yaki'), Italian/antipasto maker in Panama tagged #pty #panama",
+  "about_es": "La Cucina de Yaki es un restaurante italiano en el barrio de Marbella, en la Ciudad de Panamá.",
+  "attributes_es": [
+   "Centro Comercial Plaza Pacific, Local F1-F2, Calle 56 Este (límite entre Marbella y Obarrio)",
+   "Registrado como italiano; no se encontró más información pública al respecto"
+  ]
+ },
+ {
+  "id": "marbella-lung-fung",
+  "slug": "lung-fung",
+  "name": "Lung Fung",
+  "cuisine_en": [
+   "Chinese"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "marbella",
+  "address": "floor 3, Pacific Center, C. Ramon H. Jurado, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.978203299999999,
+  "lng": -79.51136919999999,
+  "phones": {
+   "whatsapp": "https://wa.me/50765539305",
+   "call": "+507 310-8282"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "7:30 AM",
+    "close": "3:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "7:30 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "7:30 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "7:30 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "7:30 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "7:30 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "7:30 AM",
+    "close": "9:00 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/lung-fung-food.jpg",
+    "alt_en": "Dim sum spread at Lung Fung, Marbella, Panama City",
+    "alt_es": "Variedad de dim sum en Lung Fung, Marbella, Ciudad de Panamá",
+    "credit_en": "Photo: Palacio Lung Fung"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Chinese",
+   "Groups"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Dim sum (cart service)",
+    "description_en": "Dozens of dim sum varieties wheeled around on carts",
+    "price": null,
+    "popular": true,
+    "description_es": "Decenas de variedades de dim sum que pasean en carritos por el salón"
+   },
+   {
+    "name": "Lung Fung Rolls",
+    "description_en": "House signature rolls named repeatedly by diners",
+    "price": null,
+    "popular": true,
+    "description_es": "Rollos insignia de la casa, los favoritos de los comensales"
+   },
+   {
+    "name": "Roast pork",
+    "description_en": "Cantonese-style roast pork",
+    "price": null,
+    "popular": true,
+    "description_es": "Cerdo asado al estilo cantonés"
+   },
+   {
+    "name": "Cantonese classics",
+    "description_en": "Broad Cantonese and international-Chinese main dishes",
+    "price": null,
+    "popular": false,
+    "description_es": "Amplia variedad de platos cantoneses y de cocina china internacional"
+   }
+  ],
+  "about_en": "Lung Fung is a Chinese restaurant in the Marbella neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Dim sum (cart service)"
+  ],
+  "whats_good_en": [
+   "Long-running Panama City Chinese institution",
+   "Cart-served dim sum with dozens of varieties",
+   "Large private rooms and event halls for groups"
+  ],
+  "typical_spend_en": null,
+  "dataset_comparison_en": "One of the few Chinese kitchens in Marbella",
+  "attributes_en": [
+   "Card accepted",
+   "Dim sum",
+   "Groups / events",
+   "Private rooms"
+  ],
+  "best_time_en": "Weekend lunch/brunch for the full dim sum cart service",
+  "notable_mention_en": "Written up in Frommer's Panama City dining coverage as a long-established dim sum destination.",
+  "dietary_en": [],
+  "sources": [
+   "https://palaciolungfung.com/",
+   "https://www.frommers.com/destinations/panama-city/restaurants/palacio-lung-fung/",
+   "https://www.tripadvisor.com/Restaurant_Review-g294480-d1309023-Reviews-Lung_Fung-Panama_City_Panama_Province.html"
+  ],
+  "best_time": {
+   "busiest": "Fri-Sat, 8-10 PM",
+   "busiest_note_en": "Weekend dinner is busiest",
+   "easy": "Mon-Tue evenings",
+   "easy_note_en": "Relaxed, easy to seat",
+   "sweet": "Thu, 7 PM",
+   "sweet_note_en": "Dinner buzz without the wait"
+  },
+  "about_es": "Lung Fung es un restaurante chino en el barrio de Marbella, en la Ciudad de Panamá.",
+  "dataset_comparison_es": "Una de las pocas cocinas chinas en Marbella",
+  "best_time_es": "Ideal para el almuerzo o brunch de fin de semana, con el servicio completo de carritos de dim sum",
+  "notable_mention_es": "Mencionado en la guía gastronómica de Frommer's sobre la Ciudad de Panamá como un destino de dim sum de larga trayectoria.",
+  "highlights_es": [
+   "Conocido por su dim sum (servicio en carritos)"
+  ],
+  "whats_good_es": [
+   "Una institución china de larga historia en la Ciudad de Panamá",
+   "Dim sum servido en carritos, con decenas de variedades",
+   "Amplios salones privados y espacios para eventos y grupos"
+  ],
+  "attributes_es": [
+   "Acepta tarjeta",
+   "Dim sum",
+   "Grupos / eventos",
+   "Salones privados"
+  ]
+ },
+ {
+  "id": "marbella-maguro",
+  "slug": "maguro",
+  "name": "Maguro",
+  "cuisine_en": [
+   "Japanese"
+  ],
+  "cuisine_es": [],
+  "price_tier": 4,
+  "neighborhood_slug": "marbella",
+  "address": "Plaza la florida, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9796011,
+  "lng": -79.5188888,
+  "phones": {
+   "call": "+507 388-6018"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "12:00",
+    "close": "9:45 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "12:00",
+    "close": "9:45 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "12:00",
+    "close": "9:45 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "12:00",
+    "close": "9:45 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "12:00",
+    "close": "10:15 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "12:00",
+    "close": "10:15 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "12:00",
+    "close": "9:00 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/maguro.jpg",
+    "alt_en": "Japanese tataki at Maguro, Marbella, Panama City",
+    "alt_es": "Tataki japonés en Maguro, Marbella, Ciudad de Panamá",
+    "credit_en": "Photo: @maguropty",
+    "credit_url": "https://www.instagram.com/maguropty/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Japanese",
+   "Business",
+   "Date-night",
+   "Outdoor",
+   "Groups",
+   "BBQ"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Tabletop yakiniku (Japanese BBQ)",
+    "description_en": "Premium imported cuts grilled at your table on a built-in gas grill, prepped by the kitchen and finished to taste.",
+    "price": null,
+    "popular": true,
+    "description_es": "Cortes importados premium que se asan en tu mesa sobre una parrilla de gas incorporada, preparados por la cocina y terminados a tu gusto."
+   },
+   {
+    "name": "Sushi, nigiri and sashimi",
+    "description_en": "A broad selection of fresh sushi, nigiri and sashimi from the sushi bar.",
+    "price": null,
+    "popular": true,
+    "description_es": "Una amplia selección de sushi fresco, nigiri y sashimi directo de la barra de sushi."
+   },
+   {
+    "name": "All-you-can-eat menu",
+    "description_en": "A fixed all-you-can-eat option spanning roughly 200 sushi and grill choices.",
+    "price": null,
+    "popular": true,
+    "description_es": "Una opción fija de comer sin límite con alrededor de 200 opciones entre sushi y parrilla."
+   }
+  ],
+  "about_en": "Maguro is a Japanese upscale-casual grill in the Marbella neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Tabletop yakiniku (Japanese BBQ)"
+  ],
+  "whats_good_en": [
+   "Interactive grill-at-your-table experience with premium imported beef",
+   "Wide breadth of both sushi and Korean-style BBQ under one roof",
+   "Multiple settings - indoor rooms, a terrace and a lounge - suited to groups"
+  ],
+  "typical_spend_en": null,
+  "dataset_comparison_en": "One of 4 Japanese spots in Marbella",
+  "attributes_en": [
+   "Tabletop gas grill (yakiniku)",
+   "All-you-can-eat option",
+   "A la carte menu",
+   "Sushi bar",
+   "Terrace and lounge",
+   "Bar / happy hour",
+   "Private rooms",
+   "Takeout"
+  ],
+  "best_time_en": "Dinner, and a strong fit for groups who want the grill-your-own experience",
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.opentable.com/r/maguro-panama-panama-city",
+   "https://www.instagram.com/maguropty/",
+   "https://www.tripadvisor.com/Restaurant_Review-g294480-d13558629-Reviews-Maguro_Restaurante-Panama_City_Panama_Province.html"
+  ],
+  "best_time": {
+   "busiest": "Fri-Sat, 8-10 PM",
+   "busiest_note_en": "Prime weekend dinner service",
+   "easy": "Tue-Wed",
+   "easy_note_en": "Quieter room, easier reservation",
+   "sweet": "Thu, 7:30 PM",
+   "sweet_note_en": "Full service, calmer pace"
+  },
+  "social": {
+   "instagram": "https://www.instagram.com/maguropty/"
+  },
+  "social_proof": "reviewer post states 'Se llama Maguro y está ubicado en Plaza La Florida en Marbella'; the OpenTable page in the row's website column belongs to the same venue and the account posts as Maguro Japanese BBQ & Sushi in Panamá (post DZDPSP8lcAL embed confirms owner @maguropty)",
+  "about_es": "Maguro es una parrilla japonesa de estilo casual-elegante en el barrio de Marbella, en la Ciudad de Panamá.",
+  "dataset_comparison_es": "Uno de los 4 restaurantes japoneses en Marbella",
+  "best_time_es": "Perfecto para la cena, y una gran opción para grupos que quieran la experiencia de asar en la mesa",
+  "highlights_es": [
+   "Conocido por su yakiniku de mesa (parrilla japonesa)"
+  ],
+  "whats_good_es": [
+   "Una experiencia interactiva de parrilla en la mesa con carne premium importada",
+   "Gran variedad de sushi y parrilla al estilo coreano bajo un mismo techo",
+   "Varios ambientes -salones interiores, una terraza y un lounge- ideales para grupos"
+  ],
+  "attributes_es": [
+   "Parrilla de gas en la mesa (yakiniku)",
+   "Opción de comida libre (all-you-can-eat)",
+   "Menú a la carta",
+   "Barra de sushi",
+   "Terraza y lounge",
+   "Bar / happy hour",
+   "Salones privados",
+   "Para llevar"
+  ]
+ },
+ {
+  "id": "marbella-michael-s-restaurant",
+  "slug": "michael-s-restaurant",
+  "name": "Michael's Restaurant",
+  "cuisine_en": [
+   "Cafe"
+  ],
+  "cuisine_es": [],
+  "price_tier": 2,
+  "neighborhood_slug": "marbella",
+  "address": "C. 47 Este, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9765752,
+  "lng": -79.52609559999999,
+  "phones": {
+   "call": "+507 6421-9417"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "Closed",
+    "close": ""
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "8:00 AM",
+    "close": "3:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "8:00 AM",
+    "close": "3:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "8:00 AM",
+    "close": "3:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "8:00 AM",
+    "close": "3:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "7:00 AM",
+    "close": "3:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "7:00 AM",
+    "close": "3:00 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/michael-s-restaurant.jpg",
+    "alt_en": "Chicken and waffle at Michael's Restaurant, Marbella, Panama City",
+    "alt_es": "Chicken and waffle en Michael's Restaurant, Marbella, Ciudad de Panamá",
+    "credit_en": "Photo: @michaelspty",
+    "credit_url": "https://www.instagram.com/michaelspty/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Cafe",
+   "Outdoor",
+   "Dog-friendly"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Creme brulee French toast",
+    "description_en": "French toast finished with a caramelized brulee top",
+    "price": null,
+    "popular": true,
+    "description_es": "Tostadas francesas con un toque caramelizado tipo brulee"
+   },
+   {
+    "name": "Avocado toast",
+    "description_en": "Toast topped with avocado",
+    "price": null,
+    "popular": true,
+    "description_es": "Pan tostado con aguacate"
+   },
+   {
+    "name": "Big breakfast plates",
+    "description_en": "Hearty American-style breakfasts with eggs and sides",
+    "price": null,
+    "popular": true,
+    "description_es": "Desayunos abundantes al estilo americano con huevos y acompañantes"
+   },
+   {
+    "name": "Pancakes",
+    "description_en": "Stack of breakfast pancakes",
+    "price": null,
+    "popular": false,
+    "description_es": "Torre de panqueques de desayuno"
+   },
+   {
+    "name": "Brunch classics",
+    "description_en": "All-day brunch dishes accommodating food sensitivities",
+    "price": null,
+    "popular": false,
+    "description_es": "Platos de brunch disponibles todo el día, aptos para distintas restricciones alimenticias"
+   }
+  ],
+  "about_en": "Michael's Restaurant is a Cafe restaurant in the Marbella neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Creme brulee French toast"
+  ],
+  "whats_good_en": [
+   "Hearty American breakfast and brunch served all day",
+   "Welcoming, owner-run atmosphere",
+   "Pet-friendly terrace; accommodates food sensitivities"
+  ],
+  "typical_spend_en": null,
+  "dataset_comparison_en": "One of 7 Cafe spots in Marbella",
+  "attributes_en": [
+   "Edificio Aquarius, Calle 47 Este, Marbella",
+   "Mon-Fri 8am-3pm, Sat-Sun 7am-3pm (daytime only)",
+   "No reservations; pet-friendly",
+   "Instagram: @michaelspty"
+  ],
+  "best_time_en": "Breakfast or brunch (daytime only, closes 3pm)",
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/michaelspty/",
+   "https://michaels-restaurant.placejoys.com/",
+   "https://www.tripadvisor.com/Restaurant_Review-g294480-d23297458-Reviews-Michael_s_Restaurant-Panama_City_Panama_Province.html"
+  ],
+  "best_time": {
+   "busiest": "Sat-Sun, 9 AM-12 PM",
+   "busiest_note_en": "Weekend brunch is the peak",
+   "easy": "Weekday mornings",
+   "easy_note_en": "Calm, easy to get a table",
+   "sweet": "Sun, 8:30-9:30 AM",
+   "sweet_note_en": "Fresh and unhurried before the brunch wave"
+  },
+  "social": {
+   "instagram": "https://www.instagram.com/michaelspty/"
+  },
+  "social_proof": "account posts state 'Michael's Panamá (Marbella, calle 47)', matching the row website's address 'C. 47 Este' and the Marbella hood (post DTN5ISmDW5b embed confirms owner @michaelspty)",
+  "about_es": "Michael's Restaurant es un café en el barrio de Marbella, en la Ciudad de Panamá.",
+  "dataset_comparison_es": "Uno de los 7 cafés de Marbella",
+  "best_time_es": "Desayuno o brunch (solo de día, cierra a las 3pm)",
+  "highlights_es": [
+   "Reconocido por su Creme brulee French toast"
+  ],
+  "whats_good_es": [
+   "Desayuno y brunch americano abundante que se sirve todo el día",
+   "Ambiente acogedor, atendido por sus propios dueños",
+   "Terraza pet-friendly; se adaptan a restricciones alimentarias"
+  ],
+  "attributes_es": [
+   "Edificio Aquarius, Calle 47 Este, Marbella",
+   "Lun-vie 8am-3pm, sáb-dom 7am-3pm (solo horario diurno)",
+   "No se aceptan reservas; pet-friendly",
+   "Instagram: @michaelspty"
+  ]
+ },
+ {
+  "id": "marbella-pita-plus",
+  "slug": "pita-plus",
+  "name": "PITA PLUS",
+  "cuisine_en": [
+   "Middle Eastern"
+  ],
+  "cuisine_es": [],
+  "price_tier": 2,
+  "neighborhood_slug": "marbella",
+  "address": "Av. Italia, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.977273799999999,
+  "lng": -79.5146954,
+  "phones": {
+   "whatsapp": "https://wa.me/50765043335",
+   "call": "+507 6504-3335"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "11:00 AM",
+    "close": "10:30 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "11:00 AM",
+    "close": "10:30 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "11:00 AM",
+    "close": "10:30 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "11:00 AM",
+    "close": "10:30 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "10:30 AM",
+    "close": "3:30 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "7:30",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "11:00 AM",
+    "close": "10:30 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/pita-plus.jpg",
+    "alt_en": "Pepper steak with rice at Pita Plus, Paitilla, Panama City",
+    "alt_es": "Pepper steak con arroz en Pita Plus, Paitilla, Ciudad de Panamá",
+    "credit_en": "Photo: @pitapluspty",
+    "credit_url": "https://www.instagram.com/pitapluspty/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Middle Eastern",
+   "Gluten-free options"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Shawarma",
+    "description_en": "Spit-roasted seasoned meat",
+    "price": null,
+    "popular": true,
+    "description_es": "Carne sazonada asada al espetón"
+   },
+   {
+    "name": "Falafel",
+    "description_en": "Fried chickpea fritters",
+    "price": null,
+    "popular": false,
+    "description_es": "Buñuelos fritos de garbanzo"
+   },
+   {
+    "name": "Hummus",
+    "description_en": "Chickpea and tahini dip",
+    "price": null,
+    "popular": false,
+    "description_es": "Dip de garbanzo con tahini"
+   },
+   {
+    "name": "Kebabs",
+    "description_en": "Grilled skewered meats",
+    "price": null,
+    "popular": false,
+    "description_es": "Brochetas de carne a la parrilla"
+   },
+   {
+    "name": "Chicken poppers",
+    "description_en": "Crispy fried chicken bites",
+    "price": null,
+    "popular": false,
+    "description_es": "Trocitos de pollo frito bien crujientes"
+   },
+   {
+    "name": "Pargiyot sandwich",
+    "description_en": "Sandwich of grilled chicken thigh",
+    "price": null,
+    "popular": false,
+    "description_es": "Sándwich de muslo de pollo a la parrilla"
+   }
+  ],
+  "about_en": "PITA PLUS is a Middle Eastern restaurant in the Marbella neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Shawarma"
+  ],
+  "whats_good_en": [
+   "Kosher-certified Middle Eastern menu",
+   "Shawarma, falafel and hummus staples",
+   "Also carries international and some Chinese options"
+  ],
+  "typical_spend_en": null,
+  "dataset_comparison_en": "One of the few Middle Eastern kitchens in Marbella",
+  "attributes_en": [
+   "Kosher",
+   "Card accepted",
+   "Middle Eastern",
+   "Gluten-free on request"
+  ],
+  "best_time_en": null,
+  "notable_mention_en": null,
+  "dietary_en": [
+   "Gluten-free options"
+  ],
+  "sources": [
+   "https://www.instagram.com/pitapluspty/",
+   "https://www.pitapluspanama.com/",
+   "https://kosherpanama.org/single-restaurant/l0l9nszqcki1uq62hezlrmo3/",
+   "https://wanderlog.com/place/details/2407114/pita-plus"
+  ],
+  "best_time": {
+   "busiest": "Fri-Sat, 8-10 PM",
+   "busiest_note_en": "Weekend dinner is busiest",
+   "easy": "Mon-Tue evenings",
+   "easy_note_en": "Relaxed, easy to seat",
+   "sweet": "Thu, 7 PM",
+   "sweet_note_en": "Dinner buzz without the wait"
+  },
+  "social": {
+   "instagram": "https://www.instagram.com/pitapluspty/"
+  },
+  "social_proof": "the venue's own website pitapluspanama.com links this Instagram in its header; address Av. Italia, Plaza Bal Harbour matches the account's Paitilla location posts",
+  "about_es": "PITA PLUS es un restaurante de comida del Medio Oriente en el barrio de Marbella, en la Ciudad de Panamá.",
+  "dataset_comparison_es": "Una de las pocas cocinas de Medio Oriente en Marbella",
+  "highlights_es": [
+   "Reconocido por su Shawarma"
+  ],
+  "whats_good_es": [
+   "Menú de comida de Medio Oriente con certificación kosher",
+   "Shawarma, falafel y hummus como platos insignia",
+   "También ofrecen opciones internacionales y algunas chinas"
+  ],
+  "attributes_es": [
+   "Kosher",
+   "Se acepta tarjeta",
+   "Comida de Medio Oriente",
+   "Opción sin gluten a pedido"
+  ]
+ },
+ {
+  "id": "marbella-ricominciare-cucina-italiana",
+  "slug": "ricominciare-cucina-italiana",
+  "name": "Ricominciare Cucina italiana",
+  "cuisine_en": [
+   "Italian"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "marbella",
+  "address": "Oceanía Business Plaza, torre 1000, y 2000 PB, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9811369,
+  "lng": -79.5097703,
+  "phones": {
+   "call": "+507 6678-9514"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "12:00",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "12:00",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "12:00",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "12:00",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "12:00",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "12:00",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "12:00",
+    "close": "10:00 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/ricominciare-cucina-italiana.jpg",
+    "alt_en": "Italian dishes and wine at Ricominciare Cucina Italiana, Marbella, Panama City",
+    "alt_es": "Platos italianos y vino en Ricominciare Cucina Italiana, Marbella, Ciudad de Panamá",
+    "credit_en": "Photo: @ricominciare_rest",
+    "credit_url": "https://www.instagram.com/ricominciare_rest/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Italian"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Carbonara-stuffed ravioli",
+    "description_en": "House ravioli filled with a carbonara-style egg-and-guanciale cream, a signature dish",
+    "price": null,
+    "popular": true,
+    "description_es": "Ravioles de la casa rellenos con una crema estilo carbonara de huevo y guanciale, un plato insignia"
+   },
+   {
+    "name": "Fresh pastas",
+    "description_en": "Traditional and creative pasta dishes made with imported Italian ingredients",
+    "price": null,
+    "popular": true,
+    "description_es": "Pastas tradicionales y creativas preparadas con ingredientes importados de Italia"
+   },
+   {
+    "name": "Italian mains",
+    "description_en": "Rotating meat and seafood mains in the classic Italian repertoire",
+    "price": null,
+    "popular": false,
+    "description_es": "Platos principales de carne y mariscos, dentro del repertorio clásico italiano, que rotan según el día"
+   }
+  ],
+  "about_en": "Ricominciare Cucina italiana is an Italian restaurant in the Marbella neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Carbonara-stuffed ravioli"
+  ],
+  "whats_good_en": [
+   "Traditional-plus-creative Italian cooking with ingredients imported from Italy",
+   "Elegant, intimate room suited to special occasions and romantic dinners",
+   "Consistently praised food and service"
+  ],
+  "typical_spend_en": null,
+  "dataset_comparison_en": null,
+  "attributes_en": [
+   "Oceania Business Plaza, Punta Pacifica",
+   "Open daily, roughly midday to late evening",
+   "Reservations via OpenTable; good for private events",
+   "Instagram: @ricominciare_rest"
+  ],
+  "best_time_en": "Dinner; reserve ahead for a table",
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/ricominciare_rest/",
+   "https://www.opentable.com/restaurant/profile/1425871",
+   "https://www.tripadvisor.com/Restaurant_Review-g294480-d32978783-Reviews-Ricominciare-Panama_City_Panama_Province.html"
+  ],
+  "best_time": {
+   "busiest": "Fri-Sat, 8-10 PM",
+   "busiest_note_en": "Weekend dinner is busiest",
+   "easy": "Mon-Tue evenings",
+   "easy_note_en": "Relaxed, easy to seat",
+   "sweet": "Thu, 7 PM",
+   "sweet_note_en": "Dinner buzz without the wait"
+  },
+  "social": {
+   "instagram": "https://www.instagram.com/ricominciare_rest/"
+  },
+  "social_proof": "bio reads 'Oceanía Business Plaza PB'; OpenTable profile 1425871 (the row's website) is RICOMINCIARE CUCINA ITALIANA, Punta Pacífica, Panama City (post DNbGoR2xsyC embed confirms owner @ricominciare_rest)",
+  "about_es": "Ricominciare Cucina italiana es un restaurante italiano en el barrio de Marbella, en la Ciudad de Panamá.",
+  "best_time_es": "Cena; se recomienda reservar mesa con anticipación",
+  "highlights_es": [
+   "Reconocido por su ravioli relleno de carbonara"
+  ],
+  "whats_good_es": [
+   "Cocina italiana entre tradicional y creativa, con ingredientes importados de Italia",
+   "Espacio elegante e íntimo, ideal para ocasiones especiales y cenas románticas",
+   "Comida y servicio consistentemente elogiados"
+  ],
+  "attributes_es": [
+   "Oceania Business Plaza, Punta Pacifica",
+   "Abierto todos los días, aproximadamente de mediodía a última hora de la noche",
+   "Reservas a través de OpenTable; ideal para eventos privados",
+   "Instagram: @ricominciare_rest"
+  ]
+ },
+ {
+  "id": "marbella-saint-honore-marbella",
+  "slug": "saint-honore-marbella",
+  "name": "Saint Honoré",
+  "cuisine_en": [
+   "Cafe"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "marbella",
+  "address": "Pacific Village 2, Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9760838,
+  "lng": -79.50738700000001,
+  "phones": {
+   "call": "+507 6598-0996"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "7:00 AM",
+    "close": "7:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "7:00 AM",
+    "close": "7:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "7:00 AM",
+    "close": "7:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "7:00 AM",
+    "close": "7:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "7:00 AM",
+    "close": "7:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "7:00 AM",
+    "close": "7:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "7:00 AM",
+    "close": "7:00 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/saint-honore.jpg",
+    "alt_en": "Tray of cream-topped pastries with fresh berries at Saint Honoré, Casco Viejo, Panama City",
+    "alt_es": "Bandeja de pasteles con crema y frutos rojos en Saint Honoré, Casco Viejo, Ciudad de Panamá",
+    "credit_en": "Photo: Saint Honoré",
+    "credit_url": "https://sainthonorepty.com/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Cafe",
+   "Brunch",
+   "Work-friendly"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Almond croissant",
+    "description_en": "Croissant filled with almond paste and dusted with powdered sugar.",
+    "price": null,
+    "popular": true,
+    "description_es": "Croissant rellena de pasta de almendra y espolvoreada con azúcar glas"
+   },
+   {
+    "name": "Tarta Saint Honoré",
+    "description_en": "Puff-pastry base ringed with cream-filled choux puffs, the house namesake.",
+    "price": null,
+    "popular": true,
+    "description_es": "Base de hojaldre rodeada de choux rellenos de crema, el postre insignia de la casa"
+   },
+   {
+    "name": "Macarons",
+    "description_en": "Assorted French macarons.",
+    "price": null,
+    "popular": false,
+    "description_es": "Macarons franceses variados"
+   },
+   {
+    "name": "Opera cake",
+    "description_en": "Layered almond sponge with coffee cream and chocolate ganache; needs advance order.",
+    "price": null,
+    "popular": false,
+    "description_es": "Bizcocho de almendra en capas con crema de café y ganache de chocolate; requiere pedirse con anticipación"
+   },
+   {
+    "name": "Eggs Benedict",
+    "description_en": "Poached eggs with salmon or turkey, from the breakfast menu.",
+    "price": null,
+    "popular": false,
+    "description_es": "Huevos poché con salmón o pavo, del menú de desayuno"
+   },
+   {
+    "name": "Crepes",
+    "description_en": "Both sweet and savory versions offered.",
+    "price": null,
+    "popular": false,
+    "description_es": "Se ofrecen versiones tanto dulces como saladas"
+   }
+  ],
+  "about_en": "Saint Honoré is a cafe in the Marbella neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Almond croissant"
+  ],
+  "whats_good_en": [
+   "French-style croissants and pastries that draw repeat praise.",
+   "Cappuccino frequently singled out as a highlight.",
+   "Cozy corner with outdoor seating under stone archways."
+  ],
+  "typical_spend_en": null,
+  "dataset_comparison_en": "One of 7 Cafe spots in Marbella",
+  "attributes_en": [
+   "On Avenida A, Casco Antiguo",
+   "Accepts Visa, Mastercard and cash",
+   "Wi-Fi available",
+   "Part of a multi-location Panama bakery group",
+   "Opens daily 7am to 7pm",
+   "Opera cake and some items require roughly 48 hours advance order"
+  ],
+  "best_time_en": "Breakfast or an afternoon pastry break",
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://sainthonorepty.com/",
+   "https://www.degustapanama.com/panama/restaurante/saint-honore-casco-antiguo_108276.html",
+   "https://laptopfriendlycafe.com/cafes/panama-city/saint-honore-casco-viejo"
+  ],
+  "best_time": {
+   "busiest": "Sat-Sun, 9 AM-12 PM",
+   "busiest_note_en": "Weekend brunch is the peak",
+   "easy": "Weekday mornings",
+   "easy_note_en": "Calm, easy to get a table",
+   "sweet": "Sun, 8:30-9:30 AM",
+   "sweet_note_en": "Fresh and unhurried before the brunch wave"
+  },
+  "attributes_es": [
+   "En Avenida A, Casco Antiguo",
+   "Acepta Visa, Mastercard y efectivo",
+   "Cuenta con Wi-Fi",
+   "Parte de un grupo de panaderías con varias sucursales en Panamá",
+   "Abre todos los días de 7am a 7pm",
+   "La torta ópera y algunos productos requieren un pedido con aproximadamente 48 horas de anticipación"
+  ],
+  "about_es": "Saint Honoré es un café en el barrio de Marbella, en la Ciudad de Panamá.",
+  "dataset_comparison_es": "Uno de los 7 locales de Cafe en Marbella",
+  "best_time_es": "Ideal para el desayuno o un descanso con repostería por la tarde",
+  "highlights_es": [
+   "Reconocido por su Almond croissant"
+  ],
+  "whats_good_es": [
+   "Croissants y repostería de estilo francés que generan elogios constantes.",
+   "El cappuccino suele destacarse como uno de los favoritos.",
+   "Un rincón acogedor con mesas al aire libre bajo arcos de piedra."
+  ]
+ },
+ {
+  "id": "marbella-stizzoli",
+  "slug": "stizzoli",
+  "name": "Stizzoli",
+  "cuisine_en": [
+   "Italian"
+  ],
+  "cuisine_es": [],
+  "price_tier": 2,
+  "neighborhood_slug": "marbella",
+  "address": "The Panama Clinic, Pacific Center 0000, Panama City, Panamá Province, Panama",
+  "address_note_en": "",
+  "lat": 8.9783561,
+  "lng": -79.51149319999999,
+  "phones": {},
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "12:00",
+    "close": "10:30 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "12:00",
+    "close": "10:30 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "12:30",
+    "close": "10:30 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "12:00",
+    "close": "11:30 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "12:00",
+    "close": "11:30 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "12:00",
+    "close": "11:30 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "9:30 AM",
+    "close": "10:30 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/stizzoli.jpg",
+    "alt_en": "Artisan pizza at Stizzoli, Pacific Center, Marbella, Panama City",
+    "alt_es": "Pizza artesanal en Stizzoli, Pacific Center, Marbella, Ciudad de Panamá",
+    "credit_en": "Photo: @stizzolipanama",
+    "credit_url": "https://www.instagram.com/stizzolipanama/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Italian"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Linguini ai Frutti di Mare",
+    "description_en": "Seafood linguine",
+    "price": 22.99,
+    "popular": false,
+    "description_es": "Linguine de mariscos"
+   },
+   {
+    "name": "Pizza Stizzoli",
+    "description_en": "House signature pizza",
+    "price": 20.99,
+    "popular": true,
+    "description_es": "Pizza insignia de la casa"
+   },
+   {
+    "name": "Rigatoni alla Pastora",
+    "description_en": "Rigatoni in a sausage-and-ricotta style sauce",
+    "price": 16.5,
+    "popular": false,
+    "description_es": "Rigatoni en salsa estilo salchicha y ricotta"
+   },
+   {
+    "name": "Fettuccine crema rosa di salmone e vodka",
+    "description_en": "Fettuccine in a pink salmon-vodka cream sauce",
+    "price": 16.99,
+    "popular": false,
+    "description_es": "Fettuccine en salsa rosada de salmón y vodka"
+   },
+   {
+    "name": "Lasagna al Ragu",
+    "description_en": "Baked meat-ragu lasagna",
+    "price": 12.5,
+    "popular": false,
+    "description_es": "Lasaña horneada con ragú de carne"
+   },
+   {
+    "name": "Margherita",
+    "description_en": "Classic tomato-and-mozzarella pizza",
+    "price": 10.99,
+    "popular": false,
+    "description_es": "Pizza clásica de tomate y mozzarella"
+   }
+  ],
+  "about_en": "Stizzoli is an Italian restaurant in the Marbella neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Pizza Stizzoli"
+  ],
+  "whats_good_en": [
+   "Artisanal pastas and Italian-style pizzas",
+   "Praised tiramisu and coffee",
+   "Sit-down Italian inside a mall food hall"
+  ],
+  "typical_spend_en": "$11 to $23 a main",
+  "dataset_comparison_en": null,
+  "attributes_en": [
+   "Card accepted",
+   "Dine-in",
+   "Delivery",
+   "Italian"
+  ],
+  "best_time_en": "Lunch or dinner; open into the late evening Thursday-Saturday",
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/stizzolipanama/",
+   "https://www.pacificcenter.com.pa/en/gastronomy/stizzoli/",
+   "https://www.opentable.com/r/stizzoli-pacific-center-panama",
+   "https://www.degustapanama.com/panama/restaurante/stizzoli-pacific-center_108030/menu"
+  ],
+  "best_time": {
+   "busiest": "Fri-Sat, 8-10 PM",
+   "busiest_note_en": "Weekend dinner is busiest",
+   "easy": "Mon-Tue evenings",
+   "easy_note_en": "Relaxed, easy to seat",
+   "sweet": "Thu, 7 PM",
+   "sweet_note_en": "Dinner buzz without the wait"
+  },
+  "price_source": "menu",
+  "social": {
+   "instagram": "https://www.instagram.com/stizzolipanama/"
+  },
+  "social_proof": "bio lists 'Stizzoli Pacific Center' (the row's website is Pacific Center's Stizzoli page) and OpenTable's 'Stizzoli - Pacific Center' listing links instagram.com/stizzolipanama; note @casastizzoli is the family's separate San Francisco venue (post Da02cLFoJO- embed confirms owner @stizzolipanama)",
+  "about_es": "Stizzoli es un restaurante italiano en el barrio de Marbella, en la Ciudad de Panamá.",
+  "typical_spend_es": "De $11 a $23 por plato principal",
+  "best_time_es": "Almuerzo o cena; abierto hasta tarde de jueves a sábado",
+  "highlights_es": [
+   "Reconocido por su Pizza Stizzoli"
+  ],
+  "whats_good_es": [
+   "Pastas artesanales y pizzas al estilo italiano",
+   "El tiramisú y el café son muy elogiados",
+   "Restaurante italiano de mesa dentro de una plaza de comidas"
+  ],
+  "attributes_es": [
+   "Se acepta tarjeta",
+   "Para comer en el local",
+   "Servicio a domicilio",
+   "Italiano"
+  ]
+ },
+ {
+  "id": "marbella-sushi-express-marbella",
+  "slug": "sushi-express-marbella",
+  "name": "Sushi Express",
+  "cuisine_en": [
+   "Japanese"
+  ],
+  "cuisine_es": [],
+  "price_tier": 2,
+  "neighborhood_slug": "marbella",
+  "address": "Centro Comercial Plaza Pacific Local F1-F2, C. 56 Este, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.977758,
+  "lng": -79.5104855,
+  "phones": {
+   "call": "+507 214-4490"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/sushi-express-marbella.jpg",
+    "alt_en": "Crunchy sushi rolls at Sushi Express, Panama City",
+    "alt_es": "Rollos de sushi crocantes en Sushi Express, Ciudad de Panamá",
+    "credit_en": "Photo: @sushiexpresspanama",
+    "credit_url": "https://www.instagram.com/sushiexpresspanama/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Japanese"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Kioto roll",
+    "description_en": "Fresh salmon, avocado, crab mix, and cream cheese with a spicy mayo and soy glaze.",
+    "price": 12.95,
+    "popular": true,
+    "description_es": "Salmón fresco, aguacate, mezcla de cangrejo y queso crema, con mayonesa picante y glaseado de soya"
+   },
+   {
+    "name": "Bang Bang roll",
+    "description_en": "Fresh salmon, breaded crab, fresh tuna, and cream cheese.",
+    "price": 13.5,
+    "popular": true,
+    "description_es": "Salmón fresco, cangrejo empanizado, atún fresco y queso crema"
+   },
+   {
+    "name": "Toy roll",
+    "description_en": "Breaded shrimp, avocado, and crab mix with a crisp coating and soy glaze.",
+    "price": 10.5,
+    "popular": false,
+    "description_es": "Camarón empanizado, aguacate y mezcla de cangrejo con cobertura crujiente y glaseado de soya"
+   },
+   {
+    "name": "Spicy roll",
+    "description_en": "Fresh tuna, avocado, and cream cheese topped with tuna tartar.",
+    "price": 12.95,
+    "popular": false,
+    "description_es": "Atún fresco, aguacate y queso crema, coronado con tartar de atún"
+   },
+   {
+    "name": "Gyosas",
+    "description_en": "Pork- or chicken-filled dumplings with a ginger mayo sauce.",
+    "price": null,
+    "popular": false,
+    "description_es": "Dumplings rellenos de cerdo o pollo con salsa de mayonesa y jengibre"
+   },
+   {
+    "name": "Yakisoba / hot plates",
+    "description_en": "Wok noodles and teppanyaki-style hot plates.",
+    "price": null,
+    "popular": false,
+    "description_es": "Fideos wok y platos calientes al estilo teppanyaki."
+   }
+  ],
+  "about_en": "Sushi Express is a Japanese restaurant in the Marbella neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Kioto roll"
+  ],
+  "whats_good_en": [
+   "Wide roll and combination selection at reasonable prices",
+   "Quick option for a sushi meal inside the mall",
+   "Beyond rolls: sashimi, donburi, tempura, and yakisoba"
+  ],
+  "typical_spend_en": "$7 to $16 a plate",
+  "dataset_comparison_en": "One of 4 Japanese spots in Marbella",
+  "attributes_en": [
+   "Albrook Mall food court",
+   "Delivery via Uber Eats and PedidosYa",
+   "Kids meals available"
+  ],
+  "best_time_en": null,
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/sushiexpresspanama/",
+   "https://www.degustapanama.com/panama/restaurante/sushi-express-albrook-mall_101302/menu",
+   "https://www.albrookmall.com/locales/sushi-express.html",
+   "https://sushiexpresspanama.com/"
+  ],
+  "best_time": {
+   "busiest": "Fri-Sat, 8-10 PM",
+   "busiest_note_en": "Prime weekend dinner service",
+   "easy": "Tue-Wed",
+   "easy_note_en": "Quieter room, easier reservation",
+   "sweet": "Thu, 7:30 PM",
+   "sweet_note_en": "Full service, calmer pace"
+  },
+  "social": {
+   "instagram": "https://www.instagram.com/sushiexpresspanama/"
+  },
+  "social_proof": "handle matches the chain's own domain sushiexpresspanama.com and its Facebook page (Panama City, delivery 214-4490); the row's Degusta listing is a branch of this same Panama chain",
+  "about_es": "Sushi Express es un restaurante japonés en el barrio de Marbella, en la Ciudad de Panamá.",
+  "typical_spend_es": "De $7 a $16 por plato",
+  "dataset_comparison_es": "Uno de los 4 restaurantes japoneses en Marbella",
+  "highlights_es": [
+   "Reconocido por su Kioto roll"
+  ],
+  "whats_good_es": [
+   "Amplia variedad de rolls y combinaciones a precios razonables",
+   "Opción rápida para comer sushi dentro del mall",
+   "Además de los rolls: sashimi, donburi, tempura y yakisoba"
+  ],
+  "attributes_es": [
+   "Plaza de comidas de Albrook Mall",
+   "Entrega a domicilio vía Uber Eats y PedidosYa",
+   "Ofrece menú infantil"
+  ]
+ },
+ {
+  "id": "marbella-the-coffee-bean-tea-leaf-marbella-1",
+  "slug": "the-coffee-bean-tea-leaf-marbella-1",
+  "name": "The Coffee Bean & Tea Leaf",
+  "cuisine_en": [
+   "Cafe"
+  ],
+  "cuisine_es": [],
+  "price_tier": 2,
+  "neighborhood_slug": "marbella",
+  "address": "Torre Grand, C. Grand Tower, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9760178,
+  "lng": -79.5076978,
+  "phones": {
+   "call": "+507 269-2233"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "7:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "7:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "7:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "7:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "7:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "7:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "7:00 AM",
+    "close": "9:00 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/the-coffee-bean-tea-leaf-marbella-1.jpg",
+    "alt_en": "Iced drinks at The Coffee Bean & Tea Leaf, Marbella, Panama City",
+    "alt_es": "Bebidas frias en The Coffee Bean & Tea Leaf, Marbella, Ciudad de Panama",
+    "credit_en": "Photo: @coffeebeanpty",
+    "credit_url": "https://www.instagram.com/coffeebeanpty/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Cafe",
+   "Brunch"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Signature coffee",
+    "description_en": "Brewed coffee from the chain's Arabica selection, in light or dark roast.",
+    "price": null,
+    "popular": true,
+    "description_es": "Café de la selección Arábica de la cadena, en tueste claro u oscuro."
+   },
+   {
+    "name": "Ice Blended drinks",
+    "description_en": "Espresso and milk blended with ice and signature powders, topped with whipped cream, in flavors like mocha, vanilla, caramel and cookies-and-cream.",
+    "price": null,
+    "popular": true,
+    "description_es": "Espresso y leche mezclados con hielo y polvos característicos de la casa, cubiertos con crema batida, en sabores como moca, vainilla, caramelo y cookies-and-cream."
+   },
+   {
+    "name": "Cold brew",
+    "description_en": "Cold-steeped coffee blend served over ice.",
+    "price": null,
+    "popular": false,
+    "description_es": "Mezcla de café de infusión fría servida con hielo."
+   }
+  ],
+  "about_en": "The Coffee Bean & Tea Leaf is a cafe in the Marbella neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Signature coffee"
+  ],
+  "whats_good_en": [
+   "Familiar chain coffee-and-tea menu with blended drinks",
+   "Convenient Albrook stop for travelers near the terminal/airport"
+  ],
+  "typical_spend_en": null,
+  "dataset_comparison_en": "One of 7 Cafe spots in Marbella",
+  "attributes_en": [
+   "International chain",
+   "Tea selection",
+   "Near Albrook terminal / airport"
+  ],
+  "best_time_en": null,
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/coffeebeanpty/",
+   "https://www.coffeebean.com/store/panama/panam%C3%A1/ave.-omar-torrijos-herrera-albrook-field-10",
+   "https://coffeebean.com.pa/"
+  ],
+  "best_time": {
+   "busiest": "Sat-Sun, 9 AM-12 PM",
+   "busiest_note_en": "Weekend brunch is the peak",
+   "easy": "Weekday mornings",
+   "easy_note_en": "Calm, easy to get a table",
+   "sweet": "Sun, 8:30-9:30 AM",
+   "sweet_note_en": "Fresh and unhurried before the brunch wave"
+  },
+  "social": {
+   "instagram": "https://www.instagram.com/coffeebeanpty/"
+  },
+  "social_proof": "official 'The Coffee Bean & Tea Leaf - Panama' country account (45K followers) covering all Panama City branches, matching the row's coffeebean.com Panama store page; embed owner confirmed coffeebeanpty",
+  "about_es": "The Coffee Bean & Tea Leaf es una cafetería en el barrio de Marbella, en la Ciudad de Panamá.",
+  "dataset_comparison_es": "Una de las 7 cafeterías en Marbella",
+  "highlights_es": [
+   "Reconocido por su café de la casa"
+  ],
+  "whats_good_es": [
+   "Menú clásico de cadena con café, té y bebidas mezcladas",
+   "Parada práctica en Albrook para viajeros cerca de la terminal/aeropuerto"
+  ],
+  "attributes_es": [
+   "Cadena internacional",
+   "Variedad de tés",
+   "Cerca de la terminal de Albrook / aeropuerto"
+  ]
+ },
+ {
+  "id": "marbella-the-coffee-bean-tea-leaf-marbella-2",
+  "slug": "the-coffee-bean-tea-leaf-marbella-2",
+  "name": "The Coffee Bean & Tea Leaf",
+  "cuisine_en": [
+   "Cafe"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "marbella",
+  "address": "XFJQ+QRP, Panama City, Panamá Province, Panama",
+  "address_note_en": "",
+  "lat": 8.9821367,
+  "lng": -79.5104762,
+  "phones": {},
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "7:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "7:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "7:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "7:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "7:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "7:00 AM",
+    "close": "5:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "Closed",
+    "close": ""
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/the-coffee-bean-tea-leaf-marbella-2.jpg",
+    "alt_en": "Iced drinks at The Coffee Bean & Tea Leaf, Marbella, Panama City",
+    "alt_es": "Bebidas frias en The Coffee Bean & Tea Leaf, Marbella, Ciudad de Panama",
+    "credit_en": "Photo: @coffeebeanpty",
+    "credit_url": "https://www.instagram.com/coffeebeanpty/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Cafe",
+   "Brunch"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Signature coffee",
+    "description_en": "Brewed coffee from the chain's Arabica selection, in light or dark roast.",
+    "price": null,
+    "popular": true,
+    "description_es": "Café de la selección Arábica de la cadena, en tueste claro u oscuro."
+   },
+   {
+    "name": "Ice Blended drinks",
+    "description_en": "Espresso and milk blended with ice and signature powders, topped with whipped cream, in flavors like mocha, vanilla, caramel and cookies-and-cream.",
+    "price": null,
+    "popular": true,
+    "description_es": "Espresso y leche mezclados con hielo y polvos característicos de la casa, cubiertos con crema batida, en sabores como moca, vainilla, caramelo y cookies-and-cream."
+   },
+   {
+    "name": "Cold brew",
+    "description_en": "Cold-steeped coffee blend served over ice.",
+    "price": null,
+    "popular": false,
+    "description_es": "Mezcla de café de infusión fría servida con hielo."
+   }
+  ],
+  "about_en": "The Coffee Bean & Tea Leaf is a cafe in the Marbella neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Signature coffee"
+  ],
+  "whats_good_en": [
+   "Familiar chain coffee-and-tea menu with blended drinks",
+   "Convenient Albrook stop for travelers near the terminal/airport"
+  ],
+  "typical_spend_en": null,
+  "dataset_comparison_en": "One of 7 Cafe spots in Marbella",
+  "attributes_en": [
+   "International chain",
+   "Tea selection",
+   "Near Albrook terminal / airport"
+  ],
+  "best_time_en": null,
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/coffeebeanpty/",
+   "https://www.coffeebean.com/store/panama/panam%C3%A1/ave.-omar-torrijos-herrera-albrook-field-10",
+   "https://coffeebean.com.pa/"
+  ],
+  "best_time": {
+   "busiest": "Sat-Sun, 9 AM-12 PM",
+   "busiest_note_en": "Weekend brunch is the peak",
+   "easy": "Weekday mornings",
+   "easy_note_en": "Calm, easy to get a table",
+   "sweet": "Sun, 8:30-9:30 AM",
+   "sweet_note_en": "Fresh and unhurried before the brunch wave"
+  },
+  "social": {
+   "instagram": "https://www.instagram.com/coffeebeanpty/"
+  },
+  "social_proof": "official 'The Coffee Bean & Tea Leaf - Panama' country account (45K followers) covering all Panama City branches, matching the row's coffeebean.com Panama store page; embed owner confirmed coffeebeanpty",
+  "about_es": "The Coffee Bean & Tea Leaf es una cafetería en el barrio de Marbella, en la Ciudad de Panamá.",
+  "dataset_comparison_es": "Una de las 7 cafeterías en Marbella",
+  "highlights_es": [
+   "Reconocido por su café de la casa"
+  ],
+  "whats_good_es": [
+   "Carta clásica de cadena con café, té y bebidas licuadas",
+   "Una parada práctica en Albrook para viajeros cerca de la terminal/aeropuerto"
+  ],
+  "attributes_es": [
+   "Cadena internacional",
+   "Selección de tés",
+   "Cerca de la terminal de Albrook / aeropuerto"
+  ]
+ },
+ {
+  "id": "marbella-wahaka-restaurante",
+  "slug": "wahaka-restaurante",
+  "name": "Wahaka Restaurante",
+  "cuisine_en": [
+   "Mexican"
+  ],
+  "cuisine_es": [],
+  "price_tier": 2,
+  "neighborhood_slug": "marbella",
+  "address": "Torre 2000, Local C, Oceania Business Center, Blvd. Pacífica, Panama City, Panamá Province, Panama",
+  "address_note_en": "",
+  "lat": 8.980454700000001,
+  "lng": -79.50981340000001,
+  "phones": {
+   "call": "+507 6169-7167"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "12:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "12:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "12:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "12:00 PM",
+    "close": "12:00 AM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "12:00 PM",
+    "close": "12:00 AM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "12:00 PM",
+    "close": "12:00 AM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "12:00",
+    "close": "9:00 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/wahaka-restaurante.jpg",
+    "alt_en": "Enmoladas with mole poblano at Wahaka Restaurante, Marbella, Panama City",
+    "alt_es": "Enmoladas con mole poblano en Wahaka Restaurante, Marbella, Ciudad de Panamá",
+    "credit_en": "Photo: @wahakarest",
+    "credit_url": "https://www.instagram.com/wahakarest/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Mexican",
+   "Tacos"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Taco al Pastor",
+    "description_en": "Marinated pork taco",
+    "price": 8,
+    "popular": true,
+    "description_es": "Taco de cerdo marinado"
+   },
+   {
+    "name": "Taco Gobernador",
+    "description_en": "Shrimp taco",
+    "price": 10,
+    "popular": true,
+    "description_es": "Taco de camarón"
+   },
+   {
+    "name": "Fish Taco",
+    "description_en": "Battered fish taco",
+    "price": 10,
+    "popular": true,
+    "description_es": "Taco de pescado empanizado"
+   },
+   {
+    "name": "Beefy Juicy Roll",
+    "description_en": "Mexican-Japanese fusion sushi roll",
+    "price": 14,
+    "popular": true,
+    "description_es": "Rollo de sushi de fusión mexicano-japonesa"
+   },
+   {
+    "name": "Grilled Octopus with Pipian",
+    "description_en": "Char-grilled octopus in a pumpkin-seed pipian sauce",
+    "price": 22,
+    "popular": false,
+    "description_es": "Pulpo a la parrilla en salsa de pipián con semillas de calabaza"
+   },
+   {
+    "name": "Skirt Steak",
+    "description_en": "Grilled skirt steak main",
+    "price": 36,
+    "popular": false,
+    "description_es": "Plato principal de arrachera a la parrilla"
+   }
+  ],
+  "about_en": "Wahaka Restaurante is a Mexican restaurant in the Marbella neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Taco al Pastor"
+  ],
+  "whats_good_en": [
+   "Tacos and Mexican-Japanese fusion rolls in one menu",
+   "Guacamole, churros and margaritas draw repeat mentions",
+   "Doubles as a late-night music lounge on weekends"
+  ],
+  "typical_spend_en": "$8 to $36 a main",
+  "dataset_comparison_en": null,
+  "attributes_en": [
+   "Tower 200, Oceania Business Plaza, Punta Pacifica",
+   "Restaurant by day; lounge / club Thursday-Saturday until late",
+   "Cocktail and tequila program",
+   "Instagram: @wahakarest"
+  ],
+  "best_time_en": "Dinner; later for the bar / lounge on weekends",
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.wahakarest.com/en/menu",
+   "https://www.instagram.com/wahakarest/",
+   "https://www.tripadvisor.com/Restaurant_Review-g294480-d18546569-Reviews-Wahaka-Panama_City_Panama_Province.html"
+  ],
+  "best_time": {
+   "busiest": "Fri-Sat, 8-10 PM",
+   "busiest_note_en": "Weekend dinner is busiest",
+   "easy": "Mon-Tue evenings",
+   "easy_note_en": "Relaxed, easy to seat",
+   "sweet": "Thu, 7 PM",
+   "sweet_note_en": "Dinner buzz without the wait"
+  },
+  "price_source": "menu",
+  "social": {
+   "instagram": "https://www.instagram.com/wahakarest/"
+  },
+  "social_proof": "handle linked from the venue's own site wahakarest.com (the row's website), which lists Tower 200 Oceania Business Plaza, Panama City (post DYfj7-mj0Vh embed confirms owner @wahakarest)",
+  "about_es": "Wahaka Restaurante es un restaurante mexicano ubicado en el barrio de Marbella, en Ciudad de Panamá.",
+  "typical_spend_es": "Entre $8 y $36 por plato principal",
+  "best_time_es": "Para cenar; los fines de semana el bar / lounge se extiende hasta más tarde",
+  "highlights_es": [
+   "Reconocido por su Taco al Pastor"
+  ],
+  "whats_good_es": [
+   "Tacos y rollos de fusión mexicano-japonesa en un solo menú",
+   "El guacamole, los churros y las margaritas son mencionados una y otra vez",
+   "Los fines de semana se transforma en un lounge musical hasta tarde"
+  ],
+  "attributes_es": [
+   "Torre 200, Oceania Business Plaza, Punta Pacifica",
+   "Restaurante de día; lounge / club de jueves a sábado hasta tarde",
+   "Carta de cocteles y tequilas",
+   "Instagram: @wahakarest"
+  ]
+ },
+ {
+  "id": "marbella-olive-garden-multiplaza",
+  "slug": "olive-garden-multiplaza",
+  "name": "Olive Garden | Multiplaza",
+  "cuisine_en": [
+   "Bar"
+  ],
+  "cuisine_es": [],
+  "price_tier": 2,
+  "neighborhood_slug": "marbella",
+  "address": "Multiplaza Panamá, C. Isaac Hanono Missri, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9840769,
+  "lng": -79.51112859999999,
+  "phones": {
+   "call": "238-1756"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "11:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "11:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "11:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "11:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "11:00 AM",
+    "close": "9:00 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/olive-garden-multiplaza.jpg",
+    "alt_en": "Pasta and breadsticks at Olive Garden, Marbella, Panama City",
+    "alt_es": "Pastas y grissini en Olive Garden, Marbella, Ciudad de Panamá",
+    "credit_en": "Photo: @olivegardenpanama",
+    "credit_url": "https://www.instagram.com/olivegardenpanama/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Bar"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Olive Garden | Multiplaza is a bar in Marbella, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [
+   "The kitchen tracks the US branches closely, and people who know the chain from abroad find the dishes taste the way they expect.",
+   "It sits open to the mall concourse, so the setting is functional rather than atmospheric."
+  ],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/olivegardenpanama/",
+   "https://olivegarden.com.pa/",
+   "https://www.google.com/maps/place/?q=place_id:ChIJIUT6VlGprI8RvA2TB-zkMXw"
+  ],
+  "import_wave": "W1 flagship",
+  "social": {
+   "instagram": "https://www.instagram.com/olivegardenpanama/",
+   "facebook": "https://www.facebook.com/OliveGardenPanama/"
+  },
+  "social_proof": "handle pre-verified in this batch; photo pulled from the venue's own logged-out Instagram grid, so the owning account is the venue itself",
+  "about_es": "Olive Garden | Multiplaza es un bar en Marbella, Ciudad de Panamá.",
+  "whats_good_es": [
+   "La cocina sigue de cerca las sucursales de EE. UU., y quienes conocen la cadena desde afuera sienten que los platos saben tal como esperan.",
+   "Está abierto hacia el pasillo del mall, así que el ambiente es más funcional que acogedor."
+  ]
+ },
+ {
+  "id": "marbella-texas-de-brazil",
+  "slug": "texas-de-brazil",
+  "name": "Texas de Brazil",
+  "cuisine_en": [
+   "International"
+  ],
+  "cuisine_es": [],
+  "price_tier": 4,
+  "neighborhood_slug": "marbella",
+  "address": "C. Tomas Gabriel Duque, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9780771,
+  "lng": -79.51134499999999,
+  "phones": {
+   "call": "309-2230"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "12:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "12:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "12:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "12:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "12:00",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "12:00",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "12:00",
+    "close": "9:00 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/texas-de-brazil.jpg",
+    "alt_en": "Churrasco picanha skewer at Texas de Brazil, Marbella, Panama City",
+    "alt_es": "Espada de picaña churrasco en Texas de Brazil, Marbella, Ciudad de Panamá",
+    "credit_en": "Photo: @texasdebrazilpty",
+    "credit_url": "https://www.instagram.com/texasdebrazilpty/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "International"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Was Now",
+    "description_en": "",
+    "price": 5.99,
+    "popular": false
+   }
+  ],
+  "about_en": "Texas de Brazil is a restaurant in Marbella, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [
+   "Servers work the room continuously, keeping cuts circulating and checking which ones you want brought back.",
+   "The salad bar is small compared with other rodizios in the city, and opinions on it split more than on the meat."
+  ],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/texasdebrazilpty/",
+   "http://www.texasdebrazilpty.com/",
+   "https://www.google.com/maps/place/?q=place_id:ChIJLwM3Xr2prI8RwkQhYLlH8Ms"
+  ],
+  "import_wave": "W1 flagship",
+  "social": {
+   "instagram": "https://www.instagram.com/texasdebrazilpty/",
+   "facebook": "https://www.facebook.com/texasdebrazilpty/"
+  },
+  "social_proof": "handle pre-verified in this batch; photo pulled from the venue's own logged-out Instagram grid, so the owning account is the venue itself",
+  "about_es": "Texas de Brazil es un restaurante en Marbella, Ciudad de Panamá.",
+  "whats_good_es": [
+   "Los meseros recorren el salón sin parar, manteniendo los cortes en circulación y preguntando cuáles quieres que vuelvan a pasar.",
+   "La barra de ensaladas es pequeña comparada con otros rodizios de la ciudad, y las opiniones sobre ella están más divididas que las de la carne."
+  ]
+ },
+ {
+  "id": "marbella-p-f-chang-s",
+  "slug": "p-f-chang-s",
+  "name": "P.F. Chang's",
+  "cuisine_en": [
+   "International"
+  ],
+  "cuisine_es": [],
+  "price_tier": 2,
+  "neighborhood_slug": "marbella",
+  "address": "Las Terrazas, Mall Multiplaza Pacific, Local 339-339-340-341, Panama City, Panamá Province, Panama",
+  "address_note_en": "",
+  "lat": 8.983676299999999,
+  "lng": -79.5107575,
+  "phones": {
+   "call": "203-6588"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "11:00 AM",
+    "close": "9:00 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/p-f-chang-s.jpg",
+    "alt_en": "Dining room at P.F. Chang's, Marbella, Panama City",
+    "alt_es": "Comedor de P.F. Chang's, Marbella, Ciudad de Panamá",
+    "credit_en": "Photo: @pfchangspa",
+    "credit_url": "https://www.instagram.com/pfchangspa/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "International"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "USD",
+    "description_en": "",
+    "price": 68.95,
+    "popular": false
+   }
+  ],
+  "about_en": "P.F. Chang's is a restaurant in Marbella, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [
+   "Dishes arrive family style and are sized for sharing, so a few plates cover a table of three with leftovers.",
+   "Lunch is the value slot, with a set special that keeps the bill closer to casual-dining territory."
+  ],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/pfchangspa/",
+   "http://www.pfchangs.com.pa/",
+   "https://www.google.com/maps/place/?q=place_id:ChIJGUSLuhyprI8RAqVFK9rtVaE"
+  ],
+  "import_wave": "W1 flagship",
+  "social": {
+   "instagram": "https://www.instagram.com/pfchangspa/",
+   "facebook": "https://www.facebook.com/share/"
+  },
+  "social_proof": "handle pre-verified in this batch; photo pulled from the venue's own logged-out Instagram grid, so the owning account is the venue itself",
+  "about_es": "P.F. Chang's es un restaurante en Marbella, Ciudad de Panamá.",
+  "whats_good_es": [
+   "Los platos llegan al estilo familiar y están pensados para compartir, así que unos pocos alcanzan para una mesa de tres, con sobras.",
+   "El almuerzo es la opción más económica, con un especial fijo que acerca la cuenta a lo que pagarías en un restaurante casual."
+  ]
+ },
+ {
+  "id": "marbella-paul-bakery-restaurant-multiplaza",
+  "slug": "paul-bakery-restaurant-multiplaza",
+  "name": "PAUL Bakery & Restaurant | Multiplaza",
+  "cuisine_en": [
+   "International"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "marbella",
+  "address": "Yogen Früz | Multiplaza, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9840922,
+  "lng": -79.51098929999999,
+  "phones": {
+   "call": "6202-4541",
+   "whatsapp": "https://wa.me/50762023838"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "7:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "7:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "7:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "7:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "7:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "7:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "7:00 AM",
+    "close": "9:00 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/paul-bakery-restaurant-multiplaza.jpg",
+    "alt_en": "Plate of freshly baked mini brioche buns at PAUL Bakery & Restaurant, Marbella, Panama City",
+    "alt_es": "Plato de mini brioches recien horneados en PAUL Bakery & Restaurant, Marbella, Ciudad de Panama",
+    "credit_en": "Photo: @paulbakerypanama",
+    "credit_url": "https://www.instagram.com/paulbakerypanama/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "International"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "PAUL Bakery & Restaurant | Multiplaza is a restaurant in Marbella, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [
+   "Service is the wild card: some visits bring warm, unhurried attention, others describe being ignored at the table.",
+   "Presentation is a genuine strength, but whether the food justifies the price is where opinions diverge.",
+   "It opens onto the mall's central court, which makes it as much a people-watching perch as a meal."
+  ],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "http://paulbakerypanama.com/",
+   "https://www.google.com/maps/place/?q=place_id:ChIJE8ykyRyprI8RJYOtxAki_xM"
+  ],
+  "import_wave": "W1 flagship",
+  "social": {
+   "instagram": "https://www.instagram.com/paulbakerypanama/"
+  },
+  "about_es": "PAUL Bakery & Restaurant | Multiplaza es un restaurante en Marbella, Ciudad de Panamá.",
+  "whats_good_es": [
+   "El servicio es la carta incierta: algunas visitas traen una atención cálida y sin apuros, mientras que otras describen sentirse ignorados en la mesa.",
+   "La presentación es un punto realmente fuerte, pero si la comida justifica el precio es donde las opiniones se dividen.",
+   "Da hacia la plaza central del mall, lo que lo convierte tanto en un mirador para ver gente como en un lugar para comer."
+  ]
+ },
+ {
+  "id": "marbella-taberna-la-malaguena-calle-uruguay",
+  "slug": "taberna-la-malaguena-calle-uruguay",
+  "name": "Taberna La Malagueña | Calle Uruguay",
+  "cuisine_en": [
+   "International"
+  ],
+  "cuisine_es": [],
+  "price_tier": 2,
+  "neighborhood_slug": "marbella",
+  "address": "XFGF+WP6, C. Rogelio Alfaro, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9770896,
+  "lng": -79.5259456,
+  "phones": {
+   "call": "387-9715"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "12:00 PM",
+    "close": "12:00 AM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "12:00 PM",
+    "close": "12:00 AM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "12:00 PM",
+    "close": "12:00 AM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "12:00 PM",
+    "close": "12:00 AM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "12:00 PM",
+    "close": "12:00 AM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "12:00 PM",
+    "close": "12:00 AM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "Closed",
+    "close": ""
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/taberna-la-malaguena-calle-uruguay.jpg",
+    "alt_en": "Spanish tapas at Taberna La Malagueña, Marbella, Panama City",
+    "alt_es": "Tapas españolas en Taberna La Malagueña, Marbella, Ciudad de Panamá",
+    "credit_en": "Photo: @tabernalamalaguena",
+    "credit_url": "https://www.instagram.com/tabernalamalaguena/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "International"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Taberna La Malagueña | Calle Uruguay is a restaurant in Marbella, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [
+   "Seafood is the reason to come, and it turns up fresh across separate visits.",
+   "Staff are patient with diners who do not speak Spanish, and the welcome is a repeated high point."
+  ],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/tabernalamalaguena/",
+   "https://lamalaguena.com/",
+   "https://www.google.com/maps/place/?q=place_id:ChIJK_00LuaorI8RJBTYXj6JSBs"
+  ],
+  "import_wave": "W1 flagship",
+  "social": {
+   "instagram": "https://www.instagram.com/tabernalamalaguena/",
+   "facebook": "https://www.facebook.com/share/"
+  },
+  "social_proof": "handle pre-verified in this batch; photo pulled from the venue's own logged-out Instagram grid, so the owning account is the venue itself",
+  "about_es": "Taberna La Malagueña | Calle Uruguay es un restaurante en Marbella, Ciudad de Panamá.",
+  "whats_good_es": [
+   "El mariscos es la razón para ir, y llega fresco en distintas visitas.",
+   "El personal es paciente con los comensales que no hablan español, y la buena acogida es un punto que se repite."
+  ]
+ },
+ {
+  "id": "marbella-tgi-friday-s-multiplaza",
+  "slug": "tgi-friday-s-multiplaza",
+  "name": "TGI Friday's | Multiplaza",
+  "cuisine_en": [
+   "International"
+  ],
+  "cuisine_es": [],
+  "price_tier": 2,
+  "neighborhood_slug": "marbella",
+  "address": "Multiplaza Pacific Mall, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9851212,
+  "lng": -79.51013069999999,
+  "phones": {
+   "call": "302-0616"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "12:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "11:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "11:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "11:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "11:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "11:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "11:00 AM",
+    "close": "9:00 PM"
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "International"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "TGI Friday's | Multiplaza is a restaurant in Marbella, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "http://fridayspanama.com/",
+   "https://www.google.com/maps/place/?q=place_id:ChIJA27zWQOprI8R4Yw8C893-EU"
+  ],
+  "import_wave": "W1 flagship",
+  "about_es": "TGI Friday's | Multiplaza es un restaurante en Marbella, Ciudad de Panamá."
+ },
+ {
+  "id": "marbella-super-kosher",
+  "slug": "super-kosher",
+  "name": "Super Kosher",
+  "cuisine_en": [
+   "Cafe"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "marbella",
+  "address": "C. Ramon H. Jurado, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9783449,
+  "lng": -79.511799,
+  "phones": {
+   "call": "263-5253"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "8:00 AM",
+    "close": "8:30 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "8:00 AM",
+    "close": "8:30 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "8:00 AM",
+    "close": "8:30 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "8:00 AM",
+    "close": "8:30 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "7:30 AM",
+    "close": "4:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "Closed",
+    "close": ""
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "9:00 AM",
+    "close": "8:00 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/super-kosher.jpg",
+    "alt_en": "Cafe interior at Super Kosher, Marbella, Panama City",
+    "alt_es": "Interior del café Super Kosher, Marbella, Ciudad de Panamá",
+    "credit_en": "Photo: @skpty",
+    "credit_url": "https://www.instagram.com/skpty/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Cafe"
+  ],
+  "tags_es": [],
+  "status": "removed",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Super Kosher is a cafe in Marbella, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [
+   "It is a kosher supermarket first, with a dairy cafe and a separate sit-down meat restaurant inside it.",
+   "Stocks imported kosher goods that are hard to find elsewhere in the city, plus a bakery, pharmacy and wine section.",
+   "Sits on the upper level of the Pacific Center complex, with garage parking underneath."
+  ],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/skpty/",
+   "http://skosher.com/",
+   "https://www.google.com/maps/place/?q=place_id:ChIJuXB-GB6prI8R1KdWVz_P_Sw"
+  ],
+  "import_wave": "W1 flagship",
+  "review_flag": "Reviews describe a large kosher supermarket with eateries inside; currently classified as Cafe. Confirm the venue type.",
+  "social": {
+   "instagram": "https://www.instagram.com/skpty/"
+  },
+  "social_proof": "handle pre-verified in this batch; photo pulled from the venue's own logged-out Instagram grid, so the owning account is the venue itself",
+  "triage_disposition": "Kosher supermarket with eateries inside - a grocery store, not a restaurant.",
+  "about_es": "Super Kosher es una cafetería en Marbella, Ciudad de Panamá.",
+  "whats_good_es": [
+   "Es, ante todo, un supermercado kosher que tiene un café de lácteos y, dentro del mismo local, un restaurante de mesa aparte especializado en carnes.",
+   "Ofrece productos kosher importados que son difíciles de conseguir en otras partes de la ciudad, además de panadería, farmacia y sección de vinos.",
+   "Está en el nivel superior del complejo Pacific Center, con parqueo en el sótano."
+  ]
+ },
+ {
+  "id": "marbella-jeffreys-bakery",
+  "slug": "jeffreys-bakery",
+  "name": "Jeffrey’s Bakery",
+  "cuisine_en": [
+   "Cafe"
+  ],
+  "cuisine_es": [],
+  "price_tier": 2,
+  "neighborhood_slug": "marbella",
+  "address": "XFHP+5F2, C. Ramon H. Jurado, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9778927,
+  "lng": -79.513848,
+  "phones": {
+   "call": "235-4591"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "7:00 AM",
+    "close": "7:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "7:00 AM",
+    "close": "7:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "7:00 AM",
+    "close": "7:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "7:00 AM",
+    "close": "7:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "7:00 AM",
+    "close": "4:30 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "Closed",
+    "close": ""
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "7:00 AM",
+    "close": "7:00 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/jeffreys-bakery.jpg",
+    "alt_en": "Breakfast plate at Jeffrey's Bakery, Marbella, Panama City",
+    "alt_es": "Plato de desayuno en Jeffrey's Bakery, Marbella, Ciudad de Panamá",
+    "credit_en": "Photo: @jeffreyspty",
+    "credit_url": "https://www.instagram.com/jeffreyspty/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Cafe"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Jeffrey’s Bakery is a cafe in Marbella, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [
+   "Pastries and desserts are the consistent draw here, more so than anything off the cooked menu.",
+   "Opinions on the hot breakfast and the pizza split sharply, from perfectly fine to genuinely poor."
+  ],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/jeffreyspty/",
+   "https://www.google.com/maps/place/?q=place_id:ChIJr6yYbB6prI8RWvsEq0rxPto"
+  ],
+  "import_wave": "W1 flagship",
+  "social": {
+   "instagram": "https://www.instagram.com/jeffreyspty/"
+  },
+  "social_proof": "the Instagram location page 'Jeffrey's Bakery Panama' resolves to jeffreyspty, and greatkosherrestaurants.com and chabadpanama.com both list @jeffreyspty for Jeffrey's Bakery, the kosher bakery and restaurant on C. Ramon H. Jurado",
+  "about_es": "Jeffrey's Bakery es un café ubicado en Marbella, Ciudad de Panamá.",
+  "whats_good_es": [
+   "Los pasteles y postres son el verdadero atractivo aquí, mucho más que cualquier otra cosa del menú de platos cocinados.",
+   "Las opiniones sobre el desayuno caliente y la pizza están muy divididas: van desde “está bien” hasta “realmente flojo”."
+  ]
+ },
+ {
+  "id": "marbella-cafe-unido-multiplaza",
+  "slug": "cafe-unido-multiplaza",
+  "name": "Cafe Unido • Multiplaza",
+  "cuisine_en": [
+   "Cafe"
+  ],
+  "cuisine_es": [],
+  "price_tier": 2,
+  "neighborhood_slug": "marbella",
+  "address": "Multiplaza, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9845367,
+  "lng": -79.5108994,
+  "phones": {
+   "call": "6349-8540"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "10:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "10:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "10:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "10:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "10:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "10:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "11:00 AM",
+    "close": "7:00 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/cafe-unido-multiplaza.jpg",
+    "alt_en": "Acai bowl with granola, banana and peanut butter at Cafe Unido, Marbella, Panama City",
+    "alt_es": "Bowl de acai con granola, banano y mantequilla de mani en Cafe Unido, Marbella, Ciudad de Panama",
+    "credit_en": "Photo: @cafeunido",
+    "credit_url": "https://www.instagram.com/cafeunido/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Cafe"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "From",
+    "description_en": "",
+    "price": 15,
+    "popular": false
+   }
+  ],
+  "about_en": "Cafe Unido • Multiplaza is a cafe in Marbella, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [
+   "The Panamanian coffee program is the reason to stop, geisha in particular, brewed by drip and priced well above a normal cup.",
+   "Food is a sideline of small plates and breakfast items rather than the main event.",
+   "Service can be slow, and consistency varies noticeably between visits."
+  ],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "http://www.cafeunido.com/",
+   "https://www.google.com/maps/place/?q=place_id:ChIJ31OsqRyprI8R6nOjViyA2ZU"
+  ],
+  "import_wave": "W1 flagship",
+  "social": {
+   "instagram": "https://www.instagram.com/cafeunido/"
+  },
+  "about_es": "Cafe Unido • Multiplaza es una cafetería en Marbella, Ciudad de Panamá.",
+  "whats_good_es": [
+   "El programa de café panameño es la razón para pasar por aquí, en especial el geisha, preparado por goteo y con un precio bastante por encima de lo que cuesta una taza normal.",
+   "La comida es algo secundario, con platos pequeños y opciones de desayuno, más que el plato fuerte.",
+   "El servicio puede ser lento, y la consistencia varía notablemente de una visita a otra."
+  ]
+ },
+ {
+  "id": "marbella-el-apartamento-y-el-sotano",
+  "slug": "el-apartamento-y-el-sotano",
+  "name": "El Apartamento y El Sótano",
+  "cuisine_en": [
+   "Bar"
+  ],
+  "cuisine_es": [],
+  "price_tier": 2,
+  "neighborhood_slug": "marbella",
+  "address": "Av. Federico Boyd, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9761846,
+  "lng": -79.5269733,
+  "phones": {},
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "Closed",
+    "close": ""
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "5:00 PM",
+    "close": "1:00 AM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "5:00 PM",
+    "close": "1:00 AM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "7:00 PM",
+    "close": "3:00 AM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "7:00 PM",
+    "close": "3:00 AM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "7:00 PM",
+    "close": "3:00 AM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "Closed",
+    "close": ""
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/el-apartamento-y-el-sotano.jpg",
+    "alt_en": "Lounge interior at El Apartamento y El Sotano, Marbella, Panama City",
+    "alt_es": "Interior del salon de El Apartamento y El Sotano, Marbella, Ciudad de Panama",
+    "credit_en": "Photo: @aptsotano",
+    "credit_url": "https://www.instagram.com/aptsotano/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Bar"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "El Apartamento y El Sótano is a bar in Marbella, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [
+   "Two venues in one: a relaxed upstairs bar and a basement room, El Sotano, that opens up for live music.",
+   "Timing matters a lot, since it can be close to empty midweek and only fills for the weekend shows.",
+   "The music leans rock and alternative, with local bands and tribute sets on the bill."
+  ],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/aptsotano/",
+   "https://es-la.facebook.com/elapartamentopanama/",
+   "https://www.google.com/maps/place/?q=place_id:ChIJWRjtduiorI8RMaDEzWEdhow"
+  ],
+  "import_wave": "W1 flagship",
+  "social": {
+   "instagram": "https://www.instagram.com/aptsotano/"
+  },
+  "social_proof": "bio reads 'El Apartamento + El Sotano - El original #CasaClub en Panama desde 2011' with hours Mar-Jue 5pm-1am / Vie-Sab 7pm-3am, matching the Google listing hours (Tue-Wed 5pm-1am, Thu-Sat 7pm-3am) for the Av. Federico Boyd venue",
+  "about_es": "El Apartamento y El Sótano es un bar en Marbella, Ciudad de Panamá.",
+  "whats_good_es": [
+   "Dos espacios en uno: un bar relajado en la planta alta y un salón en el sótano, El Sótano, que se abre para presentaciones en vivo.",
+   "El horario importa mucho, ya que entre semana puede estar casi vacío y solo se llena para los shows de fin de semana.",
+   "La música se inclina hacia el rock y el alternativo, con bandas locales y sets tributo en la cartelera."
+  ]
+ },
+ {
+  "id": "marbella-nacion-sushi-multiplaza-pacific",
+  "slug": "nacion-sushi-multiplaza-pacific",
+  "name": "Nación Sushi | Multiplaza Pacific",
+  "cuisine_en": [
+   "International"
+  ],
+  "cuisine_es": [],
+  "price_tier": 2,
+  "neighborhood_slug": "marbella",
+  "address": "Panama City, Panamá Province, Panama",
+  "address_note_en": "",
+  "lat": 8.9838241,
+  "lng": -79.51107189999999,
+  "phones": {
+   "call": "381-3393"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "11:30 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "11:30 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "11:30 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "11:30 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "11:30 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "11:30 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "11:30 AM",
+    "close": "10:00 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/nacion-sushi-multiplaza-pacific.jpg",
+    "alt_en": "Seared tuna tataki at Nacion Sushi, Marbella, Panama City",
+    "alt_es": "Tataki de atun sellado en Nacion Sushi, Marbella, Ciudad de Panama",
+    "credit_en": "Photo: @nacionsushi",
+    "credit_url": "https://www.instagram.com/nacionsushi/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "International"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Nación Sushi | Multiplaza Pacific is a restaurant in Marbella, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://nacionsushi.com/pa/",
+   "https://www.google.com/maps/place/?q=place_id:ChIJKf6_txyprI8RjVwkv94w7B8"
+  ],
+  "import_wave": "W1 flagship",
+  "social": {
+   "instagram": "https://www.instagram.com/nacionsushi/"
+  },
+  "about_es": "Nación Sushi | Multiplaza Pacific es un restaurante en Marbella, Ciudad de Panamá."
+ },
+ {
+  "id": "marbella-mio-y-tuyo",
+  "slug": "mio-y-tuyo",
+  "name": "Mio y tuyo",
+  "cuisine_en": [
+   "International"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "marbella",
+  "address": "C. 47 Este, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9765567,
+  "lng": -79.5261872,
+  "phones": {
+   "call": "6767-7014"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "3:00",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "3:00 PM",
+    "close": "3:00 AM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "3:00 PM",
+    "close": "3:00 AM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "3:00 PM",
+    "close": "4:00 AM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "3:00 PM",
+    "close": "4:00 AM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "4:00 PM",
+    "close": "4:00 AM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "3:00 PM",
+    "close": "3:00 AM"
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "International"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Mio y tuyo is a restaurant in Marbella, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/mioytuyo_panama/",
+   "https://www.google.com/maps/place/?q=place_id:ChIJ08mrHh-prI8RAmA3kWplrzk"
+  ],
+  "import_wave": "W1 flagship",
+  "social": {
+   "instagram": "https://www.instagram.com/mioytuyo_panama/"
+  },
+  "social_proof": "Reel DQctuaREg4K owner resolves to @mioytuyo_panama (the venue's TikTok is @mioytuyopty); MIO Y TUYO restaurante/sport bar at Calle Uruguay 47 Este, Marbella, which matches the DegustaPanama address for the venue",
+  "about_es": "Mio y tuyo es un restaurante en Marbella, Ciudad de Panamá."
+ },
+ {
+  "id": "marbella-restaurante-yee-paitilla",
+  "slug": "restaurante-yee-paitilla",
+  "name": "RESTAURANTE YEE PAITILLA",
+  "cuisine_en": [
+   "International"
+  ],
+  "cuisine_es": [],
+  "price_tier": 1,
+  "neighborhood_slug": "marbella",
+  "address": "XFHM+4QC, C. Ramon H. Jurado, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9778244,
+  "lng": -79.51561009999999,
+  "phones": {
+   "call": "215-2890"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "11:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "11:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "11:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "11:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "11:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "11:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "11:00 AM",
+    "close": "9:00 PM"
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "International"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "RESTAURANTE YEE PAITILLA is a restaurant in Marbella, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [
+   "Combo plates are the format, pairing a main with rice, fries, salad and a drink for well under ten dollars.",
+   "Value and volume are the real draw, with the cooking landing at solid rather than special.",
+   "The dining room is plain and worn, and much of the trade is quick pickup orders."
+  ],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/restauranteyeepaitilla/",
+   "http://yee.pidepaya.com/",
+   "https://www.google.com/maps/place/?q=place_id:ChIJO0cvQq6prI8RU8qzZ0sabJQ"
+  ],
+  "import_wave": "W1 flagship",
+  "social": {
+   "instagram": "https://www.instagram.com/restauranteyeepaitilla/"
+  },
+  "social_proof": "handle and bio name the Paitilla branch ('Restaurante Yee - Paitilla', Asian cuisine); infoguia lists Restaurante Yee at Calle 77, Punta Paitilla - matches the venue name and area.",
+  "about_es": "RESTAURANTE YEE PAITILLA es un restaurante en Marbella, Ciudad de Panamá.",
+  "whats_good_es": [
+   "Los platos combo son el formato de la casa, con un plato principal acompañado de arroz, papas fritas, ensalada y bebida por bastante menos de diez dólares.",
+   "El verdadero atractivo es la relación precio-cantidad, mientras que la cocina se queda en un nivel sólido más que especial.",
+   "El comedor es sencillo y algo desgastado, y buena parte del negocio son pedidos para llevar rápidos."
+  ]
+ },
+ {
+  "id": "marbella-jungla-bowling",
+  "slug": "jungla-bowling",
+  "name": "Jungla Bowling",
+  "cuisine_en": [
+   "Cafe"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "marbella",
+  "address": "C. Ramon H. Jurado, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9781821,
+  "lng": -79.511601,
+  "phones": {
+   "call": "6483-1303"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "11:00 AM",
+    "close": "12:00 AM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "11:00 AM",
+    "close": "12:00 AM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "11:00 AM",
+    "close": "12:00 AM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/jungla-bowling.jpg",
+    "alt_en": "Chocolate cake and coffee at Jungla Bowling cafe, Pacific Center, Panama City",
+    "alt_es": "Pastel de chocolate y cafe en el cafe de Jungla Bowling, Pacific Center, Ciudad de Panama",
+    "credit_en": "Photo: @junglabowling",
+    "credit_url": "https://www.instagram.com/junglabowling/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Cafe"
+  ],
+  "tags_es": [],
+  "status": "removed",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Jungla Bowling is a cafe in Marbella, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [
+   "This is a bowling centre with a kitchen attached, and the lanes and the decor are what people come for.",
+   "Service is where experiences split hardest, between an attentive English-speaking host and long waits with food arriving cold.",
+   "It suits birthdays and group nights, though larger parties should confirm the house rules on eating away from the lanes."
+  ],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/junglabowling/",
+   "https://junglabowling.com/",
+   "https://www.google.com/maps/place/?q=place_id:ChIJ5d7sNvWprI8RZVVoom1nx50"
+  ],
+  "import_wave": "W1 flagship",
+  "review_flag": "Listed as Cafe, but reviews describe a bowling and entertainment centre. Check the venue category.",
+  "social": {
+   "instagram": "https://www.instagram.com/junglabowling/"
+  },
+  "social_proof": "posts place it at 'Pacific Center, San Francisco / Punta Pacifica, Nivel 2' matching the venue's Pacific Center location; the row's website junglabowling.com links to this same bowling-bar-restaurant.",
+  "triage_disposition": "Bowling and entertainment centre, not a restaurant.",
+  "about_es": "Jungla Bowling es una cafetería en Marbella, Ciudad de Panamá.",
+  "whats_good_es": [
+   "Este es un centro de boliche con cocina propia, y son las pistas y la decoración lo que atrae a la gente.",
+   "El servicio es donde más se dividen las experiencias, entre un anfitrión atento que habla inglés y largas esperas con la comida llegando fría.",
+   "Es un buen lugar para cumpleaños y salidas en grupo, aunque los grupos grandes deberían confirmar las reglas de la casa sobre comer fuera de las pistas."
+  ]
+ },
+ {
+  "id": "marbella-slabon-multiplaza",
+  "slug": "slabon-multiplaza",
+  "name": "Slabon | Multiplaza",
+  "cuisine_en": [
+   "International"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "marbella",
+  "address": "mall multiplaza Pacific, punta pacífica, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9841313,
+  "lng": -79.5106728,
+  "phones": {
+   "call": "395-9992"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "11:30 AM",
+    "close": "9:30 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "11:30 AM",
+    "close": "9:30 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "11:30 AM",
+    "close": "9:30 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "11:30 AM",
+    "close": "9:30 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "11:30 AM",
+    "close": "9:30 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "11:30 AM",
+    "close": "9:30 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "11:30 AM",
+    "close": "9:30 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/slabon-multiplaza.jpg",
+    "alt_en": "Signature burger at Slabon Cafe Burger Bistro, Marbella, Panama City",
+    "alt_es": "Hamburguesa de la casa en Slabon Cafe Burger Bistro, Marbella, Ciudad de Panama",
+    "credit_en": "Photo: @slabonpty",
+    "credit_url": "https://www.instagram.com/slabonpty/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "International"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Slabon | Multiplaza is a restaurant in Marbella, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [
+   "Burgers are the anchor of the menu, with enough variations that picking one takes a minute.",
+   "Service is usually quick and warm, though a slow round of orders is not unheard of.",
+   "Sits on the third floor of Multiplaza, in the Las Terrazas section."
+  ],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "http://www.slabonpanama.com/",
+   "https://www.google.com/maps/place/?q=place_id:ChIJn1_XnVSprI8RlkbCG___n3E"
+  ],
+  "import_wave": "W1 flagship",
+  "social": {
+   "instagram": "https://www.instagram.com/slabonpty/",
+   "facebook": "https://www.facebook.com/SlabonPTY/"
+  },
+  "about_es": "Slabon | Multiplaza es un restaurante en Marbella, Ciudad de Panamá.",
+  "whats_good_es": [
+   "Las hamburguesas son el eje del menú, con suficientes variaciones como para que escoger una tome un minuto.",
+   "El servicio suele ser rápido y cordial, aunque de vez en cuando alguna tanda de pedidos se demora.",
+   "Se ubica en el tercer piso de Multiplaza, en la sección de Las Terrazas."
+  ]
+ },
+ {
+  "id": "marbella-saquella-espresso-club-multiplaza",
+  "slug": "saquella-espresso-club-multiplaza",
+  "name": "Saquella Espresso Club Multiplaza",
+  "cuisine_en": [
+   "Cafe"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "marbella",
+  "address": "Panama City, Panamá Province, Panama",
+  "address_note_en": "",
+  "lat": 8.9840581,
+  "lng": -79.51090409999999,
+  "phones": {
+   "call": "302-4107"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "9:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "9:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "9:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "9:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "9:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "9:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "9:00 AM",
+    "close": "8:30 PM"
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Cafe"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Saquella Espresso Club Multiplaza is a cafe in Marbella, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/saquellapty/",
+   "http://www.saquellapanama.com/",
+   "https://www.google.com/maps/place/?q=place_id:ChIJxz2fthyprI8Rq_Ve-dvv3tM"
+  ],
+  "import_wave": "W2 established",
+  "social": {
+   "instagram": "https://www.instagram.com/saquellapty/"
+  },
+  "social_proof": "@saquellapty is the Instagram handle published in the footer of the venue's own official site saquellapanama.com, which lists the Saquella Multiplaza (Pacific Mall) branch",
+  "about_es": "Saquella Espresso Club Multiplaza es una cafetería en Marbella, Ciudad de Panamá."
+ },
+ {
+  "id": "marbella-kokio-buffet",
+  "slug": "kokio-buffet",
+  "name": "Kokio Buffet",
+  "cuisine_en": [
+   "International"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "marbella",
+  "address": "C. 48 Este-Rogelio Alfaro, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9772167,
+  "lng": -79.52588279999999,
+  "phones": {
+   "call": "6952-5444"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "11:30 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "11:30 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "11:30 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "11:30 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "11:30 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "11:30 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "11:30 AM",
+    "close": "10:00 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/kokio-buffet.jpg",
+    "alt_en": "Korean kimbap rolls at Kokio Buffet, Bella Vista, Panama City",
+    "alt_es": "Rollos de kimbap coreano en Kokio Buffet, Bella Vista, Ciudad de Panamá",
+    "credit_en": "Photo: @kokiobuffet",
+    "credit_url": "https://www.instagram.com/kokiobuffet/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "International"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Kokio Buffet is a restaurant in Marbella, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/kokiobuffet/",
+   "https://www.google.com/maps/place/?q=place_id:ChIJTVvIEn6prI8RRwzjYLZ4A2k"
+  ],
+  "import_wave": "W2 established",
+  "social": {
+   "instagram": "https://www.instagram.com/kokiobuffet/"
+  },
+  "social_proof": "Bio and posts of 'Comida Coreana Kokio' give the address Calle Uruguay, Ciudad de Panama; Korean all-you-can-eat buffet, exact name match to 'Kokio Buffet'",
+  "about_es": "Kokio Buffet es un restaurante en Marbella, Ciudad de Panamá."
+ },
+ {
+  "id": "marbella-vitali-paitilla-kosher",
+  "slug": "vitali-paitilla-kosher",
+  "name": "Vitali | Paitilla | KOSHER",
+  "cuisine_en": [
+   "Cafe"
+  ],
+  "cuisine_es": [],
+  "price_tier": 2,
+  "neighborhood_slug": "marbella",
+  "address": "Bal Harbour, C.C, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9770012,
+  "lng": -79.5150507,
+  "phones": {
+   "call": "386-3903"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "7:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "7:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "7:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "7:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "7:00 AM",
+    "close": "3:30 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "Closed",
+    "close": ""
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "7:00 AM",
+    "close": "9:00 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/vitali-paitilla-kosher.jpg",
+    "alt_en": "Acai bowl at Vitali, Paitilla, Panama City",
+    "alt_es": "Bowl de acai en Vitali, Paitilla, Ciudad de Panamá",
+    "credit_en": "Photo: @eatvitali",
+    "credit_url": "https://www.instagram.com/eatvitali/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Cafe"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Vitali | Paitilla | KOSHER is a cafe in Marbella, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/eatvitali/",
+   "https://linktr.ee/eatvitali",
+   "https://www.google.com/maps/place/?q=place_id:ChIJg7bvLx6prI8RWKCxCy00_aU"
+  ],
+  "import_wave": "W2 established",
+  "social": {
+   "instagram": "https://www.instagram.com/eatvitali/"
+  },
+  "social_proof": "@eatvitali is the Instagram linked from the venue's own linktr.ee/eatvitali (the batch website field); bio 'VITALI - Healthy Restaurant', located at Bal Harbour plaza, Paitilla (kosher)",
+  "about_es": "Vitali | Paitilla | KOSHER es una cafetería en Marbella, Ciudad de Panamá."
+ },
+ {
+  "id": "marbella-marea-ceviche-latin-food",
+  "slug": "marea-ceviche-latin-food",
+  "name": "MAREA Ceviche & Latin Food",
+  "cuisine_en": [
+   "International"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "marbella",
+  "address": "XFMQ+GG8, Panama City, Panamá Province, Panama",
+  "address_note_en": "",
+  "lat": 8.9837925,
+  "lng": -79.5111771,
+  "phones": {
+   "call": "381-3915"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "12:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "12:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "12:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "12:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "12:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "12:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "12:00",
+    "close": "10:00 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/marea-ceviche-latin-food.jpg",
+    "alt_en": "Fish ceviche with tortilla strips at MAREA Ceviche & Latin Food, Marbella, Panama City",
+    "alt_es": "Ceviche de pescado con tiras de tortilla en MAREA Ceviche & Latin Food, Marbella, Ciudad de Panamá",
+    "credit_en": "Photo: @mareapanama",
+    "credit_url": "https://www.instagram.com/mareapanama/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "International"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "MAREA Ceviche & Latin Food is a restaurant in Marbella, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/mareapanama/",
+   "https://www.google.com/maps/place/?q=place_id:ChIJvRga8xyprI8Rs1_S6MYwxl8"
+  ],
+  "import_wave": "W2 established",
+  "social": {
+   "instagram": "https://www.instagram.com/mareapanama/"
+  },
+  "social_proof": "Bio 'Ceviches | Multiplaza | Casco | Panama' - a Panama City ceviche & latin-food restaurant (Multiplaza + Casco Viejo); post DBrov2dxgFP embed owner resolves to @mareapanama",
+  "about_es": "MAREA Ceviche & Latin Food es un restaurante en Marbella, Ciudad de Panamá."
+ },
+ {
+  "id": "marbella-paul-bakery-restaurant-pacific-center",
+  "slug": "paul-bakery-restaurant-pacific-center",
+  "name": "PAUL Bakery & Restaurant | Pacific Center",
+  "cuisine_en": [
+   "Bakery"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "marbella",
+  "address": "Panama City, Panamá Province, Panama",
+  "address_note_en": "",
+  "lat": 8.9776937,
+  "lng": -79.5115696,
+  "phones": {
+   "call": "6850-3187"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "7:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "7:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "7:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "7:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "7:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "7:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "7:00 AM",
+    "close": "9:00 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/paul-bakery-restaurant-pacific-center.jpg",
+    "alt_en": "Mini brioche sliders at PAUL Bakery & Restaurant, Pacific Center, Panama City",
+    "alt_es": "Mini sliders de brioche en PAUL Bakery & Restaurant, Pacific Center, Ciudad de Panamá",
+    "credit_en": "Photo: @paulbakerypanama",
+    "credit_url": "https://www.instagram.com/paulbakerypanama/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Bakery"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "PAUL Bakery & Restaurant | Pacific Center is a bakery in Marbella, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/paulbakerypanama/",
+   "http://www.paulbakerypanama.com/",
+   "https://www.google.com/maps/place/?q=place_id:ChIJUcDnhfiprI8RuSqruhnbbYE"
+  ],
+  "import_wave": "W2 established",
+  "social": {
+   "instagram": "https://www.instagram.com/paulbakerypanama/"
+  },
+  "social_proof": "@paulbakerypanama is the Instagram published in the footer of the venue's own official site paulbakerypanama.com, which lists the Pacific Center (Calle Ramon H. Jurado) location",
+  "about_es": "PAUL Bakery & Restaurant | Pacific Center es una panadería en Marbella, Ciudad de Panamá."
+ },
+ {
+  "id": "marbella-krispy-kreme-multiplaza",
+  "slug": "krispy-kreme-multiplaza",
+  "name": "Krispy Kreme Multiplaza",
+  "cuisine_en": [
+   "Bakery"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "marbella",
+  "address": "C. 54 Este, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.985628499999999,
+  "lng": -79.5102799,
+  "phones": {
+   "call": "309-8503"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "10:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "10:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "10:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "10:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "10:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "10:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "10:00 AM",
+    "close": "8:00 PM"
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Bakery"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Krispy Kreme Multiplaza is a bakery in Marbella, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "http://www.krispykremepanama.com/",
+   "https://www.google.com/maps/place/?q=place_id:ChIJJwWoXQOprI8RBfEND2LmXQE"
+  ],
+  "import_wave": "W2 established",
+  "about_es": "Krispy Kreme Multiplaza es una panadería en Marbella, Ciudad de Panamá."
+ },
+ {
+  "id": "marbella-athanasiou-pacific-center",
+  "slug": "athanasiou-pacific-center",
+  "name": "Athanasiou Pacific Center",
+  "cuisine_en": [
+   "International"
+  ],
+  "cuisine_es": [],
+  "price_tier": 2,
+  "neighborhood_slug": "marbella",
+  "address": "Panama City, Panamá Province, Panama",
+  "address_note_en": "",
+  "lat": 8.9781972,
+  "lng": -79.5117289,
+  "phones": {
+   "call": "310-2838"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "7:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "7:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "7:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "7:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "7:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "8:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "10:00 AM",
+    "close": "8:00 PM"
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "International"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Athanasiou Pacific Center is a restaurant in Marbella, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/athanasioupty/",
+   "https://www.google.com/maps/place/?q=place_id:ChIJtUc3I5iprI8RAwj-X1Lc-w4"
+  ],
+  "import_wave": "W2 established",
+  "social": {
+   "instagram": "https://www.instagram.com/athanasioupty/"
+  },
+  "social_proof": "@athanasioupty is the official 'Athanasiou Panama' brand account (est. 1938 Greek pastry/cafe chain); posts and the linktr.ee/athanasioupty reference the Pacific Center / Panama City branches",
+  "about_es": "Athanasiou Pacific Center es un restaurante en Marbella, Ciudad de Panamá."
+ },
+ {
+  "id": "marbella-fonda-hermanos-sanchez",
+  "slug": "fonda-hermanos-sanchez",
+  "name": "Fonda Hermanos Sanchez",
+  "cuisine_en": [
+   "International"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "marbella",
+  "address": "XFPW+426, C. 78 Sur, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9852971,
+  "lng": -79.5049801,
+  "phones": {
+   "call": "226-0946"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "5:00 AM",
+    "close": "3:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "5:00 AM",
+    "close": "3:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "5:00 AM",
+    "close": "3:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "5:00 AM",
+    "close": "3:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "5:00 AM",
+    "close": "3:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "5:00 AM",
+    "close": "3:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "Closed",
+    "close": ""
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "International"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Fonda Hermanos Sanchez is a restaurant in Marbella, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.google.com/maps/place/?q=place_id:ChIJ45JwQwWprI8R7NiL8eIMfKI"
+  ],
+  "import_wave": "W2 established",
+  "about_es": "Fonda Hermanos Sanchez es un restaurante en Marbella, Ciudad de Panamá."
+ },
+ {
+  "id": "marbella-kitchen-panama",
+  "slug": "kitchen-panama",
+  "name": "Kitchen Panamá",
+  "cuisine_en": [
+   "International"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "marbella",
+  "address": "Multiplaza Panamá, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.984830100000002,
+  "lng": -79.5108314,
+  "phones": {
+   "call": "303-0136"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "11:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "11:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "11:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "11:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "11:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "11:00 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "11:00 AM",
+    "close": "7:00 PM"
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "International"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Kitchen Panamá is a restaurant in Marbella, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/kitchenpanama/",
+   "https://www.instagram.com/kitchenpanama/?hl=es-la",
+   "https://www.google.com/maps/place/?q=place_id:ChIJI-8zBN2prI8RMSGcr6AZ4U0"
+  ],
+  "import_wave": "W2 established",
+  "social": {
+   "instagram": "https://www.instagram.com/kitchenpanama/"
+  },
+  "social_proof": "@kitchenpanama, bio 'Kitchen'; DegustaPanama and Multiplaza's site place the venue at Multiplaza planta baja (diagonal a Massimo), the Marbella/Punta Pacifica mall zone; exact name match to 'Kitchen Panama'",
+  "about_es": "Kitchen Panamá es un restaurante en Marbella, Ciudad de Panamá."
+ }
+]

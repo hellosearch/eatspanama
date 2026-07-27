@@ -1,0 +1,29 @@
+# deps / build
+node_modules/
+.next/
+out/
+next-env.d.ts
+tsconfig.tsbuildinfo
+
+# env - secrets never committed (see .env.example)
+.env
+.env.local
+.env.*.local
+
+# misc
+.DS_Store
+*.pem
+.vercel
+
+# local QA artifacts
+qa/screenshots/
+
+# stray working files / logs / backups (added at first push)
+*.log
+.dev.log
+_dev.log
+.photostage/
+.wire-tmp/
+insp_*.jpg
+src/data/venues.bak-es/
+_*.txt

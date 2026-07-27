@@ -1,0 +1,203 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>EatsPanama - Hero right-side options</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet" />
+<style>
+  :root{--ink:#101014;--ink-soft:#3A3A42;--gray:#62626B;--paper:#FFFFFF;--line:#E7E7E2;--canvas:#E9E9E5;--accent:#FF5A1F;--accent-deep:#E14A10;--accent-tint:#FFF0E9;--disp:"Space Grotesk",sans-serif;--body:"Inter",sans-serif}
+  *{box-sizing:border-box}
+  body{margin:0;font-family:var(--body);color:var(--ink);background:var(--canvas);-webkit-font-smoothing:antialiased}
+  a{color:inherit;text-decoration:none}img{max-width:100%;display:block}
+  .lab{position:sticky;top:0;z-index:50;background:#141b30;color:#fff;padding:10px 20px;display:flex;gap:12px;align-items:center;flex-wrap:wrap;border-bottom:3px solid var(--accent)}
+  .lab b{font-family:var(--disp);font-weight:700;font-size:14px}.lab .sp{flex:1}
+  .lab button{font-family:var(--disp);font-weight:600;font-size:13px;color:#fff;background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.18);padding:7px 13px;border-radius:999px;cursor:pointer}
+  .lab button:hover{background:rgba(255,255,255,.16)}.lab button.on{background:var(--accent);border-color:var(--accent)}
+  .lab .hint{font-size:12px;color:#b9c0d6}
+  .shell{max-width:1240px;margin:0 auto;background:var(--paper);min-height:100vh;padding:0 40px 50px}
+  .nav{display:flex;align-items:center;gap:30px;padding:18px 0;border-bottom:1px solid var(--line);margin:0 0 0}
+  .logo{font-family:var(--disp);font-weight:700;font-size:22px}.logo .o{color:var(--accent)}
+  .nav .links{display:flex;gap:24px;font-family:var(--disp);font-weight:600;font-size:15px}
+  .nav .links span::after{content:" \25be";color:var(--gray);font-size:11px}
+  .nav .sp{flex:1}
+  .nav .pill{border:1.5px solid var(--ink);border-radius:999px;padding:6px 12px;font-family:var(--disp);font-weight:700;font-size:12px}
+  h1.hero-h{font-family:var(--disp);font-weight:700;font-size:52px;line-height:1.02;letter-spacing:-.02em;margin:0}
+  h1.hero-h .a{color:var(--accent)}
+  .kick{display:flex;gap:8px;margin-bottom:16px;flex-wrap:wrap}
+  .kick .k{background:var(--paper);border:1px solid var(--line);border-radius:999px;padding:5px 12px;font-size:12.5px;font-weight:600}
+  .kick .k .dot{color:var(--accent)}
+  .sub{font-size:16px;line-height:1.5;color:var(--ink-soft);max-width:44ch;margin:16px 0 0}.sub b{color:var(--ink)}
+  .search{display:flex;align-items:center;gap:10px;background:var(--paper);border:2px solid var(--ink);border-radius:14px;padding:6px 6px 6px 16px;box-shadow:0 6px 0 rgba(255,90,31,.12);max-width:520px}
+  .search input{flex:1;border:0;outline:0;font-family:var(--body);font-size:15px;padding:8px 0;background:none}
+  .search .go{background:var(--accent);color:#fff;font-family:var(--disp);font-weight:700;font-size:14px;border:0;border-radius:9px;padding:11px 20px;cursor:pointer}
+  .browse{margin-top:20px}
+  .browse-lbl{font-family:var(--disp);font-weight:700;font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--gray);margin:0 0 10px}
+  .btabs{display:flex;gap:4px;background:#f3f3ef;border-radius:11px;padding:4px;width:max-content;max-width:100%;flex-wrap:wrap}
+  .btabs span{font-family:var(--disp);font-weight:600;font-size:13.5px;color:var(--ink-soft);padding:8px 15px;border-radius:8px}
+  .btabs span.on{background:var(--paper);color:var(--ink);box-shadow:0 1px 4px rgba(0,0,0,.08)}
+  .chips{display:flex;flex-wrap:wrap;gap:9px;margin-top:14px}
+  .chips a{display:flex;align-items:center;gap:9px;background:var(--paper);border:1px solid var(--line);border-radius:999px;padding:5px 15px 5px 5px;font-size:13.5px;font-weight:600}
+  .chips a img{width:30px;height:30px;border-radius:50%;object-fit:cover}
+  .chips a .c{color:var(--gray);font-weight:500;font-size:12px}
+
+  .tile{position:relative;border-radius:16px;overflow:hidden;background:#ccc;display:block;box-shadow:0 1px 0 var(--line)}
+  .tile img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;transition:transform .4s}
+  .tile .ov{position:absolute;inset:0;background:linear-gradient(180deg,rgba(16,16,20,0) 32%,rgba(16,16,20,.74) 100%)}
+  .tile .lab2{position:absolute;left:14px;right:14px;bottom:12px;color:#fff}
+  .tile .lab2 .t{font-family:var(--disp);font-weight:700;font-size:19px;line-height:1.08}
+  .tile .lab2 .m{font-size:12px;opacity:.92;margin-top:2px}
+  .tile .tag{position:absolute;top:11px;left:11px;background:rgba(255,255,255,.92);color:var(--ink);font-family:var(--disp);font-weight:700;font-size:10px;letter-spacing:.06em;padding:4px 9px;border-radius:999px}
+  .tile:hover img{transform:scale(1.04)}
+
+  .heroWrap{display:grid;grid-template-columns:1.02fr 1.08fr;gap:38px;align-items:start;padding-top:32px}
+  .right{position:relative}
+  .rv{display:none}.rv.on{display:block}
+
+  /* R1 bento */
+  .bento{display:grid;grid-template-columns:1fr 1fr;grid-auto-rows:132px;gap:12px}
+  .bento .tall{grid-row:span 2}
+  .bento .wide{grid-column:span 2}
+
+  /* R2 spotlight */
+  .spot{display:grid;grid-auto-rows:auto;gap:12px}
+  .spotcard{position:relative;border-radius:18px;overflow:hidden;min-height:300px;display:flex;align-items:flex-end}
+  .spotcard img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+  .spotcard .ov{position:absolute;inset:0;background:linear-gradient(180deg,rgba(16,16,20,.05) 30%,rgba(16,16,20,.85) 100%)}
+  .spotcard .b{position:relative;padding:22px 24px;color:#fff}
+  .spotcard .ek{font-family:var(--disp);font-weight:700;font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:#ffb499}
+  .spotcard h3{font-family:var(--disp);font-weight:700;font-size:27px;line-height:1.05;margin:7px 0 6px}
+  .spotcard .meta{font-size:13px;opacity:.9}
+  .spotcard .meta b{color:#fff}
+  .spotcard .q{font-size:13.5px;line-height:1.5;opacity:.92;margin:9px 0 0;max-width:44ch}
+  .spot .row2{display:grid;grid-template-columns:1fr 1fr;gap:12px;grid-auto-rows:130px}
+
+  /* R3 map */
+  .mapc{position:relative;border-radius:18px;overflow:hidden;border:1px solid var(--line);min-height:430px;background:
+     radial-gradient(120% 80% at 60% 115%, #bcd7e6 0%, #cfe4ee 26%, #eef2ee 55%, #f4f5f1 100%)}
+  .mapc .land{position:absolute;inset:0;background:
+     radial-gradient(60% 45% at 32% 34%, rgba(216,226,205,.75), rgba(216,226,205,0) 70%),
+     radial-gradient(55% 40% at 68% 40%, rgba(224,229,210,.7), rgba(224,229,210,0) 70%)}
+  .mapc .road{position:absolute;height:2px;background:#e2e2da;transform-origin:left}
+  .mapc .caption{position:absolute;left:18px;top:16px;z-index:3}
+  .mapc .caption .ek{font-family:var(--disp);font-weight:700;font-size:11px;letter-spacing:.09em;text-transform:uppercase;color:var(--accent-deep)}
+  .mapc .caption h3{font-family:var(--disp);font-weight:700;font-size:22px;margin:5px 0 0;color:var(--ink)}
+  .pin{position:absolute;z-index:4;display:flex;align-items:center;gap:6px;transform:translate(-50%,-100%)}
+  .pin .dot{width:15px;height:15px;border-radius:50%;background:var(--accent);border:3px solid #fff;box-shadow:0 2px 6px rgba(0,0,0,.28)}
+  .pin .lb{background:#fff;border:1px solid var(--line);border-radius:999px;padding:3px 9px;font-family:var(--disp);font-weight:700;font-size:11.5px;white-space:nowrap;box-shadow:0 2px 6px rgba(0,0,0,.1)}
+  .pin .lb .c{color:var(--gray);font-weight:500;margin-left:3px}
+  .pin:hover .dot{transform:scale(1.15)}
+  .mapc .maplink{position:absolute;left:18px;bottom:16px;z-index:4;background:var(--paper);border:1px solid var(--line);border-radius:999px;padding:8px 15px;font-family:var(--disp);font-weight:700;font-size:12.5px;color:var(--accent-deep);box-shadow:0 3px 10px rgba(0,0,0,.1)}
+
+  .fold{position:relative;border-top:2px dashed #d6a58c;margin:16px -40px 0;height:0}
+  .fold span{position:absolute;right:8px;top:-9px;background:var(--accent-tint);color:var(--accent-deep);font-family:var(--disp);font-weight:700;font-size:10px;letter-spacing:.08em;padding:2px 8px;border-radius:999px}
+  .note{background:var(--accent-tint);border:1px solid #ffcdb6;border-radius:12px;padding:14px 18px;font-size:14px;line-height:1.55;color:var(--ink-soft);margin:22px 0}
+  .note b{color:var(--ink)}
+  @media(max-width:960px){.heroWrap{grid-template-columns:1fr}h1.hero-h{font-size:40px}}
+</style>
+</head>
+<body>
+<div class="lab">
+  <b>Hero right-side - options</b>
+  <button data-rv-btn="bento" class="on">A - Bento mosaic</button>
+  <button data-rv-btn="spot">B - Editor's spotlight</button>
+  <button data-rv-btn="map">C - Discovery map</button>
+  <span class="sp"></span>
+  <span class="hint">Left (hybrid browse) stays fixed - only the right visual changes.</span>
+</div>
+<div class="shell">
+  <div class="nav">
+    <div class="logo">Eats<span class="o">Panama</span></div>
+    <div class="links"><span>Neighborhoods</span><span>Cuisines</span><span>Guides</span><span style="color:var(--accent)">New</span></div>
+    <div class="sp"></div><div class="pill">EN / ES</div><div class="pill">Search</div>
+  </div>
+
+  <div class="heroWrap">
+    <!-- FIXED LEFT: hybrid browse -->
+    <div class="left">
+      <div class="kick"><span class="k"><span class="dot">&bull;</span> 792 places</span><span class="k"><span class="dot">&bull;</span> 15 neighborhoods</span><span class="k"><span class="dot">&bull;</span> 3 guides</span></div>
+      <h1 class="hero-h">Where Panama <span class="a">actually</span> eats.</h1>
+      <p class="sub"><b>Independent coverage, in English y en espanol.</b> No paid placements, no tourist traps.</p>
+      <div class="search" style="margin-top:20px"><span style="color:var(--gray)">&#128269;</span><input placeholder="Dish, place, or craving" /><button class="go">Search</button></div>
+      <div class="browse">
+        <p class="browse-lbl">Or start browsing</p>
+        <div class="btabs"><span class="on">Cravings</span><span>Neighborhoods</span><span>Cuisines</span><span>Dishes</span></div>
+        <div class="chips">
+          <a href="/panama-city/good-for/cocktails/"><img src="/occasions/cocktails.jpg" alt="">Cocktail bars<span class="c">89</span></a>
+          <a href="/panama-city/good-for/brunch/"><img src="/occasions/brunch.jpg" alt="">Brunch<span class="c">136</span></a>
+          <a href="/panama-city/good-for/outdoor/"><img src="/occasions/outdoor.jpg" alt="">Outdoor<span class="c">110</span></a>
+          <a href="/panama-city/good-for/specialty-coffee/"><img src="/occasions/specialty-coffee.jpg" alt="">Coffee<span class="c">61</span></a>
+        </div>
+      </div>
+    </div>
+
+    <!-- SWAPPABLE RIGHT -->
+    <div class="right">
+      <!-- A: BENTO MOSAIC -->
+      <div class="rv on" data-rv="bento">
+        <div class="bento">
+          <a class="tile tall" href="/panama-city/casco-viejo/"><img src="/hoods/casco-viejo.jpg" alt=""><div class="ov"></div><span class="tag">NEIGHBORHOOD</span><div class="lab2"><div class="t">Casco Viejo</div><div class="m">99 places</div></div></a>
+          <a class="tile" href="/panama-city/good-for/ceviche/"><img src="/occasions/ceviche.jpg" alt=""><div class="ov"></div><div class="lab2"><div class="t">Ceviche</div><div class="m">75 spots</div></div></a>
+          <a class="tile" href="/panama-city/good-for/cocktails/"><img src="/occasions/cocktails.jpg" alt=""><div class="ov"></div><div class="lab2"><div class="t">Cocktail bars</div><div class="m">89 spots</div></div></a>
+          <a class="tile" href="/panama-city/el-cangrejo/"><img src="/hoods/el-cangrejo.jpg" alt=""><div class="ov"></div><span class="tag">NEIGHBORHOOD</span><div class="lab2"><div class="t">El Cangrejo</div><div class="m">147 places</div></div></a>
+          <a class="tile" href="/guides/best-brunch-panama-city/"><img src="/occasions/brunch.jpg" alt=""><div class="ov"></div><span class="tag">GUIDE</span><div class="lab2"><div class="t">Where to brunch</div><div class="m">12 picks</div></div></a>
+        </div>
+        <p class="note"><b>A - Bento mosaic.</b> Five mixed doors in a magazine bento (big neighborhood + cravings + a second barrio + a guide). Denser and more to click than the current three, still one clean block. Pure navigation - no data to maintain.</p>
+      </div>
+
+      <!-- B: EDITOR'S SPOTLIGHT -->
+      <div class="rv" data-rv="spot">
+        <div class="spot">
+          <a class="spotcard" href="/panama-city/afrodisiaco-italian-modern-kitchen/">
+            <img src="/venues/afrodisiaco-italian-modern-kitchen.jpg" alt="">
+            <div class="ov"></div>
+            <div class="b">
+              <div class="ek">Editors' spotlight</div>
+              <h3>Afrodisiaco Italian Modern Kitchen</h3>
+              <div class="meta"><b>Italian</b> &middot; Casco Viejo &middot; $$$</div>
+              <p class="q">Modern Italian in a restored Casco townhouse - one of the rooms we point people to first.</p>
+            </div>
+          </a>
+          <div class="row2">
+            <a class="tile" href="/panama-city/good-for/ceviche/"><img src="/occasions/ceviche.jpg" alt=""><div class="ov"></div><div class="lab2"><div class="t">Ceviche</div><div class="m">75 spots</div></div></a>
+            <a class="tile" href="/guides/best-brunch-panama-city/"><img src="/occasions/brunch.jpg" alt=""><div class="ov"></div><span class="tag">GUIDE</span><div class="lab2"><div class="t">Where to brunch</div><div class="m">12 picks</div></div></a>
+          </div>
+        </div>
+        <p class="note"><b>B - Editor's spotlight.</b> Leads with one real, human-picked venue (rotates weekly) plus two supporting doors. This is the trust/editorial signal from your D2 direction - a named place, not just categories. Needs a curated pick + one-liner each week (light).</p>
+      </div>
+
+      <!-- C: DISCOVERY MAP -->
+      <div class="rv" data-rv="map">
+        <a class="mapc" href="/panama-city/" style="display:block">
+          <div class="land"></div>
+          <div class="road" style="left:12%;top:30%;width:60%;transform:rotate(12deg)"></div>
+          <div class="road" style="left:20%;top:55%;width:55%;transform:rotate(-8deg)"></div>
+          <div class="road" style="left:35%;top:20%;width:40%;transform:rotate(70deg)"></div>
+          <div class="caption"><div class="ek">Discover</div><h3>Explore the map</h3></div>
+          <div class="pin" style="left:30%;top:40%"><span class="dot"></span><span class="lb">Casco Viejo<span class="c">99</span></span></div>
+          <div class="pin" style="left:55%;top:33%"><span class="dot"></span><span class="lb">El Cangrejo<span class="c">147</span></span></div>
+          <div class="pin" style="left:66%;top:52%"><span class="dot"></span><span class="lb">Bella Vista<span class="c">118</span></span></div>
+          <div class="pin" style="left:44%;top:63%"><span class="dot"></span><span class="lb">Marbella<span class="c">22</span></span></div>
+          <div class="pin" style="left:80%;top:44%"><span class="dot"></span><span class="lb">Costa del Este<span class="c">103</span></span></div>
+          <div class="pin" style="left:40%;top:78%"><span class="dot"></span><span class="lb">San Francisco<span class="c">75</span></span></div>
+          <span class="maplink">Pan to a barrio, or search the whole city &rarr;</span>
+        </a>
+        <p class="note"><b>C - Discovery map.</b> The most "explore" of the three - a live city map with a clickable pin per neighborhood, the TripAdvisor-style discovery feel. Strongest identity, but the biggest build, and it depends on the venue-map trust fix that's already on the launch list (this is a stylized preview, not a real map yet).</p>
+      </div>
+    </div>
+  </div>
+  <div class="fold"><span>FOLD &darr;</span></div>
+</div>
+<script>
+  var rb=document.querySelectorAll('[data-rv-btn]');
+  rb.forEach(function(b){b.addEventListener('click',function(){
+    var k=b.getAttribute('data-rv-btn');
+    rb.forEach(function(x){x.classList.toggle('on',x===b)});
+    document.querySelectorAll('.rv[data-rv]').forEach(function(p){p.classList.toggle('on',p.getAttribute('data-rv')===k)});
+    window.scrollTo(0,0);
+  })});
+</script>
+</body>
+</html>

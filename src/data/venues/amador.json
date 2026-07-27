@@ -1,0 +1,5109 @@
+[
+ {
+  "id": "amador-alma-marina-restaurante",
+  "slug": "alma-marina-restaurante",
+  "name": "Alma Marina Restaurante",
+  "cuisine_en": [
+   "Seafood"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "amador",
+  "address": "Local 1-2, La Playita de Amador, Av. Punta Culebra, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9148392,
+  "lng": -79.5298928,
+  "phones": {
+   "call": "+507 6919-1593"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "Closed",
+    "close": ""
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "Closed",
+    "close": ""
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "12:00",
+    "close": "8:30 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "12:00",
+    "close": "8:30 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "12:00",
+    "close": "8:30 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "7:00 AM",
+    "close": "9:30 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "7:00 AM",
+    "close": "9:30 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/alma-marina-restaurante.jpg",
+    "alt_en": "Strawberry lemonade at Alma Marina, Amador, Panama City",
+    "alt_es": "Limonada de fresa en Alma Marina, Amador, Ciudad de Panama",
+    "credit_en": "Photo: @almamarinarestaurante",
+    "credit_url": "https://www.instagram.com/almamarinarestaurante/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Seafood",
+   "Ceviche"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Fried whole fish",
+    "description_en": "Large-portion fried fish, the standout order",
+    "price": null,
+    "popular": true,
+    "description_es": "Pescado frito en porción grande, el plato estrella"
+   },
+   {
+    "name": "Ceviche",
+    "description_en": "Marinated seafood starter",
+    "price": null,
+    "popular": false,
+    "description_es": "Entrada de mariscos marinados"
+   },
+   {
+    "name": "Caribbean seafood plates",
+    "description_en": "Seafood mains with Caribbean influence",
+    "price": null,
+    "popular": false,
+    "description_es": "Platos fuertes de mariscos con influencia caribeña"
+   }
+  ],
+  "about_en": "Alma Marina Restaurante is a Seafood restaurant in the Amador neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Fried whole fish"
+  ],
+  "whats_good_en": [
+   "Generous fried-fish portions",
+   "Casual seafood stop on the Causeway",
+   "Good value for the area"
+  ],
+  "typical_spend_en": null,
+  "dataset_comparison_en": "One of 6 Seafood spots in Amador",
+  "attributes_en": [
+   "Amador Causeway",
+   "Casual seafood / fusion",
+   "Instagram: @almamarinarestaurante"
+  ],
+  "best_time_en": "Lunch",
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.degustapanama.com/panama/restaurante/alma-marina_109649.html",
+   "https://www.instagram.com/almamarinarestaurante/",
+   "https://www.fodors.com/world/mexico-and-central-america/panama/panama-city/neighborhoods/calzada-amador/restaurants"
+  ],
+  "best_time": {
+   "busiest": "Fri-Sun, 1-3 PM",
+   "busiest_note_en": "Weekend lunch is busiest",
+   "easy": "Weekday lunch",
+   "easy_note_en": "Easy midday seat",
+   "sweet": "Fri, 12:30 PM",
+   "sweet_note_en": "Lunch peak freshness, ahead of the rush"
+  },
+  "social": {
+   "instagram": "https://www.instagram.com/almamarinarestaurante/"
+  },
+  "social_proof": "bio 'Gastronomia fusion con vista al mar - Brunch unico en Amador'; posts geotag Isla Flamenco / Calzada de Amador, matching the Causeway venue",
+  "about_es": "Alma Marina Restaurante es un restaurante de mariscos en el barrio de Amador, en la Ciudad de Panamá.",
+  "dataset_comparison_es": "Uno de los 6 lugares de mariscos en Amador",
+  "best_time_es": "Almuerzo",
+  "highlights_es": [
+   "Famoso por su Pescado frito entero"
+  ],
+  "whats_good_es": [
+   "Porciones generosas de pescado frito",
+   "Parada informal de mariscos en la Calzada",
+   "Buena relación calidad-precio para la zona"
+  ],
+  "attributes_es": [
+   "Calzada de Amador",
+   "Mariscos informales / fusión",
+   "Instagram: @almamarinarestaurante"
+  ]
+ },
+ {
+  "id": "amador-brazzeiro-amador",
+  "slug": "brazzeiro-amador",
+  "name": "Brazzeiro",
+  "cuisine_en": [
+   "Steakhouse"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "amador",
+  "address": "Calz. de Amador, Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9114493,
+  "lng": -79.5227269,
+  "phones": {
+   "call": "+507 6047-9922"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "12:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "12:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "12:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "12:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "12:00",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "12:00",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "12:00",
+    "close": "10:00 PM"
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Steakhouse",
+   "Groups"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Rodizio meat service",
+    "description_en": "All-you-can-eat continuous service of grilled cuts",
+    "price": null,
+    "popular": true,
+    "description_es": "Servicio continuo de cortes a la parrilla, todo lo que se pueda comer"
+   },
+   {
+    "name": "Grilled picanha",
+    "description_en": "Brazilian-cut top sirloin from the grill",
+    "price": null,
+    "popular": true,
+    "description_es": "Picanha al estilo brasileño de la parrilla"
+   },
+   {
+    "name": "Salad and side buffet",
+    "description_en": "Buffet of salads and sides alongside the rodizio",
+    "price": null,
+    "popular": false,
+    "description_es": "Buffet de ensaladas y acompañantes junto con el rodizio"
+   }
+  ],
+  "about_en": "Brazzeiro is a Steakhouse restaurant in the Amador neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Rodizio meat service"
+  ],
+  "whats_good_en": [
+   "Unlimited Brazilian rodizio with imported meats",
+   "Good for groups and celebrations",
+   "Causeway location with bay views"
+  ],
+  "typical_spend_en": "about $37 for the all-you-can-eat rodizio",
+  "dataset_comparison_en": null,
+  "attributes_en": [
+   "Inside Plaza Causeway, Amador Causeway",
+   "All-you-can-eat rodizio (around $37)",
+   "Instagram: @brazzeiropty"
+  ],
+  "best_time_en": "Dinner; group celebrations",
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/brazzeiropty/",
+   "https://www.tripadvisor.com/Restaurant_Review-g294480-d23535711-Reviews-Plaza_Causeway-Panama_City_Panama_Province.html",
+   "https://www.facebook.com/plazacausewaypanama/"
+  ],
+  "best_time": {
+   "busiest": "Fri-Sat, 8-10 PM",
+   "busiest_note_en": "Prime weekend dinner service",
+   "easy": "Tue-Wed",
+   "easy_note_en": "Quieter room, easier reservation",
+   "sweet": "Thu, 7:30 PM",
+   "sweet_note_en": "Full service, calmer pace"
+  },
+  "social": {
+   "instagram": "https://www.instagram.com/brazzeiropty/"
+  },
+  "social_proof": "verified account 'RODIZIO DE BRASIL EN PANAMA' (@brazzeiropty); bio and posts place it at Plaza Causeway, Amador (also Town Center CDE / Colon 2000)",
+  "about_es": "Brazzeiro es una churrasquería en el barrio de Amador, en la Ciudad de Panamá.",
+  "typical_spend_es": "unos $37 por el rodizio libre",
+  "best_time_es": "Cena; celebraciones en grupo",
+  "highlights_es": [
+   "Famoso por su Servicio de rodizio de carnes"
+  ],
+  "whats_good_es": [
+   "Rodizio brasileño ilimitado con carnes importadas",
+   "Ideal para grupos y celebraciones",
+   "Ubicación en la Calzada con vista a la bahía"
+  ],
+  "attributes_es": [
+   "Dentro de Plaza Causeway, Calzada de Amador",
+   "Rodizio libre (alrededor de $37)",
+   "Instagram: @brazzeiropty"
+  ]
+ },
+ {
+  "id": "amador-bridge-view",
+  "slug": "bridge-view",
+  "name": "Bridge View",
+  "cuisine_en": [
+   "International"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "amador",
+  "address": "WCRV+8MC, C. Bahía, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9408165,
+  "lng": -79.5558686,
+  "phones": {},
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "6:00 AM",
+    "close": "3:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "6:00 AM",
+    "close": "3:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "6:00 AM",
+    "close": "3:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "6:00 AM",
+    "close": "3:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "6:00 AM",
+    "close": "3:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "6:00 AM",
+    "close": "3:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "6:00 AM",
+    "close": "3:00 PM"
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "International"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Breakfast buffet",
+    "description_en": "Morning buffet served in the hotel dining room",
+    "price": null,
+    "popular": true,
+    "description_es": "Buffet matutino que se sirve en el comedor del hotel"
+   },
+   {
+    "name": "International lunch buffet",
+    "description_en": "Midday buffet with a wide spread of international dishes and several proteins",
+    "price": null,
+    "popular": true,
+    "description_es": "Buffet de mediodía con una amplia variedad de platos internacionales y varias proteínas"
+   }
+  ],
+  "about_en": "Bridge View is an International hotel restaurant in the Amador neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Breakfast buffet"
+  ],
+  "whats_good_en": [
+   "Floor-to-ceiling windows with direct views of the Bridge of the Americas",
+   "Generous lunch buffet with plenty of quality protein options",
+   "Bright, airy ground-floor dining room"
+  ],
+  "typical_spend_en": null,
+  "dataset_comparison_en": "One of 4 International spots in Amador",
+  "attributes_en": [
+   "Inside the Radisson Hotel Panama Canal, Amador Avenue & Van Hook Street",
+   "Breakfast and lunch buffet focus",
+   "Floor-to-ceiling windows facing the Bridge of the Americas",
+   "Phone: +507 211-4526"
+  ],
+  "best_time_en": "Lunch, for the buffet and the bridge view",
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.radissonhotelsamericas.com/en-us/hotels/radisson-panama-city-canal/restaurant-bar",
+   "https://www.tripadvisor.com/ShowUserReviews-g294480-d33215736-r1005277059-Bridge_View_Restaurant-Panama_City_Panama_Province.html"
+  ],
+  "best_time": {
+   "busiest": "Fri-Sat, 8-10 PM",
+   "busiest_note_en": "Weekend dinner is busiest",
+   "easy": "Mon-Tue evenings",
+   "easy_note_en": "Relaxed, easy to seat",
+   "sweet": "Thu, 7 PM",
+   "sweet_note_en": "Dinner buzz without the wait"
+  },
+  "about_es": "Bridge View es un restaurante internacional de hotel en el barrio de Amador, en la Ciudad de Panamá.",
+  "dataset_comparison_es": "Uno de los 4 lugares de cocina internacional en Amador",
+  "best_time_es": "Almuerzo, por el buffet y la vista al puente",
+  "highlights_es": [
+   "Famoso por su Buffet de desayuno"
+  ],
+  "whats_good_es": [
+   "Ventanales del piso al techo con vista directa al Puente de las Américas",
+   "Buffet de almuerzo generoso con muchas opciones de proteína de calidad",
+   "Salón luminoso y amplio en la planta baja"
+  ],
+  "attributes_es": [
+   "Dentro del Radisson Hotel Panama Canal, Avenida Amador y calle Van Hook",
+   "Enfocado en buffet de desayuno y almuerzo",
+   "Ventanales del piso al techo con vista al Puente de las Américas",
+   "Teléfono: +507 211-4526"
+  ]
+ },
+ {
+  "id": "amador-burger-and-beers",
+  "slug": "burger-and-beers",
+  "name": "Burger and Beers",
+  "cuisine_en": [
+   "Burgers"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "amador",
+  "address": "WF8C+6WP, Calz. de Amador, Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9155781,
+  "lng": -79.52766319999999,
+  "phones": {},
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "12:00 AM",
+    "close": "12:00 PM, 5:00 – 11:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "5:00",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "5:00",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "5:00",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "5:00",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "3:00 PM",
+    "close": "12:00 AM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "2:00 PM",
+    "close": "12:00 AM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/burger-and-beers.jpg",
+    "alt_en": "Crispy flautas appetizer at Burger and Beers, Amador, Panama City",
+    "alt_es": "Flautas crujientes en Burger and Beers, Amador, Ciudad de Panamá",
+    "credit_en": "Photo: @burgerandbeerpa",
+    "credit_url": "https://www.instagram.com/burgerandbeerpa/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Burgers",
+   "Casual",
+   "Family",
+   "BBQ",
+   "Tacos"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Burgers",
+    "description_en": "House burgers, the core of the menu.",
+    "price": null,
+    "popular": true,
+    "description_es": "Hamburguesas de la casa, el eje del menú."
+   },
+   {
+    "name": "Ribs",
+    "description_en": "Barbecue-style ribs.",
+    "price": null,
+    "popular": true,
+    "description_es": "Costillas al estilo barbacoa."
+   },
+   {
+    "name": "Rice bowls",
+    "description_en": "Rice-based plates per the venue's own billing.",
+    "price": null,
+    "popular": false,
+    "description_es": "Platos a base de arroz, según lo describe el propio local."
+   },
+   {
+    "name": "Tacos",
+    "description_en": "Tacos per the venue's own billing.",
+    "price": null,
+    "popular": false,
+    "description_es": "Tacos, según lo describe el propio local."
+   }
+  ],
+  "about_en": "Burger and Beers is a Burgers casual outdoor eatery in the Amador neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Burgers"
+  ],
+  "whats_good_en": [
+   "Casual, laid-back outdoor burger-and-beer spot",
+   "Burgers and ribs are the headline items",
+   "Broader than a burger joint - also rice bowls and tacos"
+  ],
+  "typical_spend_en": null,
+  "dataset_comparison_en": "One of the few Burgers kitchens in Amador",
+  "attributes_en": [
+   "Outdoor / casual seating",
+   "Burgers, ribs, rice bowls, and tacos",
+   "Beer",
+   "Social-only presence (Instagram/Facebook)",
+   "Confirm exact Amador address before publishing"
+  ],
+  "best_time_en": null,
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/burgerandbeerpa/",
+   "https://www.facebook.com/burgerandbeerpa/"
+  ],
+  "best_time": {
+   "busiest": "Fri-Sat evenings",
+   "busiest_note_en": "Weekend nights draw the crowd",
+   "easy": "Weekday lunch",
+   "easy_note_en": "Quick, easy seat",
+   "sweet": "Thu, 6-7 PM",
+   "sweet_note_en": "Early dinner before it fills"
+  },
+  "social": {
+   "instagram": "https://www.instagram.com/burgerandbeerpa/"
+  },
+  "social_proof": "The venue's Waze/Google business listing 'Burger and Beers, Calz. de Amador' links instagram.com/burgerandbeerpa; the account's own posts reference its Isla Perico (Amador Causeway) location ('ISLA PERICO todos los días', post Dai4UFupAs4)",
+  "about_es": "Burger and Beers es un restaurante informal al aire libre de hamburguesas en el barrio de Amador, en la Ciudad de Panamá.",
+  "dataset_comparison_es": "Una de las pocas cocinas de hamburguesas en Amador",
+  "highlights_es": [
+   "Famoso por sus Hamburguesas"
+  ],
+  "whats_good_es": [
+   "Lugar relajado y sin pretensiones al aire libre para hamburguesas y cerveza",
+   "Las hamburguesas y las costillas son los platos estrella",
+   "Va más allá de las hamburguesas: también hay bowls de arroz y tacos"
+  ],
+  "attributes_es": [
+   "Terraza / ambiente informal al aire libre",
+   "Hamburguesas, costillas, bowls de arroz y tacos",
+   "Cerveza",
+   "Presencia únicamente en redes sociales (Instagram/Facebook)",
+   "Confirmar la dirección exacta en Amador antes de publicar"
+  ]
+ },
+ {
+  "id": "amador-canal-house-panama",
+  "slug": "canal-house-panama",
+  "name": "Canal House Panamá",
+  "cuisine_en": [
+   "International"
+  ],
+  "cuisine_es": [],
+  "price_tier": 2,
+  "neighborhood_slug": "amador",
+  "address": "Gral. Juan D Peron 135537-2, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9398684,
+  "lng": -79.55462349999999,
+  "phones": {
+   "call": "+507 6573-3505"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "12:00 PM",
+    "close": "12:00 AM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "12:00 PM",
+    "close": "12:00 AM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "12:00 PM",
+    "close": "12:00 AM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "12:00 PM",
+    "close": "12:00 AM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "12:00 PM",
+    "close": "12:00 AM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "8:00 AM",
+    "close": "12:00 AM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "8:00 AM",
+    "close": "12:00 AM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/canal-house-panama.jpg",
+    "alt_en": "Woven rattan pendant lamps lighting the interior of Canal House, Amador, Panama City",
+    "alt_es": "Lámparas colgantes de ratán en el interior de Canal House, Amador, Ciudad de Panamá",
+    "credit_en": "Photo: @canalhousepanama",
+    "credit_url": "https://www.instagram.com/canalhousepanama/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "International"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Canal House Panamá is an International restaurant in the Amador neighborhood of Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "typical_spend_en": null,
+  "dataset_comparison_en": "One of 4 International spots in Amador",
+  "attributes_en": [],
+  "best_time_en": null,
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/canalhousepanama/"
+  ],
+  "best_time": {
+   "busiest": "Fri-Sat, 8-10 PM",
+   "busiest_note_en": "Weekend dinner is busiest",
+   "easy": "Mon-Tue evenings",
+   "easy_note_en": "Relaxed, easy to seat",
+   "sweet": "Thu, 7 PM",
+   "sweet_note_en": "Dinner buzz without the wait"
+  },
+  "social": {
+   "instagram": "https://www.instagram.com/canalhousepanama/"
+  },
+  "social_proof": "Bio and posts state 'Antiguo Club de Yates de Balboa, Amador - Panamá', matching the venue on the Amador causeway; also Google Maps listing for Canal House Panamá",
+  "about_es": "Canal House Panamá es un restaurante internacional en el barrio de Amador, en la Ciudad de Panamá.",
+  "dataset_comparison_es": "Uno de los 4 lugares internacionales en Amador"
+ },
+ {
+  "id": "amador-cayucos-bar-restaurante",
+  "slug": "cayucos-bar-restaurante",
+  "name": "Cayucos Bar Restaurante",
+  "cuisine_en": [
+   "Steakhouse"
+  ],
+  "cuisine_es": [],
+  "price_tier": 2,
+  "neighborhood_slug": "amador",
+  "address": "Calz. de Amador, Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.911257599999999,
+  "lng": -79.5216145,
+  "phones": {
+   "call": "+507 314-1998"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "11:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "11:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "11:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "11:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "11:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "11:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "11:00 AM",
+    "close": "11:00 PM"
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Steakhouse",
+   "Cocktails"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Fresh seafood plates",
+    "description_en": "Grilled and fried fish and shellfish, the core of the menu.",
+    "price": null,
+    "popular": true,
+    "description_es": "Pescados y mariscos a la parrilla y fritos, el eje del menú."
+   },
+   {
+    "name": "Signature cocktails",
+    "description_en": "House cocktail list served with the marina view.",
+    "price": null,
+    "popular": true,
+    "description_es": "Carta de cocteles de la casa que se disfruta con vista a la marina."
+   },
+   {
+    "name": "Small / shared plates",
+    "description_en": "Casual small plates suited to drinks by the water.",
+    "price": null,
+    "popular": false,
+    "description_es": "Platillos pequeños e informales, ideales para tomar algo frente al agua."
+   }
+  ],
+  "about_en": "Cayucos Bar Restaurante is a Steakhouse bar-restaurant in the Amador neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Fresh seafood plates"
+  ],
+  "whats_good_en": [
+   "One of the better marina/waterfront views on Isla Flamenco",
+   "Fresh seafood at accessible prices for the location",
+   "Relaxed, local-feeling atmosphere with friendly service"
+  ],
+  "typical_spend_en": null,
+  "dataset_comparison_en": null,
+  "attributes_en": [
+   "On the Isla Flamenco marina dock",
+   "Waterfront seating with marina views",
+   "Open late (roughly 11am-11pm)",
+   "Family-friendly with a kids' selection",
+   "Listed variously as Cayucos / Kyuco / Kayucos"
+  ],
+  "best_time_en": "Late afternoon into sunset for the marina view",
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/kyucoislaflamenco/",
+   "https://www.degustapanama.com/panama/restaurante/kayucos_100995.html",
+   "https://www.tripadvisor.com/Restaurant_Review-g294480-d8645234-Reviews-Kyuco_Isla_Flamenco-Panama_City_Panama_Province.html"
+  ],
+  "best_time": {
+   "busiest": "Thu-Sat, 9 PM-late",
+   "busiest_note_en": "Late-evening weekend buzz",
+   "easy": "Tue-Wed nights",
+   "easy_note_en": "Quieter, easy seat at the bar",
+   "sweet": "Fri, 7-8 PM",
+   "sweet_note_en": "Lively but before the late rush"
+  },
+  "social": {
+   "instagram": "https://www.instagram.com/kyucoislaflamenco/"
+  },
+  "social_proof": "same venue rebranded Kyuco/Cayucos: phone 314-1998 in the IG bio matches the Snapchat place 'Cayucos Bar Restaurante' (Isla Flamenco dock 1, Amador Causeway); TripAdvisor cross-lists both names at Isla Flamenco",
+  "about_es": "Cayucos Bar Restaurante es un bar-restaurante de carnes en el barrio de Amador, en la Ciudad de Panamá.",
+  "best_time_es": "Ideal a media tarde y al atardecer para disfrutar la vista a la marina",
+  "highlights_es": [
+   "Reconocido por sus platos de mariscos frescos"
+  ],
+  "whats_good_es": [
+   "Una de las mejores vistas a la marina en Isla Flamenco",
+   "Mariscos frescos a precios accesibles para la zona",
+   "Ambiente relajado y con sabor local, con un servicio amable"
+  ],
+  "attributes_es": [
+   "En el muelle de la marina de Isla Flamenco",
+   "Mesas frente al mar con vista a la marina",
+   "Abre hasta tarde (aproximadamente de 11am a 11pm)",
+   "Ideal para familias, con opciones para niños",
+   "Aparece bajo distintos nombres: Cayucos / Kyuco / Kayucos"
+  ]
+ },
+ {
+  "id": "amador-ciao-bella-amador",
+  "slug": "ciao-bella-amador",
+  "name": "Ciao Bella",
+  "cuisine_en": [
+   "Italian"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "amador",
+  "address": "isla perico, Causeway Islands, Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9111108,
+  "lng": -79.5206506,
+  "phones": {},
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "7:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "7:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "7:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "7:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "7:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "7:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "7:00 AM",
+    "close": "10:00 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/ciao-bella-amador.jpg",
+    "alt_en": "Terrace dining at Ciao Bella, Panama City",
+    "alt_es": "Terraza de Ciao Bella, Ciudad de Panama",
+    "credit_en": "Photo: @ciaobellapanama",
+    "credit_url": "https://www.instagram.com/ciaobellapanama/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Italian"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Pizzas",
+    "description_en": "Italian-style pizzas",
+    "price": null,
+    "popular": true,
+    "description_es": "Pizzas al estilo italiano"
+   },
+   {
+    "name": "Pasta dishes",
+    "description_en": "Italian pasta plates",
+    "price": null,
+    "popular": true,
+    "description_es": "Platos de pasta italiana"
+   }
+  ],
+  "about_en": "Ciao Bella is an Italian restaurant in the Amador neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Pizzas"
+  ],
+  "whats_good_en": [
+   "Italian and international menu on the Causeway",
+   "Casual waterfront setting"
+  ],
+  "typical_spend_en": null,
+  "dataset_comparison_en": "One of the few Italian kitchens in Amador",
+  "attributes_en": [
+   "Terminal locales TE9-TE10-TE11, Amador Causeway",
+   "Italian / international menu"
+  ],
+  "best_time_en": "Dinner",
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/ciaobellapanama/",
+   "https://www.degustapanama.com/panama/restaurante/ciao-bella-causeway_106810.html",
+   "https://www.tripadvisor.com/Restaurant_Review-g294480-d27105543-Reviews-Ciao_Bella_Amador-Panama_City_Panama_Province.html",
+   "https://www.opentable.com/r/ciao-bella-amador-terminal-locales-te9-te10-te11"
+  ],
+  "best_time": {
+   "busiest": "Fri-Sat, 8-10 PM",
+   "busiest_note_en": "Weekend dinner is busiest",
+   "easy": "Mon-Tue evenings",
+   "easy_note_en": "Relaxed, easy to seat",
+   "sweet": "Thu, 7 PM",
+   "sweet_note_en": "Dinner buzz without the wait"
+  },
+  "social": {
+   "instagram": "https://www.instagram.com/ciaobellapanama/"
+  },
+  "social_proof": "official brand account of Ciao Bella Panama (Bella Holdings); its posts name the branches San Francisco, Soho Mall and Punta Pacifica, and the brand runs Ciao Bella Amador on Isla Flamenco (OpenTable/TripAdvisor 'Ciao Bella Amador', matching the row's Degusta 'Ciao Bella Causeway' listing)",
+  "about_es": "Ciao Bella es un restaurante italiano en el barrio de Amador, en la Ciudad de Panamá.",
+  "dataset_comparison_es": "Una de las pocas cocinas italianas en Amador",
+  "best_time_es": "Cena",
+  "highlights_es": [
+   "Reconocido por sus pizzas"
+  ],
+  "whats_good_es": [
+   "Menú italiano e internacional sobre el Causeway",
+   "Ambiente informal frente al mar"
+  ],
+  "attributes_es": [
+   "Locales TE9-TE10-TE11, Amador Causeway",
+   "Menú italiano / internacional"
+  ]
+ },
+ {
+  "id": "amador-coffee-please",
+  "slug": "coffee-please",
+  "name": "Coffee please!",
+  "cuisine_en": [
+   "Cafe"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "amador",
+  "address": "Calz. de Amador, Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9153912,
+  "lng": -79.5298885,
+  "phones": {
+   "call": "+507 6302-5362"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "Closed",
+    "close": ""
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "Closed",
+    "close": ""
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "Closed",
+    "close": ""
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "6:00",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "6:00",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "5:00",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "4:00",
+    "close": "11:00 PM"
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Cafe",
+   "Brunch"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Coffee please! is a night cafe in the Amador neighborhood of Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "typical_spend_en": null,
+  "dataset_comparison_en": null,
+  "attributes_en": [
+   "Evenings only: Thu-Sun, roughly 4-6pm to 11pm; closed Mon-Wed",
+   "Amador Causeway waterfront location"
+  ],
+  "best_time_en": "Thursday-Sunday evenings (it does not open earlier in the day)",
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.google.com/maps/place/?q=place_id:ChIJC_cCogOvrI8R9AL1Uqp5grg"
+  ],
+  "best_time": {
+   "busiest": "Sat-Sun, 9 AM-12 PM",
+   "busiest_note_en": "Weekend brunch is the peak",
+   "easy": "Weekday mornings",
+   "easy_note_en": "Calm, easy to get a table",
+   "sweet": "Sun, 8:30-9:30 AM",
+   "sweet_note_en": "Fresh and unhurried before the brunch wave"
+  },
+  "about_es": "Coffee please! es un café nocturno en el barrio de Amador, en la Ciudad de Panamá.",
+  "best_time_es": "Abre las noches de jueves a domingo (no abre antes en el día)",
+  "attributes_es": [
+   "Solo por las noches: de jueves a domingo, aproximadamente de 4-6pm a 11pm; cerrado de lunes a miércoles",
+   "Ubicado frente al mar en el Amador Causeway"
+  ]
+ },
+ {
+  "id": "amador-delicias-del-negro",
+  "slug": "delicias-del-negro",
+  "name": "Delicias del Negro",
+  "cuisine_en": [
+   "Panamanian"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "amador",
+  "address": "WF8F+425, Causeway Amador isla, Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9152571,
+  "lng": -79.527389,
+  "phones": {
+   "call": "+507 6909-9372"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "2:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "2:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "2:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "2:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "2:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "2:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "2:00",
+    "close": "10:00 PM"
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Panamanian",
+   "Outdoor",
+   "Ceviche",
+   "Patacones"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Ceviche with patacones",
+    "description_en": "Ceviche served with fried plantain rounds",
+    "price": null,
+    "popular": true,
+    "description_es": "Ceviche servido con patacones"
+   },
+   {
+    "name": "Patacones rellenos",
+    "description_en": "Fried plantain cups with fillings",
+    "price": null,
+    "popular": false,
+    "description_es": "Cazuelitas de patacón con relleno"
+   },
+   {
+    "name": "Fried whole fish",
+    "description_en": "Generous-portion fried fish",
+    "price": null,
+    "popular": true,
+    "description_es": "Pescado frito en porción generosa"
+   },
+   {
+    "name": "Grilled fish",
+    "description_en": "Grilled fresh fish",
+    "price": null,
+    "popular": false,
+    "description_es": "Pescado fresco a la parrilla"
+   },
+   {
+    "name": "Seafood and meat plates",
+    "description_en": "Range of seafood and meat mains",
+    "price": null,
+    "popular": false,
+    "description_es": "Variedad de platos fuertes de mariscos y carnes"
+   }
+  ],
+  "about_en": "Delicias del Negro is a Panamanian restaurant in the Amador neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Ceviche with patacones"
+  ],
+  "whats_good_en": [
+   "Generous fried-fish portions",
+   "Ceviche with patacones, good with a local beer",
+   "Casual outdoor patio with reasonable prices"
+  ],
+  "typical_spend_en": null,
+  "dataset_comparison_en": "One of 6 Panamanian spots in Amador",
+  "attributes_en": [
+   "Amador Causeway",
+   "Casual outdoor patio",
+   "Panamanian / Caribbean seafood"
+  ],
+  "best_time_en": "Lunch or a casual afternoon with a beer",
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/deliciasdelnegro/",
+   "https://www.degustapanama.com/panama/restaurante/delicias-del-negro-causeway_105947.html",
+   "https://delicias-del-negro.goto-where.com/",
+   "https://www.tripadvisor.com/RestaurantsNear-g294480-d300879-Amador_Causeway_Calzada_de_Amador-Panama_City_Panama_Province.html"
+  ],
+  "best_time": {
+   "busiest": "Fri-Sat, 8-10 PM",
+   "busiest_note_en": "Weekend dinner is busiest",
+   "easy": "Mon-Tue evenings",
+   "easy_note_en": "Relaxed, easy to seat",
+   "sweet": "Thu, 7 PM",
+   "sweet_note_en": "Dinner buzz without the wait"
+  },
+  "social": {
+   "instagram": "https://www.instagram.com/deliciasdelnegro/"
+  },
+  "social_proof": "official site deliciasdelnegro.com links this handle; Degusta lists Delicias del Negro at the Causeway, matching the account's Panamanian-seafood posts",
+  "about_es": "Delicias del Negro es un restaurante panameño en el barrio de Amador, en la Ciudad de Panamá.",
+  "dataset_comparison_es": "Uno de los 6 lugares panameños en Amador",
+  "best_time_es": "Ideal para el almuerzo o una tarde relajada con una cerveza",
+  "highlights_es": [
+   "Reconocido por su ceviche con patacones"
+  ],
+  "whats_good_es": [
+   "Porciones generosas de pescado frito",
+   "Ceviche con patacones, perfecto para acompañar con una cerveza nacional",
+   "Terraza informal al aire libre con precios razonables"
+  ],
+  "attributes_es": [
+   "Amador Causeway",
+   "Patio informal al aire libre",
+   "Mariscos panameños / caribeños"
+  ]
+ },
+ {
+  "id": "amador-diva-tropical-lounge",
+  "slug": "diva-tropical-lounge",
+  "name": "DIVA TROPICAL LOUNGE",
+  "cuisine_en": [
+   "Panamanian"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "amador",
+  "address": "WCQX+XP4, Causeway, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9398882,
+  "lng": -79.5506655,
+  "phones": {
+   "call": "+507 6014-6650"
+  },
+  "hours": [],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Panamanian",
+   "Live-music",
+   "Ceviche",
+   "Cocktails"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Tropical ceviches",
+    "description_en": "Ceviches with tropical fruit notes, a menu highlight.",
+    "price": null,
+    "popular": true,
+    "description_es": "Ceviches con notas de frutas tropicales, uno de los platos destacados del menú."
+   },
+   {
+    "name": "Signature cocktails",
+    "description_en": "Cocktail and drinks program, the venue's main draw.",
+    "price": null,
+    "popular": true,
+    "description_es": "Carta de cocteles y tragos, el gran atractivo del lugar."
+   },
+   {
+    "name": "International / Panamanian plates",
+    "description_en": "Mix of international and Panamanian dishes served with the drinks.",
+    "price": null,
+    "popular": false,
+    "description_es": "Mezcla de platos internacionales y panameños para acompañar los tragos."
+   }
+  ],
+  "about_en": "DIVA TROPICAL LOUNGE is a Panamanian bar-restaurant in the Amador neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Tropical ceviches"
+  ],
+  "whats_good_en": [
+   "Lively entertainment-led atmosphere with live music, DJ, and karaoke",
+   "Tropical ceviches and a strong cocktail list",
+   "Family-friendly, in the newer Downtown Amador complex"
+  ],
+  "typical_spend_en": null,
+  "dataset_comparison_en": "One of 6 Panamanian spots in Amador",
+  "attributes_en": [
+   "Live music, DJ, and karaoke",
+   "Cocktail-led with a full food menu",
+   "Downtown Amador complex (parking and security on site)",
+   "Family-friendly"
+  ],
+  "best_time_en": "Evenings and weekends for the live music and karaoke",
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/divaloungetropical/",
+   "https://www.degustapanama.com/panama/restaurante/diva-tropical-lounge_109064.html",
+   "https://www.tripadvisor.com/Restaurant_Review-g294480-d32702343-Reviews-Diva_Tropical_Lounge-Panama_City_Panama_Province.html"
+  ],
+  "best_time": {
+   "busiest": "Fri-Sat, 8-10 PM",
+   "busiest_note_en": "Weekend dinner is busiest",
+   "easy": "Mon-Tue evenings",
+   "easy_note_en": "Relaxed, easy to seat",
+   "sweet": "Thu, 7 PM",
+   "sweet_note_en": "Dinner buzz without the wait"
+  },
+  "social": {
+   "instagram": "https://www.instagram.com/divaloungetropical/"
+  },
+  "social_proof": "bio 'Downtown Amador, Causeway de Amador - Reservas +507 6634-7471', matching the venue's Amador location; corroborated by TripAdvisor and downtownamador",
+  "about_es": "DIVA TROPICAL LOUNGE es un bar-restaurante panameño en el barrio de Amador, en la Ciudad de Panamá.",
+  "dataset_comparison_es": "Uno de los 6 lugares panameños en Amador",
+  "best_time_es": "Ideal en las noches y fines de semana por la música en vivo y el karaoke",
+  "highlights_es": [
+   "Reconocido por sus ceviches tropicales"
+  ],
+  "whats_good_es": [
+   "Ambiente animado con música en vivo, DJ y karaoke",
+   "Ceviches tropicales y una carta de cocteles bastante completa",
+   "Apto para familias, en el nuevo complejo de Downtown Amador"
+  ],
+  "attributes_es": [
+   "Música en vivo, DJ y karaoke",
+   "Enfocado en cocteles, con menú de comida completo",
+   "En el complejo de Downtown Amador (con parqueo y seguridad en el lugar)",
+   "Apto para familias"
+  ]
+ },
+ {
+  "id": "amador-fish-lovers-ceviche-y-bar",
+  "slug": "fish-lovers-ceviche-y-bar",
+  "name": "Fish Lovers Ceviche Y Bar",
+  "cuisine_en": [
+   "Peruvian"
+  ],
+  "cuisine_es": [],
+  "price_tier": 2,
+  "neighborhood_slug": "amador",
+  "address": "isla Flamenco, Av. Amador, Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9114042,
+  "lng": -79.51986380000001,
+  "phones": {
+   "call": "+507 387-8782"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "11:30 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "11:30 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "11:30 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "11:30 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "11:30 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "11:30 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "11:30 AM",
+    "close": "10:00 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/fish-lovers-ceviche-y-bar.jpg",
+    "alt_en": "Fish Lovers Ceviche Y Bar in Amador, Panama City",
+    "alt_es": "Fish Lovers Ceviche Y Bar en Amador, Ciudad de Panamá",
+    "credit_en": "Photo: fishloverspa.com",
+    "credit_url": "https://www.fishloverspa.com/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Peruvian",
+   "Outdoor",
+   "Ceviche"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Ceviche clasico de pescado",
+    "description_en": "Classic fish ceviche, the entry-level order.",
+    "price": 5,
+    "popular": true,
+    "description_es": "Ceviche clásico de pescado, la opción más sencilla para empezar."
+   },
+   {
+    "name": "Ceviche de camaron",
+    "description_en": "Shrimp ceviche.",
+    "price": 7.5,
+    "popular": true,
+    "description_es": "Ceviche de camarón."
+   },
+   {
+    "name": "Mixto Fishlovers",
+    "description_en": "House mixed ceviche combination.",
+    "price": 7.4,
+    "popular": true,
+    "description_es": "Combinación de ceviche mixto de la casa."
+   },
+   {
+    "name": "Ceviche mixto de mariscos",
+    "description_en": "Larger mixed-seafood ceviche plate.",
+    "price": 19.2,
+    "popular": false,
+    "description_es": "Plato más grande de ceviche mixto de mariscos."
+   },
+   {
+    "name": "Jalea de mariscos",
+    "description_en": "Fried mixed-seafood platter.",
+    "price": 19,
+    "popular": false,
+    "description_es": "Fuente de mariscos mixtos fritos."
+   },
+   {
+    "name": "Filete de pescado a lo macho",
+    "description_en": "Fish fillet in a mixed-seafood sauce.",
+    "price": 20.6,
+    "popular": false,
+    "description_es": "Filete de pescado en salsa de mariscos mixtos."
+   }
+  ],
+  "about_en": "Fish Lovers Ceviche Y Bar is a Peruvian casual open-air cevicheria in the Amador neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Ceviche clasico de pescado"
+  ],
+  "whats_good_en": [
+   "Fresh Peruvian-fusion ceviches, including passion-fruit and mango versions",
+   "Big sharing platters and strong value for fresh seafood",
+   "Casual waterfront setting right by the Flamenco dock"
+  ],
+  "typical_spend_en": "$13 to $42 a seafood plate (ceviches from about $5)",
+  "dataset_comparison_en": "One of the few Peruvian kitchens in Amador",
+  "attributes_en": [
+   "Open-air waterfront spot by the Isla Flamenco dock",
+   "Casual / no-frills seating",
+   "Cocktails and colorful drinks",
+   "Table reservation and order-ahead via their website",
+   "Free Wi-Fi"
+  ],
+  "best_time_en": "Lunch or afternoon for ceviche and cocktails by the water",
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.fishloverspa.com/en/menu",
+   "https://www.tripadvisor.com/Restaurant_Review-g294480-d13564069-Reviews-Fishlovers-Panama_City_Panama_Province.html",
+   "https://wanderlog.com/place/details/3471828/fish-lovers-ceviche-y-bar"
+  ],
+  "best_time": {
+   "busiest": "Thu-Sat, 9 PM-late",
+   "busiest_note_en": "Late-evening weekend buzz",
+   "easy": "Tue-Wed nights",
+   "easy_note_en": "Quieter, easy seat at the bar",
+   "sweet": "Fri, 7-8 PM",
+   "sweet_note_en": "Lively but before the late rush"
+  },
+  "price_source": "menu",
+  "about_es": "Fish Lovers Ceviche Y Bar es una cevichería peruana casual y al aire libre en el barrio de Amador, en la Ciudad de Panamá.",
+  "typical_spend_es": "De $13 a $42 por un plato de mariscos (los ceviches desde unos $5)",
+  "dataset_comparison_es": "Una de las pocas cocinas peruanas en Amador",
+  "best_time_es": "Perfecto al mediodía o en la tarde para comer ceviche y tomar cocteles frente al mar",
+  "highlights_es": [
+   "Reconocido por su ceviche clásico de pescado"
+  ],
+  "whats_good_es": [
+   "Ceviches frescos de fusión peruana, incluyendo versiones de maracuyá y mango",
+   "Grandes platos para compartir y muy buena relación calidad-precio en mariscos frescos",
+   "Ambiente casual frente al mar, justo junto al muelle de Flamenco"
+  ],
+  "attributes_es": [
+   "Lugar al aire libre frente al mar, junto al muelle de Isla Flamenco",
+   "Ambiente casual, sin pretensiones",
+   "Cocteles y tragos coloridos",
+   "Reservas de mesa y pedidos por adelantado a través de su página web",
+   "Wi-Fi gratis"
+  ]
+ },
+ {
+  "id": "amador-geisha-negra",
+  "slug": "geisha-negra",
+  "name": "Geisha Negra",
+  "cuisine_en": [
+   "Cafe"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "amador",
+  "address": "Panama City, Panamá Province, Panama",
+  "address_note_en": "",
+  "lat": 8.911489399999999,
+  "lng": -79.5229652,
+  "phones": {
+   "call": "+507 6312-2574"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "12:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "Closed",
+    "close": ""
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "12:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "12:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "12:00",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "12:00",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "12:00",
+    "close": "10:00 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/geisha-negra.jpg",
+    "alt_en": "Salmon sushi roll at Geisha Negra, Amador, Panama City",
+    "alt_es": "Roll de sushi de salmon en Geisha Negra, Amador, Ciudad de Panama",
+    "credit_en": "Photo: @geishanegra",
+    "credit_url": "https://www.instagram.com/geishanegra/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Cafe",
+   "Outdoor",
+   "Ceviche",
+   "Cocktails",
+   "Specialty-coffee"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Sushi rolls / nigiri",
+    "description_en": "Fresh sushi made with a thin layer of rice in the Japanese style; repeatedly the standout order.",
+    "price": null,
+    "popular": true,
+    "description_es": "Sushi fresco preparado con una capa fina de arroz al estilo japonés; el plato estrella una y otra vez."
+   },
+   {
+    "name": "Salmon ceviche",
+    "description_en": "Salmon ceviche served with plantain crisps, a Latin-Japanese crossover plate.",
+    "price": null,
+    "popular": true,
+    "description_es": "Ceviche de salmón servido con chips de plátano, un plato que fusiona lo latino con lo japonés."
+   },
+   {
+    "name": "Wakame salad",
+    "description_en": "Seaweed salad starter.",
+    "price": null,
+    "popular": false,
+    "description_es": "Entrada de ensalada de alga marina."
+   },
+   {
+    "name": "Signature cocktails",
+    "description_en": "Cocktail program flagged by diners alongside the food.",
+    "price": null,
+    "popular": true,
+    "description_es": "Carta de cocteles que los comensales destacan tanto como la comida."
+   },
+   {
+    "name": "Pistachio flan",
+    "description_en": "Pistachio-flavored flan dessert.",
+    "price": null,
+    "popular": false,
+    "description_es": "Postre de flan sabor a pistacho."
+   },
+   {
+    "name": "Passion-fruit juice",
+    "description_en": "Fresh passion-fruit (maracuya) juice.",
+    "price": null,
+    "popular": false,
+    "description_es": "Jugo natural de maracuyá."
+   }
+  ],
+  "about_en": "Geisha Negra is a Cafe restaurant in the Amador neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Sushi rolls / nigiri"
+  ],
+  "whats_good_en": [
+   "Inventive, unexpected flavor combinations that diners say work well",
+   "Fresh, carefully made sushi and cocktails",
+   "Intimate open-air waterfront food-court setting"
+  ],
+  "typical_spend_en": null,
+  "dataset_comparison_en": null,
+  "attributes_en": [
+   "Closed Tuesdays; otherwise open midday to late (~12pm-10/11pm)",
+   "Part of a small shared open-air food court",
+   "Cocktail bar",
+   "Waterfront Causeway location",
+   "Diners have reported vehicle break-in attempts in the shared parking lot - take care with cars"
+  ],
+  "best_time_en": "Evenings for dinner, sushi, and cocktails (closed Tuesdays)",
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/geishanegra/",
+   "https://www.tripadvisor.com/Restaurant_Review-g294480-d23951180-Reviews-Geisha_Negra-Panama_City_Panama_Province.html",
+   "https://www.google.com/maps/place/?q=place_id:ChIJDz9FwNGvrI8Rg1loWN4Oc-U"
+  ],
+  "best_time": {
+   "busiest": "Fri-Sat, 8-10 PM",
+   "busiest_note_en": "Weekend dinner is busiest",
+   "easy": "Mon-Tue evenings",
+   "easy_note_en": "Relaxed, easy to seat",
+   "sweet": "Thu, 7 PM",
+   "sweet_note_en": "Dinner buzz without the wait"
+  },
+  "social": {
+   "instagram": "https://www.instagram.com/geishanegra/"
+  },
+  "social_proof": "account 'Geisha Negra - Japanese Cuisine', Panama City, posts tag @plazacauseway and #calzadadeamador (Plaza Causeway food hall, Amador); distinct from the Buenos Aires @geishanegra.resto",
+  "about_es": "Geisha Negra es un restaurante Cafe en el barrio de Amador, en la Ciudad de Panamá.",
+  "best_time_es": "Ideal en las noches para cenar, comer sushi y tomar cocteles (cerrado los martes)",
+  "highlights_es": [
+   "Reconocido por sus rolls de sushi y nigiri"
+  ],
+  "whats_good_es": [
+   "Combinaciones de sabores inventivas e inesperadas que, según los comensales, funcionan muy bien",
+   "Sushi fresco y bien elaborado, junto con buenos cocteles",
+   "Ambiente íntimo al aire libre, dentro de una zona de comida frente al mar"
+  ],
+  "attributes_es": [
+   "Cerrado los martes; el resto de los días abre desde mediodía hasta tarde (aprox. 12pm-10/11pm)",
+   "Forma parte de una pequeña zona de comida compartida al aire libre",
+   "Bar de cocteles",
+   "Ubicado frente al mar, en el Causeway",
+   "Algunos comensales han reportado intentos de robo en vehículos dentro del estacionamiento compartido, así que hay que tener cuidado con los carros"
+  ]
+ },
+ {
+  "id": "amador-hacienda-colombiana",
+  "slug": "hacienda-colombiana",
+  "name": "Hacienda Colombiana",
+  "cuisine_en": [
+   "Colombian"
+  ],
+  "cuisine_es": [],
+  "price_tier": 2,
+  "neighborhood_slug": "amador",
+  "address": "Brisas de Amador, Isla Perico, Calz. de Amador, Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.915262400000001,
+  "lng": -79.5272659,
+  "phones": {
+   "call": "+507 6477-2636"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "Closed",
+    "close": ""
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/hacienda-colombiana.jpg",
+    "alt_en": "Shrimp in cream sauce with rice and fries at La Hacienda Colombiana, Amador, Panama City",
+    "alt_es": "Camarones en salsa cremosa con arroz y papas fritas en La Hacienda Colombiana, Amador, Ciudad de Panama",
+    "credit_en": "Photo: @lahaciendacolombianapty",
+    "credit_url": "https://www.instagram.com/lahaciendacolombianapty/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Colombian",
+   "Ceviche",
+   "Wings",
+   "Empanadas"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Bandeja paisa",
+    "description_en": "The classic large Colombian platter (beans, rice, egg, plantain, meats), a signature order.",
+    "price": null,
+    "popular": true,
+    "description_es": "La clásica bandeja paisa colombiana en versión grande (frijoles, arroz, huevo, plátano, carnes), un plato insignia."
+   },
+   {
+    "name": "Whole fried fish (pescado frito)",
+    "description_en": "Whole fried fish, frequently recommended.",
+    "price": null,
+    "popular": true,
+    "description_es": "Pescado entero frito, una recomendación frecuente."
+   },
+   {
+    "name": "Garlic clams (almejas al ajillo)",
+    "description_en": "Clams sauteed in garlic.",
+    "price": null,
+    "popular": false,
+    "description_es": "Almejas salteadas al ajillo."
+   },
+   {
+    "name": "Empanadas",
+    "description_en": "Colombian-style empanadas.",
+    "price": null,
+    "popular": false,
+    "description_es": "Empanadas al estilo colombiano."
+   },
+   {
+    "name": "Fried chicken wings",
+    "description_en": "Fried wings, a casual favorite.",
+    "price": null,
+    "popular": false,
+    "description_es": "Alitas fritas, un favorito informal."
+   },
+   {
+    "name": "Ceviche",
+    "description_en": "Seafood ceviche starter.",
+    "price": null,
+    "popular": false,
+    "description_es": "Entrada de ceviche de mariscos."
+   }
+  ],
+  "about_en": "Hacienda Colombiana is a Colombian restaurant in the Amador neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Bandeja paisa"
+  ],
+  "whats_good_en": [
+   "Authentic Colombian cooking with generous portions",
+   "Open views of Panama Bay and the city skyline",
+   "Broad drinks menu and quick, friendly service"
+  ],
+  "typical_spend_en": null,
+  "dataset_comparison_en": "One of the few Colombian kitchens in Amador",
+  "attributes_en": [
+   "Bayfront / skyline views from Isla Perico",
+   "Family-friendly",
+   "Varied drinks menu",
+   "Own interactive online menu",
+   "Sometimes noted as pricier than neighbors - check the menu first"
+  ],
+  "best_time_en": "Evening for the skyline and sunset over the bay",
+  "notable_mention_en": "Profiled by the DoPanama local dining guide as an authentic Colombian restaurant on the Amador Causeway.",
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/lahaciendacolombianapty/",
+   "https://www.lahaciendacolombianapty.com/",
+   "https://www.degustapanama.com/panama/restaurante/la-hacienda-colombiana_114.html",
+   "https://dopanama.com/articles/la-hacienda-colombiana-266"
+  ],
+  "best_time": {
+   "busiest": "Fri-Sat, 8-10 PM",
+   "busiest_note_en": "Weekend dinner is busiest",
+   "easy": "Mon-Tue evenings",
+   "easy_note_en": "Relaxed, easy to seat",
+   "sweet": "Thu, 7 PM",
+   "sweet_note_en": "Dinner buzz without the wait"
+  },
+  "social": {
+   "instagram": "https://www.instagram.com/lahaciendacolombianapty/"
+  },
+  "social_proof": "IG bio lists 'Isla Perico, Amador, Local 202-203' matching the Amador venue; handle matches the row website lahaciendacolombianapty.com",
+  "attributes_es": [
+   "Vistas a la bahía y al perfil urbano desde Isla Perico",
+   "Ideal para ir en familia",
+   "Variada carta de bebidas",
+   "Cuenta con su propio menú interactivo en línea",
+   "A veces se señala como más caro que sus vecinos, así que conviene revisar el menú antes"
+  ],
+  "whats_good_es": [
+   "Comida colombiana autentica con porciones generosas",
+   "Vistas abiertas de la Bahia de Panama y el perfil de la ciudad",
+   "Amplia carta de tragos y servicio rapido y amable"
+  ],
+  "about_es": "Hacienda Colombiana es un restaurante colombiano en el barrio de Amador, en la Ciudad de Panamá.",
+  "dataset_comparison_es": "Una de las pocas cocinas colombianas en Amador",
+  "best_time_es": "Ideal en la noche para ver el horizonte y la puesta de sol sobre la bahía",
+  "notable_mention_es": "Reseñado por la guía gastronómica local DoPanama como un auténtico restaurante colombiano en la Calzada de Amador.",
+  "highlights_es": [
+   "Reconocido por su Bandeja paisa"
+  ]
+ },
+ {
+  "id": "amador-la-eskinita",
+  "slug": "la-eskinita",
+  "name": "La Eskinita",
+  "cuisine_en": [
+   "Pizza"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "amador",
+  "address": "local 8 y, Isla Naos, Calz. de Amador 9, Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.914853599999999,
+  "lng": -79.5294828,
+  "phones": {
+   "call": "+507 6320-1090"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "Closed",
+    "close": ""
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "4:00",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "4:00",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "4:00",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "4:00",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "12:00",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "12:00",
+    "close": "11:00 PM"
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Pizza",
+   "Outdoor",
+   "Cocktails"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Wood-oven pizza",
+    "description_en": "Pizzas baked in a wood-fired oven, the house specialty.",
+    "price": null,
+    "popular": true,
+    "description_es": "Pizzas horneadas en horno de leña, la especialidad de la casa."
+   },
+   {
+    "name": "Fresh Pacific seafood",
+    "description_en": "Seafood dishes made with local catch.",
+    "price": null,
+    "popular": true,
+    "description_es": "Platos de mariscos preparados con pesca local."
+   },
+   {
+    "name": "Appetizers to share",
+    "description_en": "Starters designed for the table alongside drinks.",
+    "price": null,
+    "popular": false,
+    "description_es": "Entradas pensadas para compartir en la mesa junto con los tragos."
+   },
+   {
+    "name": "Cocktails, beer and wine",
+    "description_en": "Full bar with cocktails, beers, and wines.",
+    "price": null,
+    "popular": false,
+    "description_es": "Barra completa con cócteles, cervezas y vinos."
+   }
+  ],
+  "about_en": "La Eskinita is a Pizza pizzeria in the Amador neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Wood-oven pizza"
+  ],
+  "whats_good_en": [
+   "Wood-fired pizza paired with fresh seafood",
+   "Small seafront terrace with canal-entrance views",
+   "Casual bistro setting with a full bar"
+  ],
+  "typical_spend_en": null,
+  "dataset_comparison_en": null,
+  "attributes_en": [
+   "Waterfront terrace facing the Panama Canal entrance",
+   "Wood-fired pizza oven",
+   "Full bar (cocktails, beer, wine)",
+   "Isla Naos / La Playita location"
+  ],
+  "best_time_en": "Sunset and evenings for the seafront terrace",
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/laeskinitapanama/",
+   "https://www.facebook.com/eskinitapanama/",
+   "https://www.degustapanama.com/panama/restaurante/la-eskinita_279.html",
+   "https://pa.sluurpy.com/ciudad-de-panam%C3%A1/restaurante/5607080/la-eskinita"
+  ],
+  "best_time": {
+   "busiest": "Fri-Sat evenings",
+   "busiest_note_en": "Weekend nights draw the crowd",
+   "easy": "Weekday lunch",
+   "easy_note_en": "Quick, easy seat",
+   "sweet": "Thu, 6-7 PM",
+   "sweet_note_en": "Early dinner before it fills"
+  },
+  "social": {
+   "instagram": "https://www.instagram.com/laeskinitapanama/"
+  },
+  "social_proof": "IG @laeskinitapanama (Pizzas a la lena, Marisqueria); IG location tag places it at 'La Eskinita, Causeway - Amador / Isla Naos', matching the Amador pizza venue",
+  "about_es": "La Eskinita es una pizzería del barrio Amador, en la Ciudad de Panamá.",
+  "best_time_es": "Ideal al atardecer y en la noche para disfrutar la terraza frente al mar",
+  "highlights_es": [
+   "Reconocido por su pizza al horno de leña"
+  ],
+  "whats_good_es": [
+   "Pizza al horno de leña acompañada de mariscos frescos",
+   "Pequeña terraza frente al mar con vista a la entrada del canal",
+   "Ambiente de bistró informal con barra completa"
+  ],
+  "attributes_es": [
+   "Terraza frente al mar con vista a la entrada del Canal de Panamá",
+   "Horno de leña para pizzas",
+   "Barra completa (cócteles, cerveza, vino)",
+   "Ubicación en Isla Naos / La Playita"
+  ]
+ },
+ {
+  "id": "amador-la-fisheria-seafood-amador",
+  "slug": "la-fisheria-seafood-amador",
+  "name": "La Fisheria Seafood Amador",
+  "cuisine_en": [
+   "Seafood"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "amador",
+  "address": "la fisheria seafood, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9116248,
+  "lng": -79.52128619999999,
+  "phones": {
+   "call": "+507 6071-2699"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "11:00 AM",
+    "close": "12:00 AM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "11:00 AM",
+    "close": "12:00 AM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "11:00 AM",
+    "close": "12:00 AM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "11:00 AM",
+    "close": "12:00 AM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "11:00 AM",
+    "close": "12:00 AM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "11:00 AM",
+    "close": "12:00 AM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "11:00 AM",
+    "close": "12:00 AM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/la-fisheria-seafood-amador.jpg",
+    "alt_en": "La Fisheria Seafood Amador in Amador, Panama City",
+    "alt_es": "La Fisheria Seafood Amador en Amador, Ciudad de Panamá",
+    "credit_en": "Photo: lafisheriaseafood.com",
+    "credit_url": "https://lafisheriaseafood.com/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Seafood",
+   "Rooftop",
+   "Live-music",
+   "Ceviche"
+  ],
+  "tags_es": [
+   "Azotea"
+  ],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Shrimp ceviche",
+    "description_en": "Marinated shrimp starter",
+    "price": null,
+    "popular": true,
+    "description_es": "Entrada de camarones marinados"
+   },
+   {
+    "name": "Sea bass (corvina)",
+    "description_en": "Fresh local sea bass, a frequently ordered plate",
+    "price": null,
+    "popular": true,
+    "description_es": "Corvina fresca local, un plato muy pedido"
+   },
+   {
+    "name": "Lobster with pasta",
+    "description_en": "Lobster served with pasta and sides",
+    "price": null,
+    "popular": true,
+    "description_es": "Langosta servida con pasta y acompañantes"
+   },
+   {
+    "name": "Fried red snapper",
+    "description_en": "Whole fried snapper with plantains",
+    "price": null,
+    "popular": false,
+    "description_es": "Pargo entero frito con patacones"
+   },
+   {
+    "name": "White sangria",
+    "description_en": "House white-wine sangria",
+    "price": null,
+    "popular": false,
+    "description_es": "Sangría blanca de la casa"
+   }
+  ],
+  "about_en": "La Fisheria Seafood Amador is a Seafood restaurant in the Amador neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Shrimp ceviche"
+  ],
+  "whats_good_en": [
+   "Rooftop setting with Pacific Ocean views",
+   "Fresh seafood with a Mediterranean lean",
+   "Live music and DJ nights; set up for groups and events"
+  ],
+  "typical_spend_en": null,
+  "dataset_comparison_en": "One of 6 Seafood spots in Amador",
+  "attributes_en": [
+   "Calzada de Amador (rooftop, ocean views)",
+   "Open daily 11am-12am (kitchen to 11pm)",
+   "Reservations via the site's booking widget",
+   "Live music / DJ nights; event hosting"
+  ],
+  "best_time_en": "Evenings and sunset for the rooftop views and DJ nights",
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://lafisheriaseafood.com/amador/",
+   "https://www.opentable.com/r/la-fisheria-seafood-amador-panama",
+   "https://www.fodors.com/world/mexico-and-central-america/panama/panama-city/neighborhoods/calzada-amador/restaurants"
+  ],
+  "best_time": {
+   "busiest": "Fri-Sun, 1-3 PM",
+   "busiest_note_en": "Weekend lunch is busiest",
+   "easy": "Weekday lunch",
+   "easy_note_en": "Easy midday seat",
+   "sweet": "Fri, 12:30 PM",
+   "sweet_note_en": "Lunch peak freshness, ahead of the rush"
+  },
+  "about_es": "La Fisheria Seafood Amador es un restaurante de mariscos en el barrio Amador, en la Ciudad de Panamá.",
+  "dataset_comparison_es": "Uno de los 6 lugares de mariscos en Amador",
+  "best_time_es": "Ideal en la noche y al atardecer por las vistas desde la azotea y las noches de DJ",
+  "highlights_es": [
+   "Reconocido por su ceviche de camarón"
+  ],
+  "whats_good_es": [
+   "Terraza en la azotea con vista al Océano Pacífico",
+   "Mariscos frescos con un toque mediterráneo",
+   "Música en vivo y noches de DJ; preparado para grupos y eventos"
+  ],
+  "attributes_es": [
+   "Calzada de Amador (azotea con vista al mar)",
+   "Abierto todos los días de 11am a 12am (cocina hasta las 11pm)",
+   "Reservas a través del sistema de reservaciones del sitio web",
+   "Música en vivo y noches de DJ; organización de eventos"
+  ]
+ },
+ {
+  "id": "amador-mi-ranchito-amador",
+  "slug": "mi-ranchito-amador",
+  "name": "Mi Ranchito Amador",
+  "cuisine_en": [
+   "Panamanian"
+  ],
+  "cuisine_es": [],
+  "price_tier": 2,
+  "neighborhood_slug": "amador",
+  "address": "Av. Punta Culebra, Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.914884299999999,
+  "lng": -79.53032739999999,
+  "phones": {
+   "call": "+507 6490-0642"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "8:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "8:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "8:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "8:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "8:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "8:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "8:00 AM",
+    "close": "10:00 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/mi-ranchito-amador.jpg",
+    "alt_en": "Quinoa bowl with grilled chicken at Mi Ranchito, Amador, Panama City",
+    "alt_es": "Bowl de quinoa con pollo a la plancha en Mi Ranchito, Amador, Ciudad de Panama",
+    "credit_en": "Photo: @miranchitopanama",
+    "credit_url": "https://www.instagram.com/miranchitopanama/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Panamanian",
+   "High-traffic"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Camarones al ajillo",
+    "description_en": "Garlic shrimp served with coconut rice",
+    "price": null,
+    "popular": true,
+    "description_es": "Camarones al ajillo servidos con arroz con coco"
+   },
+   {
+    "name": "Pencas bacon burger",
+    "description_en": "House bacon burger",
+    "price": null,
+    "popular": true,
+    "description_es": "Hamburguesa de tocino de la casa"
+   },
+   {
+    "name": "Pollo mignon",
+    "description_en": "Chicken with boiled potatoes",
+    "price": null,
+    "popular": false,
+    "description_es": "Pollo con papas hervidas"
+   },
+   {
+    "name": "Sunday breakfast buffet",
+    "description_en": "Weekend Panamanian breakfast spread",
+    "price": null,
+    "popular": true,
+    "description_es": "Desayuno panameño de fin de semana"
+   },
+   {
+    "name": "A la carte breakfasts",
+    "description_en": "Panamanian breakfast plates",
+    "price": null,
+    "popular": false,
+    "description_es": "Platos de desayuno panameño"
+   }
+  ],
+  "about_en": "Mi Ranchito Amador is a Panamanian restaurant in the Amador neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Camarones al ajillo"
+  ],
+  "whats_good_en": [
+   "Casual Panamanian classics on the Causeway",
+   "Strong breakfast offering plus a Sunday buffet",
+   "Family-friendly, informal service"
+  ],
+  "typical_spend_en": null,
+  "dataset_comparison_en": "One of 6 Panamanian spots in Amador",
+  "attributes_en": [
+   "Amador Causeway (also Albrook Mall, Villa Lucre, Costa Verde)",
+   "Sun-Thu 8am-10pm, Fri-Sat 8am-11pm",
+   "Delivery via ASAP app; takeout",
+   "Reservations and events available"
+  ],
+  "best_time_en": "Breakfast or a casual weekend brunch",
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/miranchitopanama/",
+   "https://restaurantemiranchito.com/",
+   "https://www.tripadvisor.com/RestaurantsNear-g294480-d300879-Amador_Causeway_Calzada_de_Amador-Panama_City_Panama_Province.html"
+  ],
+  "best_time": {
+   "busiest": "Fri-Sat, 8-10 PM",
+   "busiest_note_en": "Weekend dinner is busiest",
+   "easy": "Mon-Tue evenings",
+   "easy_note_en": "Relaxed, easy to seat",
+   "sweet": "Thu, 7 PM",
+   "sweet_note_en": "Dinner buzz without the wait"
+  },
+  "social": {
+   "instagram": "https://www.instagram.com/miranchitopanama/"
+  },
+  "social_proof": "Account @miranchitopanama (bio 'Restaurante Mi Ranchito, Est. 1993, 4 Sucursales' including Amador/Causeway) matches restaurantemiranchito.com and its Facebook /MiRanchitoPanama.",
+  "about_es": "Mi Ranchito Amador es un restaurante panameño en el barrio Amador, en la Ciudad de Panamá.",
+  "dataset_comparison_es": "Uno de los 6 lugares panameños en Amador",
+  "best_time_es": "Perfecto para el desayuno o un brunch informal de fin de semana",
+  "highlights_es": [
+   "Reconocido por sus camarones al ajillo"
+  ],
+  "whats_good_es": [
+   "Clásicos panameños informales sobre la Calzada de Amador",
+   "Fuerte oferta de desayunos, además de un buffet dominical",
+   "Ambiente familiar y servicio informal"
+  ],
+  "attributes_es": [
+   "Calzada de Amador (también en Albrook Mall, Villa Lucre y Costa Verde)",
+   "Domingo a jueves de 8am a 10pm, viernes y sábado de 8am a 11pm",
+   "Servicio a domicilio a través de la app ASAP; también para llevar",
+   "Disponible para reservaciones y eventos"
+  ]
+ },
+ {
+  "id": "amador-plaza-causeway",
+  "slug": "plaza-causeway",
+  "name": "Plaza Causeway",
+  "cuisine_en": [
+   "International"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "amador",
+  "address": "Calz. de Amador, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9113467,
+  "lng": -79.5229205,
+  "phones": {
+   "call": "+507 6047-9922"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "12:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "12:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "12:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "12:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "12:00",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "12:00",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "12:00",
+    "close": "10:00 PM"
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "International",
+   "Live-music",
+   "Ceviche"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Brazilian rodizio",
+    "description_en": "All-you-can-eat grilled meats at Brazzeiro",
+    "price": null,
+    "popular": true,
+    "description_es": "Carnes a la parrilla sin límite en Brazzeiro"
+   },
+   {
+    "name": "Peruvian ceviche",
+    "description_en": "Ceviches and tiraditos at Segundo Muelle",
+    "price": null,
+    "popular": true,
+    "description_es": "Ceviches y tiraditos en Segundo Muelle"
+   },
+   {
+    "name": "Italian pizza and pasta",
+    "description_en": "Wood-fired pizza and pasta at Ciao Ragazzi",
+    "price": null,
+    "popular": true,
+    "description_es": "Pizza al horno de leña y pasta en Ciao Ragazzi"
+   },
+   {
+    "name": "Spanish paella",
+    "description_en": "Paella and Iberian plates at Paella & Gambas",
+    "price": null,
+    "popular": false,
+    "description_es": "Paella y platos ibéricos en Paella & Gambas"
+   },
+   {
+    "name": "Japanese sushi",
+    "description_en": "Sushi and rolls at Geisha Negra",
+    "price": null,
+    "popular": false,
+    "description_es": "Sushi y rolls en Geisha Negra"
+   }
+  ],
+  "about_en": "Plaza Causeway is an International restaurant in the Amador neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Brazilian rodizio"
+  ],
+  "whats_good_en": [
+   "Five cuisines in one waterfront destination",
+   "Bay and skyline views on the Amador Causeway",
+   "Live entertainment; good for mixed groups"
+  ],
+  "typical_spend_en": null,
+  "dataset_comparison_en": "One of 4 International spots in Amador",
+  "attributes_en": [
+   "Amador Causeway waterfront",
+   "Five restaurants under one roof",
+   "Live music / events",
+   "Instagram: @plazacauseway"
+  ],
+  "best_time_en": "Evenings and weekends",
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/plazacauseway/",
+   "https://www.tripadvisor.com/Restaurant_Review-g294480-d23535711-Reviews-Plaza_Causeway-Panama_City_Panama_Province.html",
+   "https://www.facebook.com/plazacausewaypanama/"
+  ],
+  "best_time": {
+   "busiest": "Fri-Sat, 8-10 PM",
+   "busiest_note_en": "Weekend dinner is busiest",
+   "easy": "Mon-Tue evenings",
+   "easy_note_en": "Relaxed, easy to seat",
+   "sweet": "Thu, 7 PM",
+   "sweet_note_en": "Dinner buzz without the wait"
+  },
+  "social": {
+   "instagram": "https://www.instagram.com/plazacauseway/"
+  },
+  "social_proof": "IG bio: 'Plaza Causeway | Amador - 5 Cocinas en un solo lugar' on the Calzada de Amador, matching the Amador venue",
+  "about_es": "Plaza Causeway es un restaurante internacional en el barrio Amador, en la Ciudad de Panamá.",
+  "dataset_comparison_es": "Uno de los 4 lugares internacionales en Amador",
+  "best_time_es": "Ideal en las noches y fines de semana",
+  "highlights_es": [
+   "Reconocido por su rodizio brasileno"
+  ],
+  "whats_good_es": [
+   "Cinco cocinas en un solo destino frente al mar",
+   "Vistas a la bahia y al perfil de la ciudad desde Amador Causeway",
+   "Entretenimiento en vivo; ideal para grupos variados"
+  ],
+  "attributes_es": [
+   "Frente al mar en Amador Causeway",
+   "Cinco restaurantes bajo un mismo techo",
+   "Musica en vivo / eventos",
+   "Instagram: @plazacauseway"
+  ]
+ },
+ {
+  "id": "amador-porky-lobster-marina",
+  "slug": "porky-lobster-marina",
+  "name": "Porky Lobster Marina",
+  "cuisine_en": [
+   "Seafood"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "amador",
+  "address": "WF6H+962, Calz. de Amador, Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9108775,
+  "lng": -79.52199689999999,
+  "phones": {
+   "whatsapp": "https://wa.me/50769382115",
+   "call": "+507 6938-2115"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "Closed",
+    "close": ""
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "2:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "2:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "2:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "12:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "12:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "12:00",
+    "close": "9:00 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/porky-lobster-marina.jpg",
+    "alt_en": "Seafood boil bucket with crab, lobster and shrimp at Porky Lobster, Amador, Panama City",
+    "alt_es": "Balde de mariscos con cangrejo, langosta y camarones en Porky Lobster, Amador, Ciudad de Panama",
+    "credit_en": "Photo: @porkylobster",
+    "credit_url": "https://www.instagram.com/porkylobster/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Seafood",
+   "Outdoor",
+   "BBQ"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Louisiana Bowl",
+    "description_en": "Boil of lobster, crawfish, mussels, prawns and clams with chorizo and corn",
+    "price": null,
+    "popular": true,
+    "description_es": "Hervido de langosta, cangrejo de río, mejillones, camarones grandes y almejas con chorizo y maíz"
+   },
+   {
+    "name": "Grilled lobster",
+    "description_en": "Whole grilled lobster",
+    "price": null,
+    "popular": true,
+    "description_es": "Langosta entera a la parrilla"
+   },
+   {
+    "name": "BBQ ribs",
+    "description_en": "Barbecued pork ribs",
+    "price": null,
+    "popular": false,
+    "description_es": "Costillas de cerdo a la barbacoa"
+   },
+   {
+    "name": "Seafood boils",
+    "description_en": "Cajun-style mixed seafood boils",
+    "price": null,
+    "popular": true,
+    "description_es": "Hervidos de mariscos mixtos al estilo Cajún"
+   }
+  ],
+  "about_en": "Porky Lobster Marina is a Seafood restaurant in the Amador neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Louisiana Bowl"
+  ],
+  "whats_good_en": [
+   "Cajun-style seafood boils and lobster",
+   "Waterfront marina terrace with ocean views",
+   "Air-conditioned indoor plus outdoor seating"
+  ],
+  "typical_spend_en": null,
+  "dataset_comparison_en": "One of 6 Seafood spots in Amador",
+  "attributes_en": [
+   "Amador marina, before Isla Flamenco",
+   "Tue-Thu 2-10pm, Fri-Sat 12-10pm, Sun 12-9pm; closed Mon",
+   "Second branch at Brisas del Golf",
+   "Reservations and delivery via WhatsApp"
+  ],
+  "best_time_en": "Dinner or sunset by the marina",
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/porkylobster/",
+   "https://www.degustapanama.com/panama/restaurante/porky-lobster-causeway_107932.html",
+   "https://www.instagram.com/reel/CoACeBAOThn/",
+   "https://www.tiktok.com/@porkylobster"
+  ],
+  "best_time": {
+   "busiest": "Fri-Sun, 1-3 PM",
+   "busiest_note_en": "Weekend lunch is busiest",
+   "easy": "Weekday lunch",
+   "easy_note_en": "Easy midday seat",
+   "sweet": "Fri, 12:30 PM",
+   "sweet_note_en": "Lunch peak freshness, ahead of the rush"
+  },
+  "social": {
+   "instagram": "https://www.instagram.com/porkylobster/"
+  },
+  "social_proof": "IG bio: 'Causeway, Amador' + 'Brisas del Golf'; matches the Amador marina venue",
+  "about_es": "Porky Lobster Marina es un restaurante de mariscos en el barrio de Amador, Ciudad de Panama.",
+  "dataset_comparison_es": "Uno de los 6 lugares de mariscos en Amador",
+  "best_time_es": "Cena o atardecer junto a la marina",
+  "highlights_es": [
+   "Reconocido por su Louisiana Bowl"
+  ],
+  "whats_good_es": [
+   "Mariscos estilo cajun y langosta al estilo boil",
+   "Terraza frente a la marina con vista al mar",
+   "Area interior con aire acondicionado y terraza exterior"
+  ],
+  "attributes_es": [
+   "En la marina de Amador, antes de llegar a Isla Flamenco",
+   "Mar-jue 2-10pm, vie-sab 12-10pm, dom 12-9pm; cerrado los lunes",
+   "Segunda sucursal en Brisas del Golf",
+   "Reservas y entregas a domicilio por WhatsApp"
+  ]
+ },
+ {
+  "id": "amador-porto-pizza-pty",
+  "slug": "porto-pizza-pty",
+  "name": "Porto Pizza Pty",
+  "cuisine_en": [
+   "Pizza"
+  ],
+  "cuisine_es": [],
+  "price_tier": 2,
+  "neighborhood_slug": "amador",
+  "address": "Calz. de Amador, Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9155973,
+  "lng": -79.52701320000001,
+  "phones": {
+   "call": "+507 398-5665"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "4:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "4:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "4:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "4:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "4:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "2:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "2:00",
+    "close": "10:00 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/porto-pizza-pty.jpg",
+    "alt_en": "Heart-shaped pizzas and caprese at Porto Pizza Pty, Amador, Panama City",
+    "alt_es": "Pizzas en forma de corazón y caprese en Porto Pizza Pty, Amador, Ciudad de Panamá",
+    "credit_en": "Photo: @portopizzapty",
+    "credit_url": "https://www.instagram.com/portopizzapty/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Pizza",
+   "Casual",
+   "Family"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Margarita pizza",
+    "description_en": "Tomato, mozzarella, and basil, in medium and large.",
+    "price": 13.99,
+    "popular": true,
+    "description_es": "Tomate, mozzarella y albahaca, en tamaño mediano y grande."
+   },
+   {
+    "name": "Pepperoni pizza",
+    "description_en": "Pepperoni pizza in medium and large.",
+    "price": 12.99,
+    "popular": true,
+    "description_es": "Pizza de pepperoni en tamaño mediano y grande."
+   },
+   {
+    "name": "Camaron (shrimp) pizza",
+    "description_en": "Shrimp-topped pizza in medium and large.",
+    "price": 18.99,
+    "popular": true,
+    "description_es": "Pizza con camarones en tamaño mediano y grande."
+   },
+   {
+    "name": "Pizza 4 Estaciones",
+    "description_en": "Four-seasons pizza (large).",
+    "price": 22,
+    "popular": false,
+    "description_es": "Pizza cuatro estaciones (tamaño grande)."
+   },
+   {
+    "name": "Pasta de camaron",
+    "description_en": "Shrimp pasta.",
+    "price": 17,
+    "popular": false,
+    "description_es": "Pasta con camarones."
+   },
+   {
+    "name": "Lasana (pollo / carne)",
+    "description_en": "Chicken or beef lasagna.",
+    "price": 11.95,
+    "popular": false,
+    "description_es": "Lasaña de pollo o de carne."
+   }
+  ],
+  "about_en": "Porto Pizza Pty is a Pizza restaurant in the Amador neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Margarita pizza"
+  ],
+  "whats_good_en": [
+   "Wood-fired artisan pizza",
+   "Broad family menu (pizza, pasta, burgers, salads, kids)",
+   "Convenient dine-in, takeout, and delivery"
+  ],
+  "typical_spend_en": "$7 to $22 a dish",
+  "dataset_comparison_en": null,
+  "attributes_en": [
+   "Wood-fired pizza oven",
+   "Family and kid-friendly",
+   "Dine-in, takeout, and delivery (Uber Eats)",
+   "Cards and cash accepted",
+   "Amador Causeway location"
+  ],
+  "best_time_en": null,
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/portopizzapty/",
+   "https://www.degustapanama.com/panama/restaurante/porto-pizza_106723/menu",
+   "https://www.ubereats.com/pa-en/store/porto-pizza-pty/F1nDtGxpQoy2X2pe8xbCPA",
+   "https://www.facebook.com/portopizzapty/"
+  ],
+  "best_time": {
+   "busiest": "Fri-Sat evenings",
+   "busiest_note_en": "Weekend nights draw the crowd",
+   "easy": "Weekday lunch",
+   "easy_note_en": "Quick, easy seat",
+   "sweet": "Thu, 6-7 PM",
+   "sweet_note_en": "Early dinner before it fills"
+  },
+  "price_source": "menu",
+  "social": {
+   "instagram": "https://www.instagram.com/portopizzapty/"
+  },
+  "social_proof": "The venue's Waze listing 'Porto Pizza Pty, Calz. de Amador, 398-5665' links instagram.com/portopizzapty; account is 'Porto Pizza Pty · Panama City' and its posts reference Isla Perico / Calzada de Amador; the accepted post's caption gives the same reservation phone 398.5665",
+  "about_es": "Porto Pizza Pty es una pizzeria en el barrio de Amador, Ciudad de Panama.",
+  "typical_spend_es": "De $7 a $22 por plato",
+  "highlights_es": [
+   "Reconocida por su pizza Margarita"
+  ],
+  "whats_good_es": [
+   "Pizza artesanal cocida a la lena",
+   "Amplio menu familiar (pizza, pasta, hamburguesas, ensaladas, opciones para ninos)",
+   "Comodo para comer en el local, para llevar o pedir a domicilio"
+  ],
+  "attributes_es": [
+   "Horno de pizza a la lena",
+   "Ideal para familias y ninos",
+   "Servicio en el local, para llevar y a domicilio (Uber Eats)",
+   "Se aceptan tarjetas y efectivo",
+   "Ubicado en Amador Causeway"
+  ]
+ },
+ {
+  "id": "amador-praia-amador",
+  "slug": "praia-amador",
+  "name": "Praia Amador",
+  "cuisine_en": [
+   "International"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "amador",
+  "address": "507, Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9149082,
+  "lng": -79.5258688,
+  "phones": {
+   "whatsapp": "https://wa.me/50764109898",
+   "call": "+507 6410-9898"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "11:00 AM",
+    "close": "2:00 AM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "11:00 AM",
+    "close": "2:00 AM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "11:00 AM",
+    "close": "2:00 AM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "11:00 AM",
+    "close": "2:00 AM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "11:00 AM",
+    "close": "2:00 AM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "11:00 AM",
+    "close": "2:00 AM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "11:00 AM",
+    "close": "2:00 AM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/praia-amador.jpg",
+    "alt_en": "Praia Amador in Amador, Panama City",
+    "alt_es": "Praia Amador en Amador, Ciudad de Panamá",
+    "credit_en": "Photo: praiaamador.com",
+    "credit_url": "https://www.praiaamador.com/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "International",
+   "Outdoor",
+   "Groups",
+   "Cocktails"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Author-cuisine shareables",
+    "description_en": "Chef-driven shareable plates",
+    "price": null,
+    "popular": true,
+    "description_es": "Platos para compartir creados por el chef"
+   },
+   {
+    "name": "Buffet service",
+    "description_en": "Buffet option for groups and events",
+    "price": null,
+    "popular": false,
+    "description_es": "Opción de buffet para grupos y eventos"
+   },
+   {
+    "name": "Signature cocktails",
+    "description_en": "Cocktails and bottle service across the bars",
+    "price": null,
+    "popular": true,
+    "description_es": "Cócteles y servicio de botellas en todas las barras"
+   }
+  ],
+  "about_en": "Praia Amador is an International beach club in the Amador neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Author-cuisine shareables"
+  ],
+  "whats_good_en": [
+   "Beach-club and marina-party atmosphere",
+   "Multiple zones plus DJ programming",
+   "Built for large groups, events and bottle service"
+  ],
+  "typical_spend_en": null,
+  "dataset_comparison_en": "One of 4 International spots in Amador",
+  "attributes_en": [
+   "Isla Perico, Amador Causeway",
+   "450 seats across six zones (Arena, pool, Bohio, terrace, VIP)",
+   "DJs, multiple bars, bottle service",
+   "Instagram: @praiaamador"
+  ],
+  "best_time_en": "Weekend nights",
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.praiaamador.com/",
+   "https://www.tripadvisor.com/Restaurant_Review-g294480-d24027463-Reviews-Praia_Amador-Panama_City_Panama_Province.html",
+   "https://www.degustapanama.com/panama/restaurante/praia-amador_107906/menu"
+  ],
+  "best_time": {
+   "busiest": "Fri-Sat, 8-10 PM",
+   "busiest_note_en": "Weekend dinner is busiest",
+   "easy": "Mon-Tue evenings",
+   "easy_note_en": "Relaxed, easy to seat",
+   "sweet": "Thu, 7 PM",
+   "sweet_note_en": "Dinner buzz without the wait"
+  },
+  "about_es": "Praia Amador es un beach club de cocina internacional en el barrio de Amador, Ciudad de Panama.",
+  "dataset_comparison_es": "Uno de los 4 lugares de cocina internacional en Amador",
+  "best_time_es": "Noches de fin de semana",
+  "highlights_es": [
+   "Reconocido por sus platos para compartir de autor"
+  ],
+  "whats_good_es": [
+   "Ambiente de beach club y fiesta junto a la marina",
+   "Varias zonas con programacion de DJ",
+   "Pensado para grupos grandes, eventos y servicio de botella"
+  ],
+  "attributes_es": [
+   "Isla Perico, Amador Causeway",
+   "450 asientos distribuidos en seis zonas (Arena, piscina, Bohío, terraza, VIP)",
+   "DJs, varios bares, servicio de botellas",
+   "Instagram: @praiaamador"
+  ]
+ },
+ {
+  "id": "amador-praia-fish-and-drinks",
+  "slug": "praia-fish-and-drinks",
+  "name": "Praia Fish and Drinks",
+  "cuisine_en": [
+   "Seafood"
+  ],
+  "cuisine_es": [],
+  "price_tier": 2,
+  "neighborhood_slug": "amador",
+  "address": "Local 3, Playa Venado, Arraijan, Provincia de Panamá Oeste, Panama",
+  "address_note_en": "",
+  "lat": 8.8930709,
+  "lng": -79.59621949999999,
+  "phones": {
+   "call": "+507 6070-0544"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "Closed",
+    "close": ""
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "11:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "11:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "11:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "11:00 AM",
+    "close": "11:30 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "11:00 AM",
+    "close": "11:30 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "11:00 AM",
+    "close": "11:30 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/praia-fish-and-drinks.jpg",
+    "alt_en": "Praia Fish and Drinks in Amador, Panama City",
+    "alt_es": "Praia Fish and Drinks en Amador, Ciudad de Panamá",
+    "credit_en": "Photo: praiaamador.com",
+    "credit_url": "https://www.praiaamador.com/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Seafood",
+   "High-traffic",
+   "Outdoor"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Pescado en salsa de marisco",
+    "description_en": "Fish in a seafood sauce, the most-ordered plate.",
+    "price": null,
+    "popular": true,
+    "description_es": "Pescado en salsa de mariscos, el plato más pedido."
+   },
+   {
+    "name": "Hamburguesa Praia",
+    "description_en": "The house burger.",
+    "price": null,
+    "popular": false,
+    "description_es": "La hamburguesa de la casa."
+   },
+   {
+    "name": "Pulpo a la plancha",
+    "description_en": "Griddled octopus.",
+    "price": null,
+    "popular": false,
+    "description_es": "Pulpo a la plancha."
+   },
+   {
+    "name": "Picada de carnes",
+    "description_en": "Mixed-meat sharing platter.",
+    "price": null,
+    "popular": false,
+    "description_es": "Tabla mixta de carnes para compartir."
+   },
+   {
+    "name": "Carpaccio de berenjena",
+    "description_en": "Eggplant carpaccio starter.",
+    "price": null,
+    "popular": false,
+    "description_es": "Entrada de carpaccio de berenjena."
+   }
+  ],
+  "about_en": "Praia Fish and Drinks is a Seafood beach club in the Amador neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Pescado en salsa de marisco"
+  ],
+  "whats_good_en": [
+   "Waterfront beach-club setting with Pacific and causeway views",
+   "Seafood plus shareable platters that suit groups",
+   "Lively atmosphere with DJs, events, and a signature sangria"
+  ],
+  "typical_spend_en": "around $29 per person",
+  "dataset_comparison_en": "One of 6 Seafood spots in Amador",
+  "attributes_en": [
+   "Waterfront/beachfront terrace",
+   "DJ and live events",
+   "Hosts private events",
+   "Cocktails and sangria"
+  ],
+  "best_time_en": "Sunset and weekends for the party atmosphere",
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.degustapanama.com/panama/restaurante/praia-amador_107906.html",
+   "https://www.praiaamador.com/",
+   "https://www.myguidepanama.com/restaurants/praia-panama"
+  ],
+  "best_time": {
+   "busiest": "Fri-Sun, 1-3 PM",
+   "busiest_note_en": "Weekend lunch is busiest",
+   "easy": "Weekday lunch",
+   "easy_note_en": "Easy midday seat",
+   "sweet": "Fri, 12:30 PM",
+   "sweet_note_en": "Lunch peak freshness, ahead of the rush"
+  },
+  "about_es": "Praia Fish and Drinks es un beach club de mariscos en el barrio de Amador, en Ciudad de Panamá.",
+  "typical_spend_es": "unos $29 por persona",
+  "dataset_comparison_es": "Uno de los 6 lugares de mariscos en Amador",
+  "best_time_es": "El atardecer y los fines de semana son ideales por el ambiente de fiesta",
+  "highlights_es": [
+   "Conocido por su Pescado en salsa de marisco"
+  ],
+  "whats_good_es": [
+   "Beach club frente al mar con vistas al Pacífico y a la calzada",
+   "Mariscos y fuentes para compartir, perfectos para grupos",
+   "Ambiente animado con DJs, eventos y una sangría insignia"
+  ],
+  "attributes_es": [
+   "Terraza frente al mar/playa",
+   "DJ y eventos en vivo",
+   "Organiza eventos privados",
+   "Cocteles y sangría"
+  ]
+ },
+ {
+  "id": "amador-restaurante-bucaneros",
+  "slug": "restaurante-bucaneros",
+  "name": "Restaurante Bucaneros",
+  "cuisine_en": [
+   "Seafood"
+  ],
+  "cuisine_es": [],
+  "price_tier": 2,
+  "neighborhood_slug": "amador",
+  "address": "Bucaneros, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.909757899999999,
+  "lng": -79.5209998,
+  "phones": {
+   "whatsapp": "+507 6679-8066",
+   "call": "+507 314-0880"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "12:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "12:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "12:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "12:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "12:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "12:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "12:00",
+    "close": "10:00 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/restaurante-bucaneros.jpg",
+    "alt_en": "Restaurante Bucaneros in Amador, Panama City",
+    "alt_es": "Restaurante Bucaneros en Amador, Ciudad de Panamá",
+    "credit_en": "Photo: bucanerospanama.com",
+    "credit_url": "https://www.bucanerospanama.com/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Seafood",
+   "High-traffic",
+   "Outdoor",
+   "Live-music"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Henry Morgan's Lobster",
+    "description_en": "Lobster stuffed with seafood in a coconut sauce, a signature pirate-named dish.",
+    "price": 39,
+    "popular": true,
+    "description_es": "Langosta rellena de mariscos en salsa de coco, un plato insignia con nombre de pirata."
+   },
+   {
+    "name": "Sir Francis Drake's Sea Bass",
+    "description_en": "Sea bass (corvina) in a white sauce with prawns.",
+    "price": 29,
+    "popular": true,
+    "description_es": "Corvina en salsa blanca con camarones."
+   },
+   {
+    "name": "Lobster Thermidor",
+    "description_en": "Classic thermidor-style lobster (per person).",
+    "price": 36,
+    "popular": false,
+    "description_es": "Langosta clásica al estilo thermidor (por persona)."
+   },
+   {
+    "name": "Seafood Paella",
+    "description_en": "Mixed seafood paella.",
+    "price": 20,
+    "popular": true,
+    "description_es": "Paella de mariscos mixtos."
+   },
+   {
+    "name": "Prawns a la Diabla with seafood",
+    "description_en": "Prawns in a spicy diabla sauce with mixed seafood.",
+    "price": 29,
+    "popular": false,
+    "description_es": "Camarones en salsa diabla con mariscos mixtos."
+   },
+   {
+    "name": "Natural Crab Meat Gratin",
+    "description_en": "Gratin of fresh crab meat, the top-end plate.",
+    "price": 69,
+    "popular": false,
+    "description_es": "Gratinado de carne de cangrejo fresca, el plato de gama alta."
+   }
+  ],
+  "about_en": "Restaurante Bucaneros is a Seafood restaurant in the Amador neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Henry Morgan's Lobster"
+  ],
+  "whats_good_en": [
+   "Fresh seafood with generous sharing platters (lobster, prawns, king crab, octopus)",
+   "Seafront terrace with canal-entrance and marina views",
+   "Fun pirate-themed concept with weekend live music"
+  ],
+  "typical_spend_en": "$16 to $69 a main",
+  "dataset_comparison_en": "One of 6 Seafood spots in Amador",
+  "attributes_en": [
+   "Seafront terrace with canal and marina views",
+   "Weekend live music and themed nights",
+   "Reservations by web, phone, or WhatsApp",
+   "Open daily roughly 12pm-10pm",
+   "About 20 years in operation"
+  ],
+  "best_time_en": "Sunset for the terrace views; weekends for live music",
+  "notable_mention_en": "Featured in the Half Past First Cast travel blog's write-up of Panama City restaurants (Bucaneros and Diablicos).",
+  "dietary_en": [],
+  "sources": [
+   "https://www.bucanerospanama.com/en/menu/",
+   "https://www.bucanerospanama.com/en/reservations/",
+   "https://www.degustapanama.com/panama/restaurante/bucaneros_139.html",
+   "https://www.halfpastfirstcast.com/blog-travel/panama-city-restaurants-bucaneros-diablicos"
+  ],
+  "best_time": {
+   "busiest": "Fri-Sun, 1-3 PM",
+   "busiest_note_en": "Weekend lunch is busiest",
+   "easy": "Weekday lunch",
+   "easy_note_en": "Easy midday seat",
+   "sweet": "Fri, 12:30 PM",
+   "sweet_note_en": "Lunch peak freshness, ahead of the rush"
+  },
+  "about_es": "Restaurante Bucaneros es un restaurante de mariscos en el barrio de Amador, en Ciudad de Panamá.",
+  "typical_spend_es": "de $16 a $69 por plato principal",
+  "dataset_comparison_es": "Uno de los 6 lugares de mariscos en Amador",
+  "best_time_es": "El atardecer es ideal por las vistas desde la terraza; los fines de semana, por la música en vivo",
+  "notable_mention_es": "Aparece en la reseña de restaurantes de Ciudad de Panamá del blog de viajes Half Past First Cast (Bucaneros y Diablicos).",
+  "highlights_es": [
+   "Conocido por su Henry Morgan's Lobster"
+  ],
+  "whats_good_es": [
+   "Mariscos frescos con generosas fuentes para compartir (langosta, camarones, cangrejo real, pulpo)",
+   "Terraza frente al mar con vistas a la entrada del canal y la marina",
+   "Divertido concepto con temática pirata y música en vivo los fines de semana"
+  ],
+  "attributes_es": [
+   "Terraza frente al mar con vistas al canal y a la marina",
+   "Música en vivo los fines de semana y noches temáticas",
+   "Reservas por web, teléfono o WhatsApp",
+   "Abierto todos los días, aproximadamente de 12pm a 10pm",
+   "Con unos 20 años de operación"
+  ]
+ },
+ {
+  "id": "amador-restaurante-pencas",
+  "slug": "restaurante-pencas",
+  "name": "Restaurante Pencas",
+  "cuisine_en": [
+   "Panamanian"
+  ],
+  "cuisine_es": [],
+  "price_tier": 2,
+  "neighborhood_slug": "amador",
+  "address": "Av. Amador, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.934980099999999,
+  "lng": -79.54566059999999,
+  "phones": {
+   "call": "+507 6490-0651"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "12:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "12:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "12:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "12:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "12:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "8:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "8:00 AM",
+    "close": "10:00 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/restaurante-pencas.jpg",
+    "alt_en": "Corvina fillet in creole sauce with patacones at Pencas, Amador, Panama City",
+    "alt_es": "Filete de corvina en salsa criolla con patacones en Pencas, Amador, Ciudad de Panama",
+    "credit_en": "Photo: @pencasrestaurante",
+    "credit_url": "https://www.instagram.com/pencasrestaurante/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Panamanian",
+   "High-traffic",
+   "Outdoor",
+   "Ceviche"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Pencas Rice",
+    "description_en": "House side of rice with vegetables and coconut, the signature that pairs with most mains.",
+    "price": null,
+    "popular": true,
+    "description_es": "Arroz de la casa con vegetales y coco, el acompañante insignia que va bien con la mayoría de los platos fuertes."
+   },
+   {
+    "name": "Whole fried corvina",
+    "description_en": "Whole fried sea bass, a frequently recommended plate.",
+    "price": null,
+    "popular": true,
+    "description_es": "Corvina entera frita, un plato muy recomendado."
+   },
+   {
+    "name": "Peruvian-style ceviche",
+    "description_en": "Ceviche given a Peruvian twist versus the classic Panamanian style.",
+    "price": null,
+    "popular": true,
+    "description_es": "Ceviche con un toque peruano, distinto al estilo panameño clásico."
+   },
+   {
+    "name": "NY steak",
+    "description_en": "New York strip steak from the grill.",
+    "price": null,
+    "popular": false,
+    "description_es": "New York strip a la parrilla."
+   },
+   {
+    "name": "Shrimp fettuccine",
+    "description_en": "Fettuccine with shrimp.",
+    "price": null,
+    "popular": false,
+    "description_es": "Fettuccine con camarones."
+   },
+   {
+    "name": "Nachos",
+    "description_en": "Shared nachos starter.",
+    "price": null,
+    "popular": false,
+    "description_es": "Nachos para compartir de entrada."
+   }
+  ],
+  "about_en": "Restaurante Pencas is a Panamanian restaurant in the Amador neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Pencas Rice"
+  ],
+  "whats_good_en": [
+   "Broad crowd-pleasing menu spanning Panamanian, Caribbean, seafood, and grill",
+   "Ocean views with both indoor and outdoor seating",
+   "Signature Pencas coconut-vegetable rice"
+  ],
+  "typical_spend_en": null,
+  "dataset_comparison_en": "One of 6 Panamanian spots in Amador",
+  "attributes_en": [
+   "Waterfront Amador Causeway location",
+   "Indoor and outdoor seating",
+   "Ocean views",
+   "Online booking via flow.page/pencas",
+   "Seafood and grill"
+  ],
+  "best_time_en": "Sunset and evening for the ocean-view terrace",
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/pencasrestaurante/",
+   "http://pencas.com/home.html",
+   "https://www.degustapanama.com/panama/restaurante/pencas_146.html",
+   "https://www.elcauseway.com/restaurantes/restaurante-pencas/"
+  ],
+  "best_time": {
+   "busiest": "Fri-Sat, 8-10 PM",
+   "busiest_note_en": "Weekend dinner is busiest",
+   "easy": "Mon-Tue evenings",
+   "easy_note_en": "Relaxed, easy to seat",
+   "sweet": "Thu, 7 PM",
+   "sweet_note_en": "Dinner buzz without the wait"
+  },
+  "social": {
+   "instagram": "https://www.instagram.com/pencasrestaurante/"
+  },
+  "social_proof": "Account @pencasrestaurante (bio 'Restaurante Pencas, 25 anos', geotag 'Causeway Amador, Panama City', terrace/pet-friendly) matches the Amador seafront venue.",
+  "about_es": "Restaurante Pencas es un restaurante panameño en el barrio de Amador, en Ciudad de Panamá.",
+  "dataset_comparison_es": "Uno de los 6 lugares panameños en Amador",
+  "best_time_es": "El atardecer y la noche son ideales por la terraza con vista al mar",
+  "highlights_es": [
+   "Conocido por su Pencas Rice"
+  ],
+  "whats_good_es": [
+   "Menú amplio y para todos los gustos, que abarca cocina panameña, caribeña, mariscos y parrilla",
+   "Vistas al mar con asientos tanto en interior como al aire libre",
+   "Su famoso arroz Pencas con coco y vegetales"
+  ],
+  "attributes_es": [
+   "Ubicado frente al mar en el Amador Causeway",
+   "Asientos en interior y al aire libre",
+   "Vistas al mar",
+   "Reservas en línea a través de flow.page/pencas",
+   "Mariscos y parrilla"
+  ]
+ },
+ {
+  "id": "amador-restaurante-sirena",
+  "slug": "restaurante-sirena",
+  "name": "RESTAURANTE SIRENA 🇵🇦",
+  "cuisine_en": [
+   "Seafood"
+  ],
+  "cuisine_es": [],
+  "price_tier": 2,
+  "neighborhood_slug": "amador",
+  "address": "507, Isla Flamenco, Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9097593,
+  "lng": -79.5210731,
+  "phones": {
+   "whatsapp": "https://wa.link/qlui2r",
+   "call": "+507 6330-0383"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "11:00 AM",
+    "close": "11:30 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "11:00 AM",
+    "close": "10:30 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "11:00 AM",
+    "close": "10:00 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/restaurante-sirena.jpg",
+    "alt_en": "Seafood pasta with shrimp and lobster at Restaurante Sirena, Amador, Panama City",
+    "alt_es": "Pasta de mariscos con camarones y langosta en Restaurante Sirena, Amador, Ciudad de Panama",
+    "credit_en": "Photo: @sirenapanama",
+    "credit_url": "https://www.instagram.com/sirenapanama/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Seafood"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Steamed corvina with mixed seafood",
+    "description_en": "Sea bass fillet steamed with a seafood medley",
+    "price": null,
+    "popular": true,
+    "description_es": "Filete de corvina al vapor con una mezcla de mariscos."
+   },
+   {
+    "name": "Marinated seafood variety",
+    "description_en": "Assorted marinated seafood plate",
+    "price": null,
+    "popular": true,
+    "description_es": "Plato de mariscos surtidos marinados."
+   },
+   {
+    "name": "Crab in garlic sauce",
+    "description_en": "Crab meat in garlic, olive oil and white wine",
+    "price": null,
+    "popular": false,
+    "description_es": "Carne de cangrejo al ajillo con aceite de oliva y vino blanco."
+   },
+   {
+    "name": "House pastas",
+    "description_en": "Artisanal pastas",
+    "price": null,
+    "popular": false,
+    "description_es": "Pastas artesanales."
+   },
+   {
+    "name": "House desserts",
+    "description_en": "In-house desserts",
+    "price": null,
+    "popular": false,
+    "description_es": "Postres de la casa."
+   }
+  ],
+  "about_en": "RESTAURANTE SIRENA 🇵🇦 is a Seafood restaurant in the Amador neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Steamed corvina with mixed seafood"
+  ],
+  "whats_good_en": [
+   "Fresh Mediterranean-style seafood",
+   "Waterfront location at Isla Flamenco",
+   "House-made pastas and desserts"
+  ],
+  "typical_spend_en": null,
+  "dataset_comparison_en": "One of 6 Seafood spots in Amador",
+  "attributes_en": [
+   "Local 1, Isla Flamenco, Amador Causeway",
+   "Mon-Thu 11am-10pm, Fri-Sat 11am-10:30pm, Sun 11am-10pm",
+   "WhatsApp reservations"
+  ],
+  "best_time_en": "Dinner",
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/sirenapanama/",
+   "https://sirenapanama.com/",
+   "https://linktr.ee/sirenapanama",
+   "https://www.degustapanama.com/panama/restaurante/sirena_103417.html"
+  ],
+  "best_time": {
+   "busiest": "Fri-Sun, 1-3 PM",
+   "busiest_note_en": "Weekend lunch is busiest",
+   "easy": "Weekday lunch",
+   "easy_note_en": "Easy midday seat",
+   "sweet": "Fri, 12:30 PM",
+   "sweet_note_en": "Lunch peak freshness, ahead of the rush"
+  },
+  "social": {
+   "instagram": "https://www.instagram.com/sirenapanama/"
+  },
+  "social_proof": "Row website sirenapanama.com links Instagram @sirenapanama; posts place it at Amador, Isla Flamenco",
+  "about_es": "RESTAURANTE SIRENA 🇵🇦 es un restaurante de mariscos en el barrio de Amador, en Ciudad de Panamá.",
+  "dataset_comparison_es": "Uno de los 6 lugares de mariscos en Amador",
+  "best_time_es": "Cena",
+  "highlights_es": [
+   "Reconocido por su corvina al vapor con mariscos mixtos"
+  ],
+  "whats_good_es": [
+   "Mariscos frescos al estilo mediterráneo",
+   "Ubicado frente al mar en Isla Flamenco",
+   "Pastas y postres artesanales"
+  ],
+  "attributes_es": [
+   "Local 1, Isla Flamenco, Amador Causeway",
+   "Lun-jue 11am-10pm, vie-sáb 11am-10:30pm, dom 11am-10pm",
+   "Reservas por WhatsApp"
+  ]
+ },
+ {
+  "id": "amador-sabroso-panama",
+  "slug": "sabroso-panama",
+  "name": "Sabroso Panamá",
+  "cuisine_en": [
+   "Panamanian"
+  ],
+  "cuisine_es": [],
+  "price_tier": 2,
+  "neighborhood_slug": "amador",
+  "address": "Isla Perico, Calzada de, Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9152132,
+  "lng": -79.5265568,
+  "phones": {
+   "call": "+507 313-7166"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "9:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "9:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "9:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "9:00 AM",
+    "close": "11:30 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "9:00 AM",
+    "close": "11:30 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "9:00 AM",
+    "close": "11:30 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "9:00 AM",
+    "close": "11:00 PM"
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Panamanian",
+   "High-traffic"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Sabroso Panamá is a Panamanian restaurant in the Amador neighborhood of Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "typical_spend_en": null,
+  "dataset_comparison_en": "One of 6 Panamanian spots in Amador",
+  "attributes_en": [],
+  "best_time_en": null,
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/sabroso_panama/"
+  ],
+  "best_time": {
+   "busiest": "Fri-Sat, 8-10 PM",
+   "busiest_note_en": "Weekend dinner is busiest",
+   "easy": "Mon-Tue evenings",
+   "easy_note_en": "Relaxed, easy to seat",
+   "sweet": "Thu, 7 PM",
+   "sweet_note_en": "Dinner buzz without the wait"
+  },
+  "social": {
+   "instagram": "https://www.instagram.com/sabroso_panama/"
+  },
+  "social_proof": "Bio reads 'SABROSO PANAMA ... Causeway Amador, Isla Perico, Panama'; linked site sabroso-panama.com matches; name and Amador neighborhood both match the row.",
+  "about_es": "Sabroso Panamá es un restaurante panameño en el sector de Amador, en la Ciudad de Panamá.",
+  "dataset_comparison_es": "Uno de los 6 lugares panameños en Amador"
+ },
+ {
+  "id": "amador-segundo-muelle",
+  "slug": "segundo-muelle",
+  "name": "Segundo Muelle",
+  "cuisine_en": [
+   "Nikkei"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "amador",
+  "address": "WF6G+HRP, Panama City, Panama",
+  "address_note_en": "",
+  "lat": 8.9114569,
+  "lng": -79.52292489999999,
+  "phones": {},
+  "hours": [],
+  "photos": [
+   {
+    "url": "/venues/segundo-muelle.jpg",
+    "alt_en": "Segundo Muelle in Amador, Panama City",
+    "alt_es": "Segundo Muelle en Amador, Ciudad de Panamá",
+    "credit_en": "Photo: segundomuellepanama.com",
+    "credit_url": "https://segundomuellepanama.com/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Nikkei",
+   "Outdoor",
+   "Ceviche"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [
+   {
+    "name": "Ceviche clasico",
+    "description_en": "Classic Peruvian ceviche",
+    "price": null,
+    "popular": true,
+    "description_es": "Ceviche peruano clásico."
+   },
+   {
+    "name": "Ceviche tres ajies",
+    "description_en": "Ceviche in a three-chili sauce",
+    "price": null,
+    "popular": true,
+    "description_es": "Ceviche en salsa de tres chiles."
+   },
+   {
+    "name": "Tiraditos",
+    "description_en": "Sliced raw fish in Peruvian sauces",
+    "price": null,
+    "popular": true,
+    "description_es": "Pescado crudo en láminas con salsas peruanas."
+   },
+   {
+    "name": "Ceviche Segundo Muelle",
+    "description_en": "House signature ceviche",
+    "price": null,
+    "popular": true,
+    "description_es": "Ceviche insignia de la casa."
+   },
+   {
+    "name": "Peruvian seafood plates",
+    "description_en": "Seafood mains with Nikkei and Asian twists",
+    "price": null,
+    "popular": false,
+    "description_es": "Platos fuertes de mariscos con toques Nikkei y asiáticos."
+   }
+  ],
+  "about_en": "Segundo Muelle is a Nikkei restaurant in the Amador neighborhood of Panama City.",
+  "highlights_en": [
+   "Known for Ceviche clasico"
+  ],
+  "whats_good_en": [
+   "Well-regarded Peruvian ceviches and tiraditos",
+   "Marina-facing terrace on the Causeway",
+   "Nikkei and Asian influences on classic Peruvian dishes"
+  ],
+  "typical_spend_en": null,
+  "dataset_comparison_en": "One of the few Nikkei kitchens in Amador",
+  "attributes_en": [
+   "Plaza Causeway, Amador Causeway (marina terrace)",
+   "Part of the international Segundo Muelle group",
+   "Peruvian seafood / cevicheria"
+  ],
+  "best_time_en": "Lunch or dinner for marina views",
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://segundomuellepanama.com/",
+   "https://www.degustapanama.com/panama/restaurante/segundo-muelle-plaza-causeway_107608.html",
+   "https://www.lonelyplanet.com/panama/panama-city/restaurants/segundo-muelle/a/poi-eat/1556811/358532"
+  ],
+  "best_time": {
+   "busiest": "Fri-Sat, 8-10 PM",
+   "busiest_note_en": "Weekend dinner is busiest",
+   "easy": "Mon-Tue evenings",
+   "easy_note_en": "Relaxed, easy to seat",
+   "sweet": "Thu, 7 PM",
+   "sweet_note_en": "Dinner buzz without the wait"
+  },
+  "about_es": "Segundo Muelle es un restaurante Nikkei en el sector de Amador, en la Ciudad de Panamá.",
+  "dataset_comparison_es": "Una de las pocas cocinas Nikkei en Amador",
+  "best_time_es": "Ideal para almorzar o cenar con vista a la marina",
+  "highlights_es": [
+   "Reconocido por su ceviche clásico"
+  ],
+  "whats_good_es": [
+   "Ceviches y tiraditos peruanos muy bien valorados",
+   "Terraza frente a la marina en el Causeway",
+   "Influencias Nikkei y asiáticas en platos peruanos clásicos"
+  ],
+  "attributes_es": [
+   "Plaza Causeway, Amador Causeway (terraza sobre la marina)",
+   "Parte del grupo internacional Segundo Muelle",
+   "Mariscos peruanos / cevichería"
+  ]
+ },
+ {
+  "id": "amador-the-panamanian-place",
+  "slug": "the-panamanian-place",
+  "name": "The Panamanian place",
+  "cuisine_en": [
+   "Panamanian"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "amador",
+  "address": "Loc 4 y, La playita, Calz. de Amador 5, Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9148795,
+  "lng": -79.5297813,
+  "phones": {
+   "call": "+507 6051-4490"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "6:30 AM",
+    "close": "8:30 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "6:30 AM",
+    "close": "8:30 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "6:30 AM",
+    "close": "8:30 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "6:30 AM",
+    "close": "8:30 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "6:30 AM",
+    "close": "8:30 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "6:30 AM",
+    "close": "8:30 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "6:30 AM",
+    "close": "8:30 PM"
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Panamanian"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "The Panamanian place is a Panamanian restaurant in the Amador neighborhood of Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [
+   "Inexpensive, honest Panamanian food in an otherwise pricey tourist area",
+   "One of the only early breakfast spots on this part of the Causeway",
+   "Balcony seating overlooking the water"
+  ],
+  "typical_spend_en": null,
+  "dataset_comparison_en": "One of 6 Panamanian spots in Amador",
+  "attributes_en": [
+   "Opens early daily (from ~6:30am) for breakfast",
+   "Waterfront balcony seating",
+   "Budget-friendly",
+   "Confirm the price when ordering (a visitor reported a billing dispute)"
+  ],
+  "best_time_en": "Morning, for breakfast and a quieter waterfront table",
+  "notable_mention_en": null,
+  "dietary_en": [],
+  "sources": [
+   "https://www.google.com/maps/place/?q=place_id:ChIJjcZ-8RWvrI8R-pF2yP07udw"
+  ],
+  "best_time": {
+   "busiest": "Fri-Sat, 8-10 PM",
+   "busiest_note_en": "Weekend dinner is busiest",
+   "easy": "Mon-Tue evenings",
+   "easy_note_en": "Relaxed, easy to seat",
+   "sweet": "Thu, 7 PM",
+   "sweet_note_en": "Dinner buzz without the wait"
+  },
+  "about_es": "The Panamanian place es un restaurante panameño en el sector de Amador, en la Ciudad de Panamá.",
+  "dataset_comparison_es": "Uno de los 6 lugares panameños en Amador",
+  "best_time_es": "Por la mañana, para desayunar en una mesa frente al mar más tranquila",
+  "whats_good_es": [
+   "Comida panameña sencilla y a buen precio en una zona turística por lo general cara",
+   "Uno de los pocos lugares para desayunar temprano en esta parte del Causeway",
+   "Mesas en balcón con vista al agua"
+  ],
+  "attributes_es": [
+   "Abre temprano todos los días (desde aprox. 6:30am) para el desayuno",
+   "Mesas en balcón frente al mar",
+   "Económico",
+   "Confirma el precio al ordenar (un visitante reportó un problema con la cuenta)"
+  ]
+ },
+ {
+  "id": "amador-lenos-carbon-amador",
+  "slug": "lenos-carbon-amador",
+  "name": "Leños & Carbón",
+  "cuisine_en": [
+   "International"
+  ],
+  "cuisine_es": [],
+  "price_tier": 2,
+  "neighborhood_slug": "amador",
+  "address": "Isla Flamenco, Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9114729,
+  "lng": -79.51968959999999,
+  "phones": {
+   "call": "6033-8342"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "12:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "12:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "12:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "12:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "12:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "12:00",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "12:00",
+    "close": "10:00 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/lenos-carbon-amador.jpg",
+    "alt_en": "Garlic prawns at Lenos & Carbon, Isla Flamenco, Amador, Panama City",
+    "alt_es": "Langostinos al ajillo en Leños & Carbón, Isla Flamenco, Amador, Ciudad de Panamá",
+    "credit_en": "Photo: @lenospanama",
+    "credit_url": "https://www.instagram.com/lenospanama/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "International"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Leños & Carbón is a restaurant in Amador, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [
+   "Portions are built for sharing, and several diners gave up partway through a single starter or paella.",
+   "Sits by the water at the far tip of the Amador causeway, with boat views and a breeze moving through the seating area."
+  ],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/lenospanama/",
+   "https://www.google.com/maps/place/?q=place_id:ChIJ-_WQIQGvrI8RYkVNmourVT4"
+  ],
+  "import_wave": "W1 flagship",
+  "social": {
+   "instagram": "https://www.instagram.com/lenospanama/"
+  },
+  "social_proof": "The Waze place listing for Lenos y Carbon | Causeway Amador, Isla Flamenco gives instagram.com/lenospanama as the venue's account; the account is the Panama brand (Lenos & Carbon | Panama) and the Isla Flamenco branch matches the batch address.",
+  "about_es": "Leños & Carbón es un restaurante en Amador, Ciudad de Panamá.",
+  "whats_good_es": [
+   "Las porciones están pensadas para compartir, y varios comensales no lograron terminar ni una entrada o paella.",
+   "Está ubicado junto al mar, en la punta final del Causeway de Amador, con vista a los botes y una brisa que recorre el área de mesas."
+  ]
+ },
+ {
+  "id": "amador-tgi-fridays-amador",
+  "slug": "tgi-fridays-amador",
+  "name": "TGI Fridays | Amador",
+  "cuisine_en": [
+   "International"
+  ],
+  "cuisine_es": [],
+  "price_tier": 2,
+  "neighborhood_slug": "amador",
+  "address": "C. Bahía, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9405351,
+  "lng": -79.5554871,
+  "phones": {
+   "call": "211-4676"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "12:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "12:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "12:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "12:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "12:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "12:00",
+    "close": "10:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "12:00",
+    "close": "10:00 PM"
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "International"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "TGI Fridays | Amador is a restaurant in Amador, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "http://www.fridayspanama.com/",
+   "https://www.google.com/maps/place/?q=place_id:ChIJDxojk1mvrI8RP-ZDsm0wXq4"
+  ],
+  "import_wave": "W1 flagship",
+  "about_es": "TGI Fridays | Amador es un restaurante en Amador, Ciudad de Panamá."
+ },
+ {
+  "id": "amador-beirut-calzada-de-amador",
+  "slug": "beirut-calzada-de-amador",
+  "name": "Beirut | Calzada de Amador",
+  "cuisine_en": [
+   "International"
+  ],
+  "cuisine_es": [],
+  "price_tier": 2,
+  "neighborhood_slug": "amador",
+  "address": "WF8C+3WQ, Calz. de Amador, Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9152004,
+  "lng": -79.5276548,
+  "phones": {
+   "call": "393-5580"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "Closed",
+    "close": ""
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "11:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "11:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "11:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "11:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "11:00 AM",
+    "close": "11:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "11:00 AM",
+    "close": "11:00 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/beirut-calzada-de-amador.jpg",
+    "alt_en": "Falafel shawarma at Beirut, Calzada de Amador, Panama City",
+    "alt_es": "Shawarma de falafel en Beirut, Calzada de Amador, Ciudad de Panama",
+    "credit_en": "Photo: @beirutpanama",
+    "credit_url": "https://www.instagram.com/beirutpanama/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "International"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Beirut | Calzada de Amador is a restaurant in Amador, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/beirutpanama/",
+   "https://www.google.com/maps/place/?q=place_id:ChIJoQFNIAevrI8Rbu59w57HegI"
+  ],
+  "import_wave": "W1 flagship",
+  "social": {
+   "instagram": "https://www.instagram.com/beirutpanama/"
+  },
+  "social_proof": "Bio hashtags include #amador and posts are geotagged \"Isla Perico, Amador\" with captions about Beirut Amador - the Calzada de Amador venue. A branch-only account @beirut.amador also exists but has almost no publicly reachable posts.",
+  "about_es": "Beirut | Calzada de Amador es un restaurante en Amador, Ciudad de Panamá."
+ },
+ {
+  "id": "amador-restaurante-karimar",
+  "slug": "restaurante-karimar",
+  "name": "Restaurante Karimar",
+  "cuisine_en": [
+   "Bar"
+  ],
+  "cuisine_es": [],
+  "price_tier": 2,
+  "neighborhood_slug": "amador",
+  "address": "Veracruz Segundo Local A, Playa Venado, La Izquierda, Provincia de Panamá Oeste, Panama",
+  "address_note_en": "",
+  "lat": 8.893207199999999,
+  "lng": -79.59593579999999,
+  "phones": {
+   "call": "6673-2043"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "10:30 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "10:30 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "10:30 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "10:30 AM",
+    "close": "8:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "10:30 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "10:30 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "10:30 AM",
+    "close": "8:00 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/restaurante-karimar.jpg",
+    "alt_en": "Fish ceviche at Restaurante Karimar, Amador, Panama City",
+    "alt_es": "Ceviche de pescado en Restaurante Karimar, Amador, Ciudad de Panama",
+    "credit_en": "Photo: @karimarpty",
+    "credit_url": "https://www.instagram.com/karimarpty/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Bar"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Restaurante Karimar is a bar in Amador, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [
+   "Sits directly on the beach, and the view changes with the tide - at low tide the water pulls back far enough to walk out over the rocks.",
+   "A big, airy room that handles groups, though parking is tight and fills up."
+  ],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/karimarpty/",
+   "http://karimarpanama.com/",
+   "https://www.google.com/maps/place/?q=place_id:ChIJm2P2lhmlrI8R5vW6wjlSzz0"
+  ],
+  "import_wave": "W1 flagship",
+  "best_time_en": "Worth checking the tide before you go: high tide puts the water right in front of you, low tide exposes a long walk out.",
+  "social": {
+   "instagram": "https://www.instagram.com/karimarpty/"
+  },
+  "social_proof": "The batch website karimarpanama.com lists \"@karimarpty\" as its Instagram, and the account posts are geotagged \"Karimar Restaurante Bar, Playa Venado, Veracruz, Panama\", matching the batch address.",
+  "about_es": "Restaurante Karimar es un bar en Amador, Ciudad de Panamá.",
+  "best_time_es": "Vale la pena revisar la marea antes de ir: con marea alta el agua te queda justo enfrente, con marea baja se descubre un buen trecho para caminar.",
+  "whats_good_es": [
+   "Está justo sobre la playa, y la vista cambia según la marea: cuando baja, el agua se retira lo suficiente como para caminar sobre las rocas.",
+   "Un salón amplio y ventilado que aguanta grupos grandes, aunque el estacionamiento es reducido y se llena rápido."
+  ]
+ },
+ {
+  "id": "amador-sunset-veracruz",
+  "slug": "sunset-veracruz",
+  "name": "Sunset Veracruz",
+  "cuisine_en": [
+   "International"
+  ],
+  "cuisine_es": [],
+  "price_tier": 2,
+  "neighborhood_slug": "amador",
+  "address": "VCV2+F76, Panama City, Panamá Oeste Province, Panama",
+  "address_note_en": "",
+  "lat": 8.8935885,
+  "lng": -79.59945739999999,
+  "phones": {
+   "call": "6191-0609"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "10:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "10:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "10:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "10:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "10:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "10:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "10:00 AM",
+    "close": "9:00 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/sunset-veracruz.jpg",
+    "alt_en": "Sunset cocktails on the beach at Sunset Veracruz, Playa Venado, Panama",
+    "alt_es": "Cocteles al atardecer frente al mar en Sunset Veracruz, Playa Venado, Panama",
+    "credit_en": "Photo: @sunsetbeachclubveracruz",
+    "credit_url": "https://www.instagram.com/sunsetbeachclubveracruz/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "International"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Sunset Veracruz is a restaurant in Amador, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [
+   "Beachfront seating right on the sand, with hammocks and a breeze off the Pacific.",
+   "Fried red snapper is the dish people come back to.",
+   "Portions draw consistent complaints for the price - order more than you think you need."
+  ],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/sunsetbeachclubveracruz/",
+   "https://www.google.com/maps/place/?q=place_id:ChIJV9m4sB-lrI8RoT3uf_eXQxo"
+  ],
+  "import_wave": "W1 flagship",
+  "social": {
+   "instagram": "https://www.instagram.com/sunsetbeachclubveracruz/"
+  },
+  "social_proof": "bio: 'A tan solo 25 minutos de Panama, en Veracruz... Playa Venado - Veracruz'; own post C7czwLrCK46 is captioned 'nuevo menu ejecutivo en Sunset Veracruz Panama' with delivery phone 6191-0609",
+  "about_es": "Sunset Veracruz es un restaurante en Amador, Ciudad de Panamá.",
+  "whats_good_es": [
+   "Mesas frente al mar, justo sobre la arena, con hamacas y la brisa del Pacífico.",
+   "El pargo rojo frito es el plato al que todos vuelven.",
+   "Las porciones son motivo constante de quejas por el precio - pide más de lo que crees que necesitas."
+  ]
+ },
+ {
+  "id": "amador-el-cafe-del-biomuseo-by-biomuseo",
+  "slug": "el-cafe-del-biomuseo-by-biomuseo",
+  "name": "El Café del Biomuseo by Biomuseo",
+  "cuisine_en": [
+   "Cafe"
+  ],
+  "cuisine_es": [],
+  "price_tier": 2,
+  "neighborhood_slug": "amador",
+  "address": "WFH4+XG, Calz. de Amador 136, Panamá, Provincia de Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.932229099999999,
+  "lng": -79.5446371,
+  "phones": {
+   "call": "830-6700"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "Closed",
+    "close": ""
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "Closed",
+    "close": ""
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "10:00 AM",
+    "close": "3:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "10:00 AM",
+    "close": "3:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "10:00 AM",
+    "close": "3:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "11:00 AM",
+    "close": "4:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "11:00 AM",
+    "close": "4:00 PM"
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "Cafe"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "El Café del Biomuseo by Biomuseo is a cafe in Amador, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/kotowacoffee/",
+   "https://www.kotowa.com/",
+   "https://www.google.com/maps/place/?q=place_id:ChIJF9NoE0KvrI8RvxFpvshi2v4"
+  ],
+  "import_wave": "W2 established",
+  "social": {
+   "instagram": "https://www.instagram.com/kotowacoffee/"
+  },
+  "social_proof": "The Biomuseo café is operated by Kotowa (row website is kotowa.com); Kotowa's own posts feature the 'Kotowa Biomuseo' coffee house, and @kotowacoffee is Kotowa's official account",
+  "about_es": "El Café del Biomuseo by Biomuseo es una cafetería en Amador, Ciudad de Panamá."
+ },
+ {
+  "id": "amador-la-focacceria",
+  "slug": "la-focacceria",
+  "name": "La focacceria",
+  "cuisine_en": [
+   "International"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "amador",
+  "address": "isla flamenco, al lado de felipe motta, Panamá, Panama",
+  "address_note_en": "",
+  "lat": 8.9104472,
+  "lng": -79.5219675,
+  "phones": {
+   "call": "6597-7442"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "8:00 AM",
+    "close": "6:30 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "8:00 AM",
+    "close": "7:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "8:00 AM",
+    "close": "7:00 PM"
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "8:00 AM",
+    "close": "7:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "8:00 AM",
+    "close": "7:30 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "6:00 AM",
+    "close": "8:30 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "6:30 AM",
+    "close": "8:30 PM"
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "International"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "La focacceria is a restaurant in Amador, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/lafocacceriapty/",
+   "https://www.google.com/maps/place/?q=place_id:ChIJEbbZ6rGvrI8RohHj65rCMpQ"
+  ],
+  "import_wave": "W2 established",
+  "social": {
+   "instagram": "https://www.instagram.com/lafocacceriapty/"
+  },
+  "social_proof": "Bio reads 'La Focacceria - Amador ... Isla Flamenco', matching the Google Maps venue at isla flamenco, Amador",
+  "about_es": "La focacceria es un restaurante en Amador, Ciudad de Panamá."
+ },
+ {
+  "id": "amador-oceanica",
+  "slug": "oceanica",
+  "name": "Oceánica",
+  "cuisine_en": [
+   "International"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "amador",
+  "address": "Veracruz, Panamá Oeste Province, Panama",
+  "address_note_en": "",
+  "lat": 8.8938879,
+  "lng": -79.60119879999999,
+  "phones": {
+   "call": "6174-5954"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "Closed",
+    "close": ""
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "Closed",
+    "close": ""
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "Closed",
+    "close": ""
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "Closed",
+    "close": ""
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "11:00 AM",
+    "close": "7:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "11:00 AM",
+    "close": "7:00 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "11:00 AM",
+    "close": "7:00 PM"
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "International"
+  ],
+  "tags_es": [],
+  "status": "removed",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Oceánica is a restaurant in Amador, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/oceanica_restaurante_/",
+   "https://www.instagram.com/oceanica_restaurante_?igsh=M29qamp5enE3bG8z",
+   "https://www.google.com/maps/place/?q=place_id:ChIJwaXObealrI8Rik24T-g9HRM"
+  ],
+  "import_wave": "W2 established",
+  "social": {
+   "instagram": "https://www.instagram.com/oceanica_restaurante_/"
+  },
+  "social_proof": "Google Maps listing for the restaurant 'Oceánica' (Veracruz beach; the metro's only Oceánica restaurant - the row's 'amador' tag appears to be a collection error, same pattern as Solymar) lists this Instagram as its website",
+  "removed_reason": "located in Veracruz, Panama Oeste (lat 8.894, lng -79.60) - outside the Panama City launch scope; mis-tagged to Amador at collection",
+  "about_es": "Oceánica es un restaurante en Amador, Ciudad de Panamá."
+ },
+ {
+  "id": "amador-bali-panama",
+  "slug": "bali-panama",
+  "name": "BALI PANAMA",
+  "cuisine_en": [
+   "International"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "amador",
+  "address": "Acceso a Westin Playa Bonita, Panamá, Provincia de Panamá Oeste, Panama",
+  "address_note_en": "",
+  "lat": 8.893234399999999,
+  "lng": -79.5967964,
+  "phones": {
+   "call": "6411-3683"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "Closed",
+    "close": ""
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "Closed",
+    "close": ""
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "Closed",
+    "close": ""
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "Closed",
+    "close": ""
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "11:00 AM",
+    "close": "1:00 AM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "11:00 AM",
+    "close": "1:00 AM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "11:00 AM",
+    "close": "1:00 AM"
+   }
+  ],
+  "photos": [],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "International"
+  ],
+  "tags_es": [],
+  "status": "removed",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "BALI PANAMA is a restaurant in Amador, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.google.com/maps/place/?q=place_id:ChIJa45h_UulrI8RrmIQ_nxhBfI"
+  ],
+  "import_wave": "W2 established",
+  "removed_reason": "located at Westin Playa Bonita, Panama Oeste (lat 8.893, lng -79.60) - outside the Panama City launch scope; mis-tagged to Amador at collection",
+  "about_es": "BALI PANAMA es un restaurante en Amador, Ciudad de Panamá."
+ },
+ {
+  "id": "amador-el-tablazo",
+  "slug": "el-tablazo",
+  "name": "El Tablazo",
+  "cuisine_en": [
+   "International"
+  ],
+  "cuisine_es": [],
+  "price_tier": 0,
+  "neighborhood_slug": "amador",
+  "address": "Panama City, Panama",
+  "address_note_en": "",
+  "lat": 8.9160345,
+  "lng": -79.5275444,
+  "phones": {},
+  "hours": [],
+  "photos": [
+   {
+    "url": "/venues/el-tablazo.jpg",
+    "alt_en": "Whole fried corvina topped with peppers at El Tablazo, Isla Perico, Amador, Panama City",
+    "alt_es": "Corvina entera frita a lo macho con pimientos en El Tablazo, Isla Perico, Amador, Ciudad de Panamá",
+    "credit_en": "Photo: @el_tablazopty",
+    "credit_url": "https://www.instagram.com/el_tablazopty/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "International"
+  ],
+  "tags_es": [],
+  "status": "open",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "El Tablazo is a restaurant in Amador, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/el_tablazopty/",
+   "https://www.google.com/maps/place/?q=place_id:ChIJIVRFbg-vrI8RxwhzSc46S9A"
+  ],
+  "import_wave": "W2 established",
+  "social": {
+   "instagram": "https://www.instagram.com/el_tablazopty/"
+  },
+  "social_proof": "Posts read 'RESTAURANTE - AMADOR' and 'Isla Perico Amador', matching the venue; account is the restaurant's own",
+  "about_es": "El Tablazo es un restaurante en Amador, Ciudad de Panamá."
+ },
+ {
+  "id": "amador-solymar-sport-bar-restaurant",
+  "slug": "solymar-sport-bar-restaurant",
+  "name": "Solymar Sport Bar & Restaurant",
+  "cuisine_en": [
+   "International"
+  ],
+  "cuisine_es": [],
+  "price_tier": 2,
+  "neighborhood_slug": "amador",
+  "address": "V9VX+H9X, Unnamed Road, Veracruz, Provincia de Panamá Oeste, Panama",
+  "address_note_en": "",
+  "lat": 8.893995199999999,
+  "lng": -79.60152409999999,
+  "phones": {
+   "call": "250-6040"
+  },
+  "hours": [
+   {
+    "day_en": "Monday",
+    "day_es": "Lunes",
+    "open": "10:00 AM",
+    "close": "7:00 PM"
+   },
+   {
+    "day_en": "Tuesday",
+    "day_es": "Martes",
+    "open": "10:00 AM",
+    "close": "7:00 PM"
+   },
+   {
+    "day_en": "Wednesday",
+    "day_es": "Miércoles",
+    "open": "Closed",
+    "close": ""
+   },
+   {
+    "day_en": "Thursday",
+    "day_es": "Jueves",
+    "open": "10:00 AM",
+    "close": "7:00 PM"
+   },
+   {
+    "day_en": "Friday",
+    "day_es": "Viernes",
+    "open": "10:00 AM",
+    "close": "9:00 PM"
+   },
+   {
+    "day_en": "Saturday",
+    "day_es": "Sábado",
+    "open": "10:00 AM",
+    "close": "8:30 PM"
+   },
+   {
+    "day_en": "Sunday",
+    "day_es": "Domingo",
+    "open": "10:00 AM",
+    "close": "7:00 PM"
+   }
+  ],
+  "photos": [
+   {
+    "url": "/venues/solymar-sport-bar-restaurant.jpg",
+    "alt_en": "Platter of whole fried red snapper with fries and salad at Solymar Sport Bar, Veracruz beach, Panama",
+    "alt_es": "Fuente de pargo rojo entero frito con papas y ensalada en Solymar Sport Bar, playa Veracruz, Panamá",
+    "credit_en": "Photo: @solymarsportbar",
+    "credit_url": "https://www.instagram.com/solymarsportbar/"
+   }
+  ],
+  "verified_at": "2026-07",
+  "last_checked": "2026-07",
+  "tags_en": [
+   "International"
+  ],
+  "tags_es": [],
+  "status": "removed",
+  "es_reviewed": false,
+  "dishes": [],
+  "about_en": "Solymar Sport Bar & Restaurant is a restaurant in Amador, Panama City.",
+  "highlights_en": [],
+  "whats_good_en": [],
+  "attributes_en": [],
+  "dietary_en": [],
+  "sources": [
+   "https://www.instagram.com/solymarsportbar/",
+   "https://www.google.com/maps/place/?q=place_id:ChIJS7Dzmh6lrI8RQ7wBkVDf0VQ"
+  ],
+  "import_wave": "W2 established",
+  "social": {
+   "instagram": "https://www.instagram.com/solymarsportbar/"
+  },
+  "social_proof": "Account is the restaurant's own; posts hashtag #Veracruz and read 'SOL Y MAR - RESTAURANTE - VERACRUZ', matching the Google Maps venue on Veracruz beach (row's 'amador' tag is a collection error)",
+  "removed_reason": "located in Veracruz, Panama Oeste (lat 8.894, lng -79.60) - outside the Panama City launch scope; mis-tagged to Amador at collection",
+  "about_es": "Solymar Sport Bar & Restaurant es un restaurante en Amador, Ciudad de Panamá."
+ }
+]

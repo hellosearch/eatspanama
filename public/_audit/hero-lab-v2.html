@@ -1,0 +1,373 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>EatsPanama - Hero Lab v2</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet" />
+<style>
+  :root{
+    --ink:#101014;--ink-soft:#3A3A42;--gray:#62626B;--paper:#FFFFFF;--line:#E7E7E2;
+    --canvas:#E9E9E5;--accent:#FF5A1F;--accent-deep:#E14A10;--accent-tint:#FFF0E9;
+    --disp:"Space Grotesk",sans-serif;--body:"Inter",sans-serif;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;font-family:var(--body);color:var(--ink);background:var(--canvas);-webkit-font-smoothing:antialiased}
+  a{color:inherit;text-decoration:none}
+  img{max-width:100%;display:block}
+
+  .lab{position:sticky;top:0;z-index:50;background:#141b30;color:#fff;padding:10px 20px;display:flex;gap:12px;align-items:center;flex-wrap:wrap;border-bottom:3px solid var(--accent)}
+  .lab b{font-family:var(--disp);font-weight:700;font-size:14px}
+  .lab .sp{flex:1}
+  .lab button{font-family:var(--disp);font-weight:600;font-size:13px;color:#fff;background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.18);padding:7px 13px;border-radius:999px;cursor:pointer}
+  .lab button:hover{background:rgba(255,255,255,.16)}
+  .lab button.on{background:var(--accent);border-color:var(--accent)}
+  .lab .hint{font-size:12px;color:#b9c0d6}
+
+  .shell{max-width:1240px;margin:0 auto;background:var(--paper);min-height:100vh}
+  .nav{display:flex;align-items:center;gap:30px;padding:18px 40px;border-bottom:1px solid var(--line)}
+  .logo{font-family:var(--disp);font-weight:700;font-size:22px}.logo .o{color:var(--accent)}
+  .nav .links{display:flex;gap:24px;font-family:var(--disp);font-weight:600;font-size:15px}
+  .nav .links span::after{content:" \25be";color:var(--gray);font-size:11px}
+  .nav .sp{flex:1}
+  .nav .pill{border:1.5px solid var(--ink);border-radius:999px;padding:6px 12px;font-family:var(--disp);font-weight:700;font-size:12px}
+
+  .view{display:none;padding:0 40px 50px}
+  body[data-view="hero"] #v-hero,body[data-view="browse"] #v-browse,body[data-view="link"] #v-link,body[data-view="foot"] #v-foot{display:block}
+
+  .fold{position:relative;border-top:2px dashed #d6a58c;margin:14px -40px 0;height:0}
+  .fold span{position:absolute;right:8px;top:-9px;background:var(--accent-tint);color:var(--accent-deep);font-family:var(--disp);font-weight:700;font-size:10px;letter-spacing:.08em;padding:2px 8px;border-radius:999px}
+
+  h1.hero-h{font-family:var(--disp);font-weight:700;font-size:54px;line-height:1.02;letter-spacing:-.02em;margin:0}
+  h1.hero-h .a{color:var(--accent)}
+  .kick{display:flex;gap:8px;margin-bottom:16px;flex-wrap:wrap}
+  .kick .k{background:var(--paper);border:1px solid var(--line);border-radius:999px;padding:5px 12px;font-size:12.5px;font-weight:600}
+  .kick .k .dot{color:var(--accent)}
+  .sub{font-size:16px;line-height:1.5;color:var(--ink-soft);max-width:46ch;margin:16px 0 0}
+  .sub b{color:var(--ink)}
+  .search{display:flex;align-items:center;gap:10px;background:var(--paper);border:2px solid var(--ink);border-radius:14px;padding:6px 6px 6px 16px;box-shadow:0 6px 0 rgba(255,90,31,.12);max-width:540px}
+  .search input{flex:1;border:0;outline:0;font-family:var(--body);font-size:15px;padding:8px 0;background:none}
+  .search .go{background:var(--accent);color:#fff;font-family:var(--disp);font-weight:700;font-size:14px;border:0;border-radius:9px;padding:11px 20px;cursor:pointer}
+
+  /* photo tile */
+  .tile{position:relative;border-radius:16px;overflow:hidden;background:#ccc;display:block;box-shadow:0 1px 0 var(--line)}
+  .tile img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;transition:transform .4s}
+  .tile .ov{position:absolute;inset:0;background:linear-gradient(180deg,rgba(16,16,20,0) 32%,rgba(16,16,20,.74) 100%)}
+  .tile .lab2{position:absolute;left:15px;right:15px;bottom:13px;color:#fff}
+  .tile .lab2 .t{font-family:var(--disp);font-weight:700;font-size:21px;line-height:1.08}
+  .tile .lab2 .m{font-size:12.5px;opacity:.92;margin-top:2px}
+  .tile .tag{position:absolute;top:12px;left:12px;background:rgba(255,255,255,.92);color:var(--ink);font-family:var(--disp);font-weight:700;font-size:10.5px;letter-spacing:.06em;padding:4px 9px;border-radius:999px}
+  .tile:hover img{transform:scale(1.04)}
+
+  /* ===== HERO: A + C ===== */
+  .heroWrap{display:grid;grid-template-columns:1.02fr 1.05fr;gap:38px;align-items:start;padding-top:34px}
+  .heroImgs{display:grid;grid-template-columns:1fr 1fr;grid-template-rows:250px 165px;gap:13px}
+  .heroImgs .big{grid-column:span 2}
+
+  /* improved browse: tabbed switcher */
+  .browse{margin-top:22px}
+  .browse-lbl{font-family:var(--disp);font-weight:700;font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--gray);margin:0 0 10px}
+  .btabs{display:flex;gap:4px;background:#f3f3ef;border-radius:11px;padding:4px;width:max-content;max-width:100%;flex-wrap:wrap}
+  .btabs button{font-family:var(--disp);font-weight:600;font-size:13.5px;color:var(--ink-soft);background:none;border:0;padding:8px 15px;border-radius:8px;cursor:pointer;transition:.15s}
+  .btabs button.on{background:var(--paper);color:var(--ink);box-shadow:0 1px 4px rgba(0,0,0,.08)}
+  .bpanel{display:none;flex-wrap:wrap;gap:8px;margin-top:14px}
+  .bpanel.on{display:flex}
+  .bpanel a{background:var(--paper);border:1px solid var(--line);border-radius:999px;padding:8px 14px;font-size:13.5px;font-weight:600;transition:.15s}
+  .bpanel a:hover{border-color:var(--ink);transform:translateY(-1px)}
+  .bpanel a .c{color:var(--gray);font-weight:500;font-size:12px;margin-left:5px}
+  .bpanel a.all{background:var(--accent-tint);border-color:#ffe0d0;color:var(--accent-deep)}
+
+  /* ===== BROWSE STYLES compare ===== */
+  .cmp{display:grid;grid-template-columns:1fr 1fr;gap:34px;padding-top:30px}
+  .cmp .col h4{font-family:var(--disp);font-weight:700;font-size:13px;letter-spacing:.06em;text-transform:uppercase;color:var(--accent-deep);margin:0 0 4px}
+  .cmp .col p{font-size:13px;color:var(--gray);margin:0 0 16px;line-height:1.5}
+  /* image chips */
+  .chips{display:flex;flex-wrap:wrap;gap:9px}
+  .chips a{display:flex;align-items:center;gap:9px;background:var(--paper);border:1px solid var(--line);border-radius:999px;padding:5px 15px 5px 5px;font-size:13.5px;font-weight:600}
+  .chips a img{width:30px;height:30px;border-radius:50%;object-fit:cover;position:static}
+  .chips a:hover{border-color:var(--ink)}
+  .chips a .c{color:var(--gray);font-weight:500;font-size:12px;margin-left:2px}
+
+  .sec-h{font-family:var(--disp);font-weight:700;font-size:12px;letter-spacing:.1em;text-transform:uppercase;color:var(--accent-deep);margin:30px 0 4px}
+  .sec-t{font-family:var(--disp);font-weight:700;font-size:29px;margin:0 0 12px}
+  .note{background:var(--accent-tint);border:1px solid #ffcdb6;border-radius:12px;padding:14px 18px;font-size:14px;line-height:1.55;color:var(--ink-soft);margin:22px 0}
+  .note b{color:var(--ink)}
+
+  /* ===== INTERLINK MODULE ++ ===== */
+  .vX{padding-top:34px;max-width:960px}
+  .il{background:var(--paper);border:1px solid var(--line);border-radius:16px;padding:24px 28px;margin-top:16px}
+  .il .crumb{font-size:12.5px;color:var(--gray);margin-bottom:12px}
+  .il h3{font-family:var(--disp);font-weight:700;font-size:23px;margin:0 0 2px}
+  .il .cap{font-family:var(--disp);font-weight:700;font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--gray);margin:20px 0 12px;border-top:1px solid var(--line);padding-top:16px}
+  .ilrow{display:flex;gap:12px;align-items:baseline;padding:11px 0;border-top:1px solid #f2f2ee;flex-wrap:wrap}
+  .ilrow .lb{font-family:var(--disp);font-weight:700;font-size:12px;letter-spacing:.04em;text-transform:uppercase;color:var(--accent-deep);min-width:140px}
+  .ilrow .lnks{display:flex;flex-wrap:wrap;gap:7px}
+  .ilrow .lnks a{background:var(--accent-tint);border:1px solid #ffe0d0;border-radius:999px;padding:6px 12px;font-size:13.5px;font-weight:600}
+  .ilrow .lnks a:hover{border-color:var(--accent)}
+
+  /* ===== SITE FOOTER ===== */
+  .vF{padding-top:30px}
+  .ftr{background:#141419;color:#e9e9ea;border-radius:20px;padding:40px 40px 30px;margin-top:10px}
+  .ftr .top{display:grid;grid-template-columns:1.4fr 1fr 1fr 1fr;gap:34px}
+  .ftr h5{font-family:var(--disp);font-weight:700;font-size:12px;letter-spacing:.09em;text-transform:uppercase;color:#8f8f98;margin:0 0 14px}
+  .ftr .brand .logo{font-size:24px;color:#fff}
+  .ftr .brand p{font-size:13.5px;line-height:1.6;color:#a5a5ad;margin:12px 0 16px;max-width:34ch}
+  .ftr .brand .lang{display:inline-block;border:1px solid #3a3a44;border-radius:999px;padding:6px 12px;font-family:var(--disp);font-weight:700;font-size:12px;color:#e9e9ea}
+  .fcols{display:flex;gap:34px}
+  .ftr .lk{display:block;font-size:13.5px;color:#c9c9ce;padding:5px 0}
+  .ftr .lk:hover{color:var(--accent)}
+  .ftr .lk .c{color:#6f6f78;font-size:11.5px;margin-left:5px}
+  .twocol{columns:2;column-gap:26px}
+  .ftr .bar{display:flex;gap:14px;align-items:center;flex-wrap:wrap;border-top:1px solid #2a2a32;margin-top:28px;padding-top:18px;font-size:12.5px;color:#8f8f98}
+  .ftr .bar .sp{flex:1}
+  .ftr .bar b{color:var(--accent);font-weight:600}
+
+  @media(max-width:960px){
+    .heroWrap,.cmp{grid-template-columns:1fr}
+    .ftr .top{grid-template-columns:1fr 1fr}
+    h1.hero-h{font-size:40px}
+  }
+</style>
+</head>
+<body data-view="hero">
+
+<div class="lab">
+  <b>EatsPanama - Hero Lab v2</b>
+  <button data-view-btn="hero" class="on">Hero (A + C images)</button>
+  <button data-view-btn="browse">Browse styles (pick 1)</button>
+  <button data-view-btn="link">Interlink module ++</button>
+  <button data-view-btn="foot">Site footer (interlinking)</button>
+  <span class="sp"></span>
+  <span class="hint">Tiles + links are real - click through. Dashed line = laptop fold.</span>
+</div>
+
+<div class="shell">
+  <div class="nav">
+    <div class="logo">Eats<span class="o">Panama</span></div>
+    <div class="links"><span>Neighborhoods</span><span>Cuisines</span><span>Guides</span><span style="color:var(--accent)">New</span></div>
+    <div class="sp"></div><div class="pill">EN / ES</div><div class="pill">Search</div>
+  </div>
+
+  <!-- ============ HERO (A launcher + C big images + tabbed browse) ============ -->
+  <section id="v-hero" class="view">
+    <div class="heroWrap">
+      <div class="left">
+        <div class="kick">
+          <span class="k"><span class="dot">&bull;</span> 792 places</span>
+          <span class="k"><span class="dot">&bull;</span> 15 neighborhoods</span>
+          <span class="k"><span class="dot">&bull;</span> 3 guides</span>
+        </div>
+        <h1 class="hero-h">Where Panama <span class="a">actually</span> eats.</h1>
+        <p class="sub"><b>Independent coverage, in English y en espanol.</b> No paid placements, no tourist traps.</p>
+        <div class="search" style="margin-top:20px">
+          <span style="color:var(--gray)">&#128269;</span>
+          <input placeholder="Dish, place, or craving" />
+          <button class="go">Search</button>
+        </div>
+        <div class="browse">
+          <p class="browse-lbl">Or start browsing</p>
+          <div class="btabs">
+            <button data-bt="crave" class="on">Cravings</button>
+            <button data-bt="hood">Neighborhoods</button>
+            <button data-bt="cui">Cuisines</button>
+            <button data-bt="dish">Dishes</button>
+          </div>
+          <div class="bpanel on" data-bp="crave">
+            <a href="/panama-city/good-for/cocktails/">Cocktail bars<span class="c">89</span></a>
+            <a href="/panama-city/good-for/brunch/">Brunch<span class="c">136</span></a>
+            <a href="/panama-city/good-for/outdoor/">Outdoor<span class="c">110</span></a>
+            <a href="/panama-city/good-for/date-night/">Date night</a>
+            <a href="/panama-city/good-for/specialty-coffee/">Specialty coffee<span class="c">61</span></a>
+            <a class="all" href="/panama-city/good-for/">All occasions &rarr;</a>
+          </div>
+          <div class="bpanel" data-bp="hood">
+            <a href="/panama-city/el-cangrejo/">El Cangrejo<span class="c">147</span></a>
+            <a href="/panama-city/bella-vista/">Bella Vista<span class="c">118</span></a>
+            <a href="/panama-city/costa-del-este/">Costa del Este<span class="c">103</span></a>
+            <a href="/panama-city/casco-viejo/">Casco Viejo<span class="c">99</span></a>
+            <a href="/panama-city/san-francisco/">San Francisco<span class="c">75</span></a>
+            <a class="all" href="/panama-city/">All 15 &rarr;</a>
+          </div>
+          <div class="bpanel" data-bp="cui">
+            <a href="/panama-city/cuisine/japanese/">Japanese<span class="c">59</span></a>
+            <a href="/panama-city/cuisine/italian/">Italian<span class="c">62</span></a>
+            <a href="/panama-city/cuisine/seafood/">Seafood<span class="c">40</span></a>
+            <a href="/panama-city/cuisine/steakhouse/">Steakhouse<span class="c">32</span></a>
+            <a href="/panama-city/cuisine/panamanian/">Panamanian<span class="c">46</span></a>
+            <a class="all" href="/panama-city/cuisine/">All cuisines &rarr;</a>
+          </div>
+          <div class="bpanel" data-bp="dish">
+            <a href="/panama-city/good-for/ceviche/">Ceviche<span class="c">75</span></a>
+            <a href="/panama-city/good-for/empanadas/">Empanadas</a>
+            <a href="/panama-city/good-for/patacones/">Patacones</a>
+            <a href="/panama-city/good-for/tacos/">Tacos</a>
+            <a href="/panama-city/good-for/sancocho/">Sancocho</a>
+            <a class="all" href="/panama-city/good-for/">All dishes &rarr;</a>
+          </div>
+        </div>
+      </div>
+      <div class="heroImgs">
+        <a class="tile big" href="/panama-city/casco-viejo/"><img src="/hoods/casco-viejo.jpg" alt=""><div class="ov"></div><span class="tag">NEIGHBORHOOD</span><div class="lab2"><div class="t">Casco Viejo</div><div class="m">99 places to eat</div></div></a>
+        <a class="tile" href="/panama-city/good-for/ceviche/"><img src="/occasions/ceviche.jpg" alt=""><div class="ov"></div><div class="lab2"><div class="t">Ceviche</div><div class="m">75 spots</div></div></a>
+        <a class="tile" href="/guides/best-brunch-panama-city/"><img src="/occasions/brunch.jpg" alt=""><div class="ov"></div><span class="tag">GUIDE</span><div class="lab2"><div class="t">Where to brunch</div><div class="m">12 picks</div></div></a>
+      </div>
+    </div>
+    <div class="fold"><span>FOLD &darr;</span></div>
+    <p class="note"><b>Hero = A's launcher with C's bigger imagery.</b> Left: H1 + search + a tabbed browse switcher (Cravings / Neighborhoods / Cuisines / Dishes - click the tabs, the pills swap). Right: three large clickable header tiles instead of A's small 2x2. Keeps the keyword H1 above the fold; the whole screen is clickable.</p>
+  </section>
+
+  <!-- ============ BROWSE STYLES: pick one ============ -->
+  <section id="v-browse" class="view">
+    <p class="sec-h">You said the start-browsing pills could be better - two options</p>
+    <h2 class="sec-t">How "Or start browsing" looks</h2>
+    <div class="cmp">
+      <div class="col">
+        <h4>Option 1 - Tabbed switcher <span style="color:var(--gray)">(in the hero above)</span></h4>
+        <p>One row of tabs, pills swap underneath. Compact, scales to any number of axes, only shows one set at a time so the fold stays clean.</p>
+        <div class="btabs" style="margin-bottom:14px">
+          <button class="on">Cravings</button><button>Neighborhoods</button><button>Cuisines</button><button>Dishes</button>
+        </div>
+        <div class="bpanel on" style="position:static">
+          <a href="/panama-city/good-for/cocktails/">Cocktail bars<span class="c">89</span></a>
+          <a href="/panama-city/good-for/brunch/">Brunch<span class="c">136</span></a>
+          <a href="/panama-city/good-for/outdoor/">Outdoor<span class="c">110</span></a>
+          <a href="/panama-city/good-for/date-night/">Date night</a>
+          <a class="all" href="/panama-city/good-for/">All &rarr;</a>
+        </div>
+      </div>
+      <div class="col">
+        <h4>Option 2 - Image chips</h4>
+        <p>Each shortcut carries a tiny real photo. More visual and on-brand with the imagery, slightly heavier; best for a single curated row (top cravings).</p>
+        <div class="chips">
+          <a href="/panama-city/good-for/ceviche/"><img src="/occasions/ceviche.jpg" alt="">Ceviche<span class="c">75</span></a>
+          <a href="/panama-city/good-for/cocktails/"><img src="/occasions/cocktails.jpg" alt="">Cocktail bars<span class="c">89</span></a>
+          <a href="/panama-city/good-for/brunch/"><img src="/occasions/brunch.jpg" alt="">Brunch<span class="c">136</span></a>
+          <a href="/panama-city/good-for/specialty-coffee/"><img src="/occasions/specialty-coffee.jpg" alt="">Coffee<span class="c">61</span></a>
+          <a href="/panama-city/good-for/outdoor/"><img src="/occasions/outdoor.jpg" alt="">Outdoor<span class="c">110</span></a>
+        </div>
+      </div>
+    </div>
+    <p class="note"><b>My take:</b> tabbed switcher for the hero (it holds all four axes without cluttering the fold), image chips as a nice touch lower on the page. But your call - or we mix.</p>
+  </section>
+
+  <!-- ============ INTERLINK MODULE ++ ============ -->
+  <section id="v-link" class="view">
+    <div class="vX">
+      <p class="sec-h">Per-page interlinking - richer, more axes</p>
+      <h2 class="sec-t" style="font-size:28px">Hub-and-spoke module (bottom of every occasion / neighborhood / cuisine page)</h2>
+      <p class="sub" style="max-width:74ch">You noted the only cross-linking today is neighborhood + cuisine. This adds every axis and is reciprocal. Shown on the <b>Ceviche</b> page:</p>
+      <div class="il">
+        <div class="crumb">Home / Panama City / Good for / Ceviche</div>
+        <h3>Ceviche in Panama City <span style="color:var(--gray);font-weight:600;font-size:15px">75 spots</span></h3>
+        <div class="cap">Keep exploring</div>
+        <div class="ilrow"><span class="lb">By barrio</span><span class="lnks">
+          <a href="/panama-city/casco-viejo/">Casco Viejo</a><a href="/panama-city/marbella/">Marbella</a><a href="/panama-city/bella-vista/">Bella Vista</a><a href="/panama-city/san-francisco/">San Francisco</a><a href="/panama-city/costa-del-este/">Costa del Este</a><a href="/panama-city/amador/">Amador</a></span></div>
+        <div class="ilrow"><span class="lb">Related cuisines</span><span class="lnks">
+          <a href="/panama-city/cuisine/seafood/">Seafood</a><a href="/panama-city/cuisine/peruvian/">Peruvian</a><a href="/panama-city/cuisine/nikkei/">Nikkei</a><a href="/panama-city/cuisine/panamanian/">Panamanian</a></span></div>
+        <div class="ilrow"><span class="lb">Pairs well with</span><span class="lnks">
+          <a href="/panama-city/good-for/cocktails/">Cocktail bars</a><a href="/panama-city/good-for/outdoor/">Outdoor seating</a><a href="/panama-city/good-for/with-a-view/">With a view</a><a href="/panama-city/good-for/date-night/">Date night</a></span></div>
+        <div class="ilrow"><span class="lb">More dishes</span><span class="lnks">
+          <a href="/panama-city/good-for/patacones/">Patacones</a><a href="/panama-city/good-for/empanadas/">Empanadas</a><a href="/panama-city/good-for/sancocho/">Sancocho</a></span></div>
+        <div class="ilrow"><span class="lb">In a guide</span><span class="lnks">
+          <a href="/guides/best-dinners-casco-viejo/">Where to have dinner in Casco Viejo</a></span></div>
+      </div>
+      <p class="note" style="max-width:82ch"><b>Reciprocal:</b> the Casco Viejo page shows the same block linking back to Ceviche, Cocktail bars, Seafood, etc. This is the hub-spoke rule from your 2026-07-14 SEO template decisions, and it ships on top of any hero.</p>
+    </div>
+  </section>
+
+  <!-- ============ SITE FOOTER (site-wide interlinking) ============ -->
+  <section id="v-foot" class="view">
+    <div class="vF">
+      <p class="sec-h">B's board belongs here - a real interlinking footer on every page</p>
+      <h2 class="sec-t" style="font-size:28px">Site-wide footer</h2>
+      <div class="ftr">
+        <div class="top">
+          <div class="brand">
+            <div class="logo">Eats<span style="color:var(--accent)">Panama</span></div>
+            <p>Panama's restaurants, mapped and reviewed independently. Built from public sources, no paid rankings - ever.</p>
+            <span class="lang">EN / ES</span>
+          </div>
+          <div>
+            <h5>Neighborhoods</h5>
+            <div class="twocol">
+              <a class="lk" href="/panama-city/el-cangrejo/">El Cangrejo</a>
+              <a class="lk" href="/panama-city/bella-vista/">Bella Vista</a>
+              <a class="lk" href="/panama-city/costa-del-este/">Costa del Este</a>
+              <a class="lk" href="/panama-city/casco-viejo/">Casco Viejo</a>
+              <a class="lk" href="/panama-city/san-francisco/">San Francisco</a>
+              <a class="lk" href="/panama-city/albrook/">Albrook</a>
+              <a class="lk" href="/panama-city/obarrio/">Obarrio</a>
+              <a class="lk" href="/panama-city/clayton/">Clayton</a>
+              <a class="lk" href="/panama-city/amador/">Amador</a>
+              <a class="lk" href="/panama-city/marbella/">Marbella</a>
+              <a class="lk" href="/panama-city/">All 15 &rarr;</a>
+            </div>
+          </div>
+          <div>
+            <h5>Cuisines</h5>
+            <div class="twocol">
+              <a class="lk" href="/panama-city/cuisine/italian/">Italian</a>
+              <a class="lk" href="/panama-city/cuisine/japanese/">Japanese</a>
+              <a class="lk" href="/panama-city/cuisine/pizza/">Pizza</a>
+              <a class="lk" href="/panama-city/cuisine/panamanian/">Panamanian</a>
+              <a class="lk" href="/panama-city/cuisine/seafood/">Seafood</a>
+              <a class="lk" href="/panama-city/cuisine/steakhouse/">Steakhouse</a>
+              <a class="lk" href="/panama-city/cuisine/burgers/">Burgers</a>
+              <a class="lk" href="/panama-city/cuisine/peruvian/">Peruvian</a>
+              <a class="lk" href="/panama-city/cuisine/spanish/">Spanish</a>
+              <a class="lk" href="/panama-city/cuisine/">All &rarr;</a>
+            </div>
+          </div>
+          <div>
+            <h5>By occasion &amp; dish</h5>
+            <div class="twocol">
+              <a class="lk" href="/panama-city/good-for/ceviche/">Ceviche</a>
+              <a class="lk" href="/panama-city/good-for/cocktails/">Cocktail bars</a>
+              <a class="lk" href="/panama-city/good-for/brunch/">Brunch</a>
+              <a class="lk" href="/panama-city/good-for/outdoor/">Outdoor</a>
+              <a class="lk" href="/panama-city/good-for/date-night/">Date night</a>
+              <a class="lk" href="/panama-city/good-for/specialty-coffee/">Coffee</a>
+              <a class="lk" href="/panama-city/good-for/dog-friendly/">Dog-friendly</a>
+              <a class="lk" href="/panama-city/good-for/vegetarian/">Vegetarian</a>
+              <a class="lk" href="/panama-city/good-for/">All &rarr;</a>
+              <a class="lk" href="/guides/">Guides</a>
+            </div>
+          </div>
+        </div>
+        <div class="bar">
+          <span>&copy; 2026 EatsPanama</span>
+          <span class="sp"></span>
+          <span><b>No paid rankings.</b> Ever.</span>
+          <span>Privacy</span><span>Terms</span><span>How we review</span>
+        </div>
+      </div>
+      <p class="note" style="max-width:82ch"><b>This is the "site-wide interlinking" you meant:</b> a fat footer on every page linking all 15 neighborhoods + top cuisines + occasions + dishes + guides. Combined with the per-page module, every important page is reachable in one or two hops from anywhere - the crawlable, browsable web your SEO rules call for.</p>
+    </div>
+  </section>
+
+</div>
+
+<script>
+  var vb = document.querySelectorAll('[data-view-btn]');
+  vb.forEach(function (b) {
+    b.addEventListener('click', function () {
+      document.body.setAttribute('data-view', b.getAttribute('data-view-btn'));
+      vb.forEach(function (x) { x.classList.toggle('on', x === b); });
+      window.scrollTo(0, 0);
+    });
+  });
+  var bt = document.querySelectorAll('.btabs [data-bt]');
+  bt.forEach(function (b) {
+    b.addEventListener('click', function () {
+      var key = b.getAttribute('data-bt');
+      bt.forEach(function (x) { x.classList.toggle('on', x === b); });
+      document.querySelectorAll('.bpanel[data-bp]').forEach(function (p) {
+        p.classList.toggle('on', p.getAttribute('data-bp') === key);
+      });
+    });
+  });
+</script>
+</body>
+</html>

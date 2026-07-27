@@ -1,0 +1,163 @@
+{
+  "el-cangrejo": {
+    "hero": {
+      "url": "https://www.riandehoteles.com/assets/img/rooms/slider/biergarten2.jpg",
+      "credit_en": "Photo: BierGarten",
+      "alt_en": "Open-air beer garden with wooden picnic tables and tropical greenery in El Cangrejo, Panama City",
+      "alt_es": "Cervecería al aire libre con mesas de picnic de madera y vegetación tropical en El Cangrejo, Ciudad de Panamá",
+      "credit_url": "https://www.riandehoteles.com/en/urban/gastronomy/biergarten/"
+    },
+    "food": {
+      "venueFile": "el-cangrejo",
+      "venueSlug": "the-wallace",
+      "alt_en": "Signature dish plated at The Wallace, El Cangrejo, Panama City",
+      "alt_es": "Plato de autor en The Wallace, El Cangrejo, Ciudad de Panamá",
+      "credit_en": "Photo: The Wallace"
+    }
+  },
+  "punta-pacifica": {
+    "hero": {
+      "url": "https://cache.marriott.com/content/dam/marriott-renditions/PTYMJ/ptymj-view-2505-hor-wide.jpg",
+      "credit_en": "Photo: JW Marriott Panama",
+      "alt_en": "Aerial view of the sail-shaped JW Marriott tower and the Punta Pacifica skyline over the Pacific bay, Panama City",
+      "alt_es": "Vista aérea de la torre JW Marriott y el horizonte de Punta Pacífica sobre la bahía del Pacífico, Ciudad de Panamá",
+      "credit_url": "https://www.marriott.com/en-us/hotels/ptymj-jw-marriott-panama/overview/"
+    },
+    "food": {
+      "venueFile": "punta-pacifica",
+      "venueSlug": "burger-project-by-wahaka",
+      "alt_en": "Plated dish at Burger Project by Wahaka, Punta Pacifica, Panama City",
+      "alt_es": "Plato en Burger Project by Wahaka, Punta Pacífica, Ciudad de Panamá",
+      "credit_en": "Photo: Wahaka"
+    }
+  },
+  "clayton": {
+    "hero": {
+      "url": "https://latabernadelcanal.com/wp-content/uploads/2021/10/restaurante_taberna_del_canal_panama_10.jpg",
+      "credit_en": "Photo: La Taberna del Canal",
+      "alt_en": "Open-air patio with white tensile canopy and string lights at La Taberna del Canal, Clayton, Panama City",
+      "alt_es": "Patio al aire libre con toldo blanco y luces colgantes en La Taberna del Canal, Clayton, Ciudad de Panamá",
+      "credit_url": "https://latabernadelcanal.com/taberna-del-canal-clayton/"
+    },
+    "food": {
+      "venueFile": "clayton",
+      "venueSlug": "viva-la-pizza-clayton",
+      "alt_en": "Plated dish at Viva La Pizza, Clayton, Panama City",
+      "alt_es": "Plato en Viva La Pizza, Clayton, Ciudad de Panamá",
+      "credit_en": "Photo: Viva La Pizza"
+    }
+  },
+  "san-francisco": {
+    "hero": {
+      "url": "https://static.wixstatic.com/media/96587b_ed1fdc6388b548179bd7a531400f686f~mv2.jpg",
+      "credit_en": "Photo: Cantina del Tigre",
+      "alt_en": "Covered open-air patio with string lights and greenery at Cantina del Tigre, San Francisco, Panama City",
+      "alt_es": "Patio techado al aire libre con luces colgantes y vegetación en Cantina del Tigre, San Francisco, Ciudad de Panamá",
+      "credit_url": "https://www.cantinadeltigre.com/"
+    },
+    "food": {
+      "venueFile": "san-francisco",
+      "venueSlug": "maito-restaurante",
+      "alt_en": "Signature dish plated at Maito, San Francisco, Panama City",
+      "alt_es": "Plato de autor en Maito, San Francisco, Ciudad de Panamá",
+      "credit_en": "Photo: Maito"
+    }
+  },
+  "obarrio": {
+    "hero": {
+      "url": "https://makotopanama.com/wp-content/uploads/2024/04/DSC_2887.webp",
+      "credit_en": "Photo: Makoto",
+      "alt_en": "Marble teppanyaki counter and dining room in a warm, low-lit setting at Makoto, Obarrio, Panama City",
+      "alt_es": "Barra de teppanyaki de mármol y comedor de ambiente cálido en Makoto, Obarrio, Ciudad de Panamá",
+      "credit_url": "https://makotopanama.com/"
+    },
+    "food": {
+      "venueFile": "obarrio",
+      "venueSlug": "enkai-peruvian-japanese-cuisine-san-francisco",
+      "alt_en": "Plated dish at Enkai, Obarrio, Panama City",
+      "alt_es": "Plato en Enkai, Obarrio, Ciudad de Panamá",
+      "credit_en": "Photo: Enkai Nikkei"
+    }
+  },
+  "calidonia": {
+    "hero": {
+      "url": "https://cielopanama.com/wp-content/uploads/2024/08/Area-Cielo-3-scaled.jpeg",
+      "credit_en": "Photo: Cielo Rooftop",
+      "alt_en": "Open-air rooftop terrace with set tables overlooking the Panama City skyline at Cielo Rooftop, Calidonia",
+      "alt_es": "Terraza rooftop al aire libre con mesas dispuestas y vista al horizonte de la ciudad en Cielo Rooftop, Calidonia",
+      "credit_url": "http://www.cielopanama.com/"
+    },
+    "food": {
+      "venueFile": "calidonia",
+      "venueSlug": "osaka-toscana-rooftop-av-balboa",
+      "alt_en": "Plated dish at Osaka Toscana Rooftop, Avenida Balboa, Panama City",
+      "alt_es": "Plato en Osaka Toscana Rooftop, Avenida Balboa, Ciudad de Panamá",
+      "credit_en": "Photo: Osaka Toscana Rooftop"
+    }
+  },
+  "albrook": {
+    "hero": {
+      "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=524647099660714",
+      "position": "top",
+      "credit_en": "Photo: Palo 'e Mango Garden Spot",
+      "alt_en": "Open-air garden patio at night under a mango tree strung with festoon lights at Palo 'e Mango, Albrook, Panama City",
+      "alt_es": "Patio jardín al aire libre de noche bajo un árbol de mango con luces colgantes en Palo 'e Mango, Albrook, Ciudad de Panamá",
+      "credit_url": "https://www.facebook.com/paloemangogardenspot"
+    },
+    "food": {
+      "venueFile": "albrook",
+      "venueSlug": "leonardo-pizza",
+      "alt_en": "Plated dish at Leonardo Pizza, Albrook, Panama City",
+      "alt_es": "Plato en Leonardo Pizza, Albrook, Ciudad de Panamá",
+      "credit_en": "Photo: Leonardo"
+    }
+  },
+  "marbella": {
+    "hero": {
+      "url": "https://cache.marriott.com/content/dam/marriott-renditions/PTYAK/ptyak-terrace-0050-hor-wide.jpg?output-quality=85&interpolation=progressive-bilinear&downsize=2000px:*",
+      "credit_en": "Photo: Sortis Hotel (Autograph Collection)",
+      "alt_en": "Rooftop terrace at dusk with wood decking, loungers, and the Panama City skyline at Sortis Hotel, Marbella, Panama City",
+      "alt_es": "Terraza rooftop al atardecer con piso de madera, tumbonas y el horizonte de la ciudad en Sortis Hotel, Marbella, Ciudad de Panamá",
+      "credit_url": "https://www.sortishotel.com/"
+    },
+    "food": {
+      "venueFile": "marbella",
+      "venueSlug": "lung-fung",
+      "alt_en": "Dim sum spread at Lung Fung, Marbella, Panama City",
+      "alt_es": "Variedad de dim sum en Lung Fung, Marbella, Ciudad de Panamá",
+      "credit_en": "Photo: Palacio Lung Fung"
+    }
+  },
+  "bella-vista": {
+    "hero": {
+      "url": "https://www.laranadorada.com/cdn/shop/files/PUBS_-_VIA_ARG.webp?v=1778018122",
+      "credit_en": "Photo: La Rana Dorada",
+      "alt_en": "Open-air sidewalk terrace with orange umbrellas and patio tables at La Rana Dorada, Vía Argentina, Bella Vista, Panama City",
+      "alt_es": "Terraza al aire libre con sombrillas naranjas y mesas en La Rana Dorada, Vía Argentina, Bella Vista, Ciudad de Panamá",
+      "credit_url": "https://www.laranadorada.com/"
+    },
+    "food": {
+      "venueFile": "bella-vista",
+      "venueSlug": "la-rana-dorada",
+      "alt_en": "Plated dish at La Rana Dorada, Bella Vista, Panama City",
+      "alt_es": "Plato en La Rana Dorada, Bella Vista, Ciudad de Panamá",
+      "credit_en": "Photo: La Rana Dorada"
+    }
+  },
+  "santa-ana": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Iglesia_de_Santa_Ana_pma.jpg",
+      "credit_en": "Photo: Y.Y.Y.G. / Wikimedia Commons (CC BY 2.0)",
+      "alt_en": "The colonial Iglesia de Santa Ana and its plaza in the historic Santa Ana district, Panama City",
+      "alt_es": "La colonial Iglesia de Santa Ana y su plaza en el histórico barrio de Santa Ana, Ciudad de Panamá",
+      "credit_url": "https://commons.wikimedia.org/wiki/File:Iglesia_de_Santa_Ana_pma.jpg"
+    },
+    "food": {
+      "venueFile": "santa-ana",
+      "venueSlug": "restaurante-napoli-y-pizzeria",
+      "alt_en": "Plated dish at Napoli, Santa Ana, Panama City",
+      "alt_es": "Plato en Napoli, Santa Ana, Ciudad de Panamá",
+      "credit_en": "Photo: Napoli"
+    }
+  }
+}

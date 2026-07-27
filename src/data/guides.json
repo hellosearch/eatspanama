@@ -1,0 +1,1020 @@
+[
+ {
+  "slug": "best-brunch-panama-city",
+  "title_en": "Where to Eat Brunch in Panama City",
+  "description_en": "Twelve places for a late, slow breakfast in Panama City, chosen from every brunch room in our database and checked against their own opening hours.",
+  "updated_iso": "2026-07-21",
+  "published_iso": "2026-07-21",
+  "intro_en": "Panama City does brunch across a wide range - specialty coffee rooms in Bella Vista, courtyard kitchens in Casco Viejo, and easy family tables out in Costa del Este. We track 31 places in the city that serve a proper weekend brunch and open by 10 AM. These are the 12 we would send someone to first, spread across the neighborhoods so there is one near wherever you are staying.",
+  "criteria_en": [
+   "Every place on this list is open, and its hours were checked against the venue's own listing in July 2026.",
+   "Picks are drawn from the full set of brunch rooms in our Panama City database, not from a submissions inbox. Restaurants cannot pay to appear here.",
+   "What each kitchen is known for is summarized from public diner feedback. We do not publish star ratings or review counts.",
+   "One location per operator, so a chain with four branches does not take four slots."
+  ],
+  "pool_size": 31,
+  "candidate_total": 34,
+  "toc": [
+   {
+    "slug": "boquete-bakery-cafe",
+    "name": "Boquete Bakery Café"
+   },
+   {
+    "slug": "casa-valiente",
+    "name": "Casa Valiente"
+   },
+   {
+    "slug": "coffee-max",
+    "name": "Coffee Max"
+   },
+   {
+    "slug": "cubitt-studio-cafe",
+    "name": "Cubitt Studio Café"
+   },
+   {
+    "slug": "maru-korean-dessert-cafe",
+    "name": "Maru korean dessert cafe"
+   },
+   {
+    "slug": "pan-canela",
+    "name": "Pan & Canela"
+   },
+   {
+    "slug": "petit-paris-cde",
+    "name": "Petit Paris CDE"
+   },
+   {
+    "slug": "santino-cafe",
+    "name": "Santino Café"
+   },
+   {
+    "slug": "artisana-1984-by-quesos-chela",
+    "name": "Artisana 1984 - by Quesos Chela"
+   },
+   {
+    "slug": "cafe-lavanda",
+    "name": "Café Lavanda"
+   },
+   {
+    "slug": "duran-coffee",
+    "name": "Duran Coffee"
+   },
+   {
+    "slug": "gamboa-baking-company",
+    "name": "Gamboa Baking Company"
+   }
+  ],
+  "entries": [
+   {
+    "venue_slug": "boquete-bakery-cafe",
+    "summary_en": "Boquete Bakery Café is a cafe in the Clayton neighborhood of Panama City.",
+    "known_for_en": [
+     "Generous, hearty breakfast range spanning Panamanian, Zonian, and Venezuelan plates",
+     "Coffee sourced from Boquete alongside fresh-baked bakery items and bagels",
+     "Practical, family-friendly Fort Clayton spot with parking and delivery"
+    ],
+    "best_time_en": "Mornings for the full breakfast and bakery selection",
+    "order_dish": {
+     "name": "Zonian breakfast",
+     "price": 10
+    },
+    "best_time_es": "Mañanas para el desayuno completo y la selección de panadería",
+    "summary_es": "Boquete Bakery Café es una cafetería en el barrio de Clayton, en Panama City.",
+    "known_for_es": [
+     "Amplia y generosa oferta de desayunos que abarca platos panameños, zoneítas y venezolanos",
+     "Café originario de Boquete junto a productos de panadería recién horneados y bagels",
+     "Local práctico y familiar en Fort Clayton, con parqueo y servicio a domicilio"
+    ]
+   },
+   {
+    "venue_slug": "casa-valiente",
+    "summary_en": "Casa Valiente is a cafe in the El Cangrejo neighborhood of Panama City.",
+    "known_for_en": [
+     "Spacious, comfortable space that works well for lingering or remote work",
+     "Several distinct settings, including an outdoor terrace and a game area",
+     "All-day brunch plus Panamanian breakfast plates"
+    ],
+    "best_time_en": "Daytime for brunch and remote work",
+    "order_dish": {
+     "name": "Happy Tower",
+     "price": 7.5
+    },
+    "best_time_es": "Durante el día para brunch y trabajo remoto",
+    "summary_es": "Casa Valiente es una cafetería en el barrio de El Cangrejo, en Panama City.",
+    "known_for_es": [
+     "Espacio amplio y cómodo, ideal para quedarse un rato o trabajar de forma remota",
+     "Varios ambientes distintos, incluyendo una terraza al aire libre y una zona de juegos",
+     "Brunch todo el día más platos de desayuno panameño"
+    ]
+   },
+   {
+    "venue_slug": "coffee-max",
+    "summary_en": "Coffee Max is a cafe in the Paitilla neighborhood of Panama City.",
+    "known_for_en": [
+     "Broad menu spanning breakfast, sandwiches and grilled mains",
+     "Italian-style coffee",
+     "Generous portions"
+    ],
+    "best_time_en": "Open 7:30am-10:30pm daily; good for breakfast or a long lunch",
+    "order_dish": {
+     "name": "Salmon Teriyaki a la parrilla",
+     "price": 24.5
+    },
+    "best_time_es": "Abierto de 7:30am a 10:30pm todos los días; ideal para desayunar o para un almuerzo largo",
+    "summary_es": "Coffee Max es una cafetería en el barrio de Paitilla, en Panama City.",
+    "known_for_es": [
+     "Menú amplio que va desde desayunos hasta sándwiches y platos a la parrilla",
+     "Café de estilo italiano",
+     "Porciones generosas"
+    ]
+   },
+   {
+    "venue_slug": "cubitt-studio-cafe",
+    "summary_en": "Cubitt Studio Café is a cafe in the Obarrio neighborhood of Panama City.",
+    "known_for_en": [
+     "Genuine specialty-coffee focus with a signature iced-latte lineup",
+     "Healthy, design-forward menu of smoothies, bowls and sandwiches",
+     "Calm, wellness-oriented space that suits slow mornings"
+    ],
+    "best_time_en": "Mornings and daytime for coffee, smoothies and light plates",
+    "order_dish": {
+     "name": "Unemployed Coffee",
+     "price": 5.5
+    },
+    "best_time_es": "Mañanas y durante el día para café, batidos y platos ligeros",
+    "summary_es": "Cubitt Studio Café es una cafetería en el barrio de Obarrio, en Panama City.",
+    "known_for_es": [
+     "Enfoque genuino en café de especialidad, con una línea propia de lattes helados",
+     "Menú saludable y con estilo, que incluye smoothies, bowls y sándwiches",
+     "Espacio tranquilo y orientado al bienestar, perfecto para mañanas pausadas"
+    ]
+   },
+   {
+    "venue_slug": "maru-korean-dessert-cafe",
+    "summary_en": "Maru korean dessert cafe is a Korean cafe in the Bella Vista neighborhood of Panama City.",
+    "known_for_en": [
+     "Korean shaved-ice bingsu and fish-shaped sweet breads",
+     "Specialty Korean-style cream and sesame lattes",
+     "Small, cozy dessert-and-coffee cafe"
+    ],
+    "best_time_en": "Afternoon, for dessert and coffee",
+    "order_dish": {
+     "name": "Iced Seoul Latte",
+     "price": 5
+    },
+    "best_time_es": "Por la tarde, para postre y café",
+    "summary_es": "Maru korean dessert cafe es una cafetería coreana en el barrio de Bella Vista, en Panama City.",
+    "known_for_es": [
+     "Bingsu de hielo raspado coreano y panes dulces en forma de pez",
+     "Lattes de especialidad al estilo coreano, con crema y sésamo",
+     "Cafetería pequeña y acogedora, enfocada en postres y café"
+    ]
+   },
+   {
+    "venue_slug": "pan-canela",
+    "summary_en": "Pan & Canela is a cafe in the Clayton neighborhood of Panama City.",
+    "known_for_en": [
+     "Genuine artisan-bakery credentials (in-house sourdough, cinnamon rolls, guava pastries)",
+     "Relaxed tropical-garden setting suited to lingering over breakfast or brunch",
+     "Long-running, well-established local institution with a broad all-day menu"
+    ],
+    "best_time_en": "Mornings and midday for breakfast, brunch, and fresh bakery",
+    "order_dish": {
+     "name": "Desayuno patrio",
+     "price": 7
+    },
+    "best_time_es": "Mañanas y mediodía para desayuno, brunch y panadería fresca",
+    "summary_es": "Pan & Canela es una cafetería en el barrio de Clayton, en Panama City.",
+    "known_for_es": [
+     "Credenciales genuinas de panadería artesanal (masa madre casera, rollos de canela, pastelitos de guayaba)",
+     "Ambiente relajado de jardín tropical, ideal para disfrutar sin prisa el desayuno o el brunch",
+     "Institución local de larga trayectoria, bien establecida, con un amplio menú disponible todo el día"
+    ]
+   },
+   {
+    "venue_slug": "petit-paris-cde",
+    "summary_en": "Petit Paris CDE is a French bakery in the Costa del Este neighborhood of Panama City.",
+    "known_for_en": [
+     "Genuine French bakery and patisserie counter (breads, croissants, cakes)",
+     "Full French-bistro menu for breakfast through dinner, not just coffee and pastry",
+     "Warm, Parisian-styled room with a terrace"
+    ],
+    "best_time_en": "Mornings for bakery and breakfast; evenings for the bistro menu",
+    "order_dish": {
+     "name": "Pain au levain (sourdough)",
+     "price": 9.5
+    },
+    "best_time_es": "Mañanas para panadería y desayuno; noches para el menú de bistró",
+    "summary_es": "Petit Paris CDE es una panadería francesa en el barrio de Costa del Este, en Panama City.",
+    "known_for_es": [
+     "Auténtico mostrador de panadería y pastelería francesa (panes, croissants, pasteles)",
+     "Menú completo de bistró francés desde el desayuno hasta la cena, no solo café y repostería",
+     "Ambiente cálido y con aires parisinos, con terraza"
+    ]
+   },
+   {
+    "venue_slug": "santino-cafe",
+    "summary_en": "Santino Café is a cafe in the Bella Vista neighborhood of Panama City.",
+    "known_for_en": [
+     "Hearty, good-value breakfasts and signature sandwiches",
+     "Reliable weekday cafe for the surrounding office district",
+     "Salads and daily soup round out a simple, well-liked menu"
+    ],
+    "best_time_en": "Weekday breakfast and lunch",
+    "order_dish": {
+     "name": "Sandwich Santino",
+     "price": 5.75
+    },
+    "best_time_es": "Desayuno y almuerzo en días de semana",
+    "summary_es": "Santino Café es una cafetería en el barrio de Bella Vista, en Panama City.",
+    "known_for_es": [
+     "Desayunos abundantes y de buen precio, además de sándwiches característicos",
+     "Cafetería confiable para los días de semana en la zona de oficinas cercana",
+     "Ensaladas y sopa del día completan un menú sencillo y muy querido"
+    ]
+   },
+   {
+    "venue_slug": "artisana-1984-by-quesos-chela",
+    "summary_en": "Artisana 1984 - by Quesos Chela is a cafe in the El Cangrejo neighborhood of Panama City.",
+    "known_for_en": [
+     "Genuine artisanal-cheese pedigree tied to the Quesos Chela brand",
+     "All-day breakfast plus a rotating criollo lunch, with good value for the money",
+     "Welcoming, cozy room and attentive service"
+    ],
+    "best_time_en": "Mornings and midday for the all-day breakfast and daily lunch plates",
+    "best_time_es": "Mañanas y mediodía para el desayuno de todo el día y los platos de almuerzo diarios",
+    "summary_es": "Artisana 1984 - by Quesos Chela es una cafetería en el barrio de El Cangrejo, en Panama City.",
+    "known_for_es": [
+     "Auténtica trayectoria de quesos artesanales, vinculada a la marca Quesos Chela",
+     "Desayuno disponible todo el día, más un almuerzo criollo que cambia a diario, con muy buena relación calidad-precio",
+     "Ambiente acogedor y cálido, con servicio atento"
+    ]
+   },
+   {
+    "venue_slug": "cafe-lavanda",
+    "summary_en": "Café Lavanda is a cafe in the Obarrio neighborhood of Panama City.",
+    "known_for_en": [
+     "All-day brunch with a strong pastry and dessert program",
+     "Bottomless mimosas and lavender-infused coffee",
+     "Bright, floral, photogenic room"
+    ],
+    "best_time_en": "Weekend mornings for brunch and bottomless mimosas.",
+    "order_dish": {
+     "name": "Croque madame",
+     "price": 10
+    },
+    "best_time_es": "Mañanas de fin de semana para brunch y mimosas sin límite.",
+    "summary_es": "Café Lavanda es una cafetería en el barrio de Obarrio, en la Ciudad de Panamá.",
+    "known_for_es": [
+     "Brunch todo el día con una fuerte propuesta de repostería y postres",
+     "Mimosas libres y café con infusión de lavanda",
+     "Espacio luminoso, floral y muy fotogénico"
+    ]
+   },
+   {
+    "venue_slug": "duran-coffee",
+    "summary_en": "Duran Coffee is a cafe in the Albrook neighborhood of Panama City.",
+    "known_for_en": [
+     "Wide range of hot and cold coffee drinks plus specialty flavored lattes.",
+     "Fresh pastry case pairing sweet baked goods with savory meat-and-cheese options.",
+     "Convenient mall-food-court stop for a quick coffee-and-pastry break."
+    ],
+    "best_time_en": "Daytime, for coffee and a pastry",
+    "best_time_es": "Durante el día, para café y repostería",
+    "summary_es": "Duran Coffee es una cafetería en el barrio de Albrook, en la Ciudad de Panamá.",
+    "known_for_es": [
+     "Amplia variedad de bebidas de café frías y calientes, además de lattes con sabores especiales.",
+     "Vitrina de repostería fresca que combina productos horneados dulces con opciones saladas de carne y queso.",
+     "Parada práctica en el food court del mall para un café y algo de repostería rápido."
+    ]
+   },
+   {
+    "venue_slug": "gamboa-baking-company",
+    "summary_en": "Gamboa Baking Company is a cafe in the Clayton neighborhood of Panama City.",
+    "known_for_en": [
+     "Artisan long-fermented breads and pastries",
+     "US-trained baker (Brian Winz) with a craft focus",
+     "Relaxed City of Knowledge cafe with indoor seating and picnic tables outside"
+    ],
+    "best_time_en": "Open daily from 7:00am (Mon to about 5:30pm; Tue-Thu and Sun to 9:00pm; Fri-Sat to 11:00pm); best for breakfast and fresh morning bread",
+    "best_time_es": "Abierto todos los días desde las 7:00am (lunes hasta cerca de las 5:30pm; martes a jueves y domingo hasta las 9:00pm; viernes y sábado hasta las 11:00pm); ideal para desayunar y probar el pan recién horneado",
+    "summary_es": "Gamboa Baking Company es una cafetería en el barrio de Clayton, en la Ciudad de Panamá.",
+    "known_for_es": [
+     "Panes y repostería artesanal de fermentación larga",
+     "Panadero formado en EE. UU. (Brian Winz) con enfoque artesanal",
+     "Cafetería relajada en City of Knowledge, con mesas adentro y mesas de picnic afuera"
+    ]
+   }
+  ],
+  "faqs_en": [
+   {
+    "q": "What time does brunch start in Panama City?",
+    "a": "Most kitchens on this list open between 7 and 9 AM on weekends, and the brunch menu usually runs until early afternoon. Weekend late morning is the busiest window in Casco Viejo and Bella Vista, so arriving before 10 AM is the reliable move.",
+    "q_es": "¿A qué hora empieza el brunch en Ciudad de Panamá?",
+    "a_es": "La mayoría de las cocinas de esta lista abren entre las 7 y las 9 AM los fines de semana, y el menú de brunch suele extenderse hasta inicios de la tarde. La franja de mayor movimiento es la media mañana del fin de semana en Casco Viejo y Bella Vista, así que llegar antes de las 10 AM es lo más seguro."
+   },
+   {
+    "q": "Which neighborhood has the most brunch options?",
+    "a": "Across the 31 brunch rooms we track in Panama City, El Cangrejo, Bella Vista and Casco Viejo carry the most options. Casco Viejo has the highest concentration within walking distance; Costa del Este is the easiest for parking and family tables.",
+    "q_es": "¿Qué barrio tiene más opciones de brunch?",
+    "a_es": "De las 31 salas de brunch que seguimos en Ciudad de Panamá, El Cangrejo, Bella Vista y Casco Viejo concentran la mayor cantidad de opciones. Casco Viejo tiene la mayor densidad a poca distancia caminando; Costa del Este es lo más práctico para estacionar y para mesas familiares."
+   },
+   {
+    "q": "How were these places chosen?",
+    "a": "They were selected from our database of every open restaurant in Panama City, filtered to places that serve brunch and open by 10 AM, then ordered by how completely we can verify them - hours, menu, and what diners consistently single out. No restaurant paid for a place on this list.",
+    "q_es": "¿Cómo se eligieron estos lugares?",
+    "a_es": "Se seleccionaron de nuestra base de datos de todos los restaurantes abiertos en Ciudad de Panamá, filtrados por los que ofrecen brunch y abren antes de las 10 AM, y luego ordenados según qué tan bien podemos verificarlos: horarios, menú y lo que los comensales destacan de forma constante. Ningún restaurante pagó por aparecer en esta lista."
+   }
+  ],
+  "hero": {
+   "url": "/venues/petit-paris-cde-hero.jpg",
+   "alt_en": "French toast, bacon and a mimosa at Petit Paris, Costa del Este, Panama City",
+   "alt_es": "Tostadas francesas, tocino y mimosa en Petit Paris, Costa del Este, Ciudad de Panama",
+   "credit_en": "Photo: @petitparispty",
+   "credit_url": "https://www.instagram.com/petitparispty/",
+   "venue_slug": "petit-paris-cde",
+   "venue_name": "Petit Paris CDE"
+  },
+  "title_es": "Dónde comer brunch en Ciudad de Panamá",
+  "description_es": "Doce lugares para un desayuno tardío y sin prisas en Ciudad de Panamá, elegidos entre todas las salas de brunch de nuestra base de datos y verificados según sus propios horarios de apertura.",
+  "intro_es": "En Ciudad de Panamá el brunch se vive de muchas formas: salas de café de especialidad en Bella Vista, cocinas con patio en Casco Viejo y mesas familiares sin complicaciones en Costa del Este. Seguimos 31 lugares en la ciudad que ofrecen un brunch en regla y abren antes de las 10 AM. Estos son los 12 a los que enviaríamos a alguien primero, repartidos por los barrios para que siempre haya uno cerca de donde te estés quedando.",
+  "criteria_es": [
+   "Todos los lugares de esta lista están abiertos, y sus horarios fueron verificados contra la información oficial de cada local en julio de 2026.",
+   "Las selecciones provienen del conjunto completo de espacios de brunch en nuestra base de datos de Panama City, no de una bandeja de sugerencias. Los restaurantes no pueden pagar para aparecer aquí.",
+   "Lo que distingue a cada cocina se resume a partir de comentarios públicos de comensales. No publicamos calificaciones por estrellas ni número de reseñas.",
+   "Un solo local por operador, así que una cadena con cuatro sucursales no ocupa cuatro espacios."
+  ]
+ },
+ {
+  "slug": "best-coffee-panama-city",
+  "title_en": "Specialty Coffee in Panama City: Where to Drink It",
+  "description_en": "Panama grows some of the most expensive coffee on earth. These are the rooms in the capital that treat it properly.",
+  "updated_iso": "2026-07-21",
+  "published_iso": "2026-07-21",
+  "intro_en": "Panama produces Geisha, the most expensive coffee varietal in the world, and most of it leaves the country. The capital has a growing set of rooms that keep some of it here and pour it as filter rather than burying it in milk. We track 72 specialty coffee rooms in Panama City; these 12 are the ones worth planning a morning around.",
+  "criteria_en": [
+   "Every place on this list is open, and its hours were checked against the venue's own listing in July 2026.",
+   "Selected from the specialty coffee rooms in our Panama City database. Restaurants and cafes cannot pay to appear here.",
+   "What each room is known for is summarized from public diner feedback. We do not publish star ratings or review counts.",
+   "One location per operator."
+  ],
+  "pool_size": 72,
+  "candidate_total": 74,
+  "toc": [
+   {
+    "slug": "luna-cafe",
+    "name": "Luna Café"
+   },
+   {
+    "slug": "amara-coffee-flowers",
+    "name": "AMARA coffee & flowers"
+   },
+   {
+    "slug": "sisu-coffee-studio-mallol-design-house",
+    "name": "Sisu Coffee Studio [Mallol Design House]"
+   },
+   {
+    "slug": "annie-motts-eating-house",
+    "name": "Annie & Motts Eating House"
+   },
+   {
+    "slug": "bungla-coffee-house-obarrio",
+    "name": "Bungla Coffee House"
+   },
+   {
+    "slug": "cabrera-coffee-brew-house-via-argentina",
+    "name": "Cabrera Coffee Brew House / Vía Argentina"
+   },
+   {
+    "slug": "cafe-unido-via-argentina",
+    "name": "Cafe Unido Via Argentina"
+   },
+   {
+    "slug": "casi-cielo-brunch-coffee",
+    "name": "Casi Cielo Brunch & Coffee"
+   },
+   {
+    "slug": "cooking-mamma-bakery-san-francisco",
+    "name": "Cooking Mamma Bakery San Francisco"
+   },
+   {
+    "slug": "geisha-negra",
+    "name": "Geisha Negra"
+   },
+   {
+    "slug": "la-vasquita-tartas-vascas-specialty-coffee-brunch-casco-viejo",
+    "name": "La Vasquita – Tartas Vascas, Specialty Coffee & Brunch"
+   },
+   {
+    "slug": "leto-coffee-brew-bar-costa-del-este",
+    "name": "Leto Coffee Brew Bar"
+   }
+  ],
+  "entries": [
+   {
+    "venue_slug": "luna-cafe",
+    "summary_en": "Luna Café is a small specialty coffee shop on Calle 50 in Bella Vista, on the ground floor of Edificio The Gray. Specialty coffee, matcha and protein smoothies run beside artisan bagels, toasts and breakfasts. It is a daytime room only, closing mid-afternoon, and it shuts on Tuesdays.",
+    "known_for_en": [
+     "The cured-salmon everything-bagel is the plate regulars come back for.",
+     "A short bakery counter does real work - bagels, toasts and pastries that sell out early.",
+     "Calm, unhurried room that suits a slow breakfast rather than a quick takeaway."
+    ],
+    "best_time_en": "Open from 8am and closed by 4:30pm, so it is a breakfast-to-mid-afternoon stop. Closed Tuesdays.",
+    "best_time_es": "Abre a las 8am y cierra a las 4:30pm, así que funciona como parada de desayuno hasta media tarde. Cerrado los martes.",
+    "summary_es": "Luna Café es una pequeña cafetería de especialidad en la Calle 50, en Bella Vista, en la planta baja del Edificio The Gray. El café de especialidad, el matcha y los smoothies de proteína conviven con bagels artesanales, toasts y desayunos. Es un espacio que funciona solo de día, cierra a media tarde y no abre los martes.",
+    "known_for_es": [
+     "El bagel everything con salmón curado es el plato al que los clientes fijos siempre regresan.",
+     "Una pequeña barra de panadería hace un trabajo serio: bagels, toasts y repostería que se agotan temprano.",
+     "Espacio tranquilo y sin apuros, ideal para un desayuno lento en vez de algo para llevar."
+    ]
+   },
+   {
+    "venue_slug": "amara-coffee-flowers",
+    "summary_en": "AMARA coffee & flowers is a cafe in the Bella Vista neighborhood of Panama City.",
+    "known_for_en": [
+     "Distinctive coffee-plus-flowers concept",
+     "Signature specialty drinks such as the Pink Coffee",
+     "Central Bella Vista spot near the Cinta Costera, with bike rental on site"
+    ],
+    "best_time_en": "Mornings for coffee; daytime if pairing with a bike rental along the Cinta Costera",
+    "order_dish": {
+     "name": "Pink Coffee",
+     "price": 4.25
+    },
+    "best_time_es": "Mañanas para café; durante el día si lo combinas con una renta de bicicleta en la Cinta Costera",
+    "summary_es": "AMARA coffee & flowers es una cafetería en el barrio de Bella Vista, en la Ciudad de Panamá.",
+    "known_for_es": [
+     "Concepto original que combina café y flores",
+     "Bebidas de especialidad exclusivas como el Pink Coffee",
+     "Ubicado en el centro de Bella Vista, cerca de la Cinta Costera, con alquiler de bicicletas en el mismo lugar"
+    ]
+   },
+   {
+    "venue_slug": "sisu-coffee-studio-mallol-design-house",
+    "summary_en": "Sisu Coffee Studio [Mallol Design House] is a cafe in the Bella Vista neighborhood of Panama City.",
+    "known_for_en": [
+     "Coffee treated like fine wine, with careful sourcing, roasting and brewing of estate-grown Geisha beans.",
+     "Bright, minimalist Scandinavian-inspired space that suits a slow, unhurried visit.",
+     "A rare chance to taste world-class Panama Geisha at the source, with staff who explain the coffee."
+    ],
+    "best_time_en": "A quiet weekday morning for the slow-bar coffee experience",
+    "order_dish": {
+     "name": "Panama Geisha coffee",
+     "price": 10
+    },
+    "best_time_es": "Una mañana tranquila de semana para la experiencia del slow-bar de café",
+    "summary_es": "Sisu Coffee Studio [Mallol Design House] es una cafetería en el barrio de Bella Vista, en la Ciudad de Panamá.",
+    "known_for_es": [
+     "Café tratado como un vino fino, con selección, tostado y preparación cuidadosos de granos Geisha cultivados en finca propia.",
+     "Espacio luminoso y minimalista de inspiración escandinava, ideal para una visita sin prisas.",
+     "Una oportunidad poco común de probar el Geisha panameño de talla mundial desde la fuente, con personal que explica cada café."
+    ]
+   },
+   {
+    "venue_slug": "annie-motts-eating-house",
+    "summary_en": "Annie & Motts Eating House is an International restaurant in the El Cangrejo neighborhood of Panama City.",
+    "known_for_en": [
+     "Cozy, homey brunch spot with friendly service",
+     "Well-regarded coffee and homemade desserts",
+     "Homestyle Panamanian and international breakfast and lunch"
+    ],
+    "best_time_en": "Breakfast or brunch",
+    "best_time_es": "Desayuno o brunch",
+    "summary_es": "Annie & Motts Eating House es un restaurante internacional en el barrio de El Cangrejo, en la Ciudad de Panamá.",
+    "known_for_es": [
+     "Lugar acogedor y hogareño para el brunch, con servicio amable",
+     "Café y postres caseros muy bien valorados",
+     "Desayuno y almuerzo casero, panameño e internacional"
+    ]
+   },
+   {
+    "venue_slug": "bungla-coffee-house-obarrio",
+    "summary_en": "Bungla Coffee House is a cafe in the Obarrio neighborhood of Panama City.",
+    "known_for_en": [
+     "Serious specialty coffee, including Boquete single-origin and Geisha",
+     "Popular scone-and-coffee pairing",
+     "Comfortable, relaxed room noted as good value"
+    ],
+    "best_time_en": "Mornings and midday for coffee and all-day brunch",
+    "best_time_es": "Mañanas y mediodía para café y brunch todo el día",
+    "summary_es": "Bungla Coffee House es una cafetería en el barrio de Obarrio, en la Ciudad de Panamá.",
+    "known_for_es": [
+     "Café de especialidad de verdad, con opciones de origen único de Boquete y Geisha",
+     "El popular combo de scone con café",
+     "Espacio cómodo y relajado, reconocido por su buena relación calidad-precio"
+    ]
+   },
+   {
+    "venue_slug": "cabrera-coffee-brew-house-via-argentina",
+    "summary_en": "Cabrera Coffee Brew House / Vía Argentina is a cafe in the El Cangrejo neighborhood of Panama City.",
+    "known_for_en": [
+     "Serious specialty-coffee and in-house roasting credentials",
+     "All-day brunch with waffles, gourmet toasts, and house-baked bread",
+     "Climate-controlled cafe plus an open terrace, with street parking"
+    ],
+    "best_time_en": "Mornings and midday for coffee and brunch",
+    "best_time_es": "Mañanas y mediodía para café y brunch",
+    "summary_es": "Cabrera Coffee Brew House / Vía Argentina es una cafetería en el barrio de El Cangrejo, en la Ciudad de Panamá.",
+    "known_for_es": [
+     "Credenciales sólidas en café de especialidad y tostado propio",
+     "Brunch todo el día con waffles, toasts gourmet y pan horneado en casa",
+     "Cafetería con aire acondicionado y terraza abierta, con estacionamiento en la calle"
+    ]
+   },
+   {
+    "venue_slug": "cafe-unido-via-argentina",
+    "summary_en": "Cafe Unido Via Argentina is a cafe in the El Cangrejo neighborhood of Panama City.",
+    "known_for_en": [
+     "Serious direct-trade, third-wave coffee program sourced from Panamanian farms",
+     "Large, comfortable space suited to working, meeting, or lingering",
+     "Unusual mixed-use building with a sushi bar, barber, and dance studio on site"
+    ],
+    "best_time_en": "Mornings and daytime for coffee and breakfast or quiet work sessions",
+    "best_time_es": "Mañanas y durante el día para café y desayuno, o para sesiones tranquilas de trabajo",
+    "summary_es": "Cafe Unido Via Argentina es un cafe en el barrio El Cangrejo de la Ciudad de Panama.",
+    "known_for_es": [
+     "Un programa serio de cafe de tercera ola y comercio directo, con granos provenientes de fincas panameñas",
+     "Espacio amplio y comodo, ideal para trabajar, reunirse o quedarse un rato",
+     "Un edificio de uso mixto poco comun, con barra de sushi, barberia y estudio de baile en el mismo lugar"
+    ]
+   },
+   {
+    "venue_slug": "casi-cielo-brunch-coffee",
+    "summary_en": "Casi Cielo Brunch & Coffee is a cafe in the Albrook neighborhood of Panama City.",
+    "known_for_en": [
+     "Made-to-order brunch with careful plating",
+     "Small, friendly neighborhood cafe",
+     "Weekday set-lunch option"
+    ],
+    "best_time_en": "Breakfast or brunch",
+    "best_time_es": "Desayuno o brunch",
+    "summary_es": "Casi Cielo Brunch & Coffee es un cafe en el barrio Albrook de la Ciudad de Panama.",
+    "known_for_es": [
+     "Brunch preparado al momento y con una presentacion cuidada",
+     "Cafe de barrio pequeño y acogedor",
+     "Opcion de menu fijo entre semana"
+    ]
+   },
+   {
+    "venue_slug": "cooking-mamma-bakery-san-francisco",
+    "summary_en": "Cooking Mamma Bakery San Francisco is a cafe in the Obarrio neighborhood of Panama City.",
+    "known_for_en": [
+     "Panama-grown specialty coffee (Chiriqui Highlands / Boquete)",
+     "Standout donuts and pastries (pistachio and Nutella donuts get named repeatedly)",
+     "A well-liked expat brunch spot with a broad menu (brunch, salads, sandwiches, kids)"
+    ],
+    "best_time_en": "Breakfast and brunch (San Francisco open Mon-Sat 8am-6pm, Sun 8am-5pm)",
+    "best_time_es": "Desayuno y brunch (San Francisco abre lunes a sábado de 8am a 6pm, domingo de 8am a 5pm)",
+    "summary_es": "Cooking Mamma Bakery San Francisco es un cafe en el barrio Obarrio de la Ciudad de Panama.",
+    "known_for_es": [
+     "Cafe especial cultivado en Panama (Tierras Altas de Chiriqui / Boquete)",
+     "Donas y reposteria destacadas (las donas de pistacho y Nutella son las mas mencionadas)",
+     "Un lugar de brunch muy querido por los expatriados, con un menu amplio (brunch, ensaladas, sandwiches, opciones para niños)"
+    ]
+   },
+   {
+    "venue_slug": "geisha-negra",
+    "summary_en": "Geisha Negra is a Cafe restaurant in the Amador neighborhood of Panama City.",
+    "known_for_en": [
+     "Inventive, unexpected flavor combinations that diners say work well",
+     "Fresh, carefully made sushi and cocktails",
+     "Intimate open-air waterfront food-court setting"
+    ],
+    "best_time_en": "Evenings for dinner, sushi, and cocktails (closed Tuesdays)",
+    "best_time_es": "Noches para cenar, sushi y cocteles (cerrado los martes)",
+    "summary_es": "Geisha Negra es un restaurante Cafe en el barrio Amador de la Ciudad de Panama.",
+    "known_for_es": [
+     "Combinaciones de sabores creativas e inesperadas que, según los comensales, funcionan muy bien",
+     "Sushi y cocteles frescos y bien elaborados",
+     "Un ambiente intimo al aire libre, tipo food-court frente al mar"
+    ]
+   },
+   {
+    "venue_slug": "la-vasquita-tartas-vascas-specialty-coffee-brunch-casco-viejo",
+    "summary_en": "La Vasquita – Tartas Vascas, Specialty Coffee & Brunch is a cafe in the Casco Viejo neighborhood of Panama City.",
+    "known_for_en": [
+     "The Basque cheesecake is the standout - creamy texture, widely rated among Panama's best.",
+     "Pistachio and dulce de leche versions are singled out.",
+     "Specialty Panamanian coffee program."
+    ],
+    "best_time_en": "Morning or brunch, the shop's emphasis.",
+    "order_dish": {
+     "name": "Tarta Vasca Clasica",
+     "price": 12
+    },
+    "best_time_es": "Mañana o brunch, el fuerte de este local.",
+    "summary_es": "La Vasquita - Tartas Vascas, Specialty Coffee & Brunch es un cafe en el barrio Casco Viejo de la Ciudad de Panama.",
+    "known_for_es": [
+     "La tarta de queso vasca es la estrella: de textura cremosa, considerada entre las mejores de Panama.",
+     "Las versiones de pistacho y dulce de leche son las mas recomendadas.",
+     "Programa de cafe especial panameño."
+    ]
+   },
+   {
+    "venue_slug": "leto-coffee-brew-bar-costa-del-este",
+    "summary_en": "Leto Coffee Brew Bar is a cafe in the Costa del Este neighborhood of Panama City.",
+    "known_for_en": [
+     "Serious specialty-coffee program with its own farm and in-house roasting",
+     "Pour-overs and signature drinks singled out as among the city's best",
+     "Relaxed, friendly atmosphere with knowledgeable baristas"
+    ],
+    "best_time_en": "Mornings and daytime for coffee",
+    "best_time_es": "Mañanas y durante el día para café",
+    "summary_es": "Leto Coffee Brew Bar es un cafe en el barrio Costa del Este de la Ciudad de Panama.",
+    "known_for_es": [
+     "Un programa serio de cafe especial, con finca propia y tostado en casa",
+     "Sus pour-overs y bebidas de la casa se cuentan entre los mejores de la ciudad",
+     "Ambiente relajado y amigable, con baristas que saben lo que hacen"
+    ]
+   }
+  ],
+  "faqs_en": [
+   {
+    "q": "Can you drink Geisha coffee in Panama City?",
+    "a": "Yes. Several specialty rooms in the capital pour Panamanian Geisha as filter coffee by the cup, usually at a premium over the house pour. It is the single thing most worth ordering in a Panama City coffee room, because it is far harder to find abroad.",
+    "q_es": "¿Se puede tomar café Geisha en Ciudad de Panamá?",
+    "a_es": "Sí. Varias salas de especialidad en la capital sirven Geisha panameño como café filtrado por taza, casi siempre a un precio superior al café de la casa. Es lo que más vale la pena pedir en una sala de café de Ciudad de Panamá, porque es mucho más difícil de encontrar fuera del país."
+   },
+   {
+    "q": "Where is the specialty coffee scene concentrated?",
+    "a": "Of the 72 specialty rooms we track, Bella Vista, El Cangrejo and Casco Viejo hold the densest cluster. Casco Viejo rooms tend to be smaller and busier with visitors; Bella Vista and El Cangrejo skew toward regulars and laptops.",
+    "q_es": "¿Donde se concentra la escena del cafe especial?",
+    "a_es": "De los 72 locales de cafe especial que seguimos, Bella Vista, El Cangrejo y Casco Viejo forman el grupo mas denso. Los locales de Casco Viejo suelen ser mas pequeños y concurridos por visitantes; Bella Vista y El Cangrejo atraen mas a clientes habituales y gente con laptop."
+   },
+   {
+    "q": "Are these cafes good for working?",
+    "a": "Some are, some deliberately are not. Where a room is known for being work-friendly we say so in its entry, and the full listing pages carry a work-friendly filter you can use directly.",
+    "q_es": "¿Son buenos estos cafes para trabajar?",
+    "a_es": "Algunos si, otros deliberadamente no. Cuando un local es conocido por ser bueno para trabajar, lo decimos en su ficha, y las paginas de listado completo tienen un filtro para eso que puedes usar directamente."
+   }
+  ],
+  "hero": {
+   "url": "/venues/amara-coffee-flowers.jpg",
+   "alt_en": "Cappuccino with latte art at AMARA Coffee & Flowers, Bella Vista, Panama City",
+   "alt_es": "Capuchino con arte latte en AMARA Coffee & Flowers, Bella Vista, Ciudad de Panama",
+   "credit_en": "Photo: @amarapanama",
+   "credit_url": "https://www.instagram.com/amarapanama/",
+   "venue_slug": "amara-coffee-flowers",
+   "venue_name": "AMARA coffee & flowers"
+  },
+  "title_es": "Café de especialidad en Ciudad de Panamá: dónde tomarlo",
+  "description_es": "Panamá produce uno de los cafés más caros del mundo. Estas son las salas de la capital que lo tratan como se debe.",
+  "intro_es": "Panamá produce Geisha, la variedad de café más cara del mundo, y la mayor parte sale del país. La capital tiene un número creciente de salas que se quedan con algo de ese café y lo sirven como filtrado en lugar de esconderlo bajo leche. Seguimos 72 salas de café de especialidad en Ciudad de Panamá; estas 12 son las que vale la pena planear una mañana alrededor de ellas.",
+  "criteria_es": [
+   "Todos los lugares de esta lista están abiertos, y su horario fue verificado con el listado propio de cada local en julio de 2026.",
+   "Seleccionados entre los espacios de café de especialidad de nuestra base de datos de la Ciudad de Panamá. Los restaurantes y cafeterías no pueden pagar para aparecer aquí.",
+   "Lo que distingue a cada espacio se resume a partir de comentarios públicos de comensales. No publicamos calificaciones con estrellas ni número de reseñas.",
+   "Un solo local por operador."
+  ]
+ },
+ {
+  "slug": "best-dinners-casco-viejo",
+  "title_en": "Where to Have Dinner in Casco Viejo",
+  "description_en": "Casco Viejo has the highest concentration of dinner tables in Panama City. Twelve of them, from the restored plazas to the quiet side streets.",
+  "updated_iso": "2026-07-21",
+  "published_iso": "2026-07-21",
+  "intro_en": "Casco Viejo is the old walled quarter, and after dark it is the densest dining neighborhood in Panama City - you can walk between most of these in under ten minutes. We track 81 restaurants here that serve dinner past 9 PM. These 12 cover the range, from Panamanian kitchens to the Italian and seafood rooms that have moved in around them.",
+  "criteria_en": [
+   "Every place on this list is open, and its hours were checked against the venue's own listing in July 2026.",
+   "Selected from every Casco Viejo restaurant in our database that serves dinner past 9 PM. Restaurants cannot pay to appear here.",
+   "What each kitchen is known for is summarized from public diner feedback. We do not publish star ratings or review counts.",
+   "One location per operator."
+  ],
+  "pool_size": 81,
+  "candidate_total": 101,
+  "toc": [
+   {
+    "slug": "beauty-and-the-butcher-casco-viejo",
+    "name": "Beauty and the Butcher - Casco Viejo"
+   },
+   {
+    "slug": "afrodisiaco-italian-modern-kitchen",
+    "name": "Afrodisíaco Italian Modern Kitchen"
+   },
+   {
+    "slug": "aya-la-vida-restaurante",
+    "name": "Aya la Vida Restaurante"
+   },
+   {
+    "slug": "bruma-seafood-wine",
+    "name": "Bruma Seafood & Wine"
+   },
+   {
+    "slug": "casacasco",
+    "name": "CasaCasco"
+   },
+   {
+    "slug": "coliseum-roma-panama",
+    "name": "Coliseum Roma Panamá"
+   },
+   {
+    "slug": "en-la-fonda-panama",
+    "name": "En La Fonda, Panamá"
+   },
+   {
+    "slug": "enkai-peruvian-japanese-cuisine",
+    "name": "Enkai peruvian japanese cuisine"
+   },
+   {
+    "slug": "la-divina-comida-restaurante-y-rooftop",
+    "name": "La Divina Comida Restaurante y Rooftop"
+   },
+   {
+    "slug": "la-rana-dorada-casco",
+    "name": "La Rana Dorada Casco"
+   },
+   {
+    "slug": "mahalo-cocina-y-jardin",
+    "name": "Mahalo Cocina y Jardin"
+   },
+   {
+    "slug": "nacion-sushi-casco-viejo",
+    "name": "Nación Sushi"
+   }
+  ],
+  "entries": [
+   {
+    "venue_slug": "beauty-and-the-butcher-casco-viejo",
+    "summary_en": "Beauty and the Butcher - Casco Viejo is a Burgers restaurant in the Casco Viejo neighborhood of Panama City.",
+    "known_for_en": [
+     "Juicy smash burgers and a well-liked crispy chicken sandwich, both with house sauces.",
+     "Lively, music-filled, club-like room that opens onto a back garden with games.",
+     "Vegan and vegetarian burger options."
+    ],
+    "best_time_en": "Late night on Friday or Saturday (open until 2am)",
+    "order_dish": {
+     "name": "Doble Doble",
+     "price": 9
+    },
+    "summary_es": "Beauty and the Butcher - Casco Viejo es un restaurante de Hamburguesas en el barrio Casco Viejo de la Ciudad de Panama.",
+    "best_time_es": "Noches de viernes o sabado hasta tarde (abierto hasta las 2am)",
+    "known_for_es": [
+     "Jugosas smash burgers y un sandwich de pollo crispy muy bien valorado, ambos con salsas de la casa.",
+     "Un ambiente animado, con musica y aire de club, que se abre hacia un jardin trasero con juegos.",
+     "Opciones de hamburguesas veganas y vegetarianas."
+    ]
+   },
+   {
+    "venue_slug": "afrodisiaco-italian-modern-kitchen",
+    "summary_en": "Afrodisíaco Italian Modern Kitchen is an Italian restaurant in the Casco Viejo neighborhood of Panama City.",
+    "known_for_en": [
+     "Service is repeatedly described as attentive, knowledgeable and genuinely welcoming.",
+     "Intimate, carefully styled room with soft lighting that feels curated rather than stuffy.",
+     "Handmade pastas and consistency keep a largely local clientele coming back."
+    ],
+    "best_time_en": "Evening dinner service",
+    "summary_es": "Afrodisíaco Italian Modern Kitchen es un restaurante italiano en el barrio de Casco Viejo, en Ciudad de Panamá.",
+    "best_time_es": "Servicio de cena nocturna",
+    "known_for_es": [
+     "El servicio se describe una y otra vez como atento, conocedor y genuinamente acogedor.",
+     "Un espacio íntimo y cuidadosamente decorado, con luz suave que se siente curada y no recargada.",
+     "Las pastas hechas a mano y la consistencia hacen que una clientela mayormente local vuelva una y otra vez."
+    ]
+   },
+   {
+    "venue_slug": "aya-la-vida-restaurante",
+    "summary_en": "Aya la Vida Restaurante is a Panamanian restaurant in the Casco Viejo neighborhood of Panama City.",
+    "known_for_en": [
+     "Creative modern reinterpretations of traditional Panamanian dishes.",
+     "Signature seafood - corvina ceviche, octopus and San Blas lobster mac & cheese - comes up most.",
+     "Live music Thursday to Saturday evenings, plus a Sunday family brunch."
+    ],
+    "best_time_en": "Thursday to Saturday evenings for live music; Sunday for the family brunch.",
+    "order_dish": {
+     "name": "Ceviche de Corvina al estilo Aya la Vida",
+     "price": 17.5
+    },
+    "summary_es": "Aya la Vida Restaurante es un restaurante panameño en el barrio de Casco Viejo, en Ciudad de Panamá.",
+    "best_time_es": "De jueves a sábado por la noche para música en vivo; domingo para el brunch familiar.",
+    "known_for_es": [
+     "Reinterpretaciones creativas y modernas de platos tradicionales panameños.",
+     "Lo que más se menciona son sus mariscos insignia: ceviche de corvina, pulpo y el mac & cheese de langosta de San Blas.",
+     "Música en vivo de jueves a sábado por la noche, además de un brunch familiar los domingos."
+    ]
+   },
+   {
+    "venue_slug": "bruma-seafood-wine",
+    "summary_en": "Bruma Seafood & Wine is a Seafood restaurant in the Casco Viejo neighborhood of Panama City.",
+    "known_for_en": [
+     "Fresh, sustainably sourced local seafood (tuna, snapper, corvina, shrimp, San Blas lobster) is the consistent highlight.",
+     "Frequently described by diners as some of the best food in Casco Viejo, with strong service.",
+     "Cocktails and the curated wine list draw repeat praise alongside the food."
+    ],
+    "best_time_en": "Daily happy hour, 3pm to 6pm (evening for the full seafood menu)",
+    "order_dish": {
+     "name": "Spicy shrimp tacos",
+     "price": 12
+    },
+    "summary_es": "Bruma Seafood & Wine es un restaurante de mariscos en el barrio de Casco Viejo, en Ciudad de Panamá.",
+    "best_time_es": "Happy hour todos los días de 3pm a 6pm (por la noche para el menú completo de mariscos)",
+    "known_for_es": [
+     "El punto fuerte constante son los mariscos locales frescos y de origen sostenible (atún, pargo, corvina, camarón, langosta de San Blas).",
+     "Los comensales lo describen frecuentemente como una de las mejores comidas de Casco Viejo, con un servicio muy sólido.",
+     "Los cocteles y la carta de vinos, cuidadosamente seleccionada, reciben elogios repetidos junto con la comida."
+    ]
+   },
+   {
+    "venue_slug": "casacasco",
+    "summary_en": "CasaCasco is a Japanese multi-level venue with rooftop in the Casco Viejo neighborhood of Panama City.",
+    "known_for_en": [
+     "360-degree rooftop views spanning Old Town, the modern skyline, and the sea",
+     "A multi-floor format combining dining, gastrobar, nightclub, and rooftop under one roof",
+     "Broad shared-plates, sushi, and cocktail offering that suits groups and late nights"
+    ],
+    "best_time_en": "Sunset onward for the views; late-night Thursday-Saturday for the full bar and club atmosphere",
+    "order_dish": {
+     "name": "Casacasco Maki",
+     "price": 15
+    },
+    "summary_es": "CasaCasco es un espacio japonés de varios niveles con rooftop en el barrio de Casco Viejo, en Ciudad de Panamá.",
+    "best_time_es": "Desde el atardecer para disfrutar las vistas; entrada la noche de jueves a sábado para el ambiente completo de bar y club",
+    "known_for_es": [
+     "Vistas de 360 grados desde el rooftop que abarcan el Casco Antiguo, el skyline moderno y el mar",
+     "Un formato de varios pisos que combina restaurante, gastrobar, discoteca y rooftop bajo un solo techo",
+     "Una amplia oferta de platos para compartir, sushi y cocteles, ideal para grupos y noches largas"
+    ]
+   },
+   {
+    "venue_slug": "coliseum-roma-panama",
+    "summary_en": "Coliseum Roma Panamá is an Italian restaurant in the Casco Viejo neighborhood of Panama City.",
+    "known_for_en": [
+     "Novelty star-shaped focaccia pasta presentation.",
+     "Customizable pasta-and-sauce combinations.",
+     "Wednesday unlimited-pizza night."
+    ],
+    "best_time_en": "Wednesday for the all-you-can-eat pizza night",
+    "summary_es": "Coliseum Roma Panamá es un restaurante italiano en el barrio de Casco Viejo, en Ciudad de Panamá.",
+    "best_time_es": "Miércoles para la noche de pizza libre",
+    "known_for_es": [
+     "Presentación novedosa de pasta con focaccia en forma de estrella.",
+     "Combinaciones personalizables de pasta y salsa.",
+     "Noche de pizza ilimitada los miércoles."
+    ]
+   },
+   {
+    "venue_slug": "en-la-fonda-panama",
+    "summary_en": "En La Fonda, Panamá is a panamanian restaurant with a live dinner-show format in the Casco Viejo neighborhood of Panama City.",
+    "known_for_en": [
+     "Live entertainment - traditional music, dancing and audience interaction, with a DJ/karaoke later.",
+     "Large, abundant portions and shared platters.",
+     "Authentic, traditional Panamanian dishes with regional decor."
+    ],
+    "best_time_en": "Evening, for the full live-show sequence of music, dance and later karaoke.",
+    "order_dish": {
+     "name": "Surtido Panameno",
+     "price": 25
+    },
+    "summary_es": "En La Fonda, Panamá es un restaurante panameño con formato de show en vivo durante la cena, en el barrio de Casco Viejo, en Ciudad de Panamá.",
+    "best_time_es": "La noche, para la secuencia completa del show en vivo con música, baile y karaoke más tarde.",
+    "known_for_es": [
+     "Entretenimiento en vivo: música tradicional, baile e interacción con el público, con DJ y karaoke más tarde.",
+     "Porciones generosas y abundantes, con platos para compartir.",
+     "Platos panameños auténticos y tradicionales, con decoración regional."
+    ]
+   },
+   {
+    "venue_slug": "enkai-peruvian-japanese-cuisine",
+    "summary_en": "Enkai peruvian japanese cuisine is a Nikkei restaurant in the Casco Viejo neighborhood of Panama City.",
+    "known_for_en": [
+     "Food reads as fresh and precisely executed, with strong value for the quality.",
+     "Calm, quiet room and attentive service noted across write-ups.",
+     "Warm, modern, unpretentious setting mixing Japanese minimalism with Peruvian warmth."
+    ],
+    "best_time_en": "Dinner, though it can fill up even on weeknights, so reserving ahead helps",
+    "order_dish": {
+     "name": "Ceviche tropical",
+     "price": 15
+    },
+    "summary_es": "Enkai peruvian japanese cuisine es un restaurante nikkei en el barrio de Casco Viejo, en Ciudad de Panamá.",
+    "best_time_es": "La cena, aunque puede llenarse incluso en días de semana, así que conviene reservar con anticipación",
+    "known_for_es": [
+     "La comida se percibe fresca y ejecutada con precisión, con una excelente relación calidad-precio.",
+     "Un ambiente tranquilo y silencioso, junto con un servicio atento, se destacan en las reseñas.",
+     "Un ambiente cálido, moderno y sin pretensiones que combina el minimalismo japonés con la calidez peruana."
+    ]
+   },
+   {
+    "venue_slug": "la-divina-comida-restaurante-y-rooftop",
+    "summary_en": "La Divina Comida Restaurante y Rooftop is a Panamanian restaurant in the Casco Viejo neighborhood of Panama City.",
+    "known_for_en": [
+     "Authentic homestyle Panamanian cooking (arroz con pollo, arroz con coco, sancocho)",
+     "Pleasant plaza-facing open-air setting, often with live music",
+     "Warm, personal service; framed as a hidden gem on the square"
+    ],
+    "best_time_en": "Evenings for the live-music ambiance; late morning for a quieter plaza-side lunch",
+    "order_dish": {
+     "name": "Pulpo Caribeño",
+     "price": 25
+    },
+    "summary_es": "La Divina Comida Restaurante y Rooftop es un restaurante panameño en el barrio de Casco Viejo, en Ciudad de Panamá.",
+    "best_time_es": "Las noches para el ambiente con música en vivo; a media mañana para un almuerzo más tranquilo frente a la plaza",
+    "known_for_es": [
+     "Cocina panameña casera y auténtica (arroz con pollo, arroz con coco, sancocho)",
+     "Un agradable espacio al aire libre frente a la plaza, muchas veces con música en vivo",
+     "Un servicio cálido y personal; se considera una joya escondida en la plaza."
+    ]
+   },
+   {
+    "venue_slug": "la-rana-dorada-casco",
+    "summary_en": "La Rana Dorada Casco is a Bar brewpub in the Casco Viejo neighborhood of Panama City.",
+    "known_for_en": [
+     "A pioneer of Panama's craft-beer scene with a solid range of house brews.",
+     "Sourdough pizzas are a standout and pair well with the beer.",
+     "Lively, social pub atmosphere - a default meet-up spot in Casco."
+    ],
+    "best_time_en": "Evenings, when it fills up as a social pub and pre-night-out spot",
+    "order_dish": {
+     "name": "House-brewed craft beers",
+     "price": 2.2
+    },
+    "summary_es": "La Rana Dorada Casco es un Bar brewpub en el barrio de Casco Viejo, en la Ciudad de Panamá.",
+    "best_time_es": "En las noches, cuando se llena como pub social y punto de encuentro antes de salir de fiesta",
+    "known_for_es": [
+     "Un pionero de la escena de cerveza artesanal en Panamá, con una sólida variedad de cervezas propias.",
+     "Las pizzas de masa madre son un plato destacado y combinan muy bien con la cerveza.",
+     "Ambiente animado y social de pub, un punto de encuentro clásico en Casco."
+    ]
+   },
+   {
+    "venue_slug": "mahalo-cocina-y-jardin",
+    "summary_en": "Mahalo Cocina y Jardin is a Healthy restaurant in the Casco Viejo neighborhood of Panama City.",
+    "known_for_en": [
+     "The garden setting and weekend brunch are the most-mentioned draws.",
+     "The vegan and gluten-free range gets specific praise.",
+     "Reviewers keep coming back to the local-ingredient focus and the courtyard."
+    ],
+    "best_time_en": "Sundays and weekend brunch get busy, so reserve ahead. Weekday mornings are the calm window.",
+    "order_dish": {
+     "name": "Eggs Benedict",
+     "price": 13
+    },
+    "summary_es": "Mahalo Cocina y Jardín es un restaurante Healthy en el barrio de Casco Viejo, en la Ciudad de Panamá.",
+    "best_time_es": "Los domingos y el brunch de fin de semana se llenan, así que conviene reservar con anticipación. Las mañanas de semana son el momento más tranquilo.",
+    "known_for_es": [
+     "El ambiente de jardín y el brunch de fin de semana son los atractivos más mencionados.",
+     "La variedad de opciones veganas y sin gluten recibe elogios específicos.",
+     "Los comensales siguen destacando el enfoque en ingredientes locales y el patio central."
+    ]
+   },
+   {
+    "venue_slug": "nacion-sushi-casco-viejo",
+    "summary_en": "Nación Sushi is a Japanese restaurant in the Casco Viejo neighborhood of Panama City.",
+    "known_for_en": [
+     "One of the larger sushi and roll selections in Casco Viejo, with generous, protein-heavy portions.",
+     "Fusion kitchen that runs well past sushi into Southeast Asian noodles, curries and tempura.",
+     "Relaxed, warm room with music, set inside the Casa Casco dining complex."
+    ],
+    "best_time_en": "Dinner",
+    "order_dish": {
+     "name": "Cosmic Roll",
+     "price": 15.5
+    },
+    "summary_es": "Nación Sushi es un restaurante Japanese en el barrio de Casco Viejo, en la Ciudad de Panamá.",
+    "best_time_es": "Cena",
+    "known_for_es": [
+     "Una de las selecciones más amplias de sushi y rolls en Casco Viejo, con porciones generosas y cargadas de proteína.",
+     "Cocina de fusión que va mucho más allá del sushi, con fideos, curries y tempura del sudeste asiático.",
+     "Un espacio relajado y acogedor con música, ubicado dentro del complejo gastronómico Casa Casco."
+    ]
+   }
+  ],
+  "faqs_en": [
+   {
+    "q": "Is Casco Viejo walkable at night?",
+    "a": "The restored core is compact and busy in the evening, and most of the restaurants on this list sit within a ten-minute walk of each other. The edges of the quarter get quiet quickly, so it is worth knowing which street you are heading to before you set off.",
+    "q_es": "¿Se puede caminar por Casco Viejo de noche?",
+    "a_es": "El centro restaurado es compacto y está lleno de actividad por la noche, y la mayoría de los restaurantes de esta lista quedan a diez minutos a pie entre sí. Los bordes del barrio se vacían rápido, así que conviene saber bien a qué calle te diriges antes de salir."
+   },
+   {
+    "q": "Do you need a reservation in Casco Viejo?",
+    "a": "For the smaller rooms on weekends, yes. Where a venue takes bookings by WhatsApp we link it directly on its profile page, which is the fastest route in Panama.",
+    "q_es": "¿Se necesita reservar en Casco Viejo?",
+    "a_es": "Para los locales más pequeños los fines de semana, sí. Cuando un lugar acepta reservas por WhatsApp, lo enlazamos directamente en su página de perfil, que es la vía más rápida en Panamá."
+   },
+   {
+    "q": "How many restaurants are there in Casco Viejo?",
+    "a": "We currently track 150 open restaurants, cafes and bars in Casco Viejo, of which 81 serve dinner past 9 PM. The full list is on the Casco Viejo neighborhood page.",
+    "q_es": "¿Cuántos restaurantes hay en Casco Viejo?",
+    "a_es": "Actualmente registramos 150 restaurantes, cafés y bares abiertos en Casco Viejo, de los cuales 81 sirven cena después de las 9 PM. La lista completa está en la página del barrio de Casco Viejo."
+   }
+  ],
+  "hero": {
+   "url": "/venues/beauty-and-the-butcher-casco-viejo.jpg",
+   "alt_en": "Smash burger with fries at Beauty and the Butcher, Casco Viejo, Panama City",
+   "alt_es": "Hamburguesa smash con papas en Beauty and the Butcher, Casco Viejo, Ciudad de Panamá",
+   "credit_en": "Photo: @beautyandthebutcher",
+   "credit_url": "https://www.instagram.com/beautyandthebutcher/",
+   "venue_slug": "beauty-and-the-butcher-casco-viejo",
+   "venue_name": "Beauty and the Butcher - Casco Viejo"
+  },
+  "title_es": "Donde cenar en Casco Viejo",
+  "description_es": "Casco Viejo tiene la mayor concentracion de mesas para cenar en la Ciudad de Panama. Doce de ellas, desde las plazas restauradas hasta las calles tranquilas.",
+  "intro_es": "Casco Viejo es el antiguo barrio amurallado, y de noche es el barrio con mas oferta gastronomica de la Ciudad de Panama: puedes ir caminando entre la mayoria de estos lugares en menos de diez minutos. Seguimos 81 restaurantes aqui que sirven cena despues de las 9 PM. Estos 12 abarcan toda la variedad, desde cocinas panameñas hasta los locales italianos y de mariscos que se han instalado alrededor.",
+  "criteria_es": [
+   "Todos los lugares de esta lista estan abiertos, y sus horarios fueron verificados con la informacion propia de cada local en julio de 2026.",
+   "Seleccionados entre todos los restaurantes de Casco Viejo en nuestra base de datos que sirven cena despues de las 9 PM. Los restaurantes no pueden pagar para aparecer aqui.",
+   "Lo que distingue a cada cocina se resume a partir de comentarios publicos de los comensales. No publicamos calificaciones por estrellas ni numero de reseñas.",
+   "Una sola ubicacion por operador."
+  ]
+ }
+]
