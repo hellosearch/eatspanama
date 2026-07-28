@@ -15,7 +15,7 @@ import {
   venuePath,
   withLocale,
 } from "@/lib/paths";
-import { pairedAlternates, indexable, OG_DEFAULT_IMAGE } from "@/lib/seo";
+import { pairedAlternates, indexable } from "@/lib/seo";
 import { venueItemListJsonLd } from "@/lib/jsonld";
 import { goodForHeading, hubFacts, hubFaqs } from "@/lib/hub-copy";
 import Breadcrumb from "@/components/Breadcrumb";
@@ -70,7 +70,7 @@ export async function generateMetadata({ params }: { params: Promise<Params> }):
     title,
     description,
     alternates,
-    openGraph: { title, description, url: alternates.canonical, images: [OG_DEFAULT_IMAGE] },
+    openGraph: { title, description, url: alternates.canonical },
     robots: indexable(),
   };
 }

@@ -106,7 +106,7 @@ export async function generateMetadata({ params }: { params: Promise<Params> }):
       title,
       description: guide.description_en,
       url: alternates.canonical,
-      ...(guide.hero ? { images: [guide.hero.url] } : {}),
+      // og:image from the generated guide card (./opengraph-image).
     },
     robots: indexable(),
   };

@@ -7,7 +7,7 @@ import { absoluteUrl, cityPath, citySlugFor, cityCuisinePath, listingPath, withL
 import { cityCuisineHubs, cityCuisineHubExists } from "@/lib/cuisines";
 import { cleanCuisine, guideUpdated } from "@/lib/format";
 import type { Faq } from "@/lib/faq";
-import { pairedAlternates, indexable, SITE_URL, SITE_NAME, OG_DEFAULT_IMAGE } from "@/lib/seo";
+import { pairedAlternates, indexable, SITE_URL, SITE_NAME } from "@/lib/seo";
 import Breadcrumb from "@/components/Breadcrumb";
 import FaqBlock from "@/components/FaqBlock";
 import Footer from "@/components/Footer";
@@ -47,7 +47,7 @@ export async function generateMetadata({ params }: { params: Promise<Params> }):
     title,
     description,
     alternates,
-    openGraph: { title, description, url: alternates.canonical, images: [OG_DEFAULT_IMAGE] },
+    openGraph: { title, description, url: alternates.canonical },
     robots: indexable(),
   };
 }

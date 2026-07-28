@@ -5,7 +5,7 @@ import { setRequestLocale, getTranslations } from "next-intl/server";
 import "@/styles/globals.css";
 import { inter, spaceGrotesk } from "@/app/fonts";
 import { routing } from "@/i18n/routing";
-import { localeAlternates, indexable, SITE_URL, SITE_NAME, OG_DEFAULT_IMAGE } from "@/lib/seo";
+import { localeAlternates, indexable, SITE_URL, SITE_NAME } from "@/lib/seo";
 import { organizationJsonLd } from "@/lib/jsonld";
 import JsonLd from "@/components/JsonLd";
 import Nav from "@/components/Nav";
@@ -40,7 +40,8 @@ export async function generateMetadata({
       alternateLocale: Object.entries(OG_LOCALES)
         .filter(([l]) => l !== locale)
         .map(([, code]) => code),
-      images: [OG_DEFAULT_IMAGE],
+      // Homepage og:image comes from the generated card (./opengraph-image); no
+      // default here so the file-based card wins for the home route.
     },
     // Twitter/X card. `card` is the ONLY field set at the layout level - Next
     // fills twitter:title / twitter:description / twitter:image from each page's

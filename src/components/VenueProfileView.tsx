@@ -7,7 +7,7 @@ import { cuisineHubExists } from "@/lib/cuisines";
 import { perfectForFacets } from "@/lib/goodfor";
 import SaveButton from "@/components/SaveButton";
 import { absoluteUrl, cityPath, cuisineHubPath, goodForPath, listingPath, venuePath, withLocale } from "@/lib/paths";
-import { pairedAlternates, indexable, OG_DEFAULT_IMAGE, clampDescription } from "@/lib/seo";
+import { pairedAlternates, indexable, clampDescription } from "@/lib/seo";
 import { venueFaqs } from "@/lib/faq";
 import { localizeVenue, localizeGuide } from "@/lib/localize";
 import { cuisineLabelEs } from "@/lib/hub-copy";
@@ -145,7 +145,8 @@ export async function venueMetadata(locale: string, venueSlug: string): Promise<
       title,
       description,
       url: alternates.canonical,
-      images: venue.photos.length ? [venue.photos[0].url] : [OG_DEFAULT_IMAGE],
+      // og:image comes from the generated card at ./opengraph-image (branded
+      // photo-forward card) - no explicit images here so the file-based one wins.
     },
     robots: indexable(),
   };
