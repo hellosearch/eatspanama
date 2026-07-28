@@ -15,6 +15,37 @@ const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 const FROM = process.env.RESEND_FROM || "EatsPanama <onboarding@resend.dev>";
 const NOTIFY_TO = process.env.RESEND_NOTIFY_TO || "chris@searchleads.agency";
 
+// Abuse guards for this public, unauthenticated endpoint (it triggers Resend):
+// 1) same-origin only, so other sites / naive scripts can't drive it;
+// 2) a best-effort per-instance burst limit (Vercel is stateless, so this caps
+//    accidental/naive floods; a KV-backed limiter is the hardening follow-up).
+function sameOrigin(req: Request): boolean {
+  const host = req.headers.get("host");
+  const src = req.headers.get("origin") || req.headers.get("referer");
+  if (!src || !host) return false;
+  try {
+    const h = new URL(src).host;
+    return h === host || h === "eatspanama.com" || h.endsWith(".eatspanama.com");
+  } catch {
+    return false;
+  }
+}
+
+const HITS = new Map<string, { c: number; t: number }>();
+function rateLimited(ip: string): boolean {
+  const now = Date.now();
+  const WINDOW = 60_000;
+  const MAX = 6;
+  const e = HITS.get(ip);
+  if (!e || now - e.t > WINDOW) {
+    if (HITS.size > 5000) HITS.clear();
+    HITS.set(ip, { c: 1, t: now });
+    return false;
+  }
+  e.c += 1;
+  return e.c > MAX;
+}
+
 function respond(req: Request, ok: boolean, locale: string, reason?: string) {
   const wantsHtml = (req.headers.get("accept") || "").includes("text/html");
   if (wantsHtml) {
@@ -95,6 +126,16 @@ async function notifyEmail(key: string, email: string, locale: string): Promise<
 }
 
 export async function POST(req: Request) {
+  // Same-origin only: block other sites and origin-less scripted abuse.
+  if (!sameOrigin(req)) {
+    return NextResponse.json({ ok: false, error: "forbidden" }, { status: 403 });
+  }
+  // Best-effort burst limit per client IP.
+  const ip = (req.headers.get("x-forwarded-for") || "").split(",")[0].trim() || "unknown";
+  if (rateLimited(ip)) {
+    return NextResponse.json({ ok: false, error: "rate_limited" }, { status: 429 });
+  }
+
   let email = "";
   let locale = "en";
   let honeypot = "";
