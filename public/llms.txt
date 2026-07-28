@@ -1,0 +1,21 @@
+# EatsPanama
+
+> Independent restaurant discovery and dining coverage for Panama City, in English and Spanish. A neighborhood-by-neighborhood directory of ~1,300 restaurants plus editorial "where to eat" guides. Trust rule: no restaurant can pay for rankings or reviews, and there are no star ratings. Facts (cuisine, price, hours, location) come from public sources and each venue's own channels.
+
+## Guides
+- [Where to Eat Brunch in Panama City](https://eatspanama.com/guides/best-brunch-panama-city/): the brunch shortlist, checked against opening hours.
+- [Specialty Coffee in Panama City: Where to Drink It](https://eatspanama.com/guides/best-coffee-panama-city/): the best specialty coffee rooms.
+- [Where to Have Dinner in Casco Viejo](https://eatspanama.com/guides/best-dinners-casco-viejo/): dinner spots in the old town.
+- [All guides](https://eatspanama.com/guides/)
+
+## Browse the directory
+- [Where to eat in Panama City](https://eatspanama.com/panama-city/): the full directory, by neighborhood.
+- [By cuisine](https://eatspanama.com/panama-city/cuisine/): Italian, Japanese, Panamanian, and more.
+- [By occasion ("good for")](https://eatspanama.com/panama-city/good-for/): rooftop, date night, brunch, dog-friendly, and more.
+
+## About
+- [How EatsPanama works](https://eatspanama.com/how-we-review/): what a listing is, how facts are sourced, and why nothing is for sale.
+- [Contact](https://eatspanama.com/contact/): corrections, press, and restaurant listing claims.
+
+## Sitemaps
+- [Sitemap index](https://eatspanama.com/sitemap.xml)

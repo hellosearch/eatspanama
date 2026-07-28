@@ -150,6 +150,10 @@ export default function RestaurantMap({
       // Clicking into the map turns wheel-zoom on; moving the pointer off it
       // turns it back off - so the map stays fully usable when you mean to use it.
       const map = Lm.map(elRef.current, { scrollWheelZoom: false, attributionControl: true });
+      // Drop Leaflet's "Leaflet" prefix link (the outbound leafletjs.com link).
+      // The "© OpenStreetMap contributors" credit stays as plain, non-clickable
+      // text - required by the OSM tile licence, but no longer an external link.
+      map.attributionControl.setPrefix(false);
       map.on("click", () => map.scrollWheelZoom.enable());
       map.on("mouseout", () => map.scrollWheelZoom.disable());
       mapRef.current = map;

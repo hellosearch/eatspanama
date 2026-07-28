@@ -28,6 +28,9 @@ export default function NeighborhoodMap({ areas, className = "rmap" }: { areas: 
       const L = ((mod as unknown as { default?: typeof import("leaflet") }).default ?? mod) as typeof import("leaflet");
       if (cancelled || !elRef.current || mapRef.current) return;
       const map = L.map(elRef.current, { scrollWheelZoom: true, attributionControl: true });
+      // Drop Leaflet's outbound "Leaflet" prefix link; keep the required OSM
+      // credit as plain, non-clickable text (see RestaurantMap).
+      map.attributionControl.setPrefix(false);
       mapRef.current = map;
       L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
         maxZoom: 19,

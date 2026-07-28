@@ -105,7 +105,7 @@ export default async function ContactPage({
           </li>
           <li>
             <b>{c.corrections}</b>{" "}
-            <a href="mailto:corrections@eatspanama.com">corrections@eatspanama.com</a>
+            <a href="mailto:hello@eatspanama.com">hello@eatspanama.com</a>
           </li>
           <li>
             <b>{c.forRestaurants}</b>{" "}

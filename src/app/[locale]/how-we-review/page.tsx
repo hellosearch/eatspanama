@@ -54,13 +54,6 @@ const COPY = {
     editorial_label: "Editorial reviews (a curated tier we're adding).",
     editorial_body:
       " When our team reviews a place in person, that page will carry a signed review with a visit date, on top of the listing. Those reviews will cover their own tab, won't accept press invitations in exchange for coverage, and each will say plainly when we were there.",
-    h_never: "What we will never do",
-    never: [
-      "Sell rankings or reviews. Placement is never for sale.",
-      "Publish star ratings or scraped review scores.",
-      "Copy another site's menu descriptions, reviews, or photos.",
-      "Take a restaurant's money to remove a factual listing.",
-    ],
     h_data: "Where the data comes from",
     data_body:
       "Restaurant names, locations, and hours come from public sources and are restated as facts. Menus, dishes, and what's-good notes come from each venue's own public channels and public write-ups, synthesized in our words. Maps are from OpenStreetMap. Photos on an unclaimed listing are a branded placeholder - real photos arrive when an owner claims the page or when we photograph a place ourselves.",
@@ -106,13 +99,6 @@ const COPY = {
     editorial_label: "Reseñas editoriales (un grupo curado que estamos sumando).",
     editorial_body:
       " Cuando nuestro equipo reseñe un lugar en persona, esa página tendrá una reseña firmada con fecha de visita, además del perfil. Esas reseñas pagarán su propia cuenta, no aceptarán invitaciones de prensa a cambio de cobertura, y cada una dirá claramente cuándo estuvimos ahí.",
-    h_never: "Lo que nunca haremos",
-    never: [
-      "Vender rankings o reseñas. El posicionamiento nunca está a la venta.",
-      "Publicar calificaciones de estrellas o puntajes de reseñas extraídos de otros sitios.",
-      "Copiar las descripciones de menú, reseñas o fotos de otro sitio.",
-      "Aceptar dinero de un restaurante para eliminar un perfil basado en hechos.",
-    ],
     h_data: "De dónde vienen los datos",
     data_body:
       "Los nombres, ubicaciones y horarios de los restaurantes provienen de fuentes públicas y se presentan como hechos. Los menús, platos y notas de lo bueno provienen de los canales públicos de cada local y de reseñas públicas, sintetizados con nuestras palabras. Los mapas son de OpenStreetMap. Las fotos en un perfil no reclamado son un marcador de posición de marca; las fotos reales llegan cuando un dueño reclama la página o cuando fotografiamos el lugar nosotros mismos.",
@@ -196,13 +182,6 @@ export default async function HowWeReviewPage({ params }: { params: Promise<{ lo
             <b>{c.editorial_label}</b>
             {c.editorial_body}
           </li>
-        </ul>
-
-        <h2>{c.h_never}</h2>
-        <ul>
-          {c.never.map((n) => (
-            <li key={n}>{n}</li>
-          ))}
         </ul>
 
         <h2>{c.h_data}</h2>
