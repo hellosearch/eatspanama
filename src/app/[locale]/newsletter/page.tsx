@@ -4,7 +4,7 @@ import { allVenues } from "@/lib/data";
 import { localeAlternates, indexable, OG_DEFAULT_IMAGE } from "@/lib/seo";
 import { routing } from "@/i18n/routing";
 import Footer from "@/components/Footer";
-import { Button } from "@/components/Buttons";
+import NewsletterForm from "@/components/NewsletterForm";
 import { CountPill } from "@/components/badges";
 import { CheckIcon } from "@/components/icons";
 
@@ -74,13 +74,14 @@ export default async function NewsletterPage({ params }: { params: Promise<{ loc
               </span>
             </li>
           </ul>
-          {/* TODO(resend): POST to the Resend double-opt-in endpoint. */}
-          <form className="nl-form" action="" method="get">
-            <input type="email" placeholder={tn("emailPlaceholder")} aria-label={tn("emailAria")} />
-            <Button type="submit" variant="accent">
-              {t("subscribe")}
-            </Button>
-          </form>
+          {/* Posts to /api/subscribe (emails each signup to the capture inbox). */}
+          <NewsletterForm
+            className="nl-form"
+            locale={locale}
+            placeholder={tn("emailPlaceholder")}
+            ariaLabel={tn("emailAria")}
+            buttonLabel={t("subscribe")}
+          />
           <p className="optin-note">
             <b>{t("optinLead")}</b>
             {t("optinRest")}

@@ -5325,3 +5325,9 @@ a.drow:hover .dmore i { transform: translateX(3px); }
 .bb-side { display: flex; align-items: center; gap: 12px; flex: 0 0 auto; }
 .bb-price { font-size: 13px; color: var(--color-gray); font-weight: 600; }
 .bb-go { color: var(--color-accent); font-weight: 700; font-size: 18px; }
+
+/* Newsletter form feedback (NewsletterForm). Works on the dark band + light page. */
+.nl-ok { font-family: var(--font-display); font-weight: 600; font-size: 15px; color: var(--color-ink); margin: 0; }
+.newsletter .nl-ok { color: #fff; }
+.nl-err { display: block; margin-top: 8px; font-size: 12.5px; font-weight: 600; color: var(--color-accent-deep); }
+.newsletter .nl-err { color: #ffd9c6; }

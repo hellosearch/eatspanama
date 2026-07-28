@@ -33,3 +33,5 @@ _*.txt
 *.playwright-mcp
 casco-after.jpg
 mobile-mockup-verify.png
+
+.vercel
