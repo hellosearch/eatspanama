@@ -37,7 +37,7 @@ import DiscoveryView from "@/components/DiscoveryView";
 import { discoveryLabels } from "@/lib/discovery-labels";
 import { SecIcon } from "@/components/icons";
 import { UpdatedStamp, VerifiedStamp } from "@/components/badges";
-import { EditorsPickCard, GuideCard, HubSpokeTile } from "@/components/cards";
+import { GuideCard, HubSpokeTile } from "@/components/cards";
 import { localizeGuide } from "@/lib/localize";
 
 interface Params {
@@ -134,9 +134,6 @@ export default async function ListingPage({ params }: { params: Promise<Params> 
       .sort()
       .at(-1) ?? "";
 
-  const picks = venues
-    .filter((v) => v.editors_pick_rank)
-    .sort((a, b) => (a.editors_pick_rank ?? 9) - (b.editors_pick_rank ?? 9));
   const faqs = neighborhoodFaqs(hood, venues, locale);
   const h1 = locale === "es" ? hood.h1_es : hood.h1_en;
   const cityName = locale === "es" ? cityRec.name_es : cityRec.name_en;
@@ -268,33 +265,8 @@ export default async function ListingPage({ params }: { params: Promise<Params> 
         )}
       </div>
 
-      {/* H2: EDITORS' PICKS (only when the neighborhood has ranked picks) */}
-      {picks.length > 0 && (
-        <section className="block">
-          <div className="sec-head">
-            <div>
-              <p className="eyebrow">{t("picksEyebrow")}</p>
-              <h2 className="sec-title">{t("picksTitle")}</h2>
-              <p className="sec-sub">{t("picksSub")}</p>
-            </div>
-            <a className="see-all" href={withLocale(locale, guidesIndexPath())}>
-              {t("howWeChoose")}
-            </a>
-          </div>
-          <div className="picks" data-count={Math.min(picks.length, 3)}>
-            {picks.map((v) => (
-              <EditorsPickCard
-                key={v.id}
-                venue={v}
-                locale={locale}
-                href={vHref(v.slug)}
-                rank={v.editors_pick_rank ?? 0}
-                visitedLabel={`${t("visited")} ${v.verified_at}`}
-              />
-            ))}
-          </div>
-        </section>
-      )}
+      {/* Editors' Picks section removed for now (Chris: unnecessary, pushed the
+          valuable list + map content down). The full list below is the lead. */}
 
       {/* H2: FULL LISTING GRID + ItemList/Restaurant JSON-LD */}
       <section className="block block-fog block-discovery">

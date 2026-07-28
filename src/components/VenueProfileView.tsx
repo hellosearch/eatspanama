@@ -173,6 +173,7 @@ export default async function VenueProfileView({
 
   const t = await getTranslations({ locale, namespace: "Profile" });
   const tl = await getTranslations({ locale, namespace: "Listing" });
+  const tg = await getTranslations({ locale, namespace: "GoodFor" });
   const siblings = (await getVenuesInNeighborhood(hood.slug)).filter((v) => v.slug !== venue.slug);
   // "Nearby" should mean nearest, not just the first 3 in the hood. Squared
   // lat/lng distance is monotonic with real distance at city scale (no trig).
@@ -383,7 +384,7 @@ export default async function VenueProfileView({
               <span className="pf-label">{t("perfectFor")}</span>
               {perfectFor.map((f) => (
                 <a key={f.slug} className="pf-chip" href={withLocale(locale, goodForPath(hood.city_slug, f.slug, locale))}>
-                  {f.label}
+                  {tg(`label_${f.slug}`)}
                 </a>
               ))}
             </div>

@@ -4156,9 +4156,8 @@ a.lh-chip:hover {
 /* Desktop: the discovery band breaks out of the 1280px shell to full width
    (map-search wants room), while the rest of the page stays in the shell. */
 @media (min-width: 981px) {
-  /* The discovery now sits inside the (wider) shell, matching the header, hero
-     and footer - no full-bleed breakout, so the whole page is one consistent
-     width. The wider shell gives the map room without an odd out-poking band. */
+  /* Discovery sits in the shell (Chris wanted only the height increased, not a
+     full-width breakout). */
   .disc-split {
     display: grid;
     grid-template-columns: 208px minmax(0, 1fr) minmax(420px, 40%);
@@ -4168,7 +4167,10 @@ a.lh-chip:hover {
   /* Sticky filter rail must scroll internally, or filters taller than the
      viewport get pinned off-screen and can't be seen or clicked. */
   .disc-rail { position: sticky; top: 84px; align-self: start; max-height: calc(100vh - 100px); overflow-y: auto; overscroll-behavior: contain; }
-  .disc-map { position: sticky; top: 84px; }
+  /* Header is static (scrolls away), so the sticky map only needs a small top
+     gap - not a big offset. This reclaims the wasted space above it (Chris:
+     still room for height). */
+  .disc-map { position: sticky; top: 20px; align-self: start; }
   /* With the extra width, the list flows into 1-2 columns of horizontal cards. */
   .disc-list .venues.disc-rows { display: grid; grid-template-columns: repeat(auto-fill, minmax(330px, 1fr)); gap: 12px; align-content: start; }
 }
@@ -4240,7 +4242,10 @@ a.lh-chip:hover {
   background: #e8eef0;
   z-index: 0;
 }
-@media (min-width: 981px) { .rmap { height: calc(100vh - 116px); min-height: 540px; } }
+/* Tall sticky map that uses the viewport height (Chris: maximize it, the capped
+   panel felt limiting). The discovery band also breaks out of the shell to a much
+   wider band (below), so map + list use the screen instead of a narrow column. */
+@media (min-width: 981px) { .rmap { height: calc(100vh - 40px); min-height: 620px; } }
 /* City-hub map: a wide discovery band (not sticky, fixed height). */
 .rmap.hub-map { height: 62vh; min-height: 460px; }
 
