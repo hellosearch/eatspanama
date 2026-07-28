@@ -13,7 +13,6 @@ import {
   cityCuisinePath,
   cityCuisineIndexPath,
   cuisineHubPath,
-  listingPath,
   venuePath,
   withLocale,
 } from "@/lib/paths";
@@ -137,10 +136,15 @@ export default async function CityCuisinePage({ params }: { params: Promise<Para
   const nounEs = cuisineNounEs(hub.cuisine);
   const hoodNameOf = (slug: string) => allNeighborhoods.find((n) => n.slug === slug)?.name ?? slug;
   const facts = hubFacts(hub.venues, hoodNameOf);
+  // "Top areas" keeps the cuisine context: prefer the dedicated {hood}+{cuisine}
+  // hub page when one exists ("Italian in Bella Vista"); otherwise filter THIS
+  // cuisine page in place by that neighborhood (DiscoveryView reads ?hood= on
+  // mount) rather than dumping the visitor on the unfiltered neighborhood list.
+  const selfHref = withLocale(locale, cityCuisinePath(cityRec.slug, seg, locale));
   const hoodHref = (slug: string) =>
     cuisineHubs.some((h) => h.hoodSlug === slug && h.seg === seg)
       ? withLocale(locale, cuisineHubPath(cityRec.slug, slug, seg, locale))
-      : withLocale(locale, listingPath(cityRec.slug, slug, locale));
+      : `${selfHref}?hood=${slug}#disc-top`;
   const hoodLinks = facts.topHoods.map((h) => ({ name: h.name, count: h.count, href: hoodHref(h.slug) }));
   const glanceLabels = en
     ? { glance: "At a glance", places: "places", price: "Price", topAreas: "Top areas", related: "Related cuisines" }

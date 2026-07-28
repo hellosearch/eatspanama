@@ -21,7 +21,7 @@ import { assertNoVenueHoodCollision } from "@/lib/collisions";
 import { brands, getBrand } from "@/lib/brands";
 import { brandOf } from "@/lib/brands";
 import { cleanCuisine, formatMonth, guideUpdated, slugify } from "@/lib/format";
-import { pairedAlternates, indexable, OG_DEFAULT_IMAGE } from "@/lib/seo";
+import { pairedAlternates, indexable, OG_DEFAULT_IMAGE, clampDescription } from "@/lib/seo";
 import { neighborhoodFaqs } from "@/lib/faq";
 import { venueItemListJsonLd } from "@/lib/jsonld";
 import Breadcrumb from "@/components/Breadcrumb";
@@ -83,7 +83,7 @@ export async function generateMetadata({ params }: { params: Promise<Params> }):
   const h = found.hood;
   const h1 = locale === "es" ? h.h1_es : h.h1_en;
   const title = `${h1.pre}${h1.accent}${h1.post} | EatsPanama`;
-  const description = (locale === "es" ? h.intro_es : h.intro_en).slice(0, 158);
+  const description = clampDescription(locale === "es" ? h.intro_es : h.intro_en);
   const alternates = pairedAlternates(locale, {
     en: listingPath(h.city_slug, h.slug, "en"),
     es: listingPath(h.city_slug, h.slug, "es"),

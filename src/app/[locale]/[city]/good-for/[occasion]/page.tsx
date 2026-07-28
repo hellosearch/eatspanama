@@ -12,7 +12,6 @@ import {
   citySlugFor,
   goodForPath,
   goodForIndexPath,
-  listingPath,
   venuePath,
   withLocale,
 } from "@/lib/paths";
@@ -115,10 +114,16 @@ export default async function GoodForOccasionPage({ params }: { params: Promise<
   const faqSubject = heading.useCount ? heading.phrase : `${label} spots`;
   const hoodNameOf = (slug: string) => allNeighborhoods.find((n) => n.slug === slug)?.name ?? slug;
   const facts = hubFacts(occ.venues, hoodNameOf);
+  // "Top areas" FILTERS this facet in place (DiscoveryView reads ?hood= on
+  // mount) instead of jumping to the plain neighborhood listing - clicking
+  // "Bella Vista" on the dog-friendly page shows dog-friendly spots IN Bella
+  // Vista and scrolls to them, which is what a visitor narrowing by area
+  // expects. #disc-top lands them on the filtered results.
+  const selfHref = withLocale(locale, goodForPath(cityRec.slug, occasion, locale));
   const hoodLinks = facts.topHoods.map((h) => ({
     name: h.name,
     count: h.count,
-    href: withLocale(locale, listingPath(cityRec.slug, h.slug, locale)),
+    href: `${selfHref}?hood=${h.slug}#disc-top`,
   }));
   const glanceLabels = en
     ? { glance: "At a glance", places: "places", price: "Price", topAreas: "Top areas", related: "Also good for" }

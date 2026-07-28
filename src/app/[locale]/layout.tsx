@@ -42,16 +42,15 @@ export async function generateMetadata({
         .map(([, code]) => code),
       images: [OG_DEFAULT_IMAGE],
     },
-    // Default social card. og:image is supplied site-wide by the file-based
-    // metadata route (src/app/opengraph-image.png) so it survives on pages that
-    // set their own openGraph without an image; twitter is set here (no page
-    // overrides `twitter`, so it inherits everywhere) and metadataBase makes the
-    // relative image URL absolute. Real designed asset is a launch nicety.
+    // Twitter/X card. `card` is the ONLY field set at the layout level - Next
+    // fills twitter:title / twitter:description / twitter:image from each page's
+    // own `openGraph` when those twitter fields are absent. Previously this block
+    // also hard-set title/description/images to the HOMEPAGE values, which then
+    // inherited onto every deep page (venues, guides, hubs) and overrode their
+    // unique OG - so X showed "Where Panama Actually Eats" + the default image on
+    // every page. Leaving only `card` lets each page's OG flow through to Twitter.
     twitter: {
       card: "summary_large_image",
-      title: t("homeTitle"),
-      description: t("homeDescription"),
-      images: ["/og-default.png"],
     },
     // Staging guard (scope R10): SITE_NOINDEX=1 -> noindex,follow on every
     // page (meta) + X-Robots-Tag header from next.config.ts.

@@ -1838,7 +1838,12 @@ footer.site-footer.slim .foot-bottom {
 .venue-links h2.p-sec { margin: 0 0 3px; }
 .vl-note { margin: 0; font-size: 14px; color: var(--color-ink-soft); }
 .vl-grid { display: grid; gap: 10px; grid-template-columns: repeat(2, 1fr); }
-@media (max-width: 560px) { .vl-grid { grid-template-columns: 1fr; } }
+/* Keep the order/delivery tiles 2-up on phones (Chris) - tighten the gap and
+   padding so two fit at 390px; min-width:0 lets the host caption ellipsis. */
+@media (max-width: 560px) {
+  .vl-grid { gap: 8px; }
+  .vl-tile { padding: 12px 13px; gap: 10px; min-width: 0; }
+}
 .vl-tile { display: flex; align-items: center; gap: 14px; padding: 13px 15px; border-radius: 14px; border: 1.5px solid var(--color-line); background: var(--color-paper); text-decoration: none; color: var(--color-ink); transition: border-color 0.15s ease, transform 0.15s ease, box-shadow 0.15s ease; }
 .vl-tile:hover { border-color: var(--color-ink); transform: translateY(-1px); box-shadow: 0 6px 18px rgba(16, 16, 20, 0.08); }
 .vl-ico { flex: none; width: 42px; height: 42px; border-radius: 11px; display: grid; place-items: center; }
@@ -3575,10 +3580,20 @@ a.chip.price:hover {
   }
 }
 @media (max-width: 768px) {
-  /* keep the menu 2-up on phones (denser, less endless scroll) */
+  /* Text-only menus stay 2-up on phones (dense, short items, less endless
+     scroll). Menus WITH photo thumbs go 1-up: a 78px thumb + name/price/desc
+     can't share a ~160px column without the track blowing past the container
+     and getting clipped (the "menu is off" bug). min-width:0 lets grid items
+     shrink instead of forcing an overflow in every case. */
   .dish-grid {
     grid-template-columns: 1fr 1fr;
     gap: 10px;
+  }
+  .dish-grid > .dish {
+    min-width: 0;
+  }
+  .dish-grid:has(.dish.has-thumb) {
+    grid-template-columns: 1fr;
   }
   .brand-hero {
     padding: 26px 22px;
@@ -4174,7 +4189,7 @@ a.lh-chip:hover {
   }
   /* Sticky filter rail must scroll internally, or filters taller than the
      viewport get pinned off-screen and can't be seen or clicked. */
-  .disc-rail { position: sticky; top: 84px; align-self: start; max-height: calc(100vh - 100px); overflow-y: auto; overscroll-behavior: contain; }
+  .disc-rail { position: sticky; top: 20px; align-self: start; max-height: calc(100vh - 40px); overflow-y: auto; overscroll-behavior: contain; }
   /* Header is static (scrolls away), so the sticky map only needs a small top
      gap - not a big offset. This reclaims the wasted space above it (Chris:
      still room for height). */

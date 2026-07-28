@@ -7,7 +7,7 @@ import { cuisineHubExists } from "@/lib/cuisines";
 import { perfectForFacets } from "@/lib/goodfor";
 import SaveButton from "@/components/SaveButton";
 import { absoluteUrl, cityPath, cuisineHubPath, goodForPath, listingPath, venuePath, withLocale } from "@/lib/paths";
-import { pairedAlternates, indexable, OG_DEFAULT_IMAGE } from "@/lib/seo";
+import { pairedAlternates, indexable, OG_DEFAULT_IMAGE, clampDescription } from "@/lib/seo";
 import { venueFaqs } from "@/lib/faq";
 import { localizeVenue, localizeGuide } from "@/lib/localize";
 import { cuisineLabelEs } from "@/lib/hub-copy";
@@ -127,10 +127,10 @@ export async function venueMetadata(locale: string, venueSlug: string): Promise<
     `${venue.name} - ${cuiLabel}${price} ${inWord} ${where}. ${withHighlight ? highlight : ""}${tail}${verified}.`;
   const description =
     venue.about_en && !isBoilerplateAbout(venue.about_en)
-      ? venue.about_en.slice(0, 158)
+      ? clampDescription(venue.about_en)
       : synth(true).length <= 160
         ? synth(true)
-        : synth(false);
+        : clampDescription(synth(false));
   // ES venue editorial is now native (localizeVenue), so the ES URL is a real
   // indexable twin with self-canonical + es<->en hreflang, not an EN fallback.
   const alternates = pairedAlternates(locale, {

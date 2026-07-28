@@ -41,6 +41,22 @@ export function enOnlyAlternates(path: string = "") {
 
 export const SITE_URL = SITE;
 export const SITE_NAME = "EatsPanama";
+
+/**
+ * Clamp prose to a meta-description length WITHOUT cutting mid-word. A plain
+ * `.slice(0, 158)` left ~1,365 venue + neighborhood pages ending on a fragment
+ * ("...toasts and br", "...pay to app"), which reads as broken in the SERP. This
+ * backs off to the last word boundary, strips trailing punctuation, and adds a
+ * single ellipsis. Only truncates when the text actually exceeds `max`.
+ */
+export function clampDescription(text: string, max = 155): string {
+  const t = (text ?? "").trim();
+  if (t.length <= max) return t;
+  const slice = t.slice(0, max);
+  const lastSpace = slice.lastIndexOf(" ");
+  const cut = (lastSpace > max * 0.6 ? slice.slice(0, lastSpace) : slice).replace(/[\s.,;:!?\-–—]+$/, "");
+  return `${cut}…`;
+}
 /**
  * Default social-share image (branded 1200x630, public/og-default.png).
  * Root-relative - metadataBase (set in the root layout) resolves it to an
