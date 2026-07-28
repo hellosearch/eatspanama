@@ -10,6 +10,7 @@ import { organizationJsonLd } from "@/lib/jsonld";
 import JsonLd from "@/components/JsonLd";
 import Nav from "@/components/Nav";
 import CreditClicks from "@/components/CreditClicks";
+import Analytics from "@/components/Analytics";
 
 const OG_LOCALES: Record<string, string> = {
   en: "en_US",
@@ -81,6 +82,7 @@ export default async function LocaleLayout({
         <JsonLd data={organizationJsonLd()} />
       </head>
       <body>
+        <Analytics />
         <NextIntlClientProvider>
           <a className="skip-link" href="#main">
             {t("skip")}

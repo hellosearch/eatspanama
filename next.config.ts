@@ -14,13 +14,17 @@ const csp = [
   // that is the "eval() is not supported" console error. A production build
   // never calls eval(), so the prod header stays hardened as
   // `script-src 'self' 'unsafe-inline'`.
-  `script-src 'self' 'unsafe-inline'${process.env.NODE_ENV !== "production" ? " 'unsafe-eval'" : ""}`,
+  // googletagmanager.com hosts GA4's gtag.js (loaded only when NEXT_PUBLIC_GA_ID
+  // is set - see src/components/Analytics.tsx).
+  `script-src 'self' 'unsafe-inline' https://www.googletagmanager.com${process.env.NODE_ENV !== "production" ? " 'unsafe-eval'" : ""}`,
   "style-src 'self' 'unsafe-inline'",
   // OpenStreetMap raster tiles power the interactive Leaflet discovery map
   // (leaflet renders tiles as <img>). No API key / billing (non-commercial).
-  "img-src 'self' data: blob: https://*.tile.openstreetmap.org",
+  // GA4 also sends some hits as image beacons.
+  "img-src 'self' data: blob: https://*.tile.openstreetmap.org https://www.googletagmanager.com https://*.google-analytics.com",
   "font-src 'self' data:",
-  "connect-src 'self'",
+  // GA4 collect beacons (google-analytics.com / region1 / analytics.google.com).
+  "connect-src 'self' https://*.google-analytics.com https://*.analytics.google.com https://www.googletagmanager.com",
   // Keyless Google Maps embed on venue profiles (maps.google.com/...&output=embed).
   "frame-src https://www.openstreetmap.org https://maps.google.com https://www.google.com",
   "frame-ancestors 'self'",
