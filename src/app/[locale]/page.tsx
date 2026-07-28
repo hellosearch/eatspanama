@@ -10,7 +10,7 @@ import { getEditorsPicks } from "@/lib/picks";
 import { routing } from "@/i18n/routing";
 import SearchCard from "@/components/SearchCard";
 import BrowseSwitcher, { type BrowseAxis } from "@/components/BrowseSwitcher";
-import EditorsCarousel from "@/components/EditorsCarousel";
+import HeroWall from "@/components/HeroWall";
 import EssentialsBand from "@/components/EssentialsBand";
 import RestaurantMap, { type MapPin } from "@/components/RestaurantMap";
 import Footer from "@/components/Footer";
@@ -32,7 +32,8 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
     getGuides(),
     getNeighborhoods(),
   ]);
-  const picks = getEditorsPicks(8, locale);
+  // 9 picks tile the mosaic exactly (1 featured 2x2 + 8 singles = 3 cols x 4 rows).
+  const picks = getEditorsPicks(9, locale);
 
   // Occasion tiles are the real /good-for/ facets (biggest first); the full set
   // of 27 lives on the good-for index, which the "see all" link points at.
@@ -119,9 +120,12 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
 
   return (
     <>
-      {/* HERO - text first in DOM, collage beside */}
-      <div className="hero">
-        <div className="hero-copy">
+      {/* HERO - "The Wall": text-first search rail (dark) + a gap-free mosaic of
+          this week's editors' picks. H1 + intro + search render first in the DOM
+          and sit in the first viewport, so the text-above-the-fold SEO rule holds
+          even though the picks now own most of the space. */}
+      <section className="hero-wall">
+        <div className="hw-rail">
           <div className="hero-kicker">
             <CountPill href={withLocale(locale, cityPath("panama-city", locale))}>{t("spotsVerified", { count: hoods.length })}</CountPill>
             <CountPill href={withLocale(locale, guidesIndexPath())}>{t("guideCount", { count: guides.length })}</CountPill>
@@ -141,25 +145,18 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
             buttonLabel={t("searchButton")}
             ariaLabel={t("searchAria")}
           />
-          {/* Tabbed browse switcher: cravings / neighborhoods / cuisines /
-              dishes, text pills that swap per tab. Every pill is a real link;
-              the footer carries the full set. */}
+          {/* Tabbed browse switcher: neighborhoods / cuisines, text pills that
+              swap per tab. Every pill is a real link; the footer carries the
+              full set. */}
           <BrowseSwitcher browseLabel={t("browseLabel")} axes={browseAxes} />
+          {/* Brand signature - the honesty promise folded into the brand voice
+              (not fine print), so a first-time visitor remembers who we are. */}
+          <p className="hw-sig">{t("brandLine")}</p>
         </div>
 
-        {/* Editors'-picks carousel replaces the decorative collage: real,
-            human-chosen venues, each credited, rotating and clickable. */}
-        <div className="hero-feature">
-          {picks.length > 0 && (
-            <EditorsCarousel
-              picks={picks}
-              locale={locale}
-              eyebrow={t("pickEyebrow")}
-              pickLabel={t("pickLabel")}
-            />
-          )}
-        </div>
-      </div>
+        {/* The mosaic: real, human-chosen venues, each credited and clickable. */}
+        <HeroWall picks={picks} locale={locale} pickLabel={t("pickLabel")} />
+      </section>
 
       {/* THE ESSENTIALS - canonical "start here" shortlist; excludes the venues
           already in the carousel so no restaurant/photo repeats on the page. */}
