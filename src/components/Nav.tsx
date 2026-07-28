@@ -75,9 +75,8 @@ export default async function Nav({ locale }: { locale: string }) {
           allHref={guidesIndexPath()}
           allLabel={t("allGuides")}
         />
-        <Link href="/newsletter/" className="nav-newsletter">
-          {t("newsletter")}
-        </Link>
+        {/* Newsletter removed from the nav for now (Chris - not needed yet). The
+            /newsletter page still exists; it's just not surfaced in the menu. */}
       </nav>
       <div className="right">
         <LangToggle />

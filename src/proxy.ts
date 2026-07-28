@@ -40,15 +40,16 @@ export default function proxy(request: NextRequest) {
   // and use the on-page EN|ES toggle instead (see i18n/routing.ts).
   if (pathname === "/") {
     const cookie = request.cookies.get("NEXT_LOCALE")?.value;
-    // Stored choice wins; otherwise detect from browser (then geo).
-    const wantEs = cookie === "es" || (!cookie && prefersSpanish(request));
-    if (wantEs) {
+    // Auto-select the language ONLY on the very first visit (no cookie yet).
+    // After that we never force a redirect - otherwise `/` -> `/es/` traps the
+    // Back button (Back lands on `/`, which instantly re-redirects) and defeats
+    // the EN toggle. Once detected we drop a cookie and let the user navigate
+    // and switch languages freely.
+    if (!cookie && prefersSpanish(request)) {
       const url = request.nextUrl.clone();
       url.pathname = "/es";
       const res = NextResponse.redirect(url);
-      // Remember the choice so we do not re-redirect and so the manual toggle
-      // (which sets NEXT_LOCALE) is always respected.
-      if (!cookie) res.cookies.set("NEXT_LOCALE", "es", { path: "/", maxAge: 60 * 60 * 24 * 365 });
+      res.cookies.set("NEXT_LOCALE", "es", { path: "/", maxAge: 60 * 60 * 24 * 365 });
       return res;
     }
   }
