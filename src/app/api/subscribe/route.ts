@@ -44,6 +44,31 @@ async function storeContact(key: string, audienceId: string, email: string): Pro
   }
 }
 
+/** Best-effort welcome to the new subscriber. Only fires once a verified sender
+ *  is configured (RESEND_WELCOME_FROM, e.g. "EatsPanama <hello@eatspanama.com>");
+ *  needs eatspanama.com verified in Resend to reach arbitrary addresses. */
+async function sendWelcome(key: string, email: string, locale: string): Promise<void> {
+  const from = process.env.RESEND_WELCOME_FROM;
+  if (!from) return;
+  const es = locale === "es";
+  try {
+    await fetch("https://api.resend.com/emails", {
+      method: "POST",
+      headers: { Authorization: `Bearer ${key}`, "Content-Type": "application/json" },
+      body: JSON.stringify({
+        from,
+        to: [email],
+        subject: es ? "Bienvenido a EatsPanama" : "Welcome to EatsPanama",
+        text: es
+          ? "Gracias por suscribirte a EatsPanama. Una vez por semana te enviaremos dónde comer en la Ciudad de Panamá: lugares nuevos, listas y lo que vale la pena. Sin pagos por aparecer.\n\nEatsPanama\nhttps://eatspanama.com"
+          : "Thanks for subscribing to EatsPanama. Once a week we'll send you where to eat in Panama City: new spots, short lists, and what's worth it. No paid placements.\n\nEatsPanama\nhttps://eatspanama.com",
+      }),
+    });
+  } catch (e) {
+    console.error("subscribe: welcome send error", e);
+  }
+}
+
 /** Fallback: email the signup to the capture inbox. */
 async function notifyEmail(key: string, email: string, locale: string): Promise<boolean> {
   try {
@@ -103,6 +128,9 @@ export async function POST(req: Request) {
   const ok = audienceId
     ? await storeContact(key, audienceId, email)
     : await notifyEmail(key, email, locale);
+
+  // Welcome the subscriber (no-op until a verified sender is configured).
+  if (ok && audienceId) await sendWelcome(key, email, locale);
 
   return respond(req, ok, locale, ok ? undefined : "send");
 }
