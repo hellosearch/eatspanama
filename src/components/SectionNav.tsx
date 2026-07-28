@@ -10,7 +10,15 @@ import { useEffect, useState, type MouseEvent } from "react";
  * via IntersectionObserver highlights the current section. Desktop only (hidden
  * < 1200px via CSS).
  */
-export default function SectionNav({ title }: { title: string }) {
+export default function SectionNav({
+  title,
+  part = "all",
+}: {
+  title: string;
+  /** Render only the desktop rail TOC, only the mobile chip bar, or both. Lets
+   *  the caller place the mobile bar AFTER the venue name/photo (not above it). */
+  part?: "all" | "desktop" | "mobile";
+}) {
   const [items, setItems] = useState<{ id: string; label: string }[]>([]);
   const [active, setActive] = useState("");
 
@@ -58,27 +66,32 @@ export default function SectionNav({ title }: { title: string }) {
   return (
     <>
       {/* Desktop: sticky vertical TOC in the rail. */}
-      <nav className="section-nav" aria-label={title}>
-        <p className="sn-title">{title}</p>
-        <ul>
+      {part !== "mobile" && (
+        <nav className="section-nav" aria-label={title}>
+          <p className="sn-title">{title}</p>
+          <ul>
+            {items.map((it) => (
+              <li key={it.id}>
+                <a href={`#${it.id}`} className={active === it.id ? "active" : ""} onClick={(e) => jump(e, it.id)}>
+                  {it.label}
+                </a>
+              </li>
+            ))}
+          </ul>
+        </nav>
+      )}
+      {/* Mobile/tablet (< 1200px): a sticky horizontal tab bar so a long profile
+          still has jump-nav on a phone. Placed by the caller AFTER the venue
+          name + cover so you see the restaurant first, then the nav. */}
+      {part !== "desktop" && (
+        <nav className="section-nav-m" aria-label={title}>
           {items.map((it) => (
-            <li key={it.id}>
-              <a href={`#${it.id}`} className={active === it.id ? "active" : ""} onClick={(e) => jump(e, it.id)}>
-                {it.label}
-              </a>
-            </li>
+            <a key={it.id} href={`#${it.id}`} className={active === it.id ? "active" : ""} onClick={(e) => jump(e, it.id)}>
+              {it.label}
+            </a>
           ))}
-        </ul>
-      </nav>
-      {/* Mobile/tablet (< 1200px, where the vertical TOC is hidden): a sticky
-          horizontal chip bar so a long profile still has jump-nav on a phone. */}
-      <nav className="section-nav-m" aria-label={title}>
-        {items.map((it) => (
-          <a key={it.id} href={`#${it.id}`} className={active === it.id ? "active" : ""} onClick={(e) => jump(e, it.id)}>
-            {it.label}
-          </a>
-        ))}
-      </nav>
+        </nav>
+      )}
     </>
   );
 }

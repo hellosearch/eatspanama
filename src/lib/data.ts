@@ -326,12 +326,15 @@ interface Scored {
   doc: VenueDoc;
   matched: number;
   raw: number;
-  strong: boolean; // matched a real field (name/cuisine/tag/dish/hood), not prose-only
+  strong: boolean; // matched an identity field (name/cuisine/tag), not just a dish/hood/prose mention
 }
-// A "strong" match hit a content field, not just prose. Below this (prose = 1) a
-// venue merely MENTIONS the term in its blurb - it should never be counted in
-// "N places serve {q}" (that produced "747 places serve sushi" against ~792).
-const STRONG_MIN = W.dish; // 4
+// A "strong" match hit an IDENTITY field - the venue's name, its cuisine, or a
+// tag - i.e. the venue genuinely IS the thing searched. A term that merely
+// appears in a dish name (a burger with "Thai peanut sauce"), a neighborhood, or
+// the blurb is NOT strong: those pollute a cuisine query like "Thai" with random
+// burgers/cafes. When any strong match exists we show only those; otherwise we
+// still fall back to the looser matches, so dish/hood searches keep working.
+const STRONG_MIN = W.tag; // 7 (name=10, cuisine=7, tag=7 qualify; dish/hood/dietary=4 and prose=1 do not)
 /** Score every venue against the query. OR semantics; rank by token coverage. */
 function scoreQuery(q: string): Scored[] {
   const qTokens = tokenize(q);

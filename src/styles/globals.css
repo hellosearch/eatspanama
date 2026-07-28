@@ -1656,31 +1656,33 @@ footer.site-footer.slim .foot-bottom {
 @media (max-width: 1199px) {
   .section-nav-m {
     display: flex;
-    gap: 8px;
+    gap: 20px;
     overflow-x: auto;
     scrollbar-width: none;
     position: sticky;
     top: 0;
     z-index: 30;
-    margin: 0 calc(-1 * var(--spacing-page-x)) 16px;
-    padding: 10px var(--spacing-page-x);
-    background: var(--color-paper);
+    margin: 4px calc(-1 * var(--spacing-page-x)) 18px;
+    padding: 2px var(--spacing-page-x) 0;
+    background: color-mix(in srgb, var(--color-paper) 92%, transparent);
+    backdrop-filter: saturate(1.2) blur(6px);
     border-bottom: 1px solid var(--color-line);
   }
   .section-nav-m::-webkit-scrollbar { display: none; }
+  /* Underline-style tabs (not filled pills): reads as section navigation. */
   .section-nav-m a {
     flex: none;
     white-space: nowrap;
     font-family: var(--font-display);
-    font-weight: 700;
-    font-size: 12.5px;
-    color: var(--color-ink-soft);
+    font-weight: 600;
+    font-size: 13px;
+    color: var(--color-gray);
     text-decoration: none;
-    padding: 6px 12px;
-    border: 1px solid var(--color-line);
-    border-radius: var(--radius-pill);
+    padding: 11px 1px 10px;
+    border-bottom: 2px solid transparent;
+    transition: color 0.12s ease, border-color 0.12s ease;
   }
-  .section-nav-m a.active { background: var(--color-ink); color: #fff; border-color: var(--color-ink); }
+  .section-nav-m a.active { color: var(--color-ink); border-bottom-color: var(--color-accent); }
 }
 .sn-title {
   font-family: var(--font-display);
@@ -2019,6 +2021,11 @@ h2.p-sec {
   display: flex;
   align-items: center;
   gap: 11px;
+}
+/* Phones: tighten the per-section gap (was 44+22px above every heading, which
+   stacked into a lot of dead space across a long profile - Chris). */
+@media (max-width: 768px) {
+  h2.p-sec { margin-top: 26px; padding-top: 16px; font-size: 20px; }
 }
 /* Subtle accent icon beside each section heading (engagement, Chris). */
 .sec-ic {
@@ -2956,9 +2963,28 @@ h1.res-count .q {
   .listing-head {
     grid-template-columns: 1fr;
   }
-  .lh-media {
-    grid-template-rows: 150px 150px;
+  /* Mobile: drop the hero visual entirely so restaurants surface sooner (Chris).
+     The copy is the 1st child; the visual (photo / mosaic / branded hero) is the
+     2nd, whichever branch rendered. */
+  .listing-head > :last-child { display: none; }
+  /* Cuisine chips scroll sideways instead of wrapping into a tall block.
+     Scoped under .listing-head to outrank the base .lh-chips rule (which sits
+     later in the file and would otherwise win flex-wrap at equal specificity). */
+  .listing-head .lh-chips {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    scrollbar-width: none;
+    margin-right: calc(-1 * var(--spacing-page-x));
+    padding-right: var(--spacing-page-x);
   }
+  .listing-head .lh-chips::-webkit-scrollbar { display: none; }
+  .listing-head .lh-chip { flex: none; }
+  /* Tighten the intro + the full-list heading on mobile so the restaurant list
+     surfaces sooner (the hero photo used to fill this space). */
+  .lh-intro { display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+  .block-discovery { padding-top: 22px; }
+  .block-discovery .sec-head { margin-bottom: 10px; }
+  .block-discovery .sec-sub { display: none; }
   .profile-grid,
   .results-grid,
   .nl-hero {
@@ -4124,6 +4150,8 @@ a.lh-chip:hover {
    ============================================================ */
 .discovery { position: relative; }
 .disc-bar { display: none; }
+/* Mobile-only search (desktop keeps the rail search). Shown at <=980px below. */
+.disc-msearch { display: none; }
 
 /* Desktop: the discovery band breaks out of the 1280px shell to full width
    (map-search wants room), while the rest of the page stays in the shell. */
@@ -4274,7 +4302,11 @@ a.lh-chip:hover {
 
 /* Mobile: filter drawer + List/Map toggle */
 @media (max-width: 980px) {
-  .disc-bar { display: flex; gap: 12px; align-items: center; justify-content: space-between; margin-bottom: 14px; }
+  .disc-bar { display: flex; gap: 12px; align-items: center; justify-content: space-between; margin-bottom: 12px; }
+  .disc-msearch { display: flex; align-items: center; gap: 9px; border: 1.5px solid var(--color-ink); border-radius: 12px; padding: 10px 13px; margin-bottom: 14px; background: var(--color-paper); }
+  .disc-msearch svg { width: 17px; height: 17px; color: var(--color-ink-soft); flex: none; }
+  .disc-msearch input { flex: 1; border: none; outline: none; background: none; font-family: var(--font-body); font-size: 15px; color: var(--color-ink); min-width: 0; }
+  .disc-msearch input::placeholder { color: var(--color-gray); }
   .disc-filters-btn { font-family: var(--font-display); font-weight: 600; font-size: 13px; padding: 9px 18px; border: 1px solid var(--color-line); border-radius: 999px; background: var(--color-paper); cursor: pointer; }
   .disc-toggle { display: inline-flex; border: 1px solid var(--color-line); border-radius: 999px; overflow: hidden; background: var(--color-paper); }
   .disc-toggle button { font-family: var(--font-display); font-weight: 600; font-size: 13px; padding: 8px 20px; background: transparent; border: none; cursor: pointer; color: var(--color-gray); }
@@ -5070,6 +5102,14 @@ a.drow:hover .dmore i { transform: translateX(3px); }
     box-shadow: 0 -6px 20px rgba(16, 16, 20, 0.1);
   }
   .prof-mobilebar > * { flex: 1; }
+  /* Save toggle in the bar: compact square at the end, not the card-corner chip. */
+  .prof-mobilebar .save-chip {
+    position: static; flex: 0 0 auto; width: 52px; height: auto; align-self: stretch;
+    border: 1.5px solid var(--color-line); border-radius: 12px;
+    background: var(--color-paper); color: var(--color-ink); box-shadow: none;
+  }
+  .prof-mobilebar .save-chip.on { border-color: var(--color-accent); color: var(--color-accent-deep); background: rgba(255, 90, 31, 0.06); }
+  .prof-mobilebar .save-chip svg { width: 20px; height: 20px; }
   /* keep the footer's last rows clear of the fixed bar */
   .prof-mobilebar ~ .site-footer { padding-bottom: 84px; }
 }

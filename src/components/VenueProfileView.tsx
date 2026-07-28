@@ -341,8 +341,9 @@ export default async function VenueProfileView({
       )}
 
       <div className="profile-grid">
-        {/* STICKY SECTION NAV (desktop only; self-scans the rendered sections) */}
-        <SectionNav title={t("onThisPage")} />
+        {/* Desktop rail TOC (grid column). The MOBILE tab bar renders below, after
+            the venue name + cover, so the phone shows the restaurant first. */}
+        <SectionNav title={t("onThisPage")} part="desktop" />
         {/* LEFT: assembled editorial content */}
         <div className="profile">
           {!isPremium && (
@@ -418,6 +419,10 @@ export default async function VenueProfileView({
               )}
             </div>
           )}
+
+          {/* Mobile jump-nav: sticky tab bar placed AFTER the name + cover (Chris:
+              the anchor links were sitting above the venue). Desktop uses the rail. */}
+          <SectionNav title={t("onThisPage")} part="mobile" />
 
           {/* Premium intro line (the film hero carries no tagline, so the hook
               leads the text here - above the fold, first in the reading column). */}
@@ -902,6 +907,9 @@ export default async function VenueProfileView({
           <SendIcon />
           {t("directions")}
         </ButtonLink>
+        {/* Save is always reachable on mobile too (was previously only in the
+            desktop rail / buried at the page bottom). */}
+        <SaveButton venue={savedVenue} locale={locale} variant="chip" />
       </div>
 
       {/* CLAIM STRIP */}

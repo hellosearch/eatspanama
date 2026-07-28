@@ -6,7 +6,7 @@ import type { ClientVenue } from "@/lib/client-photo";
 import { VenueCard } from "@/components/cards";
 import RestaurantMap, { type MapPin, type MapBounds } from "@/components/RestaurantMap";
 import { cleanCuisine, priceGlyphs } from "@/lib/format";
-import { MapPin as MapPinIcon } from "@/components/icons";
+import { MapPin as MapPinIcon, SearchIcon } from "@/components/icons";
 
 export interface DiscoveryLabels {
   list: string;
@@ -394,6 +394,20 @@ export default function DiscoveryView({
   return (
     <div className={`discovery mobile-${mobileView}${railOpen ? " rail-open" : ""}`}>
       <span id="disc-top" aria-hidden="true" />
+
+      {/* Mobile-only search, always visible and FIRST (the full search lives in
+          the Filters drawer, which is hidden until opened - Chris: surface search
+          on mobile, seen more). */}
+      <div className="disc-msearch">
+        <SearchIcon />
+        <input
+          type="search"
+          value={query}
+          placeholder={labels.searchPlaceholder}
+          onChange={(e) => { setQuery(e.target.value); setPage(1); }}
+          aria-label={labels.searchPlaceholder}
+        />
+      </div>
 
       <div className="disc-bar">
         <button className="disc-filters-btn" onClick={() => setRailOpen((v) => !v)}>

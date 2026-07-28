@@ -27,3 +27,9 @@ _dev.log
 insp_*.jpg
 src/data/venues.bak-es/
 _*.txt
+
+# Playwright MCP session artifacts (screenshots, snapshots, console logs)
+.playwright-mcp/
+*.playwright-mcp
+casco-after.jpg
+mobile-mockup-verify.png

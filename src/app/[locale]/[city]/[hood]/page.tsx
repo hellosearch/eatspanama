@@ -153,14 +153,20 @@ export default async function ListingPage({ params }: { params: Promise<Params> 
     if (!c) continue;
     cuisineCounts.set(c, (cuisineCounts.get(c) ?? 0) + 1);
   }
+  // Generic buckets (International, Bar, Cafe...) are usually the top raw counts
+  // but the least useful thing to tap - a diner wants specific cuisines. So rank
+  // specific cuisines first (by count), then the generic ones, and show more of
+  // them (Chris: "update to the popular", scrollable on mobile).
+  const GENERIC_CUISINE = new Set(["international", "bar", "cafe", "café", "fast food", "food", "takeaway", "restaurant"]);
   const cuisineHub = [...cuisineCounts.entries()]
     .sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]))
-    .slice(0, 8)
-    .map(([title, count]) => ({ title, count, seg: slugify(title) }));
+    .map(([title, count]) => ({ title, count, seg: slugify(title), generic: GENERIC_CUISINE.has(title.toLowerCase()) }))
+    .sort((a, b) => Number(a.generic) - Number(b.generic)) // stable: specific first, generic last
+    .slice(0, 10);
 
-  // Hero quick-nav chips: the top cuisines, linked to their hub page when it
-  // exists (Chris: move the pills under the intro as useful filter links).
-  const heroCuisines = cuisineHub.slice(0, 5).map((c) => ({
+  // Hero quick-nav chips: the top (specific-first) cuisines, linked to their hub
+  // page when it exists. Horizontally scrollable on mobile.
+  const heroCuisines = cuisineHub.slice(0, 8).map((c) => ({
     ...c,
     href: cuisineHubExists(hood.slug, c.seg)
       ? withLocale(locale, cuisineHubPath(hood.city_slug, hood.slug, c.seg, locale))
