@@ -38,6 +38,17 @@ function keyFor(url: string): string {
   return createHash("sha1").update(url).digest("hex").slice(0, 10);
 }
 
+/**
+ * Non-dataset outbound links that still route through the gateway so they stay
+ * non-crawlable but clickable (same treatment as photo credits). The OSM tile
+ * licence requires a visible "© OpenStreetMap" credit that links to this page;
+ * routing it through /go/ keeps the map from carrying a crawlable outbound link.
+ * If you add one here, its /go/<key> resolves; the key is keyFor(url).
+ */
+export const STATIC_CREDIT_LINKS = {
+  osmCopyright: "https://www.openstreetmap.org/copyright",
+} as const;
+
 /** key -> external URL, built once from every credit in the dataset. */
 const registry: Map<string, string> = (() => {
   const m = new Map<string, string>();
@@ -50,6 +61,7 @@ const registry: Map<string, string> = (() => {
     add(n.photo?.credit_url);
     for (const p of n.media ?? []) add(p.credit_url);
   }
+  for (const url of Object.values(STATIC_CREDIT_LINKS)) add(url);
   return m;
 })();
 

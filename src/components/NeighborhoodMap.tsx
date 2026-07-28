@@ -34,7 +34,10 @@ export default function NeighborhoodMap({ areas, className = "rmap" }: { areas: 
       mapRef.current = map;
       L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
         maxZoom: 19,
-        attribution: "&copy; OpenStreetMap contributors",
+        // OSM credit via the /go/ gateway: clickable but non-crawlable (see
+        // RestaurantMap + credit-link.ts STATIC_CREDIT_LINKS.osmCopyright).
+        attribution:
+          '<a href="/go/325efde5d5/" rel="nofollow noopener noreferrer" target="_blank">&copy; OpenStreetMap contributors</a>',
       }).addTo(map);
 
       const esc = (s: string) => s.replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c] as string));

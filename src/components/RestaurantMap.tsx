@@ -159,7 +159,11 @@ export default function RestaurantMap({
       mapRef.current = map;
       Lm.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
         maxZoom: 19,
-        attribution: "&copy; OpenStreetMap contributors",
+        // Required OSM credit, routed through the /go/ gateway like photo credits:
+        // clickable for people, but non-crawlable (robots-Disallowed + nofollow,
+        // real URL never in the doc). Key = keyFor(STATIC_CREDIT_LINKS.osmCopyright).
+        attribution:
+          '<a href="/go/325efde5d5/" rel="nofollow noopener noreferrer" target="_blank">&copy; OpenStreetMap contributors</a>',
       }).addTo(map);
       const cluster = (Lm as unknown as { markerClusterGroup: (o?: unknown) => import("leaflet").MarkerClusterGroup }).markerClusterGroup({
         showCoverageOnHover: false,
