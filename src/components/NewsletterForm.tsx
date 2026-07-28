@@ -38,6 +38,9 @@ export default function NewsletterForm({
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ email, locale, company }),
       });
+      if (r.ok) {
+        (window as unknown as { gtag?: (...a: unknown[]) => void }).gtag?.("event", "newsletter_signup", { method: "site" });
+      }
       setStatus(r.ok ? "ok" : "err");
     } catch {
       setStatus("err");

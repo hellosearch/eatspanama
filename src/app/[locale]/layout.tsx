@@ -11,6 +11,7 @@ import JsonLd from "@/components/JsonLd";
 import Nav from "@/components/Nav";
 import CreditClicks from "@/components/CreditClicks";
 import Analytics from "@/components/Analytics";
+import GaEvents from "@/components/GaEvents";
 
 const OG_LOCALES: Record<string, string> = {
   en: "en_US",
@@ -95,6 +96,8 @@ export default async function LocaleLayout({
               credits are <button>s, not links, so crawlers find nothing to
               follow; this is what makes them work for people. */}
           <CreditClicks />
+          {/* One delegated listener that sends GA4 events for data-ga-event clicks. */}
+          <GaEvents />
         </NextIntlClientProvider>
       </body>
     </html>

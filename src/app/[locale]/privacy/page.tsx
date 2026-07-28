@@ -29,7 +29,10 @@ const COPY = {
     dontBody:
       "we don't sell your personal data; we don't run invasive ad trackers on you; the newsletter is opt-in and one-click unsubscribe.",
     cookiesLabel: "Cookies:",
-    cookiesBody: "minimal - what's needed to run the site and measure aggregate traffic.",
+    cookiesBody: "minimal - what's needed to run the site, plus Google Analytics cookies to measure aggregate traffic.",
+    processorsLabel: "Who processes your data:",
+    processorsBody:
+      "Google Analytics 4, for anonymous, aggregate traffic measurement (IP addresses are anonymized); and Resend, to store your newsletter signup and send the newsletter if you subscribe. We don't sell your data to anyone.",
     contactLabel: "Contact:",
     contactBody: "to ask what we hold or to be removed.",
     draftNote:
@@ -49,7 +52,10 @@ const COPY = {
     dontBody:
       "no vendemos tus datos personales; no usamos rastreadores publicitarios invasivos; el boletín es voluntario y te puedes dar de baja con un clic.",
     cookiesLabel: "Cookies:",
-    cookiesBody: "mínimas - solo las necesarias para operar el sitio y medir el tráfico de forma agregada.",
+    cookiesBody: "mínimas - las necesarias para operar el sitio, más las cookies de Google Analytics para medir el tráfico de forma agregada.",
+    processorsLabel: "Quién procesa tus datos:",
+    processorsBody:
+      "Google Analytics 4, para medir el tráfico de forma anónima y agregada (las direcciones IP se anonimizan); y Resend, para guardar tu suscripción al boletín y enviarte el boletín si te suscribes. No vendemos tus datos a nadie.",
     contactLabel: "Contacto:",
     contactBody: "para preguntar qué información tenemos sobre ti o para pedir que la eliminemos.",
     draftNote:
@@ -108,6 +114,9 @@ export default async function PrivacyPage({
           </li>
           <li>
             <b>{c.cookiesLabel}</b> {c.cookiesBody}
+          </li>
+          <li>
+            <b>{c.processorsLabel}</b> {c.processorsBody}
           </li>
           <li>
             <b>{c.contactLabel}</b> <a href="mailto:privacy@eatspanama.com">privacy@eatspanama.com</a>{" "}

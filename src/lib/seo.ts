@@ -42,6 +42,27 @@ export function enOnlyAlternates(path: string = "") {
 export const SITE_URL = SITE;
 export const SITE_NAME = "EatsPanama";
 
+/** og:locale per site locale (Facebook/OG region tags, distinct from hreflang). */
+const OG_LOCALES: Record<string, string> = { en: "en_US", es: "es_PA" };
+
+/**
+ * The og:type / og:site_name / og:locale block every page should carry. Pages
+ * REPLACE (not merge) openGraph per segment, so each generateMetadata spreads
+ * this into its openGraph to keep these tags (they were previously only on the
+ * homepage). Spread FIRST so page title/description/url override.
+ */
+export function ogBase(locale: string) {
+  const l = OG_LOCALES[locale] ?? OG_LOCALES.en;
+  return {
+    type: "website" as const,
+    siteName: SITE_NAME,
+    locale: l,
+    alternateLocale: Object.entries(OG_LOCALES)
+      .filter(([k]) => k !== locale)
+      .map(([, v]) => v),
+  };
+}
+
 /**
  * Clamp prose to a meta-description length WITHOUT cutting mid-word. A plain
  * `.slice(0, 158)` left ~1,365 venue + neighborhood pages ending on a fragment

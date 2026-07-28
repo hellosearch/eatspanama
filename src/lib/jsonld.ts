@@ -25,6 +25,15 @@ export function organizationJsonLd(): JsonLd {
         "@type": "WebSite",
         name: SITE_NAME,
         url: SITE_URL,
+        // Enables the Google sitelinks search box (search the site from the SERP).
+        potentialAction: {
+          "@type": "SearchAction",
+          target: {
+            "@type": "EntryPoint",
+            urlTemplate: `${SITE_URL}/search/?q={search_term_string}`,
+          },
+          "query-input": "required name=search_term_string",
+        },
       },
     ],
   };
@@ -124,11 +133,19 @@ export function restaurantJsonLd(venue: Venue, url: string, hoodName: string): J
   };
 }
 
-/** ItemList of Restaurant items for listing pages. */
+/**
+ * Lightweight ItemList for listing pages (neighborhood / cuisine / good-for).
+ * Each ListItem is just position + url + name - the "summary page" pattern:
+ * Google follows the url to each venue's own page, which carries the full
+ * Restaurant + address + geo + hours schema (restaurantJsonLd). Inlining the
+ * full entity for all ~230 venues here added ~1.9MB of HTML per big listing
+ * (crawl-budget + LCP cost) with no rich-result benefit over the detail pages.
+ * `_hoodName` is retained for call-site compatibility.
+ */
 export function venueItemListJsonLd(
   venuesOnPage: Venue[],
   urlFor: (v: Venue) => string,
-  hoodName: string,
+  _hoodName: string,
   totalCount: number
 ): JsonLd {
   return {
@@ -138,7 +155,8 @@ export function venueItemListJsonLd(
     itemListElement: venuesOnPage.map((v, i) => ({
       "@type": "ListItem",
       position: i + 1,
-      item: restaurantJsonLd(v, urlFor(v), hoodName),
+      url: urlFor(v),
+      name: v.name,
     })),
   };
 }

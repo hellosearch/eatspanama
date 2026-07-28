@@ -56,7 +56,7 @@ export function WhatsAppButton({
   size?: Size;
 }) {
   return (
-    <ButtonLink variant="wa" size={size} href={href} target="_blank" rel="noopener noreferrer">
+    <ButtonLink variant="wa" size={size} href={href} target="_blank" rel="noopener noreferrer" data-ga-event="whatsapp_click">
       <WhatsAppIcon size={size === "card" ? 14 : size === "mini" ? 15 : 18} />
       {label}
     </ButtonLink>

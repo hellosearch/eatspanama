@@ -21,7 +21,7 @@ import { assertNoVenueHoodCollision } from "@/lib/collisions";
 import { brands, getBrand } from "@/lib/brands";
 import { brandOf } from "@/lib/brands";
 import { cleanCuisine, formatMonth, guideUpdated, slugify } from "@/lib/format";
-import { pairedAlternates, indexable, clampDescription } from "@/lib/seo";
+import { pairedAlternates, indexable, clampDescription, ogBase } from "@/lib/seo";
 import { neighborhoodFaqs } from "@/lib/faq";
 import { venueItemListJsonLd } from "@/lib/jsonld";
 import Breadcrumb from "@/components/Breadcrumb";
@@ -92,7 +92,7 @@ export async function generateMetadata({ params }: { params: Promise<Params> }):
     title,
     description,
     alternates,
-    openGraph: { title, description, url: alternates.canonical },
+    openGraph: { ...ogBase(locale), title, description, url: alternates.canonical },
     robots: indexable(),
   };
 }

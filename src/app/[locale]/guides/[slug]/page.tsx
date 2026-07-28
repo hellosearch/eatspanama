@@ -4,7 +4,7 @@ import { notFound } from "next/navigation";
 import { setRequestLocale } from "next-intl/server";
 import { allNeighborhoods, getGuide, getGuides, getVenue, guides } from "@/lib/data";
 import { absoluteUrl, cityPath, listingPath, venuePath, withLocale } from "@/lib/paths";
-import { localeAlternates, indexable } from "@/lib/seo";
+import { localeAlternates, indexable, ogBase } from "@/lib/seo";
 import { localizeGuide, localizeVenue } from "@/lib/localize";
 import { articleJsonLd, faqJsonLd } from "@/lib/jsonld";
 import { displayName, formatDishPrice, formatMonth, guideUpdated, priceGlyphs, whatsappUrl } from "@/lib/format";
@@ -103,6 +103,7 @@ export async function generateMetadata({ params }: { params: Promise<Params> }):
     description: guide.description_en,
     alternates,
     openGraph: {
+      ...ogBase(locale),
       title,
       description: guide.description_en,
       url: alternates.canonical,

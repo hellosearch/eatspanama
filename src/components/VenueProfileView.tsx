@@ -7,7 +7,7 @@ import { cuisineHubExists } from "@/lib/cuisines";
 import { perfectForFacets } from "@/lib/goodfor";
 import SaveButton from "@/components/SaveButton";
 import { absoluteUrl, cityPath, cuisineHubPath, goodForPath, listingPath, venuePath, withLocale } from "@/lib/paths";
-import { pairedAlternates, indexable, clampDescription } from "@/lib/seo";
+import { pairedAlternates, indexable, clampDescription, ogBase } from "@/lib/seo";
 import { venueFaqs } from "@/lib/faq";
 import { localizeVenue, localizeGuide } from "@/lib/localize";
 import { cuisineLabelEs } from "@/lib/hub-copy";
@@ -142,6 +142,7 @@ export async function venueMetadata(locale: string, venueSlug: string): Promise<
     description,
     alternates,
     openGraph: {
+      ...ogBase(locale),
       title,
       description,
       url: alternates.canonical,
@@ -640,6 +641,7 @@ export default async function VenueProfileView({
               href={venue.google_maps_url ?? mapsDirectionsUrl(venue.lat, venue.lng)}
               target="_blank"
               rel="noopener noreferrer"
+              data-ga-event="directions_click"
             >
               {t("getDirections")}
             </a>

@@ -6,7 +6,7 @@ import { getBrand } from "@/lib/brands";
 import { getCity } from "@/lib/data";
 import { allNeighborhoods } from "@/lib/data";
 import { absoluteUrl, cityPath, venuePath, withLocale } from "@/lib/paths";
-import { enOnlyAlternates, indexable } from "@/lib/seo";
+import { enOnlyAlternates, indexable, ogBase } from "@/lib/seo";
 import { cleanCuisine } from "@/lib/format";
 import Breadcrumb from "@/components/Breadcrumb";
 import Footer from "@/components/Footer";
@@ -27,7 +27,7 @@ export async function brandMetadata(locale: string, citySlug: string, slug: stri
     title,
     description,
     alternates,
-    openGraph: { title, description, url: alternates.canonical },
+    openGraph: { ...ogBase(locale), title, description, url: alternates.canonical },
     robots: indexable(),
   };
 }
