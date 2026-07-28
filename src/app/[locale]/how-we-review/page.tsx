@@ -39,7 +39,7 @@ const COPY = {
     description:
       "How EatsPanama works: an independent guide to eating in Panama, built from public sources, with a curated editorial layer in the works. No paid rankings, no star ratings, ever.",
     lead:
-      "EatsPanama is an independent guide to eating in Panama. We make money from restaurants who claim and upgrade their own listing and, later, from advertising that is always labelled - never from rankings or reviews. No restaurant can pay to rank higher, and we never publish star ratings.",
+      "EatsPanama is an independent guide to eating in Panama. No restaurant can pay to rank higher, and we never publish star ratings.",
     freshness: (m: string) =>
       `Directory hours were last refreshed ${m}. We recheck hours and closures on a rolling monthly basis, and every listing shows when it was last verified.`,
     h_pages: "Two kinds of pages",
@@ -84,10 +84,6 @@ const COPY = {
         q: "Where does EatsPanama's data come from?",
         a: "Restaurant names, locations, and hours come from public sources and are restated as facts. Menus, dishes, and what's-good notes come from each venue's own public channels and public write-ups, synthesized in our words. Maps are from OpenStreetMap. Photos on an unclaimed listing are a branded placeholder - real photos arrive when an owner claims the page or when we photograph a place ourselves.",
       },
-      {
-        q: "How does EatsPanama make money?",
-        a: "From restaurants who claim and upgrade their own listing and, later, from advertising that is always labelled - never from rankings or reviews.",
-      },
     ],
   },
   es: {
@@ -95,7 +91,7 @@ const COPY = {
     description:
       "Cómo funciona EatsPanama: una guía independiente para comer en Panamá, construida a partir de fuentes públicas, con una capa editorial curada en camino. Sin rankings pagados, sin calificaciones de estrellas, nunca.",
     lead:
-      "EatsPanama es una guía independiente para comer en Panamá. Ganamos dinero con los restaurantes que reclaman y mejoran su propio perfil y, más adelante, con publicidad siempre identificada como tal, nunca con rankings ni reseñas. Ningún restaurante puede pagar para posicionarse más arriba, y nunca publicamos calificaciones de estrellas.",
+      "EatsPanama es una guía independiente para comer en Panamá. Ningún restaurante puede pagar para posicionarse más arriba, y nunca publicamos calificaciones de estrellas.",
     freshness: (m: string) =>
       `Los horarios del directorio se actualizaron por última vez en ${m}. Revisamos horarios y cierres de forma continua cada mes, y cada perfil muestra cuándo se verificó por última vez.`,
     h_pages: "Dos tipos de páginas",
@@ -139,10 +135,6 @@ const COPY = {
       {
         q: "¿De dónde vienen los datos de EatsPanama?",
         a: "Los nombres, ubicaciones y horarios provienen de fuentes públicas y se presentan como hechos. Los menús, platos y notas de lo bueno provienen de los canales públicos de cada local y de reseñas públicas, sintetizados con nuestras palabras. Los mapas son de OpenStreetMap. Las fotos en un perfil no reclamado son un marcador de marca; las fotos reales llegan cuando un dueño reclama la página o cuando fotografiamos el lugar nosotros mismos.",
-      },
-      {
-        q: "¿Cómo gana dinero EatsPanama?",
-        a: "Con los restaurantes que reclaman y mejoran su propio perfil y, más adelante, con publicidad siempre identificada como tal, nunca con rankings ni reseñas.",
       },
     ],
   },

@@ -397,6 +397,20 @@ header.nav {
   border-radius: 50%;
   background: var(--color-accent);
 }
+/* Tappable kicker pills (homepage "15 neighborhoods" / "3 guides"). */
+a.count-pill-link {
+  text-decoration: none;
+  color: inherit;
+  cursor: pointer;
+  transition: border-color 0.15s ease, background 0.15s ease, transform 0.1s ease;
+}
+a.count-pill-link:hover {
+  border-color: var(--color-ink);
+  background: var(--color-fog);
+}
+a.count-pill-link:active {
+  transform: translateY(1px);
+}
 
 /* ---------- section scaffolding ---------- */
 section.block {
@@ -2198,6 +2212,20 @@ table.hours tr.today td:first-child::before {
   margin-right: 6px;
 }
 .guide-toc a.active .gt-n { color: var(--color-accent); }
+/* Guide mobile jump bar (<1200px): full-width sticky bar (guide-body is full
+   width on mobile, so no negative bleed like the venue nav needs), tabs inset
+   to the article gutter, number badge in accent. */
+@media (max-width: 1199px) {
+  .guide-toc-m {
+    margin: 0 0 18px;
+    padding: 2px var(--spacing-page-x) 0;
+  }
+  .guide-toc-m .gt-n {
+    color: var(--color-accent);
+    font-variant-numeric: tabular-nums;
+    margin-right: 5px;
+  }
+}
 @media (min-width: 1200px) {
   .guide-body {
     display: grid;
@@ -3580,11 +3608,10 @@ a.chip.price:hover {
   }
 }
 @media (max-width: 768px) {
-  /* Text-only menus stay 2-up on phones (dense, short items, less endless
-     scroll). Menus WITH photo thumbs go 1-up: a 78px thumb + name/price/desc
-     can't share a ~160px column without the track blowing past the container
-     and getting clipped (the "menu is off" bug). min-width:0 lets grid items
-     shrink instead of forcing an overflow in every case. */
+  /* Menu stays 2-up on phones (Chris). Photo dishes flip to a VERTICAL card
+     (photo on top, text below) so two fit per row without a 78px side-thumb
+     crushing the name/price/desc into ~70px and clipping (the "menu is off"
+     bug). min-width:0 lets the grid tracks shrink instead of overflowing. */
   .dish-grid {
     grid-template-columns: 1fr 1fr;
     gap: 10px;
@@ -3592,8 +3619,15 @@ a.chip.price:hover {
   .dish-grid > .dish {
     min-width: 0;
   }
-  .dish-grid:has(.dish.has-thumb) {
-    grid-template-columns: 1fr;
+  .dish-grid .dish.has-thumb {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 8px;
+  }
+  .dish-grid .dish.has-thumb .dish-thumb {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 4 / 3;
   }
   .brand-hero {
     padding: 26px 22px;

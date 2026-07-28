@@ -123,8 +123,8 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
       <div className="hero">
         <div className="hero-copy">
           <div className="hero-kicker">
-            <CountPill>{t("spotsVerified", { count: hoods.length })}</CountPill>
-            <CountPill>{t("guideCount", { count: guides.length })}</CountPill>
+            <CountPill href={withLocale(locale, cityPath("panama-city", locale))}>{t("spotsVerified", { count: hoods.length })}</CountPill>
+            <CountPill href={withLocale(locale, guidesIndexPath())}>{t("guideCount", { count: guides.length })}</CountPill>
           </div>
           <h1>
             {t("h1Pre")}

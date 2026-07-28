@@ -38,27 +38,40 @@ export default function GuideToc({
 
   if (items.length < 3) return null;
 
+  const jump = (e: React.MouseEvent, slug: string) => {
+    e.preventDefault();
+    document.getElementById(slug)?.scrollIntoView({ behavior: "smooth", block: "start" });
+    history.replaceState(null, "", `#${slug}`);
+  };
+
   return (
-    <nav className="section-nav guide-toc" aria-label={title}>
-      <p className="sn-title">{title}</p>
-      <ul>
+    <>
+      {/* Desktop (>=1200px): sticky vertical rail beside the article. */}
+      <nav className="section-nav guide-toc" aria-label={title}>
+        <p className="sn-title">{title}</p>
+        <ul>
+          {items.map((it, i) => (
+            <li key={it.slug}>
+              <a href={`#${it.slug}`} className={active === it.slug ? "active" : ""} onClick={(e) => jump(e, it.slug)}>
+                <span className="gt-n">{String(i + 1).padStart(2, "0")}</span>
+                {it.name}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </nav>
+      {/* Mobile/tablet (<1200px): sticky horizontal jump bar (same scrollspy),
+          matching the venue profile's section nav so a long guide keeps its
+          anchor nav pinned to the top while scrolling. Replaces the inline
+          TocCard on small screens. */}
+      <nav className="section-nav-m guide-toc-m" aria-label={title}>
         {items.map((it, i) => (
-          <li key={it.slug}>
-            <a
-              href={`#${it.slug}`}
-              className={active === it.slug ? "active" : ""}
-              onClick={(e) => {
-                e.preventDefault();
-                document.getElementById(it.slug)?.scrollIntoView({ behavior: "smooth", block: "start" });
-                history.replaceState(null, "", `#${it.slug}`);
-              }}
-            >
-              <span className="gt-n">{String(i + 1).padStart(2, "0")}</span>
-              {it.name}
-            </a>
-          </li>
+          <a key={it.slug} href={`#${it.slug}`} className={active === it.slug ? "active" : ""} onClick={(e) => jump(e, it.slug)}>
+            <span className="gt-n">{String(i + 1).padStart(2, "0")}</span>
+            {it.name}
+          </a>
         ))}
-      </ul>
-    </nav>
+      </nav>
+    </>
   );
 }

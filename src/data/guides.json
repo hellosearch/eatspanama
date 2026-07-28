@@ -2,13 +2,13 @@
  {
   "slug": "best-brunch-panama-city",
   "title_en": "Where to Eat Brunch in Panama City",
-  "description_en": "Twelve places for a late, slow breakfast in Panama City, chosen from every brunch room in our database and checked against their own opening hours.",
+  "description_en": "Twelve places for a late, slow breakfast in Panama City, chosen from every brunch room we cover and checked against their own opening hours.",
   "updated_iso": "2026-07-21",
   "published_iso": "2026-07-21",
   "intro_en": "Panama City does brunch across a wide range - specialty coffee rooms in Bella Vista, courtyard kitchens in Casco Viejo, and easy family tables out in Costa del Este. We track 31 places in the city that serve a proper weekend brunch and open by 10 AM. These are the 12 we would send someone to first, spread across the neighborhoods so there is one near wherever you are staying.",
   "criteria_en": [
    "Every place on this list is open, and its hours were checked against the venue's own listing in July 2026.",
-   "Picks are drawn from the full set of brunch rooms in our Panama City database, not from a submissions inbox. Restaurants cannot pay to appear here.",
+   "Picks are drawn from every brunch room we cover in Panama City, not from a submissions inbox. Restaurants cannot pay to appear here.",
    "What each kitchen is known for is summarized from public diner feedback. We do not publish star ratings or review counts.",
    "One location per operator, so a chain with four branches does not take four slots."
   ],
@@ -321,9 +321,9 @@
    },
    {
     "q": "How were these places chosen?",
-    "a": "They were selected from our database of every open restaurant in Panama City, filtered to places that serve brunch and open by 10 AM, then ordered by how completely we can verify them - hours, menu, and what diners consistently single out. No restaurant paid for a place on this list.",
+    "a": "They were selected from every open restaurant we cover in Panama City, filtered to places that serve brunch and open by 10 AM, then ordered by how completely we can verify them - hours, menu, and what diners consistently single out. No restaurant paid for a place on this list.",
     "q_es": "¿Cómo se eligieron estos lugares?",
-    "a_es": "Se seleccionaron de nuestra base de datos de todos los restaurantes abiertos en Ciudad de Panamá, filtrados por los que ofrecen brunch y abren antes de las 10 AM, y luego ordenados según qué tan bien podemos verificarlos: horarios, menú y lo que los comensales destacan de forma constante. Ningún restaurante pagó por aparecer en esta lista."
+    "a_es": "Se seleccionaron entre todos los restaurantes abiertos que cubrimos en Ciudad de Panamá, filtrados por los que ofrecen brunch y abren antes de las 10 AM, y luego ordenados según qué tan bien podemos verificarlos: horarios, menú y lo que los comensales destacan de forma constante. Ningún restaurante pagó por aparecer en esta lista."
    }
   ],
   "hero": {
@@ -336,11 +336,11 @@
    "venue_name": "Petit Paris CDE"
   },
   "title_es": "Dónde comer brunch en Ciudad de Panamá",
-  "description_es": "Doce lugares para un desayuno tardío y sin prisas en Ciudad de Panamá, elegidos entre todas las salas de brunch de nuestra base de datos y verificados según sus propios horarios de apertura.",
+  "description_es": "Doce lugares para un desayuno tardío y sin prisas en Ciudad de Panamá, elegidos entre todas las salas de brunch que cubrimos y verificados según sus propios horarios de apertura.",
   "intro_es": "En Ciudad de Panamá el brunch se vive de muchas formas: salas de café de especialidad en Bella Vista, cocinas con patio en Casco Viejo y mesas familiares sin complicaciones en Costa del Este. Seguimos 31 lugares en la ciudad que ofrecen un brunch en regla y abren antes de las 10 AM. Estos son los 12 a los que enviaríamos a alguien primero, repartidos por los barrios para que siempre haya uno cerca de donde te estés quedando.",
   "criteria_es": [
    "Todos los lugares de esta lista están abiertos, y sus horarios fueron verificados contra la información oficial de cada local en julio de 2026.",
-   "Las selecciones provienen del conjunto completo de espacios de brunch en nuestra base de datos de Panama City, no de una bandeja de sugerencias. Los restaurantes no pueden pagar para aparecer aquí.",
+   "Las selecciones provienen de todos los espacios de brunch que cubrimos en Ciudad de Panamá, no de una bandeja de sugerencias. Los restaurantes no pueden pagar para aparecer aquí.",
    "Lo que distingue a cada cocina se resume a partir de comentarios públicos de comensales. No publicamos calificaciones por estrellas ni número de reseñas.",
    "Un solo local por operador, así que una cadena con cuatro sucursales no ocupa cuatro espacios."
   ]
@@ -354,7 +354,7 @@
   "intro_en": "Panama produces Geisha, the most expensive coffee varietal in the world, and most of it leaves the country. The capital has a growing set of rooms that keep some of it here and pour it as filter rather than burying it in milk. We track 72 specialty coffee rooms in Panama City; these 12 are the ones worth planning a morning around.",
   "criteria_en": [
    "Every place on this list is open, and its hours were checked against the venue's own listing in July 2026.",
-   "Selected from the specialty coffee rooms in our Panama City database. Restaurants and cafes cannot pay to appear here.",
+   "Selected from the specialty coffee rooms we cover in Panama City. Restaurants and cafes cannot pay to appear here.",
    "What each room is known for is summarized from public diner feedback. We do not publish star ratings or review counts.",
    "One location per operator."
   ],
@@ -662,7 +662,7 @@
   "intro_es": "Panamá produce Geisha, la variedad de café más cara del mundo, y la mayor parte sale del país. La capital tiene un número creciente de salas que se quedan con algo de ese café y lo sirven como filtrado en lugar de esconderlo bajo leche. Seguimos 72 salas de café de especialidad en Ciudad de Panamá; estas 12 son las que vale la pena planear una mañana alrededor de ellas.",
   "criteria_es": [
    "Todos los lugares de esta lista están abiertos, y su horario fue verificado con el listado propio de cada local en julio de 2026.",
-   "Seleccionados entre los espacios de café de especialidad de nuestra base de datos de la Ciudad de Panamá. Los restaurantes y cafeterías no pueden pagar para aparecer aquí.",
+   "Seleccionados entre los espacios de café de especialidad que cubrimos en la Ciudad de Panamá. Los restaurantes y cafeterías no pueden pagar para aparecer aquí.",
    "Lo que distingue a cada espacio se resume a partir de comentarios públicos de comensales. No publicamos calificaciones con estrellas ni número de reseñas.",
    "Un solo local por operador."
   ]
@@ -676,7 +676,7 @@
   "intro_en": "Casco Viejo is the old walled quarter, and after dark it is the densest dining neighborhood in Panama City - you can walk between most of these in under ten minutes. We track 81 restaurants here that serve dinner past 9 PM. These 12 cover the range, from Panamanian kitchens to the Italian and seafood rooms that have moved in around them.",
   "criteria_en": [
    "Every place on this list is open, and its hours were checked against the venue's own listing in July 2026.",
-   "Selected from every Casco Viejo restaurant in our database that serves dinner past 9 PM. Restaurants cannot pay to appear here.",
+   "Selected from every Casco Viejo restaurant we cover that serves dinner past 9 PM. Restaurants cannot pay to appear here.",
    "What each kitchen is known for is summarized from public diner feedback. We do not publish star ratings or review counts.",
    "One location per operator."
   ],
@@ -1012,7 +1012,7 @@
   "intro_es": "Casco Viejo es el antiguo barrio amurallado, y de noche es el barrio con mas oferta gastronomica de la Ciudad de Panama: puedes ir caminando entre la mayoria de estos lugares en menos de diez minutos. Seguimos 81 restaurantes aqui que sirven cena despues de las 9 PM. Estos 12 abarcan toda la variedad, desde cocinas panameñas hasta los locales italianos y de mariscos que se han instalado alrededor.",
   "criteria_es": [
    "Todos los lugares de esta lista estan abiertos, y sus horarios fueron verificados con la informacion propia de cada local en julio de 2026.",
-   "Seleccionados entre todos los restaurantes de Casco Viejo en nuestra base de datos que sirven cena despues de las 9 PM. Los restaurantes no pueden pagar para aparecer aqui.",
+   "Seleccionados entre todos los restaurantes de Casco Viejo que cubrimos y que sirven cena despues de las 9 PM. Los restaurantes no pueden pagar para aparecer aqui.",
    "Lo que distingue a cada cocina se resume a partir de comentarios publicos de los comensales. No publicamos calificaciones por estrellas ni numero de reseñas.",
    "Una sola ubicacion por operador."
   ]

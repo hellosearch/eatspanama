@@ -15,7 +15,6 @@ import JsonLd from "@/components/JsonLd";
 import NewsletterBand from "@/components/NewsletterBand";
 import PhotoCredit from "@/components/PhotoCredit";
 import { toClientPhoto } from "@/lib/client-photo";
-import TocCard from "@/components/TocCard";
 import GuideToc from "@/components/GuideToc";
 import { VerifiedStamp } from "@/components/badges";
 import { WhatsAppButton } from "@/components/Buttons";
@@ -37,7 +36,7 @@ const GUIDE_UI = {
     home: "Home",
     guides: "Guides",
     compiled: (n: number) =>
-      `Compiled by the EatsPanama editors from ${n} qualifying places in our Panama City database.`,
+      `Compiled by the EatsPanama editors from ${n} qualifying places we cover in Panama City.`,
     heroAbove: (name: string) => `Above: ${name}, number one on this list.`,
     inThisGuide: "In this guide",
     inOrder: (n: number) => `The ${n}, in order`,
@@ -62,7 +61,7 @@ const GUIDE_UI = {
     home: "Inicio",
     guides: "Guías",
     compiled: (n: number) =>
-      `Compilado por los editores de EatsPanama a partir de ${n} lugares que califican en nuestra base de datos de la Ciudad de Panamá.`,
+      `Compilado por los editores de EatsPanama a partir de ${n} lugares aptos que cubrimos en la Ciudad de Panamá.`,
     heroAbove: (name: string) => `Arriba: ${name}, el número uno de esta lista.`,
     inThisGuide: "En esta guía",
     inOrder: (n: number) => `Los ${n}, en orden`,
@@ -191,13 +190,8 @@ export default async function GuidePage({ params }: { params: Promise<Params> })
           items={guide.toc.map((t) => ({ slug: t.slug, name: displayName(t.name) }))}
         />
         <div className="article-col guide-main">
-          {/* TABLE OF CONTENTS (inline; hidden >=1200px where the sticky rail shows) */}
-          <TocCard
-            label={C.inOrder(guide.entries.length)}
-            items={guide.toc.map((t) => ({ slug: t.slug, name: displayName(t.name) }))}
-          />
-
-          {/* VENUE ENTRIES - one H2 per venue */}
+          {/* VENUE ENTRIES - one H2 per venue. (The mobile jump nav is the sticky
+              GuideToc bar above; the desktop rail sits beside this column.) */}
         {entryVenues.map(({ entry, venue }, i) => {
           if (!venue) return null;
           const hood = hoodFor(venue.neighborhood_slug);
