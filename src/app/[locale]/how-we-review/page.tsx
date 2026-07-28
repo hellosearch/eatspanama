@@ -39,7 +39,7 @@ const COPY = {
     description:
       "How EatsPanama works: an independent guide to eating in Panama, built from public sources, with a curated editorial layer in the works. No paid rankings, no star ratings, ever.",
     lead:
-      "EatsPanama is an independent guide to eating in Panama. No restaurant can pay to rank higher, and we never publish star ratings.",
+      "EatsPanama is an independent guide to eating in Panama.",
     freshness: (m: string) =>
       `Directory hours were last refreshed ${m}. We recheck hours and closures on a rolling monthly basis, and every listing shows when it was last verified.`,
     h_pages: "Two kinds of pages",
@@ -53,7 +53,7 @@ const COPY = {
       " Built from public information - the restaurant's own website and social channels, its menu, and public directories - and restated in our own words. We show what kind of food it serves, notable dishes and prices where a menu is public, what people consistently say about it (distilled from public mentions, never as a star score), hours, and location. If a fact isn't publicly available, we leave that section off rather than guess. Listings are not personal reviews and don't claim we have visited.",
     editorial_label: "Editorial reviews (a curated tier we're adding).",
     editorial_body:
-      " When our team reviews a place in person, that page will carry a signed review with a visit date, on top of the listing. Those reviews will cover their own tab, won't accept press invitations in exchange for coverage, and each will say plainly when we were there.",
+      " When our team reviews a place in person, that page will carry a signed review with a visit date, on top of the listing.",
     h_data: "Where the data comes from",
     data_body:
       "Restaurant names, locations, and hours come from public sources and are restated as facts. Menus, dishes, and what's-good notes come from each venue's own public channels and public write-ups, synthesized in our words. Maps are from OpenStreetMap. Photos on an unclaimed listing are a branded placeholder - real photos arrive when an owner claims the page or when we photograph a place ourselves.",
@@ -84,7 +84,7 @@ const COPY = {
     description:
       "Cómo funciona EatsPanama: una guía independiente para comer en Panamá, construida a partir de fuentes públicas, con una capa editorial curada en camino. Sin rankings pagados, sin calificaciones de estrellas, nunca.",
     lead:
-      "EatsPanama es una guía independiente para comer en Panamá. Ningún restaurante puede pagar para posicionarse más arriba, y nunca publicamos calificaciones de estrellas.",
+      "EatsPanama es una guía independiente para comer en Panamá.",
     freshness: (m: string) =>
       `Los horarios del directorio se actualizaron por última vez en ${m}. Revisamos horarios y cierres de forma continua cada mes, y cada perfil muestra cuándo se verificó por última vez.`,
     h_pages: "Dos tipos de páginas",
@@ -98,7 +98,7 @@ const COPY = {
       " Construidos a partir de información pública -el sitio web y las redes del propio restaurante, su menú y directorios públicos- y reescritos con nuestras propias palabras. Mostramos qué tipo de comida sirve, platos y precios destacados cuando el menú es público, lo que la gente dice de forma consistente (destilado de menciones públicas, nunca como una calificación de estrellas), horarios y ubicación. Si un dato no está disponible públicamente, dejamos esa sección fuera en lugar de adivinar. Los perfiles no son reseñas personales y no afirman que hayamos visitado el lugar.",
     editorial_label: "Reseñas editoriales (un grupo curado que estamos sumando).",
     editorial_body:
-      " Cuando nuestro equipo reseñe un lugar en persona, esa página tendrá una reseña firmada con fecha de visita, además del perfil. Esas reseñas pagarán su propia cuenta, no aceptarán invitaciones de prensa a cambio de cobertura, y cada una dirá claramente cuándo estuvimos ahí.",
+      " Cuando nuestro equipo reseñe un lugar en persona, esa página tendrá una reseña firmada con fecha de visita, además del perfil.",
     h_data: "De dónde vienen los datos",
     data_body:
       "Los nombres, ubicaciones y horarios de los restaurantes provienen de fuentes públicas y se presentan como hechos. Los menús, platos y notas de lo bueno provienen de los canales públicos de cada local y de reseñas públicas, sintetizados con nuestras palabras. Los mapas son de OpenStreetMap. Las fotos en un perfil no reclamado son un marcador de posición de marca; las fotos reales llegan cuando un dueño reclama la página o cuando fotografiamos el lugar nosotros mismos.",
