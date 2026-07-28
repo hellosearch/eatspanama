@@ -45,6 +45,11 @@ body {
   color: var(--color-ink);
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
+  /* Guard against any stray horizontal overflow (e.g. a scrollable chip row or a
+     few-px element past the edge) causing sideways page scroll on mobile.
+     `clip` (not `hidden`) does NOT create a scroll container, so the sticky
+     discovery map still works. Inner overflow-x:auto rows are unaffected. */
+  overflow-x: clip;
 }
 a {
   color: inherit;
@@ -2960,9 +2965,14 @@ h1.res-count .q {
   .hero-copy {
     padding-right: var(--spacing-page-x);
   }
+  /* minmax(0,...) + min-width:0 so the single column (and the copy inside it) can
+     shrink below its content's min width. Without this, the nowrap chip row
+     below forces the track to its full content width (~726px), which pushed the
+     whole header past the viewport and let the page scroll sideways (iPhone). */
   .listing-head {
-    grid-template-columns: 1fr;
+    grid-template-columns: minmax(0, 1fr);
   }
+  .listing-head > * { min-width: 0; }
   /* Mobile: drop the hero visual entirely so restaurants surface sooner (Chris).
      The copy is the 1st child; the visual (photo / mosaic / branded hero) is the
      2nd, whichever branch rendered. */
@@ -2974,8 +2984,6 @@ h1.res-count .q {
     flex-wrap: nowrap;
     overflow-x: auto;
     scrollbar-width: none;
-    margin-right: calc(-1 * var(--spacing-page-x));
-    padding-right: var(--spacing-page-x);
   }
   .listing-head .lh-chips::-webkit-scrollbar { display: none; }
   .listing-head .lh-chip { flex: none; }
