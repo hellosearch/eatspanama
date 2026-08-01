@@ -170,7 +170,7 @@ export function VenueCard({
             </span>
           )}
           {venue.phones.whatsapp && (
-            <WhatsAppButton size="card" href={whatsappUrl(venue.phones.whatsapp)} label={waLabel} />
+            <WhatsAppButton size="card" href={whatsappUrl(venue.phones.whatsapp)} label={waLabel} venueSlug={venue.slug} />
           )}
         </div>
       </div>
@@ -314,7 +314,7 @@ export function ResultRowCard({
       </a>
       <div className="cta">
         {venue.phones.whatsapp && (
-          <WhatsAppButton size="mini" href={whatsappUrl(venue.phones.whatsapp)} label={waLabel} />
+          <WhatsAppButton size="mini" href={whatsappUrl(venue.phones.whatsapp)} label={waLabel} venueSlug={venue.slug} />
         )}
       </div>
     </div>

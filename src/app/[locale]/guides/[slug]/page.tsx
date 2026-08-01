@@ -262,6 +262,7 @@ export default async function GuidePage({ params }: { params: Promise<Params> })
                     size="mini"
                     href={whatsappUrl(venue.phones.whatsapp)}
                     label={C.waMsg}
+                    venueSlug={venue.slug}
                   />
                 )}
                 <a className="hood-link" href={profileHref}>

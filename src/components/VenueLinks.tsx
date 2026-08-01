@@ -35,8 +35,12 @@ function hostLabel(kind: VenueLinkKind, href: string): string {
  * contact rail: the rail is how you reach or visit them (hours, address,
  * directions, WhatsApp); this is where you order from them or follow them.
  * Every link is real and verified - never a placeholder.
+ *
+ * Each tile emits a `<kind>_click` GA4 event (ubereats_click, pedidosya_click,
+ * website_click, instagram_click) through the delegated listener in GaEvents,
+ * labelled with the venue slug so reports can answer "which venues convert".
  */
-export default function VenueLinks({ title, note, links }: { title: string; note?: string; links: VenueLink[] }) {
+export default function VenueLinks({ title, note, links, venueSlug }: { title: string; note?: string; links: VenueLink[]; venueSlug?: string }) {
   if (links.length === 0) return null;
   return (
     <section className="venue-links" aria-label={title}>
@@ -54,6 +58,8 @@ export default function VenueLinks({ title, note, links }: { title: string; note
               href={l.href}
               target="_blank"
               rel="noopener noreferrer"
+              data-ga-event={`${l.kind}_click`}
+              data-ga-label={venueSlug}
             >
               <span className="vl-ico" aria-hidden="true">
                 <Glyph />

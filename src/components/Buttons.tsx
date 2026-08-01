@@ -45,18 +45,24 @@ export function ButtonLink({
   );
 }
 
-/** WhatsApp CTA - the tap-to-book affordance. */
+/**
+ * WhatsApp CTA - the tap-to-book affordance. Emits `whatsapp_click` via the
+ * delegated listener in GaEvents; pass `venueSlug` so the event says which
+ * venue was tapped, not just that a tap happened.
+ */
 export function WhatsAppButton({
   href,
   label,
   size = "mini",
+  venueSlug,
 }: {
   href: string;
   label: string;
   size?: Size;
+  venueSlug?: string;
 }) {
   return (
-    <ButtonLink variant="wa" size={size} href={href} target="_blank" rel="noopener noreferrer" data-ga-event="whatsapp_click">
+    <ButtonLink variant="wa" size={size} href={href} target="_blank" rel="noopener noreferrer" data-ga-event="whatsapp_click" data-ga-label={venueSlug}>
       <WhatsAppIcon size={size === "card" ? 14 : size === "mini" ? 15 : 18} />
       {label}
     </ButtonLink>

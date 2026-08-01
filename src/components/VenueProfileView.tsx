@@ -606,7 +606,7 @@ export default async function VenueProfileView({
 
           {/* ORDER & FIND ONLINE (real delivery / own-site / social links) */}
           {venueLinks.length > 0 && (
-            <VenueLinks title={t("findOnlineTitle", { name: venue.name })} note={t("findOnlineNote")} links={venueLinks} />
+            <VenueLinks title={t("findOnlineTitle", { name: venue.name })} note={t("findOnlineNote")} links={venueLinks} venueSlug={venue.slug} />
           )}
 
           {/* APPEARS IN {guide} - editorial loop + internal link (premium only) */}
@@ -642,6 +642,7 @@ export default async function VenueProfileView({
               target="_blank"
               rel="noopener noreferrer"
               data-ga-event="directions_click"
+              data-ga-label={venue.slug}
             >
               {t("getDirections")}
             </a>
@@ -813,12 +814,12 @@ export default async function VenueProfileView({
             {isPremium ? (
               <div className="prem-acts">
                 {venue.phones.whatsapp && (
-                  <a className="act act-wa full" href={whatsappUrl(venue.phones.whatsapp, waText)} target="_blank" rel="noopener noreferrer">
+                  <a className="act act-wa full" href={whatsappUrl(venue.phones.whatsapp, waText)} target="_blank" rel="noopener noreferrer" data-ga-event="whatsapp_click" data-ga-label={venue.slug}>
                     <WhatsAppIcon size={18} />{t("whatsapp")}
                   </a>
                 )}
                 <div className="act-row2">
-                  <a className="act act-gh" href={venue.google_maps_url ?? mapsDirectionsUrl(venue.lat, venue.lng)} target="_blank" rel="noopener noreferrer">
+                  <a className="act act-gh" href={venue.google_maps_url ?? mapsDirectionsUrl(venue.lat, venue.lng)} target="_blank" rel="noopener noreferrer" data-ga-event="directions_click" data-ga-label={venue.slug}>
                     <GoogleMapsMark />{t("directions")}
                   </a>
                   <ShareButton title={venue.name} label={t("share")} copiedLabel={t("copied")} />
@@ -828,11 +829,11 @@ export default async function VenueProfileView({
               <div className="action-bar">
                 {venue.phones.whatsapp ? (
                   <>
-                    <ButtonLink variant="wa" className="full" href={whatsappUrl(venue.phones.whatsapp, waText)} target="_blank" rel="noopener noreferrer">
+                    <ButtonLink variant="wa" className="full" href={whatsappUrl(venue.phones.whatsapp, waText)} target="_blank" rel="noopener noreferrer" data-ga-event="whatsapp_click" data-ga-label={venue.slug}>
                       <WhatsAppIcon size={18} />
                       {t("whatsapp")}
                     </ButtonLink>
-                    <ButtonLink variant="ghost" className="full" href={mapsDirectionsUrl(venue.lat, venue.lng)} target="_blank" rel="noopener noreferrer">
+                    <ButtonLink variant="ghost" className="full" href={mapsDirectionsUrl(venue.lat, venue.lng)} target="_blank" rel="noopener noreferrer" data-ga-event="directions_click" data-ga-label={venue.slug}>
                       <SendIcon />
                       {t("directions")}
                     </ButtonLink>
@@ -840,7 +841,7 @@ export default async function VenueProfileView({
                 ) : (
                   <div className="action-row">
                     {venue.phones.call ? (
-                      <ButtonLink variant="ghost" href={telUrl(venue.phones.call)}>
+                      <ButtonLink variant="ghost" href={telUrl(venue.phones.call)} data-ga-event="call_click" data-ga-label={venue.slug}>
                         <PhoneIcon />
                         {t("call")}
                       </ButtonLink>
@@ -849,13 +850,15 @@ export default async function VenueProfileView({
                       <ButtonLink
                         variant="ghost"
                         href={contactFallback.href}
+                        data-ga-event="contact_fallback_click"
+                        data-ga-label={venue.slug}
                         {...(contactFallback.external ? { target: "_blank", rel: "noopener noreferrer" } : {})}
                       >
                         <contactFallback.Icon />
                         {contactFallback.label}
                       </ButtonLink>
                     )}
-                    <ButtonLink variant="ghost" href={mapsDirectionsUrl(venue.lat, venue.lng)} target="_blank" rel="noopener noreferrer">
+                    <ButtonLink variant="ghost" href={mapsDirectionsUrl(venue.lat, venue.lng)} target="_blank" rel="noopener noreferrer" data-ga-event="directions_click" data-ga-label={venue.slug}>
                       <SendIcon />
                       {t("directions")}
                     </ButtonLink>
@@ -880,12 +883,14 @@ export default async function VenueProfileView({
             href={whatsappUrl(venue.phones.whatsapp, waText)}
             target="_blank"
             rel="noopener noreferrer"
+            data-ga-event="whatsapp_click"
+            data-ga-label={venue.slug}
           >
             <WhatsAppIcon size={18} />
             {t("whatsapp")}
           </ButtonLink>
         ) : venue.phones.call ? (
-          <ButtonLink variant="ghost" className="full" href={telUrl(venue.phones.call)}>
+          <ButtonLink variant="ghost" className="full" href={telUrl(venue.phones.call)} data-ga-event="call_click" data-ga-label={venue.slug}>
             <PhoneIcon />
             {t("call")}
           </ButtonLink>
@@ -895,6 +900,8 @@ export default async function VenueProfileView({
             variant="ghost"
             className="full"
             href={contactFallback.href}
+            data-ga-event="contact_fallback_click"
+            data-ga-label={venue.slug}
             {...(contactFallback.external ? { target: "_blank", rel: "noopener noreferrer" } : {})}
           >
             <contactFallback.Icon />
@@ -907,6 +914,8 @@ export default async function VenueProfileView({
           href={mapsDirectionsUrl(venue.lat, venue.lng)}
           target="_blank"
           rel="noopener noreferrer"
+          data-ga-event="directions_click"
+          data-ga-label={venue.slug}
         >
           <SendIcon />
           {t("directions")}
